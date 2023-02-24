@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.extensionlocation;version
+ ="1.2.100.v20110510";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.extensionlocation.source
+Bundle-Version: 1.2.100.v20110510
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionArtifactRepository.java
+SHA1-Digest: lrZcowA28eEE22BMB6YtYB6VhRA=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionMetadataRepositoryFactory.java
+SHA1-Digest: H2QKtFg+wRO6wUddUz4fD88QHyc=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Constants.java
+SHA1-Digest: max7r61bX3BRMvSpoy1It7ebsvE=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Messages.java
+SHA1-Digest: qHIdqRExYqkfqlu+cKz1yj0C2VE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/SiteListener.j
+ ava
+SHA1-Digest: a3dO7Emg/vFp2VoNdrhZZNbIQBI=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionMetadataRepository.java
+SHA1-Digest: YDCJ3N0OtVx3/3M1kQ9PRdSCYw0=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionArtifactRepositoryFactory.java
+SHA1-Digest: wTS3qk5BKhPL5TYca8k6M7KwcpA=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/BundlePoolFilt
+ eredListener.java
+SHA1-Digest: c9wbb10nXqEfsB0woL/p3Bapp+Y=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Activator.java
+SHA1-Digest: AAj507qIgDD5++nETIOwANyoNfk=
+
+Name: about.html
+SHA1-Digest: ejfZC4KVrO5zdSDijg5nNm195JI=
+
+Name: plugin.properties
+SHA1-Digest: DPNFoeGyKwsbCsUWf/Ltt9MKb1c=
+

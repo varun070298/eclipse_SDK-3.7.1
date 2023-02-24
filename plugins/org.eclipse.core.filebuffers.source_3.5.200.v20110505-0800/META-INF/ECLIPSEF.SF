@@ -1,0 +1,154 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: jpvhzTMnGmkBX8y6yyR8ZZX0sh4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: z8kVmESresaiFWmpxHmbWgf9QIg=
+
+Name: org/eclipse/core/filebuffers/ITextFileBufferManager.java
+SHA1-Digest: cz/s1mMSXXezYxBB+7P5+j3HbEw=
+
+Name: org/eclipse/core/filebuffers/IFileBuffer.java
+SHA1-Digest: S86aUjY3DUi2QIvvHdIWY9uOjLc=
+
+Name: org/eclipse/core/internal/filebuffers/DocumentReader.java
+SHA1-Digest: /K2sxRppjIvXpUb/Vrp2N67yA3U=
+
+Name: schema/annotationModelCreation.exsd
+SHA1-Digest: ubVUWcnGf3QfPl3qkElgGUZp7lM=
+
+Name: org/eclipse/core/filebuffers/manipulation/ContainerCreator.java
+SHA1-Digest: Wq+MpYIyZNYd+W8PogThrsrf674=
+
+Name: org/eclipse/core/filebuffers/manipulation/FileBuffersMessages.ja
+ va
+SHA1-Digest: 53agVfq1+aJGYEknOkAwMAMcUJU=
+
+Name: org/eclipse/core/filebuffers/IDocumentSetupParticipant.java
+SHA1-Digest: OBpfeROMoYkgM/xaoYnEScs1bAI=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBuffer.jav
+ a
+SHA1-Digest: sImJR9KukkaDkv+Mu5Yc1t40Wu4=
+
+Name: org/eclipse/core/filebuffers/ISynchronizationContext.java
+SHA1-Digest: +Tc7Rrq69W9bf9V4vKknTIkx5UY=
+
+Name: plugin.properties
+SHA1-Digest: esR98zxVLQ0X62izaQltCCWJhiI=
+
+Name: org/eclipse/core/filebuffers/FileBuffers.java
+SHA1-Digest: Igey9b/thHoOMjH5un5uNHpdg3M=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceExtensionRegistry.
+ java
+SHA1-Digest: vM1SjPyeQ7mz2EdySQgnyfLxFzY=
+
+Name: org/eclipse/core/filebuffers/manipulation/IFileBufferOperation.j
+ ava
+SHA1-Digest: Edn7Rk60Ke94EF279N3BIDi73XA=
+
+Name: org/eclipse/core/filebuffers/manipulation/FileBufferOperationRun
+ ner.java
+SHA1-Digest: hsvNSBCVp3hfC3Ev6n35Nh7rjHI=
+
+Name: org/eclipse/core/internal/filebuffers/FileBuffersPlugin.java
+SHA1-Digest: /DDBwU2Hij8bIU+OWiXy/OYWj/A=
+
+Name: org/eclipse/core/filebuffers/ITextFileBuffer.java
+SHA1-Digest: z4nqTHHwtMWCuNEKj/KB3kC2IKM=
+
+Name: org/eclipse/core/internal/filebuffers/FileBuffersMessages.java
+SHA1-Digest: EmKdJxVYMCoO3xHschhrVTMXoUY=
+
+Name: org/eclipse/core/internal/filebuffers/FileStoreFileBuffer.java
+SHA1-Digest: YAwgt06WBan2eaGC5uYeQ3AIaJ4=
+
+Name: org/eclipse/core/filebuffers/manipulation/ConvertLineDelimitersO
+ peration.java
+SHA1-Digest: 0fMVxjjWkwxtDeI+JAvhgSt7SlM=
+
+Name: org/eclipse/core/filebuffers/manipulation/RemoveTrailingWhitespa
+ ceOperation.java
+SHA1-Digest: Q9v8K+Ud+AO/z50miCTkoBLPZAk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/filebuffers/AbstractFileBuffer.java
+SHA1-Digest: zmWzE86J+LPKZfPh0zF6t9ZmvYY=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBufferMana
+ ger.java
+SHA1-Digest: fvcmGeH22NFzvQXH7yKduJ29Pac=
+
+Name: org/eclipse/core/filebuffers/manipulation/MultiTextEditWithProgr
+ ess.java
+SHA1-Digest: MJOj+goXqZ939FIyywTuM0RFPJc=
+
+Name: schema/documentCreation.exsd
+SHA1-Digest: 8raTq+0tEMkyKdtCG3MUU0yAUVs=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/filebuffers/IAnnotationModelFactory.java
+SHA1-Digest: 9+82rFO75Y+FUGbuJLRwuf4XxOs=
+
+Name: org/eclipse/core/filebuffers/IFileBufferListener.java
+SHA1-Digest: mFuw/5ve2QxaxIzAv9jN66ZC2j4=
+
+Name: org/eclipse/core/filebuffers/IFileBufferStatusCodes.java
+SHA1-Digest: 9NgCTFSujGpQiA0QOE0vwPBz+1U=
+
+Name: org/eclipse/core/internal/filebuffers/NLSUtility.java
+SHA1-Digest: x/UaXTc0BewWW82q3rw6CgKf/yw=
+
+Name: org/eclipse/core/filebuffers/manipulation/GenericFileBufferOpera
+ tionRunner.java
+SHA1-Digest: 6K1/JhWhjTgFfE/mZiECmOryXZA=
+
+Name: org/eclipse/core/filebuffers/manipulation/TextFileBufferOperatio
+ n.java
+SHA1-Digest: 5c2NxRafO3pVBo8+XyTk70mfdro=
+
+Name: org/eclipse/core/internal/filebuffers/FileStoreTextFileBuffer.ja
+ va
+SHA1-Digest: VGlv74X9/Ld93nxM8E4ZolKNVyY=
+
+Name: org/eclipse/core/filebuffers/IPersistableAnnotationModel.java
+SHA1-Digest: F3R+zTEU9crQ9VDDUDj9WfShPd4=
+
+Name: org/eclipse/core/filebuffers/LocationKind.java
+SHA1-Digest: rCARQzg5t3y1tsPeKl7cllz+8ts=
+
+Name: org/eclipse/core/internal/filebuffers/ExtensionsRegistry.java
+SHA1-Digest: ysZD2DDjnLLKj5bCSVqoN0NSqoQ=
+
+Name: org/eclipse/core/filebuffers/IFileBufferManager.java
+SHA1-Digest: 2RZBzKagVaIouLwmomkglc9HgX0=
+
+Name: org/eclipse/core/filebuffers/IDocumentFactory.java
+SHA1-Digest: D6e6uoiLj/DegbUsO0XJhmsQVyI=
+
+Name: org/eclipse/core/filebuffers/IDocumentSetupParticipantExtension.
+ java
+SHA1-Digest: I7Vt6FtzbJRblB7Iw+4UwV4iViE=
+
+Name: org/eclipse/core/internal/filebuffers/Progress.java
+SHA1-Digest: 5/JRZUuG0fF6bee3kCy+S2yZXQY=
+
+Name: org/eclipse/core/filebuffers/IStateValidationSupport.java
+SHA1-Digest: /r10SEHdyj70sWKMlvDSpbjpPAA=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer.java
+SHA1-Digest: zUz1JvsEKaBK9A+lcE650Xl/PCM=
+
+Name: org/eclipse/core/internal/filebuffers/SynchronizableDocument.jav
+ a
+SHA1-Digest: C6zPMy461uzBeX4gnBx/NWo17MQ=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager.java
+SHA1-Digest: AYEfy2dlQgcGCHvEHYqL5kTJyzY=
+
+Name: schema/documentSetup.exsd
+SHA1-Digest: SEiuqjJWGC1YVJ4sIrvNYa7lSFo=
+

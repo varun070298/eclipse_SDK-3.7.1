@@ -1,0 +1,30 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 2UgKfEHoEVFD7/TQfqK6nb5g1CY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: G7022QEK7PYmV7RWn1LlH4zLM6c=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorUtils.java
+SHA1-Digest: YWYwd2ojas6whnPAPSDVDZs38I0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/simpleconfigurator/manipulator/SimpleConfigu
+ ratorManipulator.java
+SHA1-Digest: 5ao6bywsguBjUF9AwrKLmZEfPkc=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorFactoryImpl.java
+SHA1-Digest: HDyGvnNyUjxhOMqaX2dZRBzQea8=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorImpl.java
+SHA1-Digest: nChbuIBn58pHDx5e0sn2Vkjb1Og=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: +epYjv5DaDXziofGWSxGg3ZX5Mg=
+

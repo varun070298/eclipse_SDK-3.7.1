@@ -1,0 +1,1663 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: jJAlYRwzuRWEL90FDq1DX0V/EEs=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 0cxD4+VcR2ttUbfU3miiSZ1ER3U=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaInterfaceType.java
+SHA1-Digest: Zo1QoCv01R19sPLKdXopHAWvhtY=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/IEvaluationListener.java
+SHA1-Digest: VcxDfniDyXNx7kPFttGoaZu6oBU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/CharTypeImpl.java
+SHA1-Digest: +n829vSsCM52wiJNcbSmwR0+pdA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /GreaterEqualOperator.java
+SHA1-Digest: h3mcx1q5AVcHLAEHSPlAdyN+gT0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/EventQueueImpl.java
+SHA1-Digest: ZOQtTqHTV1lZYPwfm4JLcrt/q6w=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ StratumLineBreakpoint.java
+SHA1-Digest: CbNMCSj5SoX1oORdGvbsB4j4Y4Y=
+
+Name: jdisrc/com/sun/jdi/connect/ListeningConnector.java
+SHA1-Digest: 4nL1NQMkddeH3V9y2KkXCyhugso=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/IntegerTypeImpl.java
+SHA1-Digest: TcICIn16vAmM+jlkTrBYWh3rVn0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/VMStartEventImpl.java
+SHA1-Digest: SbGd7SXf3nhEo0sYeG9lodFrkNQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpReplyPacket.java
+SHA1-Digest: Fp4IORqW6aW3dSFPTI87/QnmfK4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ShortTypeImpl.java
+SHA1-Digest: Q0Eh2imr4lzic24oQUwMAK4F69A=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIArrayTy
+ pe.java
+SHA1-Digest: oGnSXf+XRLm66TW+oZol6wrAupQ=
+
+Name: jdisrc/com/sun/jdi/request/BreakpointRequest.java
+SHA1-Digest: etj7BTDrSX8uTO7vii1XBfw1w7w=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/ASTEv
+ aluationEngine.java
+SHA1-Digest: gcIqHyYQTQHVW5ZMV/uMp9h+uag=
+
+Name: jdisrc/com/sun/jdi/connect/spi/Connection.java
+SHA1-Digest: iwpaTaZtBkJ4icI/A4DiWrEijvs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /MinusOperator.java
+SHA1-Digest: C6gy69olNwV65JcjKEdX3DwPLlc=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JDWPMessages.java
+SHA1-Digest: 4RdXDeHMBNKdHlRY8x5LfTvWjyE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIInterfa
+ ceType.java
+SHA1-Digest: DBHxQEqB4ydGHVpFHeoaK4LqfRI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushFloat.java
+SHA1-Digest: 8tlr8JZ/ygPQ5mgW+rboFN7qjlg=
+
+Name: jdisrc/com/sun/jdi/BooleanType.java
+SHA1-Digest: KD43bPxbHUnq3EcNnXMCbfPqatM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /DivideAssignmentOperator.java
+SHA1-Digest: 3I9eS5oEPm26bsg0wXxatzpivCE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /LeftShiftOperator.java
+SHA1-Digest: QxRmaK6efYHXQmmi7Ax4AfGmkyw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushFieldVariable.java
+SHA1-Digest: bE/v05ajsv7aPMECntNSdemrRKI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/AccessWatchpointReq
+ uestImpl.java
+SHA1-Digest: ok4K6sl1N4S+sc/ctjiOjVn0OjE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/RequestID.java
+SHA1-Digest: Lswt23wP9PDjJR3G2PkWaI5dTAg=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Evalu
+ ationSourceGenerator.java
+SHA1-Digest: t268n+lQT/jvFc5cdqJFQ5SorFk=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaBreakpointListener.j
+ ava
+SHA1-Digest: Djq67EchvHUvUBWLhlrflRsFbXE=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaStackFrame.java
+SHA1-Digest: Fc4qRxnm+0MGDweZqDs22lAiMlo=
+
+Name: jdisrc/com/sun/jdi/request/ClassUnloadRequest.java
+SHA1-Digest: CBhltF8O3DoUQyDMf4THRfHzhfQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /UnaryPlusOperator.java
+SHA1-Digest: Exsgx0qVK9k5H9uKWgT1HsCmmKs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/LogicalStructuresMessages.java
+SHA1-Digest: FRBW5LTVYyJ7wIajXDdtsAV7Xa0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpThreadID.java
+SHA1-Digest: HuMOPx30Hhog6Bviw8xYOgC7Igs=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/VMDisconnectEventImpl
+ .java
+SHA1-Digest: TYE6KurspiqB+C+i630mykvbNZ4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/ConnectMessages.jav
+ a
+SHA1-Digest: /g3Th6eWHKqQElKytIpRg5Y8kwc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /RightShiftOperator.java
+SHA1-Digest: 1yMoyssqJwEYNGwKmMfHeXCjAMM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ObjectReferenceImpl.java
+SHA1-Digest: uM4qkDKDoTHlIf7WbdaMVK6X4Uk=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaFieldVariable.java
+SHA1-Digest: T2aB+cw1vRMHbjsoPdIujqbXO/c=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/PacketReceiveManage
+ r.java
+SHA1-Digest: R9pQjErhijidKHAbS+lISJa3zEs=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketLaunchingConn
+ ectorImpl.java
+SHA1-Digest: LKI/bTTsA004hjcL71H8RaFNciI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIArrayEn
+ tryVariable.java
+SHA1-Digest: XJSfAlY9E2CDngKSQJfbbdBHPxQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaPrimitiveValue.java
+SHA1-Digest: avW24J9jKUgQYQvx3T0Ew/B6KkI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/UnableToParseDataExcept
+ ion.java
+SHA1-Digest: e1nBSXjN+J+UieH5qnpaOWYL++4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpStringID.java
+SHA1-Digest: fGAGhyQkxIbBoDvMTz6eqyLY2Tc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JDIDebugPluginPr
+ eferenceInitializer.java
+SHA1-Digest: 5cIxLsEXw7r3JLNXR8CkVNUUs10=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/IEvaluationEngine.java
+SHA1-Digest: /Cco+edzrgS5Hieq/HvwkGXxeUU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/LongValueImpl.java
+SHA1-Digest: V7X0yxwfMd0rnS8yk0EGrhmEIVc=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MonitorWaitedReques
+ tImpl.java
+SHA1-Digest: 7y/bclYIX+0zHgKetnPQpWW1seU=
+
+Name: jdisrc/com/sun/jdi/connect/Transport.java
+SHA1-Digest: zGfRjVvyjeM5Q8x4TuwTuiL5PxQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/JavaLogicalStructures.java
+SHA1-Digest: LlPuY+L1KUlZcp8ItEB5MhU5hXw=
+
+Name: jdisrc/com/sun/jdi/ObjectCollectedException.java
+SHA1-Digest: UKTHBuLnTS7t/olHAoNPz7QfgSM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ArrayReferenceImpl.java
+SHA1-Digest: 3yvQJVrL8Tw3hZ78rKBruTbxNqM=
+
+Name: jdisrc/com/sun/jdi/event/ClassPrepareEvent.java
+SHA1-Digest: vi54FRRT7xl+mAkR2H0tJucJs/A=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/hcr/JavaHotCodeR
+ eplaceManager.java
+SHA1-Digest: vhGR7UeogiQ1BK8zOjU3XhHbFo4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/PrimitiveTypeImpl.java
+SHA1-Digest: zph9R7l6DOjNlSBiixyRQ+siKH8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MonitorContendedEnter
+ edEventImpl.java
+SHA1-Digest: eDFVLX8yUb3ZQXo2+k7HOe+bWhc=
+
+Name: jdisrc/com/sun/jdi/request/AccessWatchpointRequest.java
+SHA1-Digest: NbzMdKA6EsWij1evr2jDi058Nfs=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MonitorContendedEnt
+ erRequestImpl.java
+SHA1-Digest: 0DC/2cmix0JlfEIW5wqzMaK7BLI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/JDID
+ ebugBreakpointMessages.java
+SHA1-Digest: 3GcF3WfBxc5KBSoo6DmEv0KXN5A=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIFieldVa
+ riable.java
+SHA1-Digest: xb6Q6Emp5Q2o7BGVGF1FpiHdHE4=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /InstanceOfOperator.java
+SHA1-Digest: 1aUVzhkngCn6V4SNY3jASnZShs8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ClassTypeImpl.java
+SHA1-Digest: Drsy37OKD7WN/RZ16qKIUFqaMUI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /CompoundInstruction.java
+SHA1-Digest: LlwY6hdpuwdTeGYNsv+tMPKcEyI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /MinusAssignmentOperator.java
+SHA1-Digest: RFKRCKNQQ87Fhsb4XQA68PTIvvQ=
+
+Name: jdisrc/com/sun/jdi/connect/VMStartException.java
+SHA1-Digest: 2Crku3nzk8HrXWpbRn++UlkAsBk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ArrayAccess.java
+SHA1-Digest: lQHBvhnqlnWliR3DzDmW1gSIYvI=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaClassType.java
+SHA1-Digest: RyYGzxCKlOYECXrIfpLm25Xup+4=
+
+Name: jdisrc/com/sun/jdi/event/MonitorWaitedEvent.java
+SHA1-Digest: 4ij3md29ld3WU5vojnAO2KGQ1D8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /XfixOperator.java
+SHA1-Digest: chIVONF8kYo0ELtJh1jQMVrl7jY=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ReferenceTypeImpl.java
+SHA1-Digest: POnSpxjb/pEpA0rgI818mBR8sKM=
+
+Name: jdisrc/com/sun/jdi/ClassLoaderReference.java
+SHA1-Digest: 5wGHD/mx0Kw0oocvQudfdjQlxo8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /UnsignedRightShiftOperator.java
+SHA1-Digest: RSKb95nXj8PR3y32Mer7HkSxSq0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/TypeComponentImpl.java
+SHA1-Digest: Dl/ZwMVd3tQXq5V1S9dwK/o8fyY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Abstr
+ actRuntimeContext.java
+SHA1-Digest: NqF2NjsEsMsIBw6nueiKPC3e9tU=
+
+Name: jdisrc/com/sun/jdi/InvalidLineNumberException.java
+SHA1-Digest: q5gFdmGi59aQiSbe+y7Brtyllxk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushBoolean.java
+SHA1-Digest: nxDLrxbGQcaH+pVMvR2BtLe9FIM=
+
+Name: jdisrc/com/sun/jdi/request/ThreadStartRequest.java
+SHA1-Digest: ECHsyvEqC8w/FVe6S4f+oerj2fU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/StringReferenceImpl.java
+SHA1-Digest: HQMNUIXrQV7/ZXPrU9rf/JgaDPo=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpClassObjectID.java
+SHA1-Digest: tq855N/YYYduF/43QuJ6Rmqsefo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /AssignmentOperator.java
+SHA1-Digest: 8WKvZVdKspOzxCwsmuwB6i8RHgA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIObjectV
+ alue.java
+SHA1-Digest: nMuQjCnsZavSKeJ7vTZ48od5njo=
+
+Name: schema/javaLogicalStructures.exsd
+SHA1-Digest: I0Uepz26WTcndEzZDvzfoTxgmHQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushString.java
+SHA1-Digest: hCPa98HBksgqbdVglihFJzbTcW4=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaClassObject.java
+SHA1-Digest: R3pvZykdFHtyzmK7WnPYwT4ceQY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Vali
+ dBreakpointLocationLocator.java
+SHA1-Digest: 7/8vFeMMKRBCt71b5aPYAoQXJag=
+
+Name: jdisrc/com/sun/jdi/request/MonitorWaitedRequest.java
+SHA1-Digest: b67WdWKphbijXsuLVzdI3EXEGY4=
+
+Name: jdisrc/com/sun/jdi/request/MethodExitRequest.java
+SHA1-Digest: AJe1pXNUKgDPg8iQYYjMYYY2SVk=
+
+Name: jdisrc/com/sun/jdi/Accessible.java
+SHA1-Digest: O+9zmWTfNtpyKv5CdU0Zhl9O+CI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MonitorWaitedEventImp
+ l.java
+SHA1-Digest: 74zUa1BMCBq1M0ppUCEN+N1ebCM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ClassLoaderReferenceImpl.ja
+ va
+SHA1-Digest: TlUfdopx0Gq1tEKjOInvpCHy6mo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/EvaluationMessag
+ es.java
+SHA1-Digest: g7BR9YZT3pmRTi2PQnbAc1jGPKM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/hcr/JDIDebugHCRM
+ essages.java
+SHA1-Digest: U7UWmSfkaZpdpHOFLhpFcwAIi0c=
+
+Name: jdisrc/com/sun/jdi/request/ClassPrepareRequest.java
+SHA1-Digest: yBEIIWZNA0Danp2jrjLWxG7+p6w=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Binar
+ yBasedSourceGenerator.java
+SHA1-Digest: DDPXoIhIPhXUzo1znQQjl3Cb0HQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /XorOperator.java
+SHA1-Digest: HApe/sDwAZUaQQfbCFWghtqKe50=
+
+Name: jdisrc/com/sun/jdi/JDIPermission.java
+SHA1-Digest: ASRh73JRXDNZ0soNZ0zwYWyVwjc=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/IClassFileEvaluationEngin
+ e.java
+SHA1-Digest: 7vmmZxzP3OrHAekPxIqEjY7MW3E=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ReturnInstruction.java
+SHA1-Digest: vDe9VNPrTEVeita31TIIjn3wiFI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIArrayVa
+ lue.java
+SHA1-Digest: hl8IKiJJCa4k9q8LOYzNMJq3jBM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /AndOperator.java
+SHA1-Digest: Vt1IIsfhSuXQaniaoT0JUdMEp04=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaArrayType.java
+SHA1-Digest: ZlMiUlZo/ZoSfqhy7JXXOVIDg3A=
+
+Name: jdisrc/com/sun/jdi/ByteType.java
+SHA1-Digest: 0dTFg6BgD9ERX460hWeCHi0p2+Y=
+
+Name: jdisrc/com/sun/jdi/event/ExceptionEvent.java
+SHA1-Digest: OQXrxmkbd29FA4A33ilOdxDCk0E=
+
+Name: jdisrc/com/sun/jdi/Mirror.java
+SHA1-Digest: VK0XGx6TkRkxZmllqBGCEyuZMHA=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/EventRequestManager.java
+SHA1-Digest: XEZoNoiFepz8fqBdYHPMtDKEtj8=
+
+Name: jdisrc/com/sun/jdi/event/EventIterator.java
+SHA1-Digest: PNSW8EJxb5DE00cLL7E5x/wEGPk=
+
+Name: jdisrc/com/sun/jdi/AbsentInformationException.java
+SHA1-Digest: BQXof7AUrSt8k3QNUqHxdcX7R9g=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /MultiplyAssignmentOperator.java
+SHA1-Digest: LJDrAnVFU551h2vSQdtNnzJInuw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpFieldID.java
+SHA1-Digest: 7z5rBQocv75UFqL/wCkbkYk2DVc=
+
+Name: jdisrc/com/sun/jdi/request/DuplicateRequestException.java
+SHA1-Digest: 4EyiadHdqKUGFddQO5oO0eAfLX4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MonitorContendedEnter
+ EventImpl.java
+SHA1-Digest: n9fqd6P3vH/EFhZjgnUNdL5iSMg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/GenericSignature.java
+SHA1-Digest: jJTHUnzL8B+ccouc3BGr4PM0N7U=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/BreakpointEventImpl.j
+ ava
+SHA1-Digest: cQkWiwPRRJIyEmuDU1FeNJtWpUE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /TwiddleOperator.java
+SHA1-Digest: Sk7CZTibWPvcp9Bk4Ex2mjciXxs=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketTransportImpl
+ .java
+SHA1-Digest: BQHxnNfpVq4Nkdx8xWP5ZUU7Yi8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushDouble.java
+SHA1-Digest: rlHhfLrpn/EbmcAKT6FcqYZQwas=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIVariabl
+ e.java
+SHA1-Digest: WkEUvomIIuku1o9M6dKsgzJbuV4=
+
+Name: jdisrc/com/sun/jdi/BooleanValue.java
+SHA1-Digest: AZx0Uf+MWZ9U1GzHLRf8XWdx6jY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PostfixMinusMinusOperator.java
+SHA1-Digest: BWuctpRVYx5qDzjecnQENmiUyss=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ClassObjectReferenceImpl.ja
+ va
+SHA1-Digest: lwigU451qPbsdcJacNMdVZOCV0I=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/LocalVariableImpl.java
+SHA1-Digest: MzlHBAKBqBgvKo+gOUSl3uMGolA=
+
+Name: jdisrc/com/sun/jdi/Method.java
+SHA1-Digest: UTa0uZCf90l2uzLqoq/GIDlyD4g=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /DivideOperator.java
+SHA1-Digest: EZylf/ATArKg/1+7bNx44IQfnIE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/JdwpPacket.java
+SHA1-Digest: k9uXgcu9z/Zep1g2UQ+ybXSxb6g=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/EvaluationManager.java
+SHA1-Digest: Td/DFjNVG3l6PiO1tdXwuTHXnL0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Value.java
+SHA1-Digest: fcHTNtcKrO+J98hwd+O5F5qk+cs=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/BreakpointRequestIm
+ pl.java
+SHA1-Digest: OJopTFU6sVGDrNDzWC72o6OG66Q=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushThis.java
+SHA1-Digest: RCU2JtFyLY+IFDLwYqr09HsLTnQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketAttachingConn
+ ectorImpl.java
+SHA1-Digest: W0ueaBgPMDn5hYsY19fwnC2ekK8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpPacket.java
+SHA1-Digest: A7k8zVVxYGJduNE+EeYBKGcu3HE=
+
+Name: jdisrc/com/sun/jdi/LocalVariable.java
+SHA1-Digest: MVopW/XCNdrOIHGQMsJJLRPzH6c=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ExceptionEventImpl.ja
+ va
+SHA1-Digest: Ksk8LJqTX3mmHpdcwiJDsBDqKrg=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/hcr/CompilationU
+ nitDelta.java
+SHA1-Digest: ULQcY8dujKI8kf9gbsDQ287oC5U=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MethodEntryEventImpl.
+ java
+SHA1-Digest: PdUufQKHa9F6t1f3os7jYv2RHpA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ThrowInstruction.java
+SHA1-Digest: jIpT4JXBnVYh4bF1f17yaRon2ig=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpFrameID.java
+SHA1-Digest: NA5D14O97kDHFl90h596IPhXe74=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ClassUnloadEventImpl.
+ java
+SHA1-Digest: 5uloV6FdCGUoU9Q1f2VdE6TngIA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JavaDebugUtils.j
+ ava
+SHA1-Digest: M0yP+uwmGacGUuw2CB0ieTCxLMQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/EvaluationResult
+ .java
+SHA1-Digest: 9C3tpd0yJ2lPogs5l4+qcN+Fzek=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JDIDebugOptions.
+ java
+SHA1-Digest: +THRvjlNtprFow7WWUZv+N2OLBU=
+
+Name: jdisrc/com/sun/jdi/ShortType.java
+SHA1-Digest: 4DxjtmPzPVzD/lPEVrtZgyZC4Lk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /LessOperator.java
+SHA1-Digest: Y3O0USYp6aIip1FYbfNeF8slEKA=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaClassPrepareBreakpoi
+ nt.java
+SHA1-Digest: 9CUMsy8LLEqY1852dwemHBvNHm8=
+
+Name: jdisrc/com/sun/jdi/event/ClassUnloadEvent.java
+SHA1-Digest: JOvwCcowRHDYxpNU05/5FAA1u0g=
+
+Name: jdisrc/com/sun/jdi/event/VMDeathEvent.java
+SHA1-Digest: z/iv1A2eONXSxE0GfTTwJypjojo=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ClassPrepareEventImpl
+ .java
+SHA1-Digest: zaucpUKMKbztbDltmTBJRwKR104=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/IJDIEventListene
+ r.java
+SHA1-Digest: LrXakD9oqJEPxPQMJsV0yGpXYM0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MethodEntryRequestI
+ mpl.java
+SHA1-Digest: s7TiLOXDEhEYgXMFdkKcG45B1gg=
+
+Name: jdisrc/com/sun/jdi/ThreadReference.java
+SHA1-Digest: 2z8d0lPhn0frQb0OWUe3bVmJ3M8=
+
+Name: jdisrc/com/sun/jdi/InvocationException.java
+SHA1-Digest: gycpBomql1Euzh78nZwd/RWN33Q=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/JdwpReplyPacket.java
+SHA1-Digest: n2huSHI1uWBqrKYsnzaH6Skyjd4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ThreadStartEventImpl.
+ java
+SHA1-Digest: lOr9JivO3dPCe2LdwUbiUk+ZSOg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ThreadGroupReferenceImpl.ja
+ va
+SHA1-Digest: 91MSxcwXiMGiuL/iBJXsBJ0teEE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/AccessibleImpl.java
+SHA1-Digest: Nte/4Z4Q3kZYA92ibnte0sC2xMk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushArrayType.java
+SHA1-Digest: lgsADWpzGg2aaP9VsukMXraWbL4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/IntegerValueImpl.java
+SHA1-Digest: rO89OBFscJIJFCMZt1p75TUVFDs=
+
+Name: jdisrc/com/sun/jdi/ClassNotLoadedException.java
+SHA1-Digest: Ld9oNaknp0vy1A+pUQbIxG5Q+Ig=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ PatternBreakpoint.java
+SHA1-Digest: kltpqOWA7DcFJxDPNl15GAz2+GU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpInterfaceID.java
+SHA1-Digest: bT9HMFMSaVuuEqqORForSY3apzA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketTransportServ
+ ice.java
+SHA1-Digest: uVUOF+TI5MU22GkKyTyhoP6PP/o=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/VerbosePacketStream.jav
+ a
+SHA1-Digest: h7d8XW8/OZ2v7K8VoVZ2d1RyRXI=
+
+Name: jdisrc/com/sun/jdi/request/VMDeathRequest.java
+SHA1-Digest: aYHi95vAf3unFWToNdqriJ9FzQA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ArrayTypeImpl.java
+SHA1-Digest: aUzLaSNSP5YxE38psheA4CDoI+A=
+
+Name: jdisrc/com/sun/jdi/event/EventQueue.java
+SHA1-Digest: yu51+tJ0lgA314bI6kPQKgryPwM=
+
+Name: jdimodelsrc/org/eclipse/jdi/Bootstrap.java
+SHA1-Digest: S2BUfMHfx/e3bsxS5aaj2VJZooI=
+
+Name: jdimodelsrc/org/eclipse/jdi/VirtualMachine.java
+SHA1-Digest: O/p2EA8aMV8/RGkaIdY3/Zv0NhY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /SimpleInstruction.java
+SHA1-Digest: LPKEhnM4tGzPw12ryLPfekoRzeQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpClassLoaderID.java
+SHA1-Digest: AN1TSMrMBB+YUSk5RXpLvD+DhG0=
+
+Name: jdisrc/com/sun/jdi/event/ThreadDeathEvent.java
+SHA1-Digest: p35ArJV9ZFFJ8txC8nmT2Q4Q/PQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaValue.java
+SHA1-Digest: +OrKytZMiTu/eovFTBRoVgO+rRw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /NotOperator.java
+SHA1-Digest: Q8+7oo4VgFJoLmvCSUT7tnH60RU=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIReferen
+ ceListVariable.java
+SHA1-Digest: 5CU4nNoNqf564qssUEtHs5f9kMc=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/EventImpl.java
+SHA1-Digest: shFDVSGh2i2T/ldREPG7zvWmZNM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpReferenceTypeID.ja
+ va
+SHA1-Digest: QNxsig9UhdnTFv36s8exfu1XqXY=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/StepRequestImpl.jav
+ a
+SHA1-Digest: 6pi8Bs60kjX+7UOP7F8N6X0murQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/BooleanTypeImpl.java
+SHA1-Digest: 1YJXogcZIM79+2Pwl6jDEv99GCE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/AccessWatchpointEvent
+ Impl.java
+SHA1-Digest: AE87UBEfI6NNougNdfyR4Yi2IZ4=
+
+Name: jdimodelsrc/org/eclipse/jdi/TimeoutException.java
+SHA1-Digest: 4xdtlHTdFaT3Dw4PzkNV3hkHitM=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushLocalVariable.java
+SHA1-Digest: yRhFTYQjng+huOI55IxPEhWut5s=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/JavaLogicalStructure.java
+SHA1-Digest: X0Kr6AxGgMMxhcOXMwWaX65mIHM=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/IAstEvaluationEngine.java
+SHA1-Digest: domaQxSkv8YVeLApcS+eEcXSFdg=
+
+Name: jdisrc/com/sun/jdi/Location.java
+SHA1-Digest: PYCtSrWvAtnbMup6BVWbp0b1npg=
+
+Name: jdisrc/com/sun/jdi/VMMismatchException.java
+SHA1-Digest: mpAi7YDRRnUwMCwfFmOWCCyVetc=
+
+Name: jdisrc/com/sun/jdi/VMCannotBeModifiedException.java
+SHA1-Digest: doXV9wu7YYTs4bW3Pe1UnC+XVUE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIThreadG
+ roup.java
+SHA1-Digest: upHfz1wJ82Z0LbngKJ2hEoDDnTg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/InterfaceTypeImpl.java
+SHA1-Digest: DKnX2IsjEsxm2KsSOD7fNLdke/o=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaArray.java
+SHA1-Digest: Cv1BAgwfFASgnVIq6nwFztvlLqs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/EventDispatcher.
+ java
+SHA1-Digest: C3UA3WGMDnZflWex/9RtnFkjnPk=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/ThreadReference.java
+SHA1-Digest: LiYDcE8EKytIBweKvFpSNZKv3i4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ShortValueImpl.java
+SHA1-Digest: gz+/Gpww2KOPSRdHTtF6oR0jNRQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpObjectID.java
+SHA1-Digest: RihtUbjXLZwvFtGh2LnD4qahAi0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/HeapWalkingManag
+ er.java
+SHA1-Digest: 7AN8+3Gr8zNW57rEXJd+HNc2IWo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Cast.java
+SHA1-Digest: PN756KMSF0VNgYl3eqLK8BXYPEQ=
+
+Name: jdisrc/com/sun/jdi/event/BreakpointEvent.java
+SHA1-Digest: rV2X2zWQ7s0np4fcJ8Ve0izd6No=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/VoidValueImpl.java
+SHA1-Digest: fHzSJ5EN9Ed6P9i2oo7nFNle8FU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/TcpipSpy.java
+SHA1-Digest: RwlkWMkEgQNh+7+TxrV7/Gg7tbU=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/ITimeoutLi
+ stener.java
+SHA1-Digest: G4nbkhTq5N1jQtwZuUC5kjWSG+Y=
+
+Name: jdisrc/com/sun/jdi/ShortValue.java
+SHA1-Digest: gJUrD5C09osfCbHz6EhwptKzBBQ=
+
+Name: jdisrc/com/sun/jdi/ByteValue.java
+SHA1-Digest: YqjplN/sgnuuPJIwUTL0mjQSg4s=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IEvaluationRunnable.java
+SHA1-Digest: UhYPULqVTP16rS2tsMjL6dZcZBc=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpMethodID.java
+SHA1-Digest: R5vfMWHigZkxLaEFoKCXF/JKN5Y=
+
+Name: jdisrc/com/sun/jdi/event/VMStartEvent.java
+SHA1-Digest: yREv4kXyeUR3GRS00xBaUQr8UHM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/LocationImpl.java
+SHA1-Digest: veA7MaaWcnifvRwzHK8WTkwU8YA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ArrayAllocation.java
+SHA1-Digest: LzK7cqYidzSAllQ8ezZRAmUReoM=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/ICompiledExpression.java
+SHA1-Digest: NcX8henI7BlrZYpFV59IbKFMjWk=
+
+Name: jdisrc/com/sun/jdi/event/VMDisconnectEvent.java
+SHA1-Digest: MyOtifqzIwgYfVdjnpsuapPx8zE=
+
+Name: jdisrc/com/sun/jdi/ObjectReference.java
+SHA1-Digest: DHvx2dmW29oGz7NEqhhZ5oeTPJA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ThreadDeathRequestI
+ mpl.java
+SHA1-Digest: 0bOSxq9k74JbeMB4x53JdjzBS2g=
+
+Name: jdisrc/com/sun/jdi/event/MethodExitEvent.java
+SHA1-Digest: w2n0657bc51Pr2/g6zZe+QMUvUg=
+
+Name: jdisrc/com/sun/jdi/ReferenceType.java
+SHA1-Digest: 8iMlyuV6muudhV4duXPhRUX4WiY=
+
+Name: jdisrc/com/sun/jdi/PrimitiveValue.java
+SHA1-Digest: 11mHZCMV2ZFJODS6TpAIpamBYV8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketRawLaunchingC
+ onnectorImpl.java
+SHA1-Digest: /ZxfDOIBvEc+n9UnKK2+Ra0+kHE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ TargetPatternBreakpoint.java
+SHA1-Digest: x/IDkrmQQND9x7TPrNW0AK1AaQ8=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/ReenterStepRequest.java
+SHA1-Digest: 2H5dclqMTM/3BKxvxn8v0zeL0Wg=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDILocalVa
+ riable.java
+SHA1-Digest: /e/+rr4woOojabqBdOG/aTkGbSw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /DupX1.java
+SHA1-Digest: YS7O9BuqVdEtqP5F3FL2p6LnfVo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /RemainderAssignmentOperator.java
+SHA1-Digest: XVLbnFjIa1nWR8FFsr2zPU7ykj8=
+
+Name: jdisrc/com/sun/jdi/InvalidTypeException.java
+SHA1-Digest: ohunvq831J7IVQVvj0GzNbMzKv0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /UnaryOperator.java
+SHA1-Digest: oO+pOPXWZDqWgpTmRnVcLG756HA=
+
+Name: jdisrc/com/sun/jdi/event/ThreadStartEvent.java
+SHA1-Digest: B5KZ2LLWt6FEOmwH2MDjhBHqORg=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PrefixMinusMinusOperator.java
+SHA1-Digest: vw4fMhhMTYGKfrlptimRuznlBOU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/EventRequestManager
+ Impl.java
+SHA1-Digest: 9S71osTzanngm6gyzddmTjJsNj0=
+
+Name: jdisrc/com/sun/jdi/connect/Connector.java
+SHA1-Digest: /dTtjX88mRrH0EUvrsv91MpBFkc=
+
+Name: jdisrc/com/sun/jdi/VoidType.java
+SHA1-Digest: TmDX65Kr9rQ+V27Uvoc29utg2ys=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/LogicalObjectStructureValue.java
+SHA1-Digest: 13m2JArtw/Cyv17eZgY6aSQTvi0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/JavaO
+ bjectRuntimeContext.java
+SHA1-Digest: XVaSotsNgDwwSeUKcgRI3Et9tIQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/DoubleTypeImpl.java
+SHA1-Digest: ouoAobRxye7Xdn+GMlOuTRnBMls=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/JdwpConversation.java
+SHA1-Digest: M6AHbcbtfnMuxZ+0518hjsaD//0=
+
+Name: jdisrc/com/sun/jdi/LongType.java
+SHA1-Digest: s0saq5/zHQqaSEFJGj0RWJ8SMac=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/JDIMessages.java
+SHA1-Digest: zmmNDIPodki80wjHnYZsRKNijes=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaDebugTarget.java
+SHA1-Digest: 0s16od1yM3ISZqDAFTnuq2AiKC0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushType.java
+SHA1-Digest: de7rlqyaxAGE4cGM+2XEyfREJlA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/ASTIn
+ structionCompiler.java
+SHA1-Digest: Ed9nmteBkVpQc0BBnV2Lw4b9qK4=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Jump.java
+SHA1-Digest: Bm37cUp4QCgqReds/Y3Jv+7wMrc=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/VirtualMachineImpl.java
+SHA1-Digest: XRk/qzkvgu9FjhFp7uo7viaZRvw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIType.ja
+ va
+SHA1-Digest: 1SEQdj1CBwT5w8+NLmeuZYbGJCQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpID.java
+SHA1-Digest: wdiBwWFoBrYDyATxiPenVJjk0sw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ByteValueImpl.java
+SHA1-Digest: tZZNvBlo6yBFy7RxbA566vWaS9o=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /EqualEqualOperator.java
+SHA1-Digest: NNDrfXdh3O3yrLgorhLJlBaUU3I=
+
+Name: jdisrc/com/sun/jdi/Field.java
+SHA1-Digest: EdLtMbgHuqv1UckDLtXvkyKTF8g=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Sourc
+ eBasedSourceGenerator.java
+SHA1-Digest: N2axVFJzOrigmQg9/xfN+czXgfo=
+
+Name: jdisrc/com/sun/jdi/ClassNotPreparedException.java
+SHA1-Digest: P2ajbKVcM1/0d9EehZCgdopdtNU=
+
+Name: jdisrc/com/sun/jdi/LongValue.java
+SHA1-Digest: DmEuRbDGMa5F0teMoNT8Nkoa2+A=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Inter
+ preterVariable.java
+SHA1-Digest: +MaT4qK8lmB2O6UmBTbalgeA+Tg=
+
+Name: jdisrc/com/sun/jdi/VirtualMachineManager.java
+SHA1-Digest: 6UjSrNV7aeahOwLWbwgt8z26CDE=
+
+Name: jdisrc/com/sun/jdi/Locatable.java
+SHA1-Digest: JkGfKKXhkkDv3b3fUUld1OiNpEQ=
+
+Name: jdisrc/com/sun/jdi/ThreadGroupReference.java
+SHA1-Digest: 59sXkeKzdK3xtUU0kIb+tVkkW5M=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/SourceDebugExtensionParser.
+ java
+SHA1-Digest: JXrHS8IC0WMPO7NfA15aklZjJZ8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/StackFrameImpl.java
+SHA1-Digest: rSzZMNCu/u8DkGoE7f4n4lEUYX8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /OrAssignmentOperator.java
+SHA1-Digest: 3HDD63p4cfHl6CxCZzFPEMFf9BY=
+
+Name: jdisrc/com/sun/jdi/InvalidStackFrameException.java
+SHA1-Digest: ifxYmCQfZkLNuEMmRMLFetsxWrM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /AndAssignmentOperator.java
+SHA1-Digest: iTaO0GmYHGmLuWLQQE6DXjxrcv4=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushArrayLength.java
+SHA1-Digest: NXvq3m+I+5iwoCLqLzJdzvOb2lM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ReenterStepRequestI
+ mpl.java
+SHA1-Digest: MEJcWFh5cvKr8DgpwSh6ho4Ipeo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /InstructionsEvaluationMessages.java
+SHA1-Digest: IY0xVY/8iRXk1c3IvbdoMB7vfEM=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/OperationRefusedException.java
+SHA1-Digest: UgK7aQ+aJUg7wqzN9v/81pxruMw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /GreaterOperator.java
+SHA1-Digest: lnRNGUIr3UQ6bF6icsAsb+rHq8E=
+
+Name: jdisrc/com/sun/jdi/VMDisconnectedException.java
+SHA1-Digest: KqJfnu8b5gFlads0WTDsIVXnNt0=
+
+Name: jdisrc/com/sun/jdi/StackFrame.java
+SHA1-Digest: c+2zgzGRgyE1vQWTiIVukUZ6WU0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ MethodBreakpoint.java
+SHA1-Digest: d41e9QVpdkkPSCyn+w7nvyhMZD8=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/VirtualMachine.java
+SHA1-Digest: drAzWGrjl0Ffoh6aWbTejM3rEe0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MethodExitEventImpl.j
+ ava
+SHA1-Digest: lKPKwOKbaPR/E/Fp+LKFvZOS/ts=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /RuntimeSignature.java
+SHA1-Digest: QjxIMXwGgQd4soXpGnPPV3k0eOc=
+
+Name: jdisrc/com/sun/jdi/event/MethodEntryEvent.java
+SHA1-Digest: plC6Mwn3FDn4PJe3V1/EGCT00SA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Runti
+ meContext.java
+SHA1-Digest: Yh0ThvfU2bJfQHKNNwcEbm01L80=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaReferenceType.java
+SHA1-Digest: maXqLG2UufkhjeFWcFf+HJCTL1Q=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JDIDebugMessages
+ .java
+SHA1-Digest: XUYG0ZFOFQOhguiOZPe/jOqzGSA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/FloatTypeImpl.java
+SHA1-Digest: Pp3Cj7Yv9XPMAfQ585OiiHx/Eps=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Evalu
+ ationEngineMessages.java
+SHA1-Digest: xLubRL5A7WP9mXpYa5mxydqE1/Q=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushClassLiteralValue.java
+SHA1-Digest: sOxDmTO/9Em9Xcdj0zJq9Kl5c1w=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/spy/JdwpCommandPacket.java
+SHA1-Digest: VaZTZuIE7nmEQGka6raToKFfkYY=
+
+Name: jdisrc/com/sun/jdi/request/MonitorContendedEnteredRequest.java
+SHA1-Digest: Lze2l+2PF0dCIsGpyemdRGZTVs0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/EventRequestImpl.ja
+ va
+SHA1-Digest: zcanRfsoSR1uH3T1Fa3PVONMZ5g=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/VMDeathRequestImpl.
+ java
+SHA1-Digest: RxVQvJMf2TYmTPb5w670Im5Zr0g=
+
+Name: jdisrc/com/sun/jdi/VMOutOfMemoryException.java
+SHA1-Digest: nM7aVOSDqbVNT0ZLO0rVNa5uXo4=
+
+Name: jdisrc/com/sun/jdi/request/WatchpointRequest.java
+SHA1-Digest: SxY25iXEiEjWGxio+sqIOzGo2pI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/RequestMessages.jav
+ a
+SHA1-Digest: 99mTTBP2aZY0vmhbajXasUMqIts=
+
+Name: jdisrc/com/sun/jdi/MonitorInfo.java
+SHA1-Digest: qz2Wwel8bj2V58HnRfxhbUZdmsY=
+
+Name: jdisrc/com/sun/jdi/CharType.java
+SHA1-Digest: w3lSGDzp6On+ftx/Ytgj7EjdTN0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/MirrorImpl.java
+SHA1-Digest: /o19wjJgwJuEm4PGQfNHG9M9nlc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Signa
+ tureExt.java
+SHA1-Digest: pQI+K9O9Rj+vnsmkXYbyELtbxvo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /UnsignedRightShiftAssignmentOperator.java
+SHA1-Digest: G/eUjNK2GT+NZ/Io3MMYmkRokqE=
+
+Name: jdisrc/com/sun/jdi/DoubleValue.java
+SHA1-Digest: KQtD0cxpimMPleGVSTgDuhXKHlY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /OrOperator.java
+SHA1-Digest: +ga/a4EFKhw91zOUQuVzgQ4w6fQ=
+
+Name: jdisrc/com/sun/jdi/CharValue.java
+SHA1-Digest: EjXkYyGkPgtEOv4scYVziTCtbfk=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ModificationWatchpoin
+ tEventImpl.java
+SHA1-Digest: 7c+2800jUfwIllV9Mkk/qNab3ZU=
+
+Name: jdisrc/com/sun/jdi/event/LocatableEvent.java
+SHA1-Digest: Olgzyw9e+yOhz+dZy7z/SSS7Y9M=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Brea
+ kpointListenerManager.java
+SHA1-Digest: W09ZfAeqjNwL1fNxo/WLz3fCAoA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIReferen
+ ceType.java
+SHA1-Digest: gtwqKJeuHL/cz+4Ni4CoEfS9VGA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ThreadReferenceImpl.java
+SHA1-Digest: vidakgryU2toYFfYOlMv9mrl4HQ=
+
+Name: jdisrc/com/sun/jdi/PathSearchingVirtualMachine.java
+SHA1-Digest: AXdt4UR0/17WeyDoJ0xA7r5H4SA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /LeftShiftAssignmentOperator.java
+SHA1-Digest: xZR79ytnC0YwCn2kof7emMr0Atw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/FieldImpl.java
+SHA1-Digest: 2KEVO3/7m5zzjp2GP9yWVY0MFig=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/MonitorWaitEventImpl.
+ java
+SHA1-Digest: svKXe683zVeqyMmfTgWPa6myGKY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /BinaryOperator.java
+SHA1-Digest: TNsNdsAJHt1d746JKteWTUlq4J4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/MonitorInfoImpl.java
+SHA1-Digest: PtP79B+eoqZBSSLiyDvJ4J9K2/k=
+
+Name: jdisrc/com/sun/jdi/event/MonitorWaitEvent.java
+SHA1-Digest: ZegZY6ADx0FBg5M+MuD4QBu5nkg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/VoidTypeImpl.java
+SHA1-Digest: Y7KHi/t+q9MffPPYMmr/dX/T46c=
+
+Name: jdisrc/com/sun/jdi/request/ModificationWatchpointRequest.java
+SHA1-Digest: xvRHXx5W4iRYxoIMQXkd1CdGtg0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/DoubleValueImpl.java
+SHA1-Digest: LwqFiGM3qH+ONE/ls6p7n6hQphc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PostfixPlusPlusOperator.java
+SHA1-Digest: jhIwGCcfX4qsy79p3yYzPY8M7EU=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ArrayInstruction.java
+SHA1-Digest: ipvVMNJfDYUFrng2Q2q35xZ7tyA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ BreakpointImportParticipant.java
+SHA1-Digest: bdyv/RYIVtnxXdabjPhNl37qlh0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ Watchpoint.java
+SHA1-Digest: Di1P9+XvREzCVMi3G59IYL/DpPY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIReferen
+ ceListEntryVariable.java
+SHA1-Digest: GAEdzVYVWEXUj/oh3Zxaitde+sA=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaMethodEntryBreakpoin
+ t.java
+SHA1-Digest: 9hlqC+npHcobx/D148gDGAANmiY=
+
+Name: jdisrc/com/sun/jdi/IntegerValue.java
+SHA1-Digest: Xgk+zZiSzZKbOW2ad9v62gSIEiw=
+
+Name: jdisrc/com/sun/jdi/ArrayReference.java
+SHA1-Digest: I9Cbbr0NWmoIURv6qtbBYTPeMH0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /LocalVariableCreation.java
+SHA1-Digest: qcvjYtnZ8OqhhDVFv0Ej8aRg/Q4=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/EventSetImpl.java
+SHA1-Digest: ZWK0XUFrofDebioSViO+GC3QmY8=
+
+Name: jdisrc/com/sun/jdi/InvalidCodeIndexException.java
+SHA1-Digest: 8ZQjFmarFsu29mLsd1fMs91Utws=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PrefixPlusPlusOperator.java
+SHA1-Digest: CrRXglE0L1d4grkB3/VB9rBcFhA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/LongTypeImpl.java
+SHA1-Digest: jCcdbW5mt21G7zST/XvAhcNI3qM=
+
+Name: jdisrc/com/sun/jdi/event/StepEvent.java
+SHA1-Digest: UrWJCPV1013ZmtH0fkqpYvW8SeQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/VMDeathEventImpl.java
+SHA1-Digest: NVwR2M026kW6AFnJjihUWIEZdFo=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/BooleanValueImpl.java
+SHA1-Digest: fWbuhC1HgSWTKhvVfrPk+xIhmyU=
+
+Name: jdisrc/com/sun/jdi/connect/spi/TransportService.java
+SHA1-Digest: 4TK6LSKLmWhVr7nLdXAD0zbYtP0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpArrayID.java
+SHA1-Digest: FOiPk/PhNkQ7ATZg9xfq1FKvZxg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpClassID.java
+SHA1-Digest: eqLLVqMCARyb5ERgHJCVJxmKkI8=
+
+Name: jdisrc/com/sun/jdi/event/Event.java
+SHA1-Digest: dqWlV3hLBGtA3loS4DPuQ9v7irw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ArrayInitializerInstruction.java
+SHA1-Digest: qrKJP51Ar5wqZWHvXni08KCddns=
+
+Name: jdisrc/com/sun/jdi/request/StepRequest.java
+SHA1-Digest: rgEB8S96kEKUVS9SpeuhEkDL5rE=
+
+Name: jdisrc/com/sun/jdi/TypeComponent.java
+SHA1-Digest: 5gMpilQeBublTeSbQqW29Vf2M8Q=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MethodExitRequestIm
+ pl.java
+SHA1-Digest: CYAMWhFdXwaYe5yVWKDjqnA3lYs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/JDIPlaceholderVariable.java
+SHA1-Digest: zv0wbFcMorQ0rhXcUFvDp3LQ0aM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/TypeImpl.java
+SHA1-Digest: dIo5cyz4pCL7NskSx6Msk4Ef0Iw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ Breakpoint.java
+SHA1-Digest: 2wBXZxqN2emRYOdCI+lr8orPiHw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/ConnectorImpl.java
+SHA1-Digest: NbT+JrLDtuAd5ZASl+oPgPHxc7Q=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/IJavaStructuresListener.java
+SHA1-Digest: brNTz8WsT5CC8ud4kJtYxKdayfk=
+
+Name: jdisrc/com/sun/jdi/request/MethodEntryRequest.java
+SHA1-Digest: 73kKvJYgxvreqM9Yan5bgIVFHNE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /ConditionalJump.java
+SHA1-Digest: yzD+7NpdL5At3dfmKTinTF6s5Bo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PlusOperator.java
+SHA1-Digest: iFd8vbWyqL5+KnP45jMx7+TTUpE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/JavaStructureErrorValue.java
+SHA1-Digest: H+7aoV1BKn41Gb/g5iJlIG0usCw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketListeningConn
+ ectorImpl.java
+SHA1-Digest: wuchWO+4OcQTIAd34CS/HiUntGU=
+
+Name: plugin.properties
+SHA1-Digest: IvjGkbXgltlj8Zet0qeW7joi9i4=
+
+Name: jdisrc/com/sun/jdi/ClassObjectReference.java
+SHA1-Digest: 083RWfGjhqT611eemcLU9JuAmWE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/LocalEvaluationE
+ ngine.java
+SHA1-Digest: 97aeb82sDZ88k1x4+2nwZ1gxacE=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/IRunt
+ imeContext.java
+SHA1-Digest: opcX5TACxfOFu/mfD7SpN69mYRY=
+
+Name: jdisrc/com/sun/jdi/IncompatibleThreadStateException.java
+SHA1-Digest: dn7MYCNygTJhf4vbsVgphPgb+LY=
+
+Name: schema/jdiclient.exsd
+SHA1-Digest: 3NjPhtLbIe10enxFVWXwrZ+cXgY=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Pop.java
+SHA1-Digest: 8ddeUDNUMpmdrVqjcDOmsecIBMc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /SendStaticMessage.java
+SHA1-Digest: aFjvflrcAguaGWEOdhma3B6Jxhk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIPrimiti
+ veValue.java
+SHA1-Digest: D9TbwVW0xDh2e+Oyx72TCx2ymPU=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaVariable.java
+SHA1-Digest: oDjbFyGz7HiJ5TOCjJ8SJ/00Mpg=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaType.java
+SHA1-Digest: Utn8Ks3r6PGNwwTId533E5KCg1M=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaStratumLineBreakpoin
+ t.java
+SHA1-Digest: 7SKWbSHKFsVnCJysGtLfWef3LkY=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ExceptionRequestImp
+ l.java
+SHA1-Digest: N01fiDU3FJnBhPIZPFOdraPq20U=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ModificationWatchpo
+ intRequestImpl.java
+SHA1-Digest: mm77ikrUYXbNFz0xAjoqLkRfsxM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIPlaceho
+ lderValue.java
+SHA1-Digest: j75ImpeR78z1sYSBdv5MDCPGSDM=
+
+Name: jdisrc/com/sun/jdi/DoubleType.java
+SHA1-Digest: itywxb/AYqlTh2XZaRVa4y52SRk=
+
+Name: jdisrc/com/sun/jdi/StringReference.java
+SHA1-Digest: UtAkS21VBQP9wMv+KABDUTwlgA4=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaLineBreakpoint.java
+SHA1-Digest: jcHxI0n6pOIi7rmTA/HXIsFJsKE=
+
+Name: jdisrc/com/sun/jdi/VirtualMachine.java
+SHA1-Digest: ANCHNMlfO135tckYev4ar8E3yqg=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ClassPrepareRequest
+ Impl.java
+SHA1-Digest: 5JhDmGw9SDsa95k5GiRgZJhqZhQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaObject.java
+SHA1-Digest: uyvQiGiTIM1qekbBnh6ehThi7N0=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIReferen
+ ceListValue.java
+SHA1-Digest: xIGm93f0gZKWAewUlvJgh9BHy50=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /XorAssignmentOperator.java
+SHA1-Digest: E+ylt48qfhZlnfTSNrwJhz8LbWU=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/JDIDebugModel.java
+SHA1-Digest: H3+JWzxoeEehU6EX1L1qLbc//fs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /RemainderOperator.java
+SHA1-Digest: RRUfIFjdYD9csVInKWPkP8LdVDo=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MonitorWaitRequestI
+ mpl.java
+SHA1-Digest: gHaZ1NyuSCyIxzmkD8TtRTXgen8=
+
+Name: jdisrc/com/sun/jdi/VoidValue.java
+SHA1-Digest: ZIvSSULKDy/h+qGLfuvTSlCWSnM=
+
+Name: jdisrc/com/sun/jdi/event/MonitorContendedEnteredEvent.java
+SHA1-Digest: /GgdmQtDHb0Wsb0fdDTpy49R38c=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaThread.java
+SHA1-Digest: aIsV0hEnaHadiRLA91jNvHKIJZQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /NoOp.java
+SHA1-Digest: xu7bJQFVyfQLjYKJ24qO/AfYUlA=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaTargetPatternBreakpo
+ int.java
+SHA1-Digest: MEkXY1cX5X8mUKujB+D90EM9aZw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Inter
+ preter.java
+SHA1-Digest: TBb5JVa47AoDItm6FrUGF0tGpNU=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/WatchpointEventImpl.j
+ ava
+SHA1-Digest: M4umx1GpdRcSYHo3KCKCyE/xG20=
+
+Name: jdisrc/com/sun/jdi/event/EventSet.java
+SHA1-Digest: Gcviv/OCFUL+mweRKPKm2WIZJtA=
+
+Name: jdisrc/com/sun/jdi/connect/TransportTimeoutException.java
+SHA1-Digest: 2qrleKD5gnRZYNeCRNT7CClxcaI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpString.java
+SHA1-Digest: o6TWVpVyK5WoqdordIp6Lgp12Wc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ LineBreakpoint.java
+SHA1-Digest: JpqHvg/1J718bJ3B1Ei+5LHtANk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ ExceptionBreakpoint.java
+SHA1-Digest: WxBkKZk3pET59l6gHZLCVDPixT0=
+
+Name: jdisrc/com/sun/jdi/connect/IllegalConnectorArgumentsException.ja
+ va
+SHA1-Digest: zQBcVYOKV+57sU3NYLzvTV+INDE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/MonitorContendedEnt
+ eredRequestImpl.java
+SHA1-Digest: ntwLbgwlvycMrfOFSITWHcJ+eLI=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaPatternBreakpoint.ja
+ va
+SHA1-Digest: Ch8M1DsqigQ45pfu/XZan3PXDTI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpThreadGroupID.java
+SHA1-Digest: Y5Kpt53PRo7V0WY0C04Wip7NvNQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIMethod.
+ java
+SHA1-Digest: bMX8tmfb8klOXCICusiBsrFhlxc=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaModifiers.java
+SHA1-Digest: i/tbbL1e2D8+Bkvc4tcrdWK/C34=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/EventMessages.java
+SHA1-Digest: qBlgMnu4pjgiSMwOOCXYA263wDI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JavaDebugPropert
+ yTester.java
+SHA1-Digest: f92vuCzWhdmcekIui17u0m4gbZo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PlusAssignmentOperator.java
+SHA1-Digest: StF1Kf3vBJVNdx5sFCg7xpR7xwE=
+
+Name: jdisrc/com/sun/jdi/event/AccessWatchpointEvent.java
+SHA1-Digest: q+zL2ckuNfvDFsbpvJWgB+BwgZQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/hcr/ReferenceType.java
+SHA1-Digest: eUkKSAo88mVsxrUshlEe7qGLc24=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/WatchpointRequestIm
+ pl.java
+SHA1-Digest: zbcgO3viUE61Y20gEWK8oMzXbwk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Cond
+ itionalBreakpointHandler.java
+SHA1-Digest: qvcgsLi4TloStWXIm21VobULjok=
+
+Name: jdisrc/com/sun/jdi/FloatType.java
+SHA1-Digest: gvs32bwf/MstdTS7ijBeNyP+h+4=
+
+Name: jdisrc/com/sun/jdi/request/ExceptionRequest.java
+SHA1-Digest: /iujA3yioNaxmykUEe7By1o7zb4=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIVoidVal
+ ue.java
+SHA1-Digest: e6I3C3VbbRmyAl35sxTtQ0aowe4=
+
+Name: jdisrc/com/sun/jdi/request/InvalidRequestStateException.java
+SHA1-Digest: /oCUOvE9zA1YtCwu2edkNbkiCWE=
+
+Name: jdisrc/com/sun/jdi/connect/AttachingConnector.java
+SHA1-Digest: xNxXVe6aPObLKL/M5afbW94MpSk=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ ClassPrepareBreakpoint.java
+SHA1-Digest: RJFo170e4UCO18QB3e33r+U8iyM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushChar.java
+SHA1-Digest: L5J4EgJuzU4QW3i5Mnl1kQ750xg=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIClassOb
+ jectValue.java
+SHA1-Digest: KdBquivam0oyytniOew5itihk4w=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaHotCodeReplaceListen
+ er.java
+SHA1-Digest: i56Byg2Qxdp9GmGYDNwrSC2tWiA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/FloatValueImpl.java
+SHA1-Digest: jSHxS4TqdOXo2+BAD300tguIj5c=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/TransportImpl.java
+SHA1-Digest: PjpZL1FYOddzx87CqCZ+nYDk3ns=
+
+Name: jdisrc/com/sun/jdi/InternalException.java
+SHA1-Digest: tx6t40h4RMRcokbOXWRK4CeJjow=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaWatchpoint.java
+SHA1-Digest: mZ3SNZ6xOnbknHWKLXQ67w9fYBU=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIDebugEl
+ ement.java
+SHA1-Digest: B8Ii1TVM9G9yoE5/2XMe3p5p5Rc=
+
+Name: jdisrc/com/sun/jdi/FloatValue.java
+SHA1-Digest: +j5OfEERjvCSVXPT4ldaroqlb4A=
+
+Name: jdisrc/com/sun/jdi/event/ModificationWatchpointEvent.java
+SHA1-Digest: YsNY84C3BAq8En3sN2/SPg4b844=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/MethodImpl.java
+SHA1-Digest: +bCiZHRpGByYxi516w+BOlwMLbk=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/eval/IEvaluationResult.java
+SHA1-Digest: /kN8VlZqOySjRd6Ut067yUpDf+k=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaMethodBreakpoint.jav
+ a
+SHA1-Digest: 6MDcDyNKmRTdQaeLKHaUaVBipAc=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /UnaryMinusOperator.java
+SHA1-Digest: WlVvLuhoq6lEf3X6as8T/eoM2m8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDINullVal
+ ue.java
+SHA1-Digest: RilgCRL3xJr/cBl3NYuY1nspzXI=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/SocketConnection.ja
+ va
+SHA1-Digest: bKwAnYngrNCcrt3IDb1aiZKTSR0=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ValueCache.java
+SHA1-Digest: 4ZJ91JX/f7cyI8hV5pa82tTcFeY=
+
+Name: jdisrc/com/sun/jdi/InterfaceType.java
+SHA1-Digest: /fUlSYCbNuheWasOMWFABCSx6Bg=
+
+Name: jdisrc/com/sun/jdi/Type.java
+SHA1-Digest: grFv5YXKOFhS/Urb7uJfTqbdsfM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /InstructionSequence.java
+SHA1-Digest: soUGaTIR7wD4WH+pwCgHDU9xEOE=
+
+Name: jdisrc/com/sun/jdi/Bootstrap.java
+SHA1-Digest: lYzM+AZ/lHlmzHjRMTYYDuXSkTU=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushStaticFieldVariable.java
+SHA1-Digest: 9HDPpWVcIcLqX+QLBJspU3itBY4=
+
+Name: jdisrc/com/sun/jdi/request/EventRequest.java
+SHA1-Digest: Yna6MepQWUvCW8DUsB2ESgxxnDI=
+
+Name: schema/breakpointListeners.exsd
+SHA1-Digest: 7eEZ7J5X5w25O9ZOef0gwAB0XiE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/LocatableEventImpl.ja
+ va
+SHA1-Digest: TR4hONCd+sggjSJEsLigOq1gKHA=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ByteTypeImpl.java
+SHA1-Digest: ilw4rem2gcAzvTm2hyn4y89KVjk=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaExceptionBreakpoint.
+ java
+SHA1-Digest: WagewkYEBS4X8Fhucm8BY8/SD8o=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/EventIteratorImpl.jav
+ a
+SHA1-Digest: odD9JfqB5cQIRaeXoa9q60GZJPs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIValue.j
+ ava
+SHA1-Digest: sO7uIN3Ib25T9mDxwB3mFnqfXfE=
+
+Name: jdisrc/com/sun/jdi/PrimitiveType.java
+SHA1-Digest: PHJHxIoVpDzs3TKbEV87uRrBHYo=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaBreakpoint.java
+SHA1-Digest: EcfaXifFV7sCJwCE6w3HKbFpD9I=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /SendMessage.java
+SHA1-Digest: Nibl2+nAoE9cWKmJb9zpRGV4xWE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ThreadStartRequestI
+ mpl.java
+SHA1-Digest: gO3aYJpELylMiTpaj2tSbER5CqA=
+
+Name: jdisrc/com/sun/jdi/connect/LaunchingConnector.java
+SHA1-Digest: dbx2X2eFuY2dGTIUdVXh7f0abYI=
+
+Name: jdisrc/com/sun/jdi/request/EventRequestManager.java
+SHA1-Digest: 7TMu6au8aR1OSzX1GFKk+hPMzcE=
+
+Name: jdisrc/com/sun/jdi/request/MonitorWaitRequest.java
+SHA1-Digest: BOqkVzwQq9NWJkVri3QdRsaOWzM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIDebugTa
+ rget.java
+SHA1-Digest: e5I3uaIlx8Kb597KBsA8hIc5wAI=
+
+Name: jdisrc/com/sun/jdi/ClassType.java
+SHA1-Digest: 7SiGBI4XVr88EY9FBz4vjH1DCfM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIThread.
+ java
+SHA1-Digest: vC13sBak31ZLx5Sa+8KX+0YmLuM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/breakpoints/Java
+ MethodEntryBreakpoint.java
+SHA1-Digest: rj142dCsk6BRRRbgtFhTalztMOM=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/PrimitiveValueImpl.java
+SHA1-Digest: S/wSXBGoJNW8pRqe5rRnNBtOfFQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIDebugMo
+ delMessages.java
+SHA1-Digest: iJgoIPBbzZ0K/eR9pAVpaOUP9Fo=
+
+Name: jdisrc/com/sun/jdi/event/WatchpointEvent.java
+SHA1-Digest: aypNCLC/wisWSZpUqyQqrttj2lA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIModific
+ ationVariable.java
+SHA1-Digest: X6wRUlx70sPV40bdQ4wz87PT1v8=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/request/ClassUnloadRequestI
+ mpl.java
+SHA1-Digest: 7W+2Xm2EASdixStIpmwGDLzQ3+0=
+
+Name: jdimodelsrc/org/eclipse/jdt/debug/core/IJavaThreadGroup.java
+SHA1-Digest: U2bhsXiAX2ZGJdNf2ukfpHRbtHs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/Timer.java
+SHA1-Digest: QbwTwuVIsdHCw1MxJjmcA33uUss=
+
+Name: jdisrc/com/sun/jdi/event/MonitorContendedEnterEvent.java
+SHA1-Digest: rTx8bOCjgwdtEeVUZh7Gs49kGRY=
+
+Name: jdisrc/com/sun/jdi/request/ThreadDeathRequest.java
+SHA1-Digest: bCyCutiX7lA+FIqV4VvIGm9kdOo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushNull.java
+SHA1-Digest: ALdCNByPZtRJjPiH5y5nq775+f4=
+
+Name: jdisrc/com/sun/jdi/NativeMethodException.java
+SHA1-Digest: vlMH2IVvAlHtREp1QuIYqQsBTOQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushInt.java
+SHA1-Digest: fDDCNKwF6jBlVFHQRgVJwLh3pxw=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIVoidTyp
+ e.java
+SHA1-Digest: EISEaQS+b7q6wYyLmZQv+o55bws=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/PacketManager.java
+SHA1-Digest: Ei5rOcYdiCoVBxJpy1NgdG+TY64=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Instruction.java
+SHA1-Digest: VyAGt2xTgM8gtPRZ6VpToEg4YoM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /RightShiftAssignmentOperator.java
+SHA1-Digest: 5x/+8jL/ShbmBY3EWQrb5R8Jc1M=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/CharValueImpl.java
+SHA1-Digest: 8F9HgOw/N+tpa3guPs3SNiCl1iM=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIStackFr
+ ame.java
+SHA1-Digest: lngqx4sQXTJQeFRG2gHeyKysYbw=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/ThreadDeathEventImpl.
+ java
+SHA1-Digest: dOjkTTCqFHVi/aUyvlo9dQ/mDjQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/event/StepEventImpl.java
+SHA1-Digest: oPYoKfoQqIRfJ+RjN/XC5n7ocBQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/hcr/MethodSearch
+ Visitor.java
+SHA1-Digest: gYU4a0BzUSMESvUHTa4fa5psgpE=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/jdwp/JdwpCommandPacket.java
+SHA1-Digest: PxoG6MP+gKnEyu0wn+7TdlUmRGI=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/logicalstructure
+ s/JDIAllInstancesValue.java
+SHA1-Digest: aFcrDJzqIGlE6tcEDbJ4XfctjU8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIClassTy
+ pe.java
+SHA1-Digest: mzlj0LgQHOz3ij2AGp9ebk3H+8w=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/ValueImpl.java
+SHA1-Digest: ycOk30gMSav2kn0sbdymgycmyK8=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /LessEqualOperator.java
+SHA1-Digest: 3QRVz4kLdgNKRI9IrLNMi+wxZlc=
+
+Name: jdisrc/com/sun/jdi/connect/spi/ClosedConnectionException.java
+SHA1-Digest: SedSq0NqlWq6DLsRYx6QEuoW4Y8=
+
+Name: jdisrc/com/sun/jdi/InconsistentDebugInfoException.java
+SHA1-Digest: XKncQlDfbTxChcGNBS4GIoBQ2kA=
+
+Name: jdisrc/com/sun/jdi/request/MonitorContendedEnterRequest.java
+SHA1-Digest: sYBDO42FlS/xGYfELtCx1kPSh9E=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Constructor.java
+SHA1-Digest: wixGfNN5+IZV5KzZnwoV6jQ26S4=
+
+Name: jdisrc/com/sun/jdi/IntegerType.java
+SHA1-Digest: XqT4sz6gJclQCmcqhDukmYuNjeQ=
+
+Name: jdisrc/com/sun/jdi/ArrayType.java
+SHA1-Digest: 5Tf1+B6MCrjczFl6w/yit+54GXo=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/JDIDebugPlugin.j
+ ava
+SHA1-Digest: GSgUrOqnc72y+AUDwy3v33+xcSs=
+
+Name: jdisrc/com/sun/jdi/Value.java
+SHA1-Digest: KPKnD83yjSfgHQKj8ivCzZ+QSq4=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/engine/Array
+ RuntimeContext.java
+SHA1-Digest: iLy8/2tcX4kESeW2BQ6S6n3D+SQ=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushLong.java
+SHA1-Digest: QimBkSrZynUrY6Utq2oBv2LFsVQ=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/connect/PacketSendManager.j
+ ava
+SHA1-Digest: /sZMX553Ca1670QlyuBl67d2rTA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /PushPrimitiveType.java
+SHA1-Digest: MiVvFLtLBoGVXqpNOB8cU1UNv2g=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/VerboseWriter.java
+SHA1-Digest: 7wGjRZl9e//fyTNSJwVX7xaYxWo=
+
+Name: jdimodelsrc/org/eclipse/jdi/internal/VirtualMachineManagerImpl.j
+ ava
+SHA1-Digest: pVysf0IgR27qu6W1qRObDfgGexs=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /Dup.java
+SHA1-Digest: 9GilVSH2jwtDPh/K/39rmLNv9ZA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/core/model/JDIThisVar
+ iable.java
+SHA1-Digest: CosjoWGd9fbdN8E0dqo7tkVmTZA=
+
+Name: jdimodelsrc/org/eclipse/jdt/internal/debug/eval/ast/instructions
+ /MultiplyOperator.java
+SHA1-Digest: 94QuHqmO8O+uQhBAhPPRnuJvh44=
+

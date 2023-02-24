@@ -1,0 +1,222 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.publisher.eclipse;version
+ ="1.0.0.v20110511";roots:="ant_tasks/pdepublishing-antsrc,pdepublishi
+ ngsrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.p2.publisher.eclipse.source
+Bundle-Version: 1.0.0.v20110511
+Bundle-ManifestVersion: 2
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/IBrand
+ ingAdvice.java
+SHA1-Digest: ZS3l8lCer7D98n2hl8W6mD3CdrM=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/build/publisher/Featur
+ eRootAdvice.java
+SHA1-Digest: 2xuhYbyGIzx1OLxfqCedUSBXWR8=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/publishing/Utils.java
+SHA1-Digest: JoeIvqsTL37yxlfrAMyxkb64ucg=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Instal
+ lPublisherApplication.java
+SHA1-Digest: QH+xEf0Odc+aJgRnA8cDHB2xryA=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/compa
+ tibility/IGeneratorConstants.java
+SHA1-Digest: ryhisqDTvQNiJZhoGA7bIBs+zhg=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/IExecu
+ tableAdvice.java
+SHA1-Digest: YAuG2Pw7lOdb8NDWpugj1uJNMQ0=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/build/publisher/BuildP
+ ublisherApplication.java
+SHA1-Digest: pe33VXv9NLWRBblNCPZC74K75l8=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/build/publisher/Gather
+ ingComputer.java
+SHA1-Digest: hddUsvw5Xw9yCYmgblEYfd+bj3I=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/IConfi
+ gAdvice.java
+SHA1-Digest: /AUkGVPLKtY02TydncgfTzDbJPE=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Produc
+ tFileAdvice.java
+SHA1-Digest: wz5gkxtKtWAe+N9WlL5FnJPvBhU=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/BrandingIron.java
+SHA1-Digest: JDl2SArrSpPzwUluSHfcJiLY7PM=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Eclips
+ ePublisherHelper.java
+SHA1-Digest: CuWhW3rPCcjyi45/py7G7XfRE4Y=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/publishing/Activator.j
+ ava
+SHA1-Digest: 4zOYmEO5oqAdWrbD9+xrBH+7m+M=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/build/publisher/Gather
+ FeatureAction.java
+SHA1-Digest: qPFCvSEoawQ0AGCS92ATSrUMhfA=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Featur
+ eEntry.java
+SHA1-Digest: hwA3fX5Yl2dxzVOlZ/VPxJuhrl0=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Equino
+ xExecutableAction.java
+SHA1-Digest: L3zRP/2kVkAgvAquGoGVAb/81+k=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Config
+ Advice.java
+SHA1-Digest: LRTNoK+wy15vWuYyUbLl0hQMrPI=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/publishing/Constants.j
+ ava
+SHA1-Digest: 299/OdwyuoA+kyl/ZrryrZYicFE=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/compa
+ tibility/GeneratorApplication.java
+SHA1-Digest: 6+7s1meinxhTLK9SPvKKvyUPnbA=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/IPlatf
+ ormEntry.java
+SHA1-Digest: 3KvsECmmeci5/KgyhsypIoMrHAc=
+
+Name: ant_tasks/pdepublishing-antsrc/org/eclipse/equinox/internal/p2/p
+ ublisher/ant/AbstractPublishTask.java
+SHA1-Digest: 9aRnqEY86VcuWuPY3SXtwZ1UYSY=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Bundle
+ sAction.java
+SHA1-Digest: J9WQvDJWeUVDshizdi4rqtjeCxc=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/build/publisher/Gather
+ BundleAction.java
+SHA1-Digest: RAZ+KMwV3IAbU9YbcrIXvhIEVvk=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Produc
+ tAction.java
+SHA1-Digest: ZgcahQpjm0yxpIq3najyFcnyde0=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Produc
+ tPublisherApplication.java
+SHA1-Digest: g8WLqa+p2eQcfEwFjcLSuCQMV2E=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/FeatureManifestParser.java
+SHA1-Digest: snEwKaP2eCn1UnPg4GzaaZJUgxI=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/ExecutablesDescriptor.java
+SHA1-Digest: SVk453MMIYSVaxdNaSyaGpmNU70=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Defaul
+ tCUsAction.java
+SHA1-Digest: WrOwhzs8bkQEF6vDgzc2fk/RbLc=
+
+Name: plugin.properties
+SHA1-Digest: UI1c8/DHZOemNuOP1twPPY4GJmY=
+
+Name: ant_tasks/pdepublishing-antsrc/org/eclipse/equinox/internal/p2/p
+ ublisher/ant/TaskMessages.java
+SHA1-Digest: VSmZE6syIp/Kf7aBaH50L3MeNyU=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Featur
+ esAction.java
+SHA1-Digest: bmudf8jQ6y0w5FqL45Kd/6xcwws=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/IBundl
+ eShapeAdvice.java
+SHA1-Digest: piunvkwPfCnTHdJyLaBCqzY8j8c=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/ProductFile.java
+SHA1-Digest: ESUK5tSH/Se1s9fO+UCp8I/rJI0=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Featur
+ esAndBundlesPublisherApplication.java
+SHA1-Digest: 5DtUlr0ZbrrQQeMqhMsapxz2DeU=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Launch
+ ingAdvice.java
+SHA1-Digest: AdKR2CsdmTY+PRkabRnywGyQvyw=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Eclips
+ eInstallAction.java
+SHA1-Digest: PliBSaqRIun/Pn/3rjWgD06UyTY=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/GeneratorBundleInfo.java
+SHA1-Digest: AULhs3HlFFTr7O59UNNR9ADOCss=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Accumu
+ lateConfigDataAction.java
+SHA1-Digest: Qb15DuTBtqxY2PXe16uHlvInugI=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Equino
+ xLauncherCUAction.java
+SHA1-Digest: rklDRJvvfXGiS79CW/UiZns+JQY=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/URLEnt
+ ry.java
+SHA1-Digest: OlIgxjh39hZ4ERcXTYatY2GDBgQ=
+
+Name: ant_tasks/pdepublishing-antsrc/org/eclipse/equinox/internal/p2/p
+ ublisher/ant/PublisherTask.java
+SHA1-Digest: kmMFSfG5aEh95ou5moxGDN1AQt0=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/DataLoader.java
+SHA1-Digest: Dg27M0On5Wt8X09kQI4LO3UVJh4=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Bundle
+ ShapeAdvice.java
+SHA1-Digest: aJTDuxCSOyG9hZ5wpRTAZyKjdnc=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Featur
+ e.java
+SHA1-Digest: QgtTQ+Ic6JSWs8V9umi2fftpgdk=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Config
+ CUsAction.java
+SHA1-Digest: d/YsHw9b6fkGfDAeVp83HcEwb0M=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/IProductDescriptor.java
+SHA1-Digest: BP0rK9s0qG/sFig4je/9KkBXMzw=
+
+Name: pdepublishingsrc/org/eclipse/equinox/internal/p2/publisher/eclip
+ se/FeatureParser.java
+SHA1-Digest: lfooz9V2BEUaeh1Bq096KhwaDg0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: ant_tasks/pdepublishing-antsrc/org/eclipse/equinox/internal/p2/p
+ ublisher/ant/ProductPublisherTask.java
+SHA1-Digest: o+zdNgZLR4vDAZ7EzfumWwuhMCQ=
+
+Name: ant_tasks/pdepublishing-antsrc/org/eclipse/equinox/internal/p2/p
+ ublisher/ant/FeaturesAndBundlesPublisherTask.java
+SHA1-Digest: MwhXf1d/Q/TSCbYzz2tLXFwKs7Y=
+
+Name: pdepublishingsrc/org/eclipse/equinox/p2/publisher/eclipse/Applic
+ ationLauncherAction.java
+SHA1-Digest: 1SVT9mCtgjKVFGN9X2qOize0sSg=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/publishing/Messages.ja
+ va
+SHA1-Digest: M8ovnHFhfM8bFki/rSs51P1gwuY=
+
+Name: pdepublishingsrc/org/eclipse/pde/internal/swt/tools/IconExe.java
+SHA1-Digest: oY+1y03Uu9NeNUlcf5UUOh894p8=
+

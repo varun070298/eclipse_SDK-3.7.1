@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: r7+/GNqHps2HvjCplBctlcrQFyo=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: qSX71GDCDJCsBeF7G4+x4aSWy34=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/jsp/jasper/registry/JSPFactory.java
+SHA1-Digest: 6JpDVUpDE0PteufrORUKqCHiUJk=
+
+Name: about.html
+SHA1-Digest: IMJKsR3Vi9xFUgMu+9YZDYhzI7I=
+
+Name: plugin.properties
+SHA1-Digest: eWihLxTIky38PDcBJBX7Jv5HkPA=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/registry/Activator.java
+SHA1-Digest: 5VML57nF4YcBeUZsyq5f+LYa3IQ=
+

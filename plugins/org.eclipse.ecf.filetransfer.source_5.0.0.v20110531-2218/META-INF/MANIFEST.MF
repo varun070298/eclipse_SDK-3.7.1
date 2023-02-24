@@ -1,0 +1,243 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Eclipse-SourceBundle: org.eclipse.ecf.filetransfer;version="5.0.0.v201
+ 10531-2218";roots="."
+Bundle-Vendor: Eclipse.org - ECF
+Bundle-Name: ECF Filetransfer API Source
+Bundle-SymbolicName: org.eclipse.ecf.filetransfer.source;singleton:=tr
+ ue
+Created-By: 1.5.0_22-b03 (Sun Microsystems Inc.)
+Bundle-Version: 5.0.0.v20110531-2218
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ecf/filetransfer/service/ISendFileTransfer.java
+SHA1-Digest: sH4jCN0SmlyM4p6PEa4Iho25SZg=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransferInfo.java
+SHA1-Digest: 2q+cDCaaYDtFpbZYfNA8EBLkkhI=
+
+Name: org/eclipse/ecf/filetransfer/IOutgoingFileTransfer.java
+SHA1-Digest: EsoRI/kf25WKpNGkrfwgnP2PlDI=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketEventSource.ja
+ va
+SHA1-Digest: hp9VgJmJYYKwg+H9tlnSsGL2wi0=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferEvent.j
+ ava
+SHA1-Digest: m2qCXOnt8MBmHHos/7BqAsCVDwo=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFileSystemBrowserContainerAd
+ apter.java
+SHA1-Digest: vIcuZSesuzrEqtmj8IqZcGq3aQ4=
+
+Name: org/eclipse/ecf/filetransfer/IIncomingFileTransfer.java
+SHA1-Digest: E+iNcBRU3NiNbep1+3UwWVLuboQ=
+
+Name: org/eclipse/ecf/internal/filetransfer/Activator.java
+SHA1-Digest: YBMJ0cd0ylI/PvdESfOcZXg/Evw=
+
+Name: org/eclipse/ecf/filetransfer/FileTransferInfo.java
+SHA1-Digest: Q66xmXW7PfQ7MtnD/nKM9MHUkMo=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferReceive
+ DoneEvent.java
+SHA1-Digest: LRN0lTpxYzduENpKQqOqIqeHfZ8=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransfer.java
+SHA1-Digest: YMayjWtvWO80jzAEOVKO08Vcmxo=
+
+Name: org/eclipse/ecf/filetransfer/events/IRemoteFileSystemBrowseEvent
+ .java
+SHA1-Digest: V25FH6S3oEyQl03cVY3qqAps4Qg=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferSendDon
+ eEvent.java
+SHA1-Digest: PWsghdxayENpq4MPu17umXikTv0=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketCreatedEvent.j
+ ava
+SHA1-Digest: CFtMU1Xa3YlpEoakpWRVvyRuoT4=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferReceive
+ ResumedEvent.java
+SHA1-Digest: uvfyGnUXa6WCV1c/+NNkhHWO8wY=
+
+Name: org/eclipse/ecf/filetransfer/service/IRemoteFileSystemBrowser.ja
+ va
+SHA1-Digest: oRp4naSvfD4Axit5JQMSZi90xAY=
+
+Name: org/eclipse/ecf/filetransfer/service/IRemoteFileSystemBrowserFac
+ tory.java
+SHA1-Digest: FWvhCgT55jWRND6rY/58CHbbewE=
+
+Name: org/eclipse/ecf/filetransfer/events/IFileTransferRequestEvent.ja
+ va
+SHA1-Digest: XEsk3eJT8ORZd0S/nR5U6Yjw5Hw=
+
+Name: org/eclipse/ecf/filetransfer/events/socketfactory/INonconnectedS
+ ocketFactory.java
+SHA1-Digest: lW/P9+hEh+EY9tuwTKsHDLf9DyA=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferReceive
+ StartEvent.java
+SHA1-Digest: 0Xl3O7WIZ3K8GXdr7DxJLw6Yxhc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: schema/urlStreamHandlerService.exsd
+SHA1-Digest: a4CjR2i1eFQWIUaTEvRbiwxf61g=
+
+Name: org/eclipse/ecf/filetransfer/FileTransferJob.java
+SHA1-Digest: 6OfOgaCNYiLtp97k1DiHTFSCIMM=
+
+Name: org/eclipse/ecf/filetransfer/service/IRetrieveFileTransferFactor
+ y.java
+SHA1-Digest: Y5rQ0wVy7Mppy1xjP+SyNlZbHro=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferSendRes
+ umedEvent.java
+SHA1-Digest: XHhzC4De5DrHqB2u2cPCccSwTN4=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketListener.java
+SHA1-Digest: JTOxlqRm72NZhP6X/nw0s0Ac7Cw=
+
+Name: org/eclipse/ecf/filetransfer/IIncomingFileTransferRequestListene
+ r.java
+SHA1-Digest: N1LTRGlDEdXnGh0naWNntnhwEmM=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransferRateControl.java
+SHA1-Digest: SYriZCPYmu6szYp79771PRYEzrE=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferReceive
+ DataEvent.java
+SHA1-Digest: FO08fbWn0Jhmpz6xmpj6OfOvzcI=
+
+Name: org/eclipse/ecf/filetransfer/UserCancelledException.java
+SHA1-Digest: ky7KzsMVp3MHBoMP+vS0ZlrTeGk=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransferListener.java
+SHA1-Digest: 6PSNyqm5Eq+ddztcw0K5Av4rMLA=
+
+Name: org/eclipse/ecf/filetransfer/ISendFileTransferOptions.java
+SHA1-Digest: +JPA0+mZ/BKyEb7QyR+yvkYUDJ4=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferSendDat
+ aEvent.java
+SHA1-Digest: AefafvNthX2hL0pNjmFGpe6lZj0=
+
+Name: org/eclipse/ecf/filetransfer/SendFileTransferException.java
+SHA1-Digest: 5+q0wu1q9rQIE/+gSSNb3iplpJE=
+
+Name: org/eclipse/ecf/filetransfer/events/IFileTransferEvent.java
+SHA1-Digest: ixl4ohgznwjUr5/WxqUd6V6p+MU=
+
+Name: org/eclipse/ecf/filetransfer/BrowseFileTransferException.java
+SHA1-Digest: IqkZxT6GofR7XEyE57u47wtsADE=
+
+Name: org/eclipse/ecf/filetransfer/RemoteFileSystemException.java
+SHA1-Digest: pOvDaUumVMo63447U0011tprihE=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferSendPau
+ sedEvent.java
+SHA1-Digest: mRXb7JO0n3Z47YVYzhywRUxZ4DY=
+
+Name: org/eclipse/ecf/filetransfer/identity/IFileIDFactory.java
+SHA1-Digest: OWuqlxCA9NWljflqqbYAUxuYKhU=
+
+Name: org/eclipse/ecf/filetransfer/IRetrieveFileTransferContainerAdapt
+ er.java
+SHA1-Digest: 6rU88hodeGVZ2o+/HQ/oTvDHjC8=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFileInfo.java
+SHA1-Digest: INP4OjSYUa5hvjCbn0QDHKUtcQM=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferEvent.j
+ ava
+SHA1-Digest: GX4X01s/ECQigA1YzqEJhP+VHi0=
+
+Name: org/eclipse/ecf/filetransfer/service/IRetrieveFileTransfer.java
+SHA1-Digest: V7UiRSVqudhqrEz6Aw6vSpBDgHg=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFileSystemListener.java
+SHA1-Digest: idEI7k11JlE+zujdNWOhhxXQX2A=
+
+Name: org/eclipse/ecf/filetransfer/identity/IFileID.java
+SHA1-Digest: F4s8FUg2blsBuFBvlSNOXifcvy4=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFile.java
+SHA1-Digest: AgOJnuyQxbtH0iOUhdyw7Htu/d4=
+
+Name: org/eclipse/ecf/filetransfer/IFileRangeSpecification.java
+SHA1-Digest: rqWgrU7pG3vf9P/Esu8R1WN8hk0=
+
+Name: org/eclipse/ecf/filetransfer/IncomingFileTransferException.java
+SHA1-Digest: iwnulaeEVLeC1HUJ19uM39NGe+A=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketEvent.java
+SHA1-Digest: 0e8sjj3ErWGbYfobtnYfMNPouQc=
+
+Name: org/eclipse/ecf/filetransfer/identity/FileIDFactory.java
+SHA1-Digest: eMqZrHB72qu0ZRKwl63lay7b1yw=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransferPausable.java
+SHA1-Digest: kZIMEZmGW/u7afpFfnrT8XM2KKM=
+
+Name: org/eclipse/ecf/filetransfer/events/IRemoteFileSystemEvent.java
+SHA1-Digest: lGq3Qk3XuHG9Tceooy2unfjCWyY=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketClosedEvent.ja
+ va
+SHA1-Digest: vFJtCjjBcZNq8j4emUZjLhucU5s=
+
+Name: org/eclipse/ecf/filetransfer/events/IOutgoingFileTransferRespons
+ eEvent.java
+SHA1-Digest: 2/nrNLKXVtKIjet1lvTrqMQMebQ=
+
+Name: org/eclipse/ecf/filetransfer/InvalidFileRangeSpecificationExcept
+ ion.java
+SHA1-Digest: VRcrr0JK0ugZliTP1qxP9Mb9oaw=
+
+Name: about.html
+SHA1-Digest: IQUr+Vpivv+x5SKEmMJMFXmH/q4=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFileSystemRequest.java
+SHA1-Digest: YH2kKwDFlCGXCdPQmY7UxIGyIfk=
+
+Name: org/eclipse/ecf/internal/filetransfer/FileTransferDebugOptions.j
+ ava
+SHA1-Digest: pG+u3ddspFWjDt2yC2Ya4+i/IjI=
+
+Name: org/eclipse/ecf/filetransfer/IRetrieveFileTransferOptions.java
+SHA1-Digest: y7Tguh6d9h5Ql1Pvx5I0R0NWqgI=
+
+Name: org/eclipse/ecf/filetransfer/IFileTransferRunnable.java
+SHA1-Digest: xpZdWoHHqPzwrXz+LJLnQtqIm04=
+
+Name: org/eclipse/ecf/filetransfer/events/IFileTransferConnectStartEve
+ nt.java
+SHA1-Digest: VXw1ln2zDaI5JkQ8UtlSOQ6glOc=
+
+Name: org/eclipse/ecf/filetransfer/service/ISendFileTransferFactory.ja
+ va
+SHA1-Digest: UK273GooOgJMpl/Lw3/34zXoCOg=
+
+Name: org/eclipse/ecf/filetransfer/events/socket/ISocketConnectedEvent
+ .java
+SHA1-Digest: WoCmgvxYdyCnc0KQ85PJqpdYVSY=
+
+Name: org/eclipse/ecf/filetransfer/ISendFileTransferContainerAdapter.j
+ ava
+SHA1-Digest: Jmvta5KIdHtb+Oqk0IKhjwPHUXw=
+
+Name: org/eclipse/ecf/filetransfer/events/IIncomingFileTransferReceive
+ PausedEvent.java
+SHA1-Digest: Hc3VCQsOLUca70BiT0XJHsPKgdc=
+
+Name: org/eclipse/ecf/filetransfer/IRemoteFileAttributes.java
+SHA1-Digest: mjakBCVOaJ0qik6gNz4bFyS768c=
+
+Name: org/eclipse/ecf/filetransfer/identity/FileCreateException.java
+SHA1-Digest: uKssI8KUkTmvxLO4s54F6KHvfOc=
+

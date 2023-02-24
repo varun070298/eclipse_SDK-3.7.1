@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: jhhdlWFMf5hyxukFR/Wctxmh94c=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 8TZSGAA4vs815TZuw5f0Tt3yyDg=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/Application.jav
+ a
+SHA1-Digest: WsiXmmeOdX4p72KiKjoTBg4sWn0=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/Messages.java
+SHA1-Digest: Im9OOfZlkmT5MPHSsjBd9cZ2F4c=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GarbageCollecto
+ r.java
+SHA1-Digest: 8LTLQ5vPR/5+oxX0lAWmiqPPu+A=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/CoreGarbageColl
+ ector.java
+SHA1-Digest: k2p2SjlBRpzweTLDih8ZAYnvTmo=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GCActivator.jav
+ a
+SHA1-Digest: NzhT0v5NlcVqSYElljeb72Bekps=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/MarkSetProvider
+ .java
+SHA1-Digest: J3r5UB3E/q9Th6kSUQf+E65J7wc=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GarbageCollecto
+ rComponent.java
+SHA1-Digest: jepHgo6OGMKhb2/hzx+xrQwqcCY=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/MarkSet.java
+SHA1-Digest: db46XkTCs6AqAsYQ8AmMZF46j0o=
+
+Name: plugin.properties
+SHA1-Digest: i7ohrFM+cT/uUNqOX90txH2Adsk=
+

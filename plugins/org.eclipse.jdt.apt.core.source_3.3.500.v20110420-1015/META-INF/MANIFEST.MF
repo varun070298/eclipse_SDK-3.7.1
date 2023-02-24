@@ -1,0 +1,570 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.apt.core;version="3.3.500.v20110
+ 420-1015";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.apt.core.source
+Bundle-Version: 3.3.500.v20110420-1015
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/MethodDeclarationI
+ mpl.java
+SHA1-Digest: /idJPEZAqk41uj+sL6h0ct/rH3U=
+
+Name: org/eclipse/jdt/apt/core/internal/type/VoidTypeImpl.java
+SHA1-Digest: wSzN3/O6Jl3gF88vD+Fta0zpJG4=
+
+Name: com/sun/mirror/apt/AnnotationProcessorListener.java
+SHA1-Digest: VgurxTFPC99e9sLbhjurHaoPO8A=
+
+Name: mirror-api-license.txt
+SHA1-Digest: FjVXX82ehKZrW+gNEoVQJVT86y4=
+
+Name: org/eclipse/jdt/apt/core/env/EclipseAnnotationProcessorFactory.j
+ ava
+SHA1-Digest: fGxeOdXvUnV2pdNXGnhZ2UW1tyM=
+
+Name: org/eclipse/jdt/apt/core/internal/WkspJarFactoryContainer.java
+SHA1-Digest: fB8yikgMRQ29Sx90k2jSrMyMECA=
+
+Name: com/sun/mirror/declaration/TypeDeclaration.java
+SHA1-Digest: 4JpfFR9ekwG/SHPBNo3XsUnTrO8=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/FileGenerationRe
+ sult.java
+SHA1-Digest: +9TCyhptcJGkHG7wTio/Pw1lDAk=
+
+Name: org/eclipse/jdt/apt/core/internal/util/CharArrayAnnotationScanne
+ r.java
+SHA1-Digest: fLIbaimF6xPJVRk2LSA1yARqlJg=
+
+Name: org/eclipse/jdt/apt/core/internal/env/MessagerImpl.java
+SHA1-Digest: Meq0/o47I9oCH5gd4R7sLsH83pc=
+
+Name: org/eclipse/jdt/apt/core/internal/Messages.java
+SHA1-Digest: FhUdJXTyiU9F6yDuZd5GfiydH7A=
+
+Name: org/eclipse/jdt/apt/core/internal/util/Visitors.java
+SHA1-Digest: qYy5BPBHfIdWfAPHPhAG/99JY4c=
+
+Name: org/eclipse/jdt/apt/core/internal/util/AptCorePreferenceInitiali
+ zer.java
+SHA1-Digest: SA6/09z15Sl6hksLuMJh0X3yOvM=
+
+Name: com/sun/mirror/declaration/ExecutableDeclaration.java
+SHA1-Digest: CpxLZIZmsU2bGnJ9mtlWxbNonm0=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/BinaryParameterDec
+ larationImpl.java
+SHA1-Digest: f2UsdqLGqT8FJGg6NIysPPLpwlU=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/GeneratedFileMan
+ ager.java
+SHA1-Digest: PisJxMy93m4awKolpPWyYv9qAJM=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/TypeDeclarationImp
+ l.java
+SHA1-Digest: j8jwN2PONaGScBG03ccujI9ca2A=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedExecutable
+ DeclarationImpl.java
+SHA1-Digest: FDECswYjgo6dPSfqga2OMOsyHZ0=
+
+Name: com/sun/mirror/declaration/ConstructorDeclaration.java
+SHA1-Digest: MgrKoOVcbZd/OAooX+a0J0osPIo=
+
+Name: com/sun/mirror/declaration/FieldDeclaration.java
+SHA1-Digest: 3IJ1wj4I5+ktKA6ikZ1Sm4NSBMg=
+
+Name: org/eclipse/jdt/apt/core/internal/util/PackageUtil.java
+SHA1-Digest: vCzRI6h3wrYA1oehDGteqgrrLoY=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/EnumConstantDeclar
+ ationImpl.java
+SHA1-Digest: CqFsgLgT4HuJ5q2m1ompTmAWnJM=
+
+Name: com/sun/mirror/apt/RoundState.java
+SHA1-Digest: XBqNzgwCcdstjEJHQg2dcZ7M+Iw=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/FieldDeclarationIm
+ pl.java
+SHA1-Digest: wvdnlD5hX6cSjE6tvipxnU64GDs=
+
+Name: org/eclipse/jdt/apt/core/internal/AptProject.java
+SHA1-Digest: 19U/Jljn1+zcQV75BChJYmng0wg=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedAnnotation
+ ElementDeclarationImpl.java
+SHA1-Digest: Dr6ok/4yTgGL9DZd+x7lRVNeuro=
+
+Name: org/eclipse/jdt/apt/core/internal/util/FileSystemUtil.java
+SHA1-Digest: nnkafFvNP5ETZXIkfp8GXvfPv3s=
+
+Name: com/sun/mirror/type/VoidType.java
+SHA1-Digest: bLdOwbSsobjQh/1IlWaCb8yJMms=
+
+Name: com/sun/mirror/declaration/AnnotationMirror.java
+SHA1-Digest: qWxcgPbYktGD+4A06+aq3UeLk94=
+
+Name: org/eclipse/jdt/apt/core/internal/build/Messages.java
+SHA1-Digest: NobAKL79Xh1ry8OuLrVTLXuGqHM=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedDeclaratio
+ nImpl.java
+SHA1-Digest: GeeHWDGwI5bfWhe37g1YEpTUnJY=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedMethodDecl
+ arationImpl.java
+SHA1-Digest: f+AYcKWwiCIpA3xsDdjO4pe5U1g=
+
+Name: org/eclipse/jdt/apt/core/internal/PluginFactoryContainer.java
+SHA1-Digest: /J9cVR2SSuZTWYS0z+0Hi0I5UhM=
+
+Name: com/sun/mirror/type/ArrayType.java
+SHA1-Digest: P/DLOSqZLELIARVxJz///2/XX14=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/EclipseDeclaration
+ Impl.java
+SHA1-Digest: 0so6hRZ7iH7x4ZzDzdMK9S9MuKw=
+
+Name: org/eclipse/jdt/apt/core/internal/ClassServiceFactory.java
+SHA1-Digest: Ge0nzakjxXB8cyLtnHGleCfDaLs=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/MemberDeclarationI
+ mpl.java
+SHA1-Digest: jgVbPlPaytZuohfj3JNoMh4lauo=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/EclipseMirrorType.
+ java
+SHA1-Digest: vY6Qif0VA3azbowH6mKOwu6oz2U=
+
+Name: org/eclipse/jdt/apt/core/env/EnvironmentFactory.java
+SHA1-Digest: 7jKhKfWFlbiqDK8SFt/vzKIzrvQ=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/AnnotationMirrorIm
+ pl.java
+SHA1-Digest: LnjQxkqm8nS6kxp+E2QjJhGPZ2g=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/SourceParameterDec
+ larationImpl.java
+SHA1-Digest: LU5qk47DTwqnJXeSrKQ6le0SoF0=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/TypeParameterDecla
+ rationImpl.java
+SHA1-Digest: b7h2Q+eSkDpWLP3N4eMz+2iJRyg=
+
+Name: com/sun/mirror/apt/Messager.java
+SHA1-Digest: 5uN5zwqJ4L5g2HhQwkaRrXdtPhg=
+
+Name: com/sun/mirror/util/SimpleTypeVisitor.java
+SHA1-Digest: QralUst+4v56Hc1aqPFbJjrDybI=
+
+Name: org/eclipse/jdt/apt/core/internal/util/ReaderAnnotationScanner.j
+ ava
+SHA1-Digest: 6mobd2FK5JBev7mXwV5O9+E8H5c=
+
+Name: org/eclipse/jdt/apt/core/internal/util/Factory.java
+SHA1-Digest: TDw48etYMhYwoyQndxX3L/rT7us=
+
+Name: org/eclipse/jdt/apt/core/internal/env/JavaSourceFilePrintWriter.
+ java
+SHA1-Digest: eQIAtLBdGFRRoForF/nGcFfTWU4=
+
+Name: com/sun/mirror/util/DeclarationVisitors.java
+SHA1-Digest: oHCaV1RzU9E/PIq9nfgD26wEjrQ=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/DeclarationImpl.ja
+ va
+SHA1-Digest: Omg1ad0qv0XKUsFia2LN3mKcCWA=
+
+Name: org/eclipse/jdt/apt/core/internal/env/APTProblem.java
+SHA1-Digest: Jb7H64T3lziFjnOISwsADZcu3LI=
+
+Name: com/sun/mirror/util/SourceOrderDeclScanner.java
+SHA1-Digest: ds2mbcchyHZyYRg6/y1XozPdI8Q=
+
+Name: com/sun/mirror/type/TypeVariable.java
+SHA1-Digest: n9+qN+LRGSuQoRzGfheXmV5ORn8=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/WorkingCopyClean
+ upListener.java
+SHA1-Digest: 18rCrwKogaJYh8rDihvyVwesnSc=
+
+Name: com/sun/mirror/type/MirroredTypesException.java
+SHA1-Digest: PobJK1JfM+L4vt09YmiTMH5FvpQ=
+
+Name: com/sun/mirror/type/DeclaredType.java
+SHA1-Digest: vgf8BhlmSw+hxtH06T+NUPrtmJ4=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/GeneratedResourc
+ eChangeListener.java
+SHA1-Digest: mXBDXlTEth16qlXni8TKEpQJ8SY=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/GeneratedFileMap
+ .java
+SHA1-Digest: RmGMi+EDuP4KYpcZjAlOZ/Notzc=
+
+Name: org/eclipse/jdt/apt/core/internal/env/NoOpPrintWriter.java
+SHA1-Digest: Tz2BU6PqWi2ShoH3xNc17FiPYr0=
+
+Name: org/eclipse/jdt/apt/core/internal/env/EclipseRoundCompleteEvent.
+ java
+SHA1-Digest: 1T0OUJaF8kWshP7O29kXBaHK4Zo=
+
+Name: org/eclipse/jdt/apt/core/internal/JarClassLoader.java
+SHA1-Digest: oG3c/iTGnH2NbKjeeSXZZo7CHz4=
+
+Name: org/eclipse/jdt/apt/core/internal/env/BaseProcessorEnv.java
+SHA1-Digest: S7ybo8QAoOK8mKHz5ZuClm609aM=
+
+Name: org/eclipse/jdt/apt/core/internal/env/AbstractCompilationEnv.jav
+ a
+SHA1-Digest: Tm2UW8kQABca9Zd4ZG2q3qZ7c5k=
+
+Name: org/eclipse/jdt/apt/core/internal/util/InputStreamAnnotationScan
+ ner.java
+SHA1-Digest: 4FVSYh4DsAtSPFUcvpEn2eRARE8=
+
+Name: com/sun/mirror/type/InterfaceType.java
+SHA1-Digest: ptpLo++Q1HfHR+BTWMB4FhthD94=
+
+Name: com/sun/mirror/apt/AnnotationProcessor.java
+SHA1-Digest: J9zLudoal41FE+VX4+iF8YkUf9k=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedConstructo
+ rDeclarationImpl.java
+SHA1-Digest: 9c31LRu58bW2fje2Ng1/MmUWUFc=
+
+Name: org/eclipse/jdt/apt/core/internal/util/AnnotationScanner.java
+SHA1-Digest: lTgAzlUiZKgXAObevQbTg7XBzqI=
+
+Name: org/eclipse/jdt/apt/core/internal/env/EncodedFileOutputStream.ja
+ va
+SHA1-Digest: jtXbWF3ZGPyQRqpOan0IoyEOdHU=
+
+Name: com/sun/mirror/declaration/InterfaceDeclaration.java
+SHA1-Digest: b/IMd4lPYxHya2pnC8f2Ac5mlT4=
+
+Name: org/eclipse/jdt/apt/core/build/AptBuilder.java
+SHA1-Digest: G4H+52g9lbRzDeJr0mJadYoBZZU=
+
+Name: com/sun/mirror/type/EnumType.java
+SHA1-Digest: uYhNF3GpwPLRPIzxVbGbPZ7JPRM=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/EnumDeclarationImp
+ l.java
+SHA1-Digest: tKzS7tgimmUnwAF4p9pU4yxgv7g=
+
+Name: com/sun/mirror/declaration/MemberDeclaration.java
+SHA1-Digest: j4xCxeOxvDB88DnFxRnXSXjkzXo=
+
+Name: com/sun/mirror/type/PrimitiveType.java
+SHA1-Digest: TfP/2ec62JfxV5XNzEUM2fm0wC0=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/InterfaceDeclarati
+ onImpl.java
+SHA1-Digest: OiG4XOLwpTtXW7Ue7eleZTaAalU=
+
+Name: org/eclipse/jdt/apt/core/build/JdtApt.java
+SHA1-Digest: D0cSiospE3Kf8G+QZEpUz02Lu5s=
+
+Name: com/sun/mirror/declaration/PackageDeclaration.java
+SHA1-Digest: Iu41IETGWCIXv/U9y3/rAgJuXDM=
+
+Name: org/eclipse/jdt/apt/core/internal/util/ScannerUtil.java
+SHA1-Digest: ltHx76HclQu8Jg6GJAHu/0LN7Ao=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/ClasspathUtil.ja
+ va
+SHA1-Digest: GDDSuN611oJH7JZe0tguYqC5Etw=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/PackageDeclaration
+ ImplNoBinding.java
+SHA1-Digest: NyYgqvV7Mh0bDkMwLIiISOZ4BZs=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ExecutableDeclarat
+ ionImpl.java
+SHA1-Digest: yGO9Rc0XPGd5Xkzmn7uGL71f8SE=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedMemberDecl
+ arationImpl.java
+SHA1-Digest: uz4Lt40bR/AIsFtXQivK+0HcTDs=
+
+Name: com/sun/mirror/util/DeclarationFilter.java
+SHA1-Digest: bMQFJG4bZzuv5Nh6HQN1+fYO8qw=
+
+Name: about.html
+SHA1-Digest: gXY9Uy5xgY5d2+IG6l4WrFT4veA=
+
+Name: org/eclipse/jdt/apt/core/internal/type/ErrorType.java
+SHA1-Digest: NuJh85jUmrUfghYp/7cQ2MhWba4=
+
+Name: org/eclipse/jdt/apt/core/internal/AptCompilationParticipant.java
+SHA1-Digest: VOsTDoALsPhDA8pFbxCCefB9Yhg=
+
+Name: com/sun/mirror/type/AnnotationType.java
+SHA1-Digest: TfGhNREOnIfN75m0M/je4scP7Nc=
+
+Name: com/sun/mirror/apt/AnnotationProcessors.java
+SHA1-Digest: 5cztTjNyEfgH/6wgWPjjIMKz93s=
+
+Name: com/sun/mirror/apt/AnnotationProcessorEnvironment.java
+SHA1-Digest: qEQj3WbBNEDq+ax4TNYJpd1kcYo=
+
+Name: org/eclipse/jdt/apt/core/util/IFactoryPath.java
+SHA1-Digest: JCgssr8WnWw9KtRpE9XEk6SH1KA=
+
+Name: com/sun/mirror/apt/RoundCompleteListener.java
+SHA1-Digest: eN3eIyda1mA1whAHxjnfq7X9rds=
+
+Name: org/eclipse/jdt/apt/core/internal/util/FactoryContainer.java
+SHA1-Digest: otk1JC72aFXygWgz6JjYcoxJtT8=
+
+Name: com/sun/mirror/type/ReferenceType.java
+SHA1-Digest: owQ1K/AGGluhX1EzJPp4hBOKBL4=
+
+Name: org/eclipse/jdt/apt/core/internal/NonEclipseImplementationExcept
+ ion.java
+SHA1-Digest: bPoW2HtEgFJmqZI4GTIYKlFpT8w=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/GeneratedSourceF
+ olderManager.java
+SHA1-Digest: PpCRW0Rhp8XlABAvQWjq+7UHEZI=
+
+Name: com/sun/mirror/util/Declarations.java
+SHA1-Digest: K3j5qaXQx8rR3ew9NcZCSx6/7zw=
+
+Name: org/eclipse/jdt/apt/core/internal/ExtJarFactoryContainer.java
+SHA1-Digest: O1FZixME2BRa85LjyK+fygNqIb0=
+
+Name: org/eclipse/jdt/apt/core/internal/AptPlugin.java
+SHA1-Digest: tECjMb6bxjMxyCGnc6CtVtSjY3M=
+
+Name: org/eclipse/jdt/apt/core/internal/util/TypesUtil.java
+SHA1-Digest: FLNdJlLHxKIOCmROqJzrXYTruaE=
+
+Name: com/sun/mirror/util/DeclarationVisitor.java
+SHA1-Digest: 92mA+JoE06QBkhTI/Enn3YhQ8J4=
+
+Name: com/sun/mirror/declaration/EnumConstantDeclaration.java
+SHA1-Digest: TeLqqMMC4n3j3WU+T5APgks9mwE=
+
+Name: org/eclipse/jdt/apt/core/internal/VarJarFactoryContainer.java
+SHA1-Digest: VquUQ+BETp+ZFWd1oOEqq2zOVmU=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/EclipseMirrorObjec
+ t.java
+SHA1-Digest: 58qkOIDk4zy9Q+B6Z8g+/JLt3+s=
+
+Name: org/eclipse/jdt/apt/core/internal/env/NoOpOutputStream.java
+SHA1-Digest: 6ZHFlcZ67bUqg4HpqXnmHXuU2Mo=
+
+Name: org/eclipse/jdt/apt/core/env/EclipseAnnotationProcessorEnvironme
+ nt.java
+SHA1-Digest: uQGT4XtgX4v0eXxCKUlbqDWve4w=
+
+Name: org/eclipse/jdt/apt/core/internal/util/FactoryPath.java
+SHA1-Digest: 30mdhKYBF/Bk4GowjkunWt5CDps=
+
+Name: com/sun/mirror/declaration/ClassDeclaration.java
+SHA1-Digest: OToR4cP7vsr0q/rxFRLNNT858EY=
+
+Name: com/sun/mirror/declaration/AnnotationValue.java
+SHA1-Digest: TdG2nPyp+dZ1lvuGlZtfGSnpCrc=
+
+Name: com/sun/mirror/apt/Filer.java
+SHA1-Digest: /eXddpgMYYRHANqfxdhkvMe5oqU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ClassDeclarationIm
+ pl.java
+SHA1-Digest: Tt9xQoSwWb4Pm1bsw+x8PgwIOjM=
+
+Name: com/sun/mirror/type/WildcardType.java
+SHA1-Digest: JLW/EasHfkFECXto/IpT/nZblEs=
+
+Name: org/eclipse/jdt/apt/core/internal/IServiceFactory.java
+SHA1-Digest: ppKy7+/ahDcnsPS+1Np+vxxdAW4=
+
+Name: com/sun/mirror/declaration/Declaration.java
+SHA1-Digest: ehyuUx1Hi65VQY8jgIFMTY1xAgk=
+
+Name: com/sun/mirror/declaration/MethodDeclaration.java
+SHA1-Digest: 2KYkSP4x5tIxq4jgokhBah4Fq6Y=
+
+Name: org/eclipse/jdt/apt/core/util/EclipseMessager.java
+SHA1-Digest: VUH+Vq0jnHq8I2sdCMEVO5v72T8=
+
+Name: com/sun/mirror/type/MirroredTypeException.java
+SHA1-Digest: kHyF0rXcPko2mj+KBLoDRuWLY0U=
+
+Name: org/eclipse/jdt/apt/core/internal/type/PrimitiveTypeImpl.java
+SHA1-Digest: 6riRgVaGCsnzpB5fr7HGSOzCTc8=
+
+Name: org/eclipse/jdt/apt/core/internal/env/FilerImpl.java
+SHA1-Digest: fQ1zORKR9958HVos4RZhjyfHQpk=
+
+Name: com/sun/mirror/declaration/TypeParameterDeclaration.java
+SHA1-Digest: sOT0W8ISKXnJzKKW3hO806lYIaQ=
+
+Name: org/eclipse/jdt/apt/core/util/AptPreferenceConstants.java
+SHA1-Digest: FxPRIAqb0LkWoOfeuHGSoLX/pqg=
+
+Name: org/eclipse/jdt/apt/core/internal/env/ReconcileFilerImpl.java
+SHA1-Digest: CWgMr29bw3e1Z3jETKSh2BdbqWg=
+
+Name: org/eclipse/jdt/apt/core/internal/env/MarkerInfo.java
+SHA1-Digest: rxtL12qZtIPg05tgFYIDZtcCsk4=
+
+Name: org/eclipse/jdt/apt/core/internal/JarFactoryContainer.java
+SHA1-Digest: 0rajQMS5PBcfUXH/Edz6AuLWNpc=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/PackageDeclaration
+ Impl.java
+SHA1-Digest: EwgzLenIJZ0B46Xs1Q9X/jomp8s=
+
+Name: org/eclipse/jdt/apt/core/env/Phase.java
+SHA1-Digest: Hwde01g+WPfSRi3exG5BEqOuxzg=
+
+Name: org/eclipse/jdt/apt/core/internal/LoadFailureHandler.java
+SHA1-Digest: oE724rIJARruetdBj3M7ec4FQzs=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/AnnotationValueImp
+ l.java
+SHA1-Digest: ygqZplxw+uAQPbTxDO+x6JXGdxA=
+
+Name: org/eclipse/jdt/apt/core/util/AptUtil.java
+SHA1-Digest: ffPJSA+TOSEBAb1+s5ZuC+oFji0=
+
+Name: org/eclipse/jdt/apt/core/internal/util/FactoryPathUtil.java
+SHA1-Digest: J5Xcm8769AAK+fWki7e4y8QgF2g=
+
+Name: org/eclipse/jdt/apt/core/internal/util/DeclarationsUtil.java
+SHA1-Digest: ZAecOM8G4YwPfH6q3hyPAE4qhvc=
+
+Name: com/sun/mirror/util/SourcePosition.java
+SHA1-Digest: j5AboxUHaV1lL/xgn2dPJocB+FY=
+
+Name: org/eclipse/jdt/apt/core/internal/AnnotationProcessorFactoryLoad
+ er.java
+SHA1-Digest: tuM6YP4lKu0oM+W0o9WMg/2ct1k=
+
+Name: com/sun/mirror/declaration/Modifier.java
+SHA1-Digest: juQuo2Gkocd/FJj1xrRjnJgehz8=
+
+Name: org/eclipse/jdt/apt/core/internal/APTDispatchRunnable.java
+SHA1-Digest: N9bUoDWC2m5nJHdSFa45LCmd4SA=
+
+Name: com/sun/mirror/declaration/ParameterDeclaration.java
+SHA1-Digest: 003Dufm0UGSpA/yJIb/akLg9PU0=
+
+Name: com/sun/mirror/declaration/EnumDeclaration.java
+SHA1-Digest: 6KJK8/M/nKshYHy9ZqjLA25zxQA=
+
+Name: org/eclipse/jdt/apt/core/internal/FactoryPluginManager.java
+SHA1-Digest: Ed+hXy2Ck7x1RGDz+3SvCvXlBVE=
+
+Name: plugin.properties
+SHA1-Digest: Jnb5VT4KvJpf+5yEXQ9d7iBlC2c=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/AnnotationDeclarat
+ ionImpl.java
+SHA1-Digest: +V6AjeOSYsYPS2aTWzLW/1ZY7YU=
+
+Name: org/eclipse/jdt/apt/core/internal/env/BuildFilerImpl.java
+SHA1-Digest: 8qRoa5RXNU22ZmjAqOD2cnNEr5I=
+
+Name: org/eclipse/jdt/apt/core/internal/util/SourcePositionImpl.java
+SHA1-Digest: Iat2e1uyqgIRJUe9EApSdi2AcHg=
+
+Name: com/sun/mirror/declaration/AnnotationTypeDeclaration.java
+SHA1-Digest: yIBJm2Rv4TZniqddLcet3c4RvoI=
+
+Name: com/sun/mirror/apt/RoundCompleteEvent.java
+SHA1-Digest: 2d8AYBn3U2uoeVwyp+vTyq74WOY=
+
+Name: com/sun/mirror/declaration/AnnotationTypeElementDeclaration.java
+SHA1-Digest: bLP1UXH0r5VuEQeZVgk51iMAdf8=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ASTBasedFieldDecla
+ rationImpl.java
+SHA1-Digest: zN2w3tYx/WN7LQSJRKL0QTw1WVU=
+
+Name: org/eclipse/jdt/apt/core/internal/env/ReconcileEnv.java
+SHA1-Digest: ew6awmLJ9xw3ek8sMMiE7FaXKfc=
+
+Name: org/eclipse/jdt/apt/core/internal/env/AnnotationInvocationHandle
+ r.java
+SHA1-Digest: QxdaaekY9LFl8WgPCYHj4z0jtKs=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ExecutableUtil.jav
+ a
+SHA1-Digest: KhM/UOYq8JT5Bh2rWNRDpl4+sRE=
+
+Name: org/eclipse/jdt/apt/core/internal/env/BinaryFileOutputStream.jav
+ a
+SHA1-Digest: nfY+HpCHG+Vb2wOir8XvKlpEjpw=
+
+Name: org/eclipse/jdt/apt/core/internal/util/ManyToMany.java
+SHA1-Digest: rucwDyrmxNjMUV+IzHofY7q84zU=
+
+Name: com/sun/mirror/apt/AnnotationProcessorFactory.java
+SHA1-Digest: Z2bjn4Sgfm3YduE1+QLiUwLnBwQ=
+
+Name: com/sun/mirror/type/TypeMirror.java
+SHA1-Digest: u+PNXfUVt8ZGQ0mOHXLdHWxnbRQ=
+
+Name: com/sun/mirror/util/Types.java
+SHA1-Digest: kCMj9Ikz+LH1Fkrkbc3D9Sn0XKg=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/ConstructorDeclara
+ tionImpl.java
+SHA1-Digest: 7FY7tOTNIw98cUbxlFOf7AVTICA=
+
+Name: com/sun/mirror/util/TypeVisitor.java
+SHA1-Digest: KNPv0OmTRN1/T7/Qx9yCbfgBEfk=
+
+Name: org/eclipse/jdt/apt/core/internal/util/Messages.java
+SHA1-Digest: 9ldiZ/iBjUSaB3Ry/s7IZH356jg=
+
+Name: org/eclipse/jdt/apt/core/internal/env/ITypeConstants.java
+SHA1-Digest: WzNVMHxzCkoQ4cB88zeoObwH+RA=
+
+Name: org/eclipse/jdt/apt/core/internal/generatedfile/CompilationUnitH
+ elper.java
+SHA1-Digest: 47+9OGqjBBEOD3o7nOocbc4XZVM=
+
+Name: com/sun/mirror/type/ClassType.java
+SHA1-Digest: VIWT8S7IXzG928fz9hjBqNQWYGI=
+
+Name: org/eclipse/jdt/apt/core/internal/env/EnvUtil.java
+SHA1-Digest: AuvF50b4mhnZysJLYEocVw3yheU=
+
+Name: org/eclipse/jdt/apt/core/util/AptConfig.java
+SHA1-Digest: 3Zr2qOSmmBZqCIMl9b4yO0B3uKQ=
+
+Name: org/eclipse/jdt/apt/core/internal/declaration/AnnotationElementD
+ eclarationImpl.java
+SHA1-Digest: KuKnTuRasAmiL3nXO4TJcJ9gTMc=
+
+Name: org/eclipse/jdt/apt/core/internal/type/WildcardTypeImpl.java
+SHA1-Digest: 4UcAXEIUvt2uUmqCgdKf3atZN/k=
+
+Name: org/eclipse/jdt/apt/core/internal/env/BuildEnv.java
+SHA1-Digest: OLZBYzgOlJv42CN58t4REJRrt7E=
+
+Name: com/sun/mirror/util/SimpleDeclarationVisitor.java
+SHA1-Digest: nUPTPVvmHb4pyYLReZwHLAIl+4E=
+
+Name: schema/annotationProcessorFactory.exsd
+SHA1-Digest: 5f4WN0GZ+a5eXVFI90E31eORRsY=
+
+Name: org/eclipse/jdt/apt/core/internal/type/ArrayTypeImpl.java
+SHA1-Digest: Z5qqUSOR5Lb5xYw0KFGvonaqQOE=
+
+Name: com/sun/mirror/util/DeclarationScanner.java
+SHA1-Digest: DtCkcBk+EmNMHBMOlSc6996QPeg=
+

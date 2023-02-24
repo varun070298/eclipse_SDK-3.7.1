@@ -1,0 +1,120 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.core;version="2.1.0.v2011
+ 0502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.core.source
+Bundle-Version: 2.1.0.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgentProvider.java
+SHA1-Digest: AVClGBgmneDzVPssc9aG/3nBy/8=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Tracing.java
+SHA1-Digest: S8YI2hL9u6EdD7IGaS/aS2P8dBM=
+
+Name: org/eclipse/equinox/internal/p2/core/EventBusComponent.java
+SHA1-Digest: NdVI11ylGhVFalUALRTSzai9cMA=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/OrderedProperties.j
+ ava
+SHA1-Digest: 4Z5MRjMxwcdYxeKhLBG5CcoaFaw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/IProvi
+ sioningEventBus.java
+SHA1-Digest: CIacF0xZLXoRDS1UHB72RNRlhTM=
+
+Name: org/eclipse/equinox/internal/p2/core/Activator.java
+SHA1-Digest: mhKyfgGWjeBGYp8Xq7dDYyN+zFY=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentService.java
+SHA1-Digest: rQulIU43PKSormJ0UTYSOue5r3k=
+
+Name: org/eclipse/equinox/p2/core/ProvisionException.java
+SHA1-Digest: s+qGz9xTSU4LyrKBeqeARrvB3X4=
+
+Name: org/eclipse/equinox/p2/core/WeakPool.java
+SHA1-Digest: W8K/7XIR9HNpQgMBw1DLFLpUkT8=
+
+Name: plugin.properties
+SHA1-Digest: 56bkyPdZnUjRNstpR663DCpzwXE=
+
+Name: org/eclipse/equinox/p2/core/StrongPool.java
+SHA1-Digest: UeFE8RiVxy/k5DYmmvY3Hkz2SJI=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils.java
+SHA1-Digest: EUkw5xiHs04EQoT+cAm01euIcmM=
+
+Name: org/eclipse/equinox/p2/core/UIServices.java
+SHA1-Digest: os30nWM6f0iFrpEJTOjei8FfB1k=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Messages.java
+SHA1-Digest: 9EoxIQ8sz3R/4QuvA//WgPV2Uu4=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/URLUtil.java
+SHA1-Digest: J+QYTWMnysrSR3CkmOVIxUku3RI=
+
+Name: org/eclipse/equinox/p2/core/IPool.java
+SHA1-Digest: 5etErZU9UQbKSo2QjadpkgELcYQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/StringHelper.java
+SHA1-Digest: eRWBSCj8RqNJVYvWxLGIdylAr4E=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Provis
+ ioningListener.java
+SHA1-Digest: UbvXzPmazFQV1m5rrOQgdT4RsAE=
+
+Name: org/eclipse/equinox/internal/p2/core/AgentLocation.java
+SHA1-Digest: vcnU/sIJNCDsCH5omMgv1b/LL/U=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/ServiceHelper.java
+SHA1-Digest: B4gkaG8hPMM/lv6m/raEozGirsE=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningAgent.java
+SHA1-Digest: ixeetmNlda4JYVOxn2LR+PExerY=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarFile.java
+SHA1-Digest: xsJcGpjF2RqQV6Zwy4WvgoNCQRI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentServiceFactory.java
+SHA1-Digest: 5xoLuOdzv539PbFT1dF1/BsLJIk=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarEntry.java
+SHA1-Digest: VA3ME3Va31plSF9dD3bjfRCRSHc=
+
+Name: org/eclipse/equinox/p2/core/IAgentLocation.java
+SHA1-Digest: T6fsxKPPQGegBSmToeT9HRzL2X8=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/CollectionUtils.jav
+ a
+SHA1-Digest: lWYSyMdeHuyGRo+QSuLGBpYWYJo=
+
+Name: org/eclipse/equinox/internal/p2/core/DefaultAgentProvider.java
+SHA1-Digest: tdzYa+PrxgHgyQet1r6D7KmSb7g=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/LogHelper.java
+SHA1-Digest: kc54005d5qKjoMMhrmw7zOaj+bM=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarException.java
+SHA1-Digest: aLjR9nFZnnChzkk34tZqEsqIusQ=
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgent.java
+SHA1-Digest: EOwUT5Ycc3Cte2U4HtBEk5+eSuk=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningEventBus.java
+SHA1-Digest: LRd2H0iFE1lNX+YgSR4f6anJRlA=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Synchr
+ onousProvisioningListener.java
+SHA1-Digest: cwc9n0f6ug1fM5P+nsBDc43ioo0=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarInputStream.java
+SHA1-Digest: kjWm2XGyi4J3fzYZEmJHhi2BXOk=
+

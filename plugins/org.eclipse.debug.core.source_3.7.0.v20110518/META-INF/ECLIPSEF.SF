@@ -1,0 +1,662 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: dHQ3MPRpFCrlUnxvQhW15t1iTfs=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: W/vaPkYs3qTqb9knm2Br0tybbso=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/DefaultS
+ ourceContainerType.java
+SHA1-Digest: Md95xJ6BTnwdJgSzXMjEBYA+jbw=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionDelegate.java
+SHA1-Digest: MSea/ik5c6tHL1HwB9v0PgvTEzY=
+
+Name: org/eclipse/debug/core/DebugPlugin.java
+SHA1-Digest: iGhFLNTj9CL1q7BIkxsDiKzan9s=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/CompositeSourceCo
+ ntainer.java
+SHA1-Digest: Hmse9bRjKltc8ITBPO3IGMFIfck=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/AbstractSourceCon
+ tainerTypeDelegate.java
+SHA1-Digest: /2UntOYPFYx5Y9WG+ilRz7Poi9I=
+
+Name: org/eclipse/debug/internal/core/SystemPropertyResolver.java
+SHA1-Digest: kIca/le79Ypb17tIK2hroLbkjVY=
+
+Name: org/eclipse/debug/internal/core/variables/WorkspaceResolver.java
+SHA1-Digest: ChO/heFS4Jdz+n3UYhjGQcwCXPs=
+
+Name: org/eclipse/debug/internal/core/commands/StepReturnCommand.java
+SHA1-Digest: w+XAFvncEiKiU1usEL1LtebOlYo=
+
+Name: org/eclipse/debug/core/IExpressionListener.java
+SHA1-Digest: N0qijx2JVLPVMfmpxIk9Sbyn7jA=
+
+Name: org/eclipse/debug/core/model/IBreakpoint.java
+SHA1-Digest: FqL3JzAdwfkVpzhCmaK/SQt3iS4=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceContainerType
+ .java
+SHA1-Digest: nObvnhaFhzT+WQDzuQ99LrjppKc=
+
+Name: org/eclipse/debug/core/commands/ISuspendHandler.java
+SHA1-Digest: b8h+y/4/wKTxb+U2t9MNGMcHzzc=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationType.java
+SHA1-Digest: 20UCsxLvw8BKRBT4vZ2A6R2Xkt4=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationListener.java
+SHA1-Digest: VbkkAnK1MlI8h2ViI3yxmFOBDy8=
+
+Name: org/eclipse/debug/core/model/ILogicalStructureTypeDelegate.java
+SHA1-Digest: tarLVzfKz3KJcdzFMv8UYRZKuNs=
+
+Name: org/eclipse/debug/core/model/ILogicalStructureTypeDelegate2.java
+SHA1-Digest: SxoLlxhdjsHkut/g90e+vBH61Pc=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ZipEntryStorage.j
+ ava
+SHA1-Digest: P8dd0xN4p9scSr/3MtFrgyAM5I0=
+
+Name: org/eclipse/debug/core/model/IRegister.java
+SHA1-Digest: 5tDbyMFD8C1F6xYmb4erHu0ObHU=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/Director
+ ySourceContainerType.java
+SHA1-Digest: yeKi+xfHN0tqnbygo+30yc1hoQU=
+
+Name: org/eclipse/debug/core/IStreamListener.java
+SHA1-Digest: U38zy2+7tpk8vkrEP5GXS4EEx1U=
+
+Name: org/eclipse/debug/core/ILaunch.java
+SHA1-Digest: gt33lTFCEmEMcMhzs1Z20UblDlQ=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/External
+ ArchiveSourceContainerType.java
+SHA1-Digest: PM60fZ/VokDjZvGxtBS/XMJNnII=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionListener.java
+SHA1-Digest: ZbQWEsU/D53TVwPvt5JFaZXLf8U=
+
+Name: org/eclipse/debug/internal/core/LaunchConfiguration.java
+SHA1-Digest: tBamIEIj/tWm3A/wD9c6272J3cc=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockRetrievalExtension.java
+SHA1-Digest: ffmvDk4dL2EKVpCO0NpsLA4F/Yo=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockExtension.java
+SHA1-Digest: Wg8J4i4sOMQNR7YqcKv8ovQp1vg=
+
+Name: org/eclipse/debug/internal/core/variables/Messages.java
+SHA1-Digest: rO+8U0LUXJngafLaqwRReSnv7gM=
+
+Name: org/eclipse/debug/internal/core/NullStreamsProxy.java
+SHA1-Digest: XdZivH4YaDh6j0N/owunwop1M9w=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceLookupParticipant.jav
+ a
+SHA1-Digest: BJpYmpZhPApzMlPaHuFz5STGbsM=
+
+Name: org/eclipse/debug/core/model/LineBreakpoint.java
+SHA1-Digest: D/u9E0LbIndQtYMqB+M0wArOd9k=
+
+Name: schema/logicalStructureProviders.exsd
+SHA1-Digest: LcyIBImY6ZT+sH9RH585JtNlCyI=
+
+Name: org/eclipse/debug/core/IBreakpointManagerListener.java
+SHA1-Digest: ehZ3F5NjVz3X9MWe21rZdUctUCI=
+
+Name: org/eclipse/debug/core/IExpressionsListener.java
+SHA1-Digest: NJG7YWxgGXr//4uAV6irGRwxggI=
+
+Name: org/eclipse/debug/core/IDebugEventSetListener.java
+SHA1-Digest: yAIKPKStxk14nkHdWZFz8pBGX6g=
+
+Name: org/eclipse/debug/core/commands/IStepOverHandler.java
+SHA1-Digest: a9W5Uv3XYSIaL9yIY/3V2OUb7K8=
+
+Name: org/eclipse/debug/core/model/IFilteredStep.java
+SHA1-Digest: qAQXM2DT75qRmal/5e0pSTVTX3o=
+
+Name: org/eclipse/debug/core/model/IDisconnect.java
+SHA1-Digest: FgC61b8N0bODgUr8gpKgVAEZ5ys=
+
+Name: org/eclipse/debug/core/RefreshUtil.java
+SHA1-Digest: DErdY+nhUOLJJCjux1O7WXHkvgA=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/Workspac
+ eSourceContainerType.java
+SHA1-Digest: D1QZnZae/sFNjCvY4MUGyPDCWkE=
+
+Name: org/eclipse/debug/core/model/IRegisterGroup.java
+SHA1-Digest: XsYxaVK1PtjPLgk0OLxUxvymCJQ=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationMigrationDelegate.jav
+ a
+SHA1-Digest: AF+TRcYdBnCEDz0aMePKaWVnoeY=
+
+Name: org/eclipse/debug/core/ILaunchesListener2.java
+SHA1-Digest: 1mcPpmettty6QdI2n/P87P8hLt8=
+
+Name: org/eclipse/debug/core/commands/IDebugCommandRequest.java
+SHA1-Digest: VU9kQighHI65sDtG9IG4Z9ydXtA=
+
+Name: org/eclipse/debug/internal/core/DebugCoreMessages.java
+SHA1-Digest: E/fXwNE4xi2Je00Lfxj79xGW9BA=
+
+Name: org/eclipse/debug/core/model/IDebugElement.java
+SHA1-Digest: /XDlT+8AYYydoCBvUVkW5f+PzWQ=
+
+Name: org/eclipse/debug/core/commands/IDisconnectHandler.java
+SHA1-Digest: hFOIJnFS3zBqmuYy6ooiz6wlWv0=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockRetrieval.java
+SHA1-Digest: uck7X1BkX0Qc3laDmA93kj6qKc8=
+
+Name: org/eclipse/debug/core/model/IMemoryBlock.java
+SHA1-Digest: VcAGMbEIvEVOzCD/0m5d5wy/ZiY=
+
+Name: org/eclipse/debug/core/IRequest.java
+SHA1-Digest: oHXtPEbIp1yzRrIFc/lcAfqnMlw=
+
+Name: schema/statusHandlers.exsd
+SHA1-Digest: xvEGB183acHMKXe9xgJuBXmTokI=
+
+Name: org/eclipse/debug/core/commands/IStepFiltersHandler.java
+SHA1-Digest: gk4yYAjvE7stFNqBj+MLOCIMkZY=
+
+Name: org/eclipse/debug/internal/core/WatchExpression.java
+SHA1-Digest: xUFGntnBnupsL7HBR3DJ0a1GH0A=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainerTypeDelegate
+ .java
+SHA1-Digest: L7xa/Lxrv1KdLDy7vP47Iwcv5X8=
+
+Name: org/eclipse/debug/core/model/IStreamsProxy2.java
+SHA1-Digest: 3/OhxEZNaXCBjaAlznR5AmBEcqc=
+
+Name: org/eclipse/debug/core/Launch.java
+SHA1-Digest: iIoENzWBZidtsjh0hdLrjvLqcrQ=
+
+Name: org/eclipse/debug/core/commands/IDebugCommandHandler.java
+SHA1-Digest: JGuRXGzPzOIB6ytCJuINZCmYQTk=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationComparator.ja
+ va
+SHA1-Digest: b4MapF9DVhFdFluDvqCYHbJWlu0=
+
+Name: org/eclipse/debug/internal/core/StreamsProxy.java
+SHA1-Digest: ugvjE+1J4YEF3p0AJjpgjTDYnAg=
+
+Name: org/eclipse/debug/core/model/ILineBreakpoint.java
+SHA1-Digest: wQ9OJwSBcXX2QBGuXRjeHyXxnP8=
+
+Name: org/eclipse/debug/core/model/ISuspendResume.java
+SHA1-Digest: sxwtgw2eqYLm5/emjMSoJNi1B1Y=
+
+Name: schema/breakpointImportParticipants.exsd
+SHA1-Digest: d4n9V37cE1SjvTP5je5Drff6vzE=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/FolderSo
+ urceContainerType.java
+SHA1-Digest: +oeMdmYOOw4C+ZSJ3sR1iAFetmw=
+
+Name: org/eclipse/debug/internal/core/InputStreamMonitor.java
+SHA1-Digest: cQ2JnGIHBAECN+c+90+EB/Nue1U=
+
+Name: org/eclipse/debug/internal/core/RefreshScopeComparator.java
+SHA1-Digest: Gj8UaF/PiHBcYNo639yfoM/0dic=
+
+Name: org/eclipse/debug/internal/core/commands/Request.java
+SHA1-Digest: Vxus/OJSZn3z2ECfxxc9/kVPC0Y=
+
+Name: org/eclipse/debug/internal/core/BreakpointImportParticipantDeleg
+ ate.java
+SHA1-Digest: Cgp7Pv4E09aLw3Qf0EzNWvrePxE=
+
+Name: org/eclipse/debug/core/IBreakpointManager.java
+SHA1-Digest: YK6SfkzoZS59LIppHqdFGAjm7eY=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureType.java
+SHA1-Digest: xpMdt8fgoOLP/dtBh8ybnRBtymk=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ProjectSourceCont
+ ainer.java
+SHA1-Digest: WDfHMyU5G3RFlIEdz540uDdPfCY=
+
+Name: org/eclipse/debug/core/model/MemoryByte.java
+SHA1-Digest: fJ6ozsGzAq7lJgoIRkrQTzw0DdQ=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager.java
+SHA1-Digest: KdJGv59m8JjdLBKILbLLwZbObsE=
+
+Name: org/eclipse/debug/core/model/IStep.java
+SHA1-Digest: qi+B5JlS6FWNmUsb8CvZAAhqR90=
+
+Name: org/eclipse/debug/core/model/IThread.java
+SHA1-Digest: 6hIqIyKicIiTaEq+M+Zakjo2WF8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/debug/core/commands/IDropToFrameHandler.java
+SHA1-Digest: LsOpTaNVwsqdC+nhLPAYVkiMsVk=
+
+Name: org/eclipse/debug/core/IMemoryBlockManager.java
+SHA1-Digest: d6eTibfyy6ZFVGvSEOfUFPp1xxc=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourcePathComputer.
+ java
+SHA1-Digest: CGGZl3NoBLBEwOii86p1AMMmJz4=
+
+Name: org/eclipse/debug/internal/core/commands/TerminateCommand.java
+SHA1-Digest: JU0oYJ43SLZTkL3RuGEg5BDPzms=
+
+Name: org/eclipse/debug/internal/core/commands/ResumeCommand.java
+SHA1-Digest: UKr2lbDWbEe2YHtC15gblywMoS0=
+
+Name: schema/launchers.exsd
+SHA1-Digest: YDCNQzBn2Te9PsGVNWl2R2eLUwA=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLocatorMement
+ oComparator.java
+SHA1-Digest: 5SIxHIIzqlBG2Q8stoDVXi80vJ0=
+
+Name: org/eclipse/debug/core/ILaunchDelegate.java
+SHA1-Digest: fT9ksU2j3FlIeD/68WsWgYPe+p4=
+
+Name: org/eclipse/debug/core/commands/IEnabledStateRequest.java
+SHA1-Digest: 7dQTNJYUcjhcmrxXLcC2CCHGHgk=
+
+Name: org/eclipse/debug/internal/core/commands/ForEachCommand.java
+SHA1-Digest: zKTTwvdy0xewtbDlVFQqrCm3jSw=
+
+Name: org/eclipse/debug/core/model/IBreakpointImportParticipant.java
+SHA1-Digest: eHTIDsBlsFFm0yll94pEASZlpe0=
+
+Name: org/eclipse/debug/core/IMemoryBlockListener.java
+SHA1-Digest: 4ROSOpYb+kFspAe7YgjoslKWtwA=
+
+Name: org/eclipse/debug/core/sourcelookup/IPersistableSourceLocator2.j
+ ava
+SHA1-Digest: eGgVR1sIUhOaFbD96ZQQih0JKYw=
+
+Name: schema/breakpoints.exsd
+SHA1-Digest: ky2AH+vyn+8Jjy19iFbf/NdJjO4=
+
+Name: org/eclipse/debug/internal/core/XMLMemento.java
+SHA1-Digest: Mv7eflS0lkBNnqlQzj1/pO17Jw0=
+
+Name: org/eclipse/debug/core/IExpressionManager.java
+SHA1-Digest: rjEbLZvOwWR/8FlDPaH4JKfZFww=
+
+Name: org/eclipse/debug/core/model/IStepFilters.java
+SHA1-Digest: rJuVwvsdPSfOlbWIs0uzmxGa+7k=
+
+Name: org/eclipse/debug/core/ILogicalStructureType.java
+SHA1-Digest: hfKhJuAQcRzy0MM+v4Y0nNjdJUs=
+
+Name: org/eclipse/debug/internal/core/ExpressionManager.java
+SHA1-Digest: a9bQQ3VvvTN/KWvF38inmAHmQOw=
+
+Name: org/eclipse/debug/core/model/IStackFrame.java
+SHA1-Digest: 7itAFahxtecQh0WP4fyZuqYZIsY=
+
+Name: org/eclipse/debug/internal/core/commands/StepIntoCommand.java
+SHA1-Digest: 4dHgahs+eyiDj8zsuZ53KoYqrTc=
+
+Name: org/eclipse/debug/internal/core/LaunchDelegate.java
+SHA1-Digest: 3M4tAwijudCZIxyFt+8ncq99FMc=
+
+Name: plugin.properties
+SHA1-Digest: lKh8rkEA2ivDzG5DJpIvTY7jYtQ=
+
+Name: schema/logicalStructureTypes.exsd
+SHA1-Digest: 4fhnF5UriKzVIl0NI/Az8yIRic4=
+
+Name: org/eclipse/debug/internal/core/SystemVariableResolver.java
+SHA1-Digest: EpvkXhOW1FZwOMgPAkt6/TxlJTk=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/ProjectS
+ ourceContainerType.java
+SHA1-Digest: XgHeELELYGiU9D6B15ka2ciWtHg=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureManager.java
+SHA1-Digest: OwVS2gj2iJ+BrlmplugS2mAwKD4=
+
+Name: org/eclipse/debug/core/model/DebugElement.java
+SHA1-Digest: Ose3EWTHRpyr65AjY8Jplv0ESIE=
+
+Name: org/eclipse/debug/core/ILaunchListener.java
+SHA1-Digest: NgxdHcNF1CmLk/usAv/2tMZI7pk=
+
+Name: org/eclipse/debug/core/model/IProcess.java
+SHA1-Digest: HN2VeePP68f3ZuA3Rw2p0hev6Ws=
+
+Name: schema/launchDelegates.exsd
+SHA1-Digest: 8kZu49qpAzPQH0YUwudnw9H4xII=
+
+Name: org/eclipse/debug/core/commands/IStepReturnHandler.java
+SHA1-Digest: ZNJfu04FRzZJqFd2awfOKgvuqjc=
+
+Name: org/eclipse/debug/core/model/IIndexedValue.java
+SHA1-Digest: CSGpOm+bqOFGp9Hy6nPZcCUKeQs=
+
+Name: schema/sourceContainerTypes.exsd
+SHA1-Digest: 1S9YnWRflb/7sZvS7ANiEpUN4SI=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/DirectorySourceCo
+ ntainer.java
+SHA1-Digest: U7voeMOMjXxwOVnvouT2GkFFb3Q=
+
+Name: org/eclipse/debug/core/model/IStreamMonitor.java
+SHA1-Digest: 6ObGwtk9cXFZu4jaO0QmpFleJAM=
+
+Name: org/eclipse/debug/internal/core/DebugOptions.java
+SHA1-Digest: thiA8/yy4BMAaFSeyocLgv0KX+Q=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/FolderSourceConta
+ iner.java
+SHA1-Digest: tR6JyFTLkMSPQcYbdkuH2Mo4Kcw=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ExternalArchiveSo
+ urceContainer.java
+SHA1-Digest: Y9ubTPlKx+CuhfI+7ec6iaamUrg=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainerType.java
+SHA1-Digest: aoR5Xhnu2fVhqyew0FDVoacNhnU=
+
+Name: schema/launchModes.exsd
+SHA1-Digest: fLLY3bu8eyzJYLmHiI/nJw1jkkg=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ContainerSourceCo
+ ntainer.java
+SHA1-Digest: issJe8rx6Cg2pVXU4mMZCIR80T4=
+
+Name: org/eclipse/debug/core/IDebugEventFilter.java
+SHA1-Digest: Af89bljtFw0PvH53ZiFeQBI3BwY=
+
+Name: org/eclipse/debug/internal/core/PreferredDelegateModifyListener.
+ java
+SHA1-Digest: 3OvvZtWSJPsujbiFLKGdHiEiFRQ=
+
+Name: schema/launchConfigurationTypes.exsd
+SHA1-Digest: oxLgQFCT+hvI45thuMz3J90/Gyc=
+
+Name: org/eclipse/debug/core/model/IDropToFrame.java
+SHA1-Digest: pFWu0Y8SA58pnCeXZcREEYypeGo=
+
+Name: org/eclipse/debug/core/model/RuntimeProcess.java
+SHA1-Digest: DmVvsK50bt5UBWitMJkWue9TKBc=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainer.java
+SHA1-Digest: ZkhougvB9P9aQHAg3ZXkjEv1LG0=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/WorkspaceSourceCo
+ ntainer.java
+SHA1-Digest: MclBDM5ssnQo09tc/SQcr0S79m8=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceLookupDirector.java
+SHA1-Digest: AFeRvsxgQd2dbIRHA0OENJvv5X4=
+
+Name: org/eclipse/debug/internal/core/LaunchablePropertyTester.java
+SHA1-Digest: apxYkOyEPSSUbKAaZ4Hqk9U92po=
+
+Name: org/eclipse/debug/internal/core/commands/CommandAdapterFactory.j
+ ava
+SHA1-Digest: v6eLRMPFt1JJagrv78vq9WkUPio=
+
+Name: org/eclipse/debug/core/model/IDebugModelProvider.java
+SHA1-Digest: KIRWi4vgmYXILgScnxV/1/b8JGg=
+
+Name: org/eclipse/debug/core/DebugEvent.java
+SHA1-Digest: ocrrkc2jCC52KeKukaVB7NLn7M0=
+
+Name: schema/sourceLocators.exsd
+SHA1-Digest: bPTYXRarqqXidLWtlFa66wEDI3E=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationInfo.java
+SHA1-Digest: VFuiMOqbK8yzlx9+4Ff3gOttAGo=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionResult.java
+SHA1-Digest: dgqDjfRTeJT+kyynBDyKc5tqUa4=
+
+Name: org/eclipse/debug/internal/core/IExpressionsListener2.java
+SHA1-Digest: jRGPpnoJPsRScpvVV2He38dfvUI=
+
+Name: org/eclipse/debug/internal/core/commands/DebugCommandRequest.jav
+ a
+SHA1-Digest: B1ObLgLRB12U8+MeVcUJxetBSGs=
+
+Name: org/eclipse/debug/internal/core/commands/StepOverCommand.java
+SHA1-Digest: kSB51R7vQQhX+BimWTNtlo+CjxI=
+
+Name: org/eclipse/debug/internal/core/ResourceFactory.java
+SHA1-Digest: sRuvVEqvPjBCXY9ANesJ6eQB5Wg=
+
+Name: org/eclipse/debug/internal/core/MemoryBlockManager.java
+SHA1-Digest: dPXbHVLwCX+zEMex4dnNgx1+w3g=
+
+Name: org/eclipse/debug/internal/core/IConfigurationElementConstants.j
+ ava
+SHA1-Digest: 9Ikxpi9dtlNcXfXEqdf5eQ3x3+o=
+
+Name: org/eclipse/debug/core/model/ILaunchConfigurationDelegate.java
+SHA1-Digest: YBnmrgkhE+2E6adiJ49I7S1KKHA=
+
+Name: org/eclipse/debug/internal/core/commands/StepCommand.java
+SHA1-Digest: qP8xi/7VcmYUbzEV2CVaFmbqdzs=
+
+Name: org/eclipse/debug/core/IProcessFactory.java
+SHA1-Digest: kJJFBj0rReQDH2RDJfs5Sa8ShKQ=
+
+Name: org/eclipse/debug/core/sourcelookup/AbstractSourceLookupParticip
+ ant.java
+SHA1-Digest: YIuztmJOsZbmka70vTim0+y7Rg8=
+
+Name: org/eclipse/debug/internal/core/variables/ProjectResolver.java
+SHA1-Digest: EkEOxKque+RlaFK8808jKaVcXtI=
+
+Name: org/eclipse/debug/core/model/ISourceLocator.java
+SHA1-Digest: B1gU41A5E1S0zJk/sQTJ9c3DPu0=
+
+Name: org/eclipse/debug/internal/core/variables/ResourceResolver.java
+SHA1-Digest: 7GBYsXLTuqjbQ7dRaoKKo4dwu/Y=
+
+Name: org/eclipse/debug/core/model/Breakpoint.java
+SHA1-Digest: 2Pmi+4kmwvH0AFAU8HHYpYKTf+c=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/LocalFileStorage.
+ java
+SHA1-Digest: W4i5Cc3PeNHcI9P8oOdVPOVZxNY=
+
+Name: org/eclipse/debug/internal/core/commands/StepFiltersCommand.java
+SHA1-Digest: K+Nt4LxGeUa629yLQXPS5xOPv+E=
+
+Name: schema/watchExpressionDelegates.exsd
+SHA1-Digest: AMz6MLQweUOqbWnCTRKlWj+lL3Y=
+
+Name: org/eclipse/debug/core/ILaunchManager.java
+SHA1-Digest: Sl+kOHi97sWONNlLcX3kXUweSNg=
+
+Name: org/eclipse/debug/internal/core/IMementoConstants.java
+SHA1-Digest: A54+d7Wqi4lKudBVWmDttu9ntSg=
+
+Name: org/eclipse/debug/core/IBreakpointListener.java
+SHA1-Digest: 5cd2V/iV1Mf08qm4mAkYAvv/ysY=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourcePathComputer.java
+SHA1-Digest: J2q4IXBBNSswbl7k/dNw/TEMJD8=
+
+Name: org/eclipse/debug/internal/core/Preferences.java
+SHA1-Digest: jKhLSX25sONZ7iKSAPzlKk9tR+Y=
+
+Name: schema/sourcePathComputers.exsd
+SHA1-Digest: HIVurR2KbZpKvcRtwVrkl0iGR+8=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/debug/core/ILogicalStructureProvider.java
+SHA1-Digest: ztMdvWfJO3rmYSs998xWsHbHCiA=
+
+Name: org/eclipse/debug/internal/core/LaunchMode.java
+SHA1-Digest: vVYLrQYTdmyiBMMbte0zmTfaNAM=
+
+Name: org/eclipse/debug/core/model/LaunchConfigurationDelegate.java
+SHA1-Digest: DE+Vl9Nh2dDUYhmdQVUGNYtkWmY=
+
+Name: org/eclipse/debug/core/model/IErrorReportingExpression.java
+SHA1-Digest: uE0x+/qnNqrP0T4SiP61vEGvdRY=
+
+Name: org/eclipse/debug/core/commands/IRestartHandler.java
+SHA1-Digest: vS5FdqWefGVoXWSDTxIg0tVCs5U=
+
+Name: org/eclipse/debug/core/ILaunchConfiguration.java
+SHA1-Digest: UMgPCOyqiI6A0o/gszQrjQs3tWU=
+
+Name: org/eclipse/debug/internal/core/IInternalDebugCoreConstants.java
+SHA1-Digest: JKswe9D3M7O+CcYfij5BKge3tR4=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/ArchiveS
+ ourceContainerType.java
+SHA1-Digest: b3b9RmPbHHBU+Ljkv2GoUrut6CU=
+
+Name: org/eclipse/debug/core/commands/ITerminateHandler.java
+SHA1-Digest: L5kdeUAilTzRN10nH9ximNkgjSU=
+
+Name: org/eclipse/debug/internal/core/commands/SuspendCommand.java
+SHA1-Digest: 3iA7d791bLLwjRnEAxRqQqlEot4=
+
+Name: org/eclipse/debug/core/model/IWatchExpression.java
+SHA1-Digest: KAYCrFBniG4SyuoOhvubaoL7V1U=
+
+Name: org/eclipse/debug/internal/core/commands/DropToFrameCommand.java
+SHA1-Digest: k8Oxzb1Qdr+ZQb/5uja4mYEqu9U=
+
+Name: org/eclipse/debug/core/model/IStreamsProxy.java
+SHA1-Digest: mL8aMQNoKe98sDxMZttRqHuOrQQ=
+
+Name: org/eclipse/debug/core/DebugException.java
+SHA1-Digest: 3EILtIkqJexX9LFKc90GDncCu/A=
+
+Name: org/eclipse/debug/internal/core/StepFilterManager.java
+SHA1-Digest: XM/5mXtufOOMYeGKOscihV7wOv0=
+
+Name: org/eclipse/debug/internal/core/commands/DisconnectCommand.java
+SHA1-Digest: /ziGeDyEBNuw31t6G0YkyqlEXC8=
+
+Name: org/eclipse/debug/core/IStatusHandler.java
+SHA1-Digest: MwxIY9AWTW03yuEPjdmceMAbo9I=
+
+Name: org/eclipse/debug/core/model/IValue.java
+SHA1-Digest: omnSszvxSEdFEmKgbFcYciDZbeI=
+
+Name: org/eclipse/debug/core/model/IPersistableSourceLocator.java
+SHA1-Digest: uGG/TRiieNNgHcpTNOjeZcMGm/8=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupUtils.j
+ ava
+SHA1-Digest: A8BwX9Ax5zhWHirEJyl7of3GiuU=
+
+Name: org/eclipse/debug/core/model/ILaunchConfigurationDelegate2.java
+SHA1-Digest: UJWC3AFMare8I1f5f4ZCKZprnUU=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationWorkingCopy.java
+SHA1-Digest: OWH4sqEcl/3DzrTYUiGgmuZwmKk=
+
+Name: org/eclipse/debug/internal/core/EnvironmentVariableResolver.java
+SHA1-Digest: P+4Qh8PnfdXooveNiuQxew/JRAE=
+
+Name: schema/processFactories.exsd
+SHA1-Digest: Jdi5recYFCf6AwslDxaL0GMH6JU=
+
+Name: org/eclipse/debug/core/model/IDebugTarget.java
+SHA1-Digest: 0omO/EVvskdpaux7+Kr3pisaJ3o=
+
+Name: org/eclipse/debug/internal/core/variables/ContainerResolver.java
+SHA1-Digest: fjAd7nd7unAtJDpOQJoO1RWrbYo=
+
+Name: org/eclipse/debug/internal/core/DebugPreferenceInitializer.java
+SHA1-Digest: KkZdoJKc7f4S+taVtJEG08UjWxE=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/AbstractSourceCon
+ tainer.java
+SHA1-Digest: hr3GZCGaij8fX3VP8dTOALwrZNg=
+
+Name: org/eclipse/debug/core/model/ITerminate.java
+SHA1-Digest: m8+SYSoBjbGOwecihflD5U1pVrc=
+
+Name: org/eclipse/debug/core/ILaunchesListener.java
+SHA1-Digest: e4DUOoF7FGwYcfGLLBjCXMPxbpo=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationWorkingCopy.j
+ ava
+SHA1-Digest: /O5zIMPpZarktX5b+jcWRGd0qIw=
+
+Name: org/eclipse/debug/internal/core/OutputStreamMonitor.java
+SHA1-Digest: MeUckhrJ6722xXwScD41S96uGN8=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/DefaultSourceCont
+ ainer.java
+SHA1-Digest: 66bgZ+b7x+jgNIZDJ6NIMhlPIuU=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ArchiveSourceCont
+ ainer.java
+SHA1-Digest: ZHFRdJAA60fgRmoQ5y3uKlbDZCE=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureProvider.java
+SHA1-Digest: dzWvO4hqZNBC/tXLvcOauJW2d8U=
+
+Name: org/eclipse/debug/core/ILaunchMode.java
+SHA1-Digest: KMmPQZINcGi0lBdf2dgBw7+7OZU=
+
+Name: org/eclipse/debug/core/commands/IStepIntoHandler.java
+SHA1-Digest: zBW5Twi8zrK8vOhkTWf2k+UE9RA=
+
+Name: org/eclipse/debug/core/model/IExpression.java
+SHA1-Digest: +hdTuAM2y02epUy4AQ6nexV2Mto=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationType.java
+SHA1-Digest: my1Y1hZC/WcM3OWA8RKgM7aJv2w=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourcePathComputerDelegate.
+ java
+SHA1-Digest: qSOXi57dxirpLvZmc1+Q2+fJ+yU=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupMessage
+ s.java
+SHA1-Digest: 1ew5lAd3Z4o91JDg99kkR5s/Blk=
+
+Name: org/eclipse/debug/core/IBreakpointsListener.java
+SHA1-Digest: KSKB35XJaYI2/vKrsvyfkAFuFCc=
+
+Name: org/eclipse/debug/internal/core/LaunchManager.java
+SHA1-Digest: KWdhFHso/dOtUgrzNMjk+/xBCrU=
+
+Name: org/eclipse/debug/core/model/IValueModification.java
+SHA1-Digest: 8ZbAEZa34t0Ov61i4ApApYnEIHM=
+
+Name: schema/launchConfigurationComparators.exsd
+SHA1-Digest: qjGIWwTUfW8e7pfZH9y26G3wNzs=
+
+Name: org/eclipse/debug/core/model/IWatchpoint.java
+SHA1-Digest: WL8LSe5Nfu1aUZ651Q0T/lU6pyE=
+
+Name: org/eclipse/debug/core/commands/AbstractDebugCommand.java
+SHA1-Digest: kTnG1cdb4VhN7nZ5leex/aI8bcc=
+
+Name: org/eclipse/debug/core/model/IFlushableStreamMonitor.java
+SHA1-Digest: XPART28yDLY6lL9SHxykh0PsfiI=
+
+Name: org/eclipse/debug/core/model/IVariable.java
+SHA1-Digest: tRisRcs7SZ9ANjKXw4ReVvOvsqE=
+
+Name: org/eclipse/debug/core/sourcelookup/AbstractSourceLookupDirector
+ .java
+SHA1-Digest: XvZynl10Aq/A6Am3jION+ClmZU0=
+
+Name: org/eclipse/debug/core/commands/IResumeHandler.java
+SHA1-Digest: Kqt6qOQWJP/FDpXww2Q1zFoOT1M=
+

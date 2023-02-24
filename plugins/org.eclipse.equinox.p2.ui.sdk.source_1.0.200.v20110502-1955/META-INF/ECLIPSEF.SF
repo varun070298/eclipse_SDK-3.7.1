@@ -1,0 +1,61 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Marn0MmhSl4d+P2cKG6295ue018=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: HN4mj72FgS8pLdb29PWYoAp3hxE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/PreferenceConstants
+ .java
+SHA1-Digest: Hik/zCKFqHsbW74sE4XYZ7uRfX4=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/SimpleLicenseManager.java
+SHA1-Digest: qd9q7nFjjkInjHzDEMEytOpV22U=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: IGIyNxtB0GoHMzA1vAawgSMINsc=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/SDKPolicy.java
+SHA1-Digest: 9QFyHwr3yvN8NvrDkxfx9Wx+30Y=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/ProvisioningPrefere
+ ncePage.java
+SHA1-Digest: 6/1ceSyWb9SOfJEwaVpLfbevVbI=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/PreferenceInitializ
+ er.java
+SHA1-Digest: hF8kYWMG2IsCgISu1i6gcP4W0Pc=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/PreloadingRepositoryHandl
+ er.java
+SHA1-Digest: RlBkIN4h2FivVdYXd1l3wee0424=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/IProvSDKHelpContextIds.ja
+ va
+SHA1-Digest: Hos4rDk0VauTLKkFXW8HUkldpR0=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/ProvSDKUIActivator.java
+SHA1-Digest: uNavjc63ZT0S4gr58erwcvpZY90=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/UpdateHandler.java
+SHA1-Digest: an0EX1u5TZiRH9WnTQbjhrxCpRU=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/RevertProfilePageWithComp
+ are.java
+SHA1-Digest: TrBwQbSTXwpYeJbnAIuEl5ywo1A=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/RevertProfilePageExtensio
+ nFactory.java
+SHA1-Digest: 2XWnJf/MrZpcXsJLfbQWJgkyDEU=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/InstallNewSoftwareHandler
+ .java
+SHA1-Digest: WmE1EEKWYkT1675Kv++zBA2BZKU=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/ProvSDKMessages.java
+SHA1-Digest: sKNmiEUkJJ7E7T0fR6tedRIHCZM=
+

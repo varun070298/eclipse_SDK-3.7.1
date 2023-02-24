@@ -1,0 +1,167 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: FKPpZhk9p0CDzHIuwUkfOLZipLI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 4NFICu7WfB7XZwhecFBnhCZAmV0=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousBeanSetProp
+ erty.java
+SHA1-Digest: ED658RbaIBK/E/TvkDoM6x5N6uM=
+
+Name: org/eclipse/core/databinding/beans/IBeanListProperty.java
+SHA1-Digest: NB0moMkwfJgYoxX+LJa2goK9dhg=
+
+Name: org/eclipse/core/databinding/beans/PojoObservables.java
+SHA1-Digest: KOG3ztD1T2unCw2Yn43ui3zYy2U=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanPropertyListener
+ .java
+SHA1-Digest: FqYV8gaxYgDy6dl2yzrtu5zqCHY=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanMapProperty.java
+SHA1-Digest: mtUUoa2DLfBrGCUWjVlNFFl6960=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoListProperty.jav
+ a
+SHA1-Digest: aTxfoY67trwtC/Z2ItF8jy0HS0I=
+
+Name: org/eclipse/core/databinding/beans/IBeanValueProperty.java
+SHA1-Digest: CI7lk8LR+RcESwf+zwKG0KfeGEk=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousBeanMapProp
+ erty.java
+SHA1-Digest: sLJTJYJ9X+6kX23quG+eCTgda1U=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanPropertyHelper.j
+ ava
+SHA1-Digest: I/9OsuO9dfLhX0zPN6Yd0jdVpyA=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanListPropertyDeco
+ rator.java
+SHA1-Digest: Z1e5pXWYgMrIGbGggB+sh4SO4kI=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoMapPropertyDecor
+ ator.java
+SHA1-Digest: 6LdIW0pbB25g+b005xBdrt0RVms=
+
+Name: plugin.properties
+SHA1-Digest: 0Oz6239LvPkepXzjLlzwqhxUr6Y=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanValueProperty.ja
+ va
+SHA1-Digest: 84j0O9rjVrVG9Ye0OTtsQZbUNXg=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanPropertyListener
+ Support.java
+SHA1-Digest: tDD83YQT1FJ+116l3agn2aVBFaA=
+
+Name: org/eclipse/core/databinding/beans/IBeanObservable.java
+SHA1-Digest: 8nW2RTYPl8az7m7PDHtAtu47bj4=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoSetProperty.java
+SHA1-Digest: mwlFE1cmALzDw5bClUfdmBdiFL8=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousBeanValuePr
+ operty.java
+SHA1-Digest: E+ruFN70A4WC1+FTyoOFXxkT8zs=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoSetPropertyDecor
+ ator.java
+SHA1-Digest: JfLsKqEB3suDOgqbjIHX2AhWnyc=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousPojoSetProp
+ erty.java
+SHA1-Digest: 2fGNbzRNhFBHnCwA3hZ+Yl0DQ34=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoMapProperty.java
+SHA1-Digest: cAofb2u2FecK0hU2RR4WImk7MCM=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanListProperty.jav
+ a
+SHA1-Digest: idv+tgOIblJG8vFtkABUlcHXHjE=
+
+Name: org/eclipse/core/internal/databinding/beans/Util.java
+SHA1-Digest: xj/FomeOLmCIwzYVjCW0AaKXriY=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousPojoMapProp
+ erty.java
+SHA1-Digest: o8o4FL1TBtlMKyPExv6zbivid7g=
+
+Name: org/eclipse/core/databinding/beans/PojoProperties.java
+SHA1-Digest: L6mVY8PU0mbPrF07sqqLYJKhskI=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanMapPropertyDecor
+ ator.java
+SHA1-Digest: GFIeHfQKxNGhOR87eMBRkyoGr9s=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousPojoListPro
+ perty.java
+SHA1-Digest: wuelskwhcGPawUsvc/CcWdI5q94=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoListPropertyDeco
+ rator.java
+SHA1-Digest: URS+GpMTWKbr2NZwDlvP0snm8HU=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoValuePropertyDec
+ orator.java
+SHA1-Digest: UKlNV3FDUatcjft8hATGeOgPzDQ=
+
+Name: org/eclipse/core/internal/databinding/beans/PojoValueProperty.ja
+ va
+SHA1-Digest: 6rPYkltuPT/x4vPHiyUn16rxdHQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousPojoValuePr
+ operty.java
+SHA1-Digest: Nk1gQF+uvMVCSfX+CHzsbH+b5xA=
+
+Name: org/eclipse/core/databinding/beans/BeansObservables.java
+SHA1-Digest: T91sal1RhpNrrqJhzNEla+bw3Yk=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanSetPropertyDecor
+ ator.java
+SHA1-Digest: avcq4bvrbuH/jadhZT2PtMo68S0=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanObservableMapDec
+ orator.java
+SHA1-Digest: 6maEJv1L8nN0i6yyghKXW+Mfzp0=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanObservableSetDec
+ orator.java
+SHA1-Digest: jLKu5LqvTJZENThr0ksm2mK34n8=
+
+Name: org/eclipse/core/databinding/beans/BeanProperties.java
+SHA1-Digest: gTpMufnHv5OQWkRgZEJY3xHM1Sk=
+
+Name: org/eclipse/core/internal/databinding/beans/AnonymousBeanListPro
+ perty.java
+SHA1-Digest: q9JZvgSP8GTET5PfjrxbczhMO40=
+
+Name: org/eclipse/core/databinding/beans/IBeanSetProperty.java
+SHA1-Digest: 27SazjHs3o5fq63X+PivcyWkghE=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanValuePropertyDec
+ orator.java
+SHA1-Digest: +Kd5ZVUbedK0JxHhmrL/SwIiRb4=
+
+Name: org/eclipse/core/databinding/beans/IBeanMapProperty.java
+SHA1-Digest: XYNUhh3IZPNWAGMl1PAnKNZqou0=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanObservableListDe
+ corator.java
+SHA1-Digest: 5D247wRcYgqPt77XG4VrSmB7fWY=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanObservableValueD
+ ecorator.java
+SHA1-Digest: edvsCm0ZFXcAdZUHvutC9AiIiDw=
+
+Name: org/eclipse/core/internal/databinding/beans/BeanSetProperty.java
+SHA1-Digest: 3LRjzBTQRN9w3c+yGt1k2+ZKCeI=
+
+Name: org/eclipse/core/databinding/beans/IBeanProperty.java
+SHA1-Digest: A7ZJrEiXqkk9yGcSY8Tkx6INncQ=
+

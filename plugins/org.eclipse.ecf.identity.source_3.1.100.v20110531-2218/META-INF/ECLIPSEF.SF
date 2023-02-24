@@ -1,0 +1,86 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: bMf62GmocDjNKqq8jfCpcd90hz8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: J57mI/NZQ32rZMbEg2tMhjAcHVA=
+
+Name: org/eclipse/ecf/core/util/Trace.java
+SHA1-Digest: kDPH9KTefbYuGUYnX5J2UeRbdbg=
+
+Name: org/eclipse/ecf/core/identity/URIID.java
+SHA1-Digest: 7q1PczdRdXcTMli5xPl3YGqny78=
+
+Name: org/eclipse/ecf/core/util/StringUtils.java
+SHA1-Digest: Z3TQpXd/KjXxqUXOxJIRxPzGYAk=
+
+Name: org/eclipse/ecf/core/util/ECFRuntimeException.java
+SHA1-Digest: 2JakunJzjvRxEjIznrOYKfZk/PY=
+
+Name: org/eclipse/ecf/core/identity/GUID.java
+SHA1-Digest: JFEjFnTCNJ0qmLoHbbyKZLwzjN0=
+
+Name: org/eclipse/ecf/core/util/IDFactoryTracker.java
+SHA1-Digest: vFWRWv4seJ/aXv28sQYqzE3WUpo=
+
+Name: org/eclipse/ecf/core/util/ECFException.java
+SHA1-Digest: nF0b2TQjijuNmTiLKbXOsRKiEys=
+
+Name: org/eclipse/ecf/internal/core/identity/Activator.java
+SHA1-Digest: cDgmGZkNLfM16WeWebkYh/iYXf0=
+
+Name: org/eclipse/ecf/core/util/LogHelper.java
+SHA1-Digest: DI/kTwXxx+ySn2H2Q6Wgwrwc8XA=
+
+Name: org/eclipse/ecf/core/identity/LongID.java
+SHA1-Digest: tT1OmDzyCHZmkz/yY3b0VI7IawE=
+
+Name: org/eclipse/ecf/core/util/AbstractFactory.java
+SHA1-Digest: QSfsuu880vFvHXXo810br3AHj68=
+
+Name: org/eclipse/ecf/core/identity/NamespacePermission.java
+SHA1-Digest: sMlSMTaeqtWYQVwZN+LPqFB97TI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: schema/namespace.exsd
+SHA1-Digest: F6Y110LWbUUGYCerQdCojCTHOSQ=
+
+Name: org/eclipse/ecf/core/identity/BaseID.java
+SHA1-Digest: LxTZhmNC6HfXCpv2IF3IxWF0rm4=
+
+Name: org/eclipse/ecf/core/identity/StringID.java
+SHA1-Digest: 1xVndZmTQoZnzJdsBaBTWQtP6g0=
+
+Name: org/eclipse/ecf/core/util/Base64.java
+SHA1-Digest: diplg4l+4+Det4L/fV70kArmGiI=
+
+Name: org/eclipse/ecf/core/identity/IIdentifiable.java
+SHA1-Digest: j0CcDhBXuh+vjceWIF5HXSq/+gc=
+
+Name: about.html
+SHA1-Digest: iNWxM6jy8QeiF5+ti/F31diQ6JI=
+
+Name: org/eclipse/ecf/core/identity/IIDFactory.java
+SHA1-Digest: gHINLHyzmPsczdDH92ptva18KIQ=
+
+Name: org/eclipse/ecf/core/identity/Namespace.java
+SHA1-Digest: bcAcWwkdnpZOQUTGGIf/QGRgHrE=
+
+Name: org/eclipse/ecf/core/identity/IDCreateException.java
+SHA1-Digest: vYehT2qBa/9qPs+667Qdtr2nH4k=
+
+Name: org/eclipse/ecf/core/util/PlatformHelper.java
+SHA1-Digest: Ja+78S6ntXTp8Ijv/6fok5uDiiI=
+
+Name: org/eclipse/ecf/core/identity/IResourceID.java
+SHA1-Digest: QXIvM3r1KSG6uYO39W93dfgHEcQ=
+
+Name: org/eclipse/ecf/core/util/SystemLogService.java
+SHA1-Digest: WAGon8EHoKhWlKATo811Srvn2hA=
+
+Name: org/eclipse/ecf/core/identity/ID.java
+SHA1-Digest: tIi3Zi4aLeXkna4eoZftXFsXtBU=
+
+Name: org/eclipse/ecf/core/identity/IDFactory.java
+SHA1-Digest: WSPRJD19Tz3Bn6OQArfbXEsTif4=
+

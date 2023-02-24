@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.jsp.jasper.registry;version=
+ "1.0.200.v20100503";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.jsp.jasper.registry.source
+Bundle-Version: 1.0.200.v20100503
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/jsp/jasper/registry/JSPFactory.java
+SHA1-Digest: BShhxTglQSm/zaPbl9h5nxdTFcg=
+
+Name: about.html
+SHA1-Digest: pFMxZIqhUX1ZnXwPxlDwu9Ch9F4=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/registry/Activator.java
+SHA1-Digest: 8F0wNOErbn2xfiwcGO8H5uR+bvo=
+
+Name: plugin.properties
+SHA1-Digest: uF23wXSayvE4fbHkVLLEwQCMAYI=
+

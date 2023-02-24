@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: gpkal+0wRbmu3XXy8OntD4c1Egw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 7Ihvq5qfZiby2YrLhiDMx1bj7xk=
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/IUpdat
+ eChecker.java
+SHA1-Digest: BwkHsRhtPug6NUQYicjURMP9JAM=
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/IUpdat
+ eListener.java
+SHA1-Digest: TPI6dQ7QhQpxpEKemG3my619urU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/updatechecker/UpdateCheckerCompo
+ nent.java
+SHA1-Digest: EHcXGh1+FO+hEZwDk0N+DDLryWY=
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/Update
+ Event.java
+SHA1-Digest: VHf9JGY8AtLs/3xDrhCoQpmFPEs=
+
+Name: about.html
+SHA1-Digest: eujd3AqZ5wPHk7ipaPatuG94PCs=
+
+Name: org/eclipse/equinox/internal/p2/updatechecker/UpdateChecker.java
+SHA1-Digest: mVaIzY6AjKATD0MUJ/vBfAgL8Yo=
+
+Name: plugin.properties
+SHA1-Digest: MDj3OUzQKJU/3r5HvCumLdzu35M=
+

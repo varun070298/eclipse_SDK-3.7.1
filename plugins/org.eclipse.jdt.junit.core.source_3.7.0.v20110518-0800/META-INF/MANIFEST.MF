@@ -1,0 +1,177 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.junit.core;version="3.7.0.v20110
+ 518-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.junit.core.source
+Bundle-Version: 3.7.0.v20110518-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/internal/junit/JUnitMessages.java
+SHA1-Digest: aWet7jQfmvMicvlxQ/umN0Mnwc0=
+
+Name: org/eclipse/jdt/internal/junit/model/TestRunSession.java
+SHA1-Digest: 8jfFy/TuC1em5ETa35Qzva2TGF4=
+
+Name: org/eclipse/jdt/junit/ITestRunListener.java
+SHA1-Digest: xGah8Wr0p5xwRP7dyXa7HMek2tg=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/P2Utils.java
+SHA1-Digest: i2Y/MRQ6fAa+z9I/YMr1V09iaHY=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/JUnitContainerInitializ
+ er.java
+SHA1-Digest: rqaCtFiNfLdJ5gHUI+AH9SVmI6g=
+
+Name: org/eclipse/jdt/internal/junit/launcher/TestKindRegistry.java
+SHA1-Digest: pQxqfiE55EGrwpjByuNC6OwCqPA=
+
+Name: org/eclipse/jdt/internal/junit/model/TestSuiteElement.java
+SHA1-Digest: hJAnG4zkCH8YaZkzr1Evzkb90Ro=
+
+Name: org/eclipse/jdt/junit/JUnitCore.java
+SHA1-Digest: 3tykdHwBqTi85OZx8tfyaQdI5a8=
+
+Name: org/eclipse/jdt/internal/junit/model/TestRunSessionSerializer.ja
+ va
+SHA1-Digest: ydmneY93V/kmROFLmroWrBbbGyU=
+
+Name: org/eclipse/jdt/internal/junit/util/CoreTestSearchEngine.java
+SHA1-Digest: e33mDtGj7I0WDGemHB7NuvxC6NQ=
+
+Name: org/eclipse/jdt/internal/junit/launcher/TestSearchResult.java
+SHA1-Digest: b9jvXN7ZhEf8Ym8qUK7jM6v8Bvk=
+
+Name: org/eclipse/jdt/internal/junit/model/TestElement.java
+SHA1-Digest: Z/hKoUKq53diC4Ju1W84njqBpzM=
+
+Name: org/eclipse/jdt/internal/junit/model/IXMLTags.java
+SHA1-Digest: +ZX4BrPYWAYBpI1bHb7+evtMtw8=
+
+Name: org/eclipse/jdt/junit/model/ITestRunSession.java
+SHA1-Digest: xXEc/+EN1jPzSAZcuf4t4+hmZ6Y=
+
+Name: org/eclipse/jdt/internal/junit/JUnitPropertyTester.java
+SHA1-Digest: NaSXDjwWvYn0feVNp3Di32fqD0E=
+
+Name: org/eclipse/jdt/internal/junit/util/IJUnitStatusConstants.java
+SHA1-Digest: oW+RDi92FMgMxfiaDbYxFgS0Few=
+
+Name: org/eclipse/jdt/internal/junit/JUnitCorePlugin.java
+SHA1-Digest: 1lKGUGe8EhsBgMHxeDzfPyUKZs4=
+
+Name: schema/testRunListeners.exsd
+SHA1-Digest: Ua8KnHkEbRd4WGzNeDj74jjDqv0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/internal/junit/JunitPreferenceInitializer.java
+SHA1-Digest: vBA2gsTg0YIyuFIYr+jSF3ilBFo=
+
+Name: org/eclipse/jdt/internal/junit/model/ModelMessages.java
+SHA1-Digest: +g6xNvn2tNsBx4koauV/N0DiO6A=
+
+Name: org/eclipse/jdt/junit/TestRunListener.java
+SHA1-Digest: U3sZjtQr6WXk9kYZalVqeZ3JcoA=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/BuildPathSupport.java
+SHA1-Digest: 88SV/hHpjkk7dSO4JaXKwTEZhxc=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnit4TestFinder.java
+SHA1-Digest: eE+I7en5veuVMjNv0GSbE/kdreo=
+
+Name: org/eclipse/jdt/junit/model/ITestCaseElement.java
+SHA1-Digest: hToAnQeNd00m8xTRAR0WkqAVsWE=
+
+Name: org/eclipse/jdt/internal/junit/Messages.java
+SHA1-Digest: euZEqYqhti7+19uZiokjAl6Sox0=
+
+Name: org/eclipse/jdt/internal/junit/model/TestRunListenerAdapter.java
+SHA1-Digest: ZzbLBu+iaTJZyQ4HPS/0F3NoTC4=
+
+Name: org/eclipse/jdt/internal/junit/model/JUnitModel.java
+SHA1-Digest: iOz2/bHfSJMarnwL+AWticbqnWQ=
+
+Name: org/eclipse/jdt/internal/junit/launcher/TestKind.java
+SHA1-Digest: OR87nS4WRgQ5x9SpY6yAnir5xt0=
+
+Name: org/eclipse/jdt/internal/junit/model/ITestRunSessionListener.jav
+ a
+SHA1-Digest: VtfCgZd7DcJa1Ew8LJEVcWplapY=
+
+Name: org/eclipse/jdt/internal/junit/model/TestRoot.java
+SHA1-Digest: v81jb9ddP7oIJi8kKMISyy38cwQ=
+
+Name: org/eclipse/jdt/internal/junit/model/RemoteTestRunnerClient.java
+SHA1-Digest: bfky/J16Ck+LKK6J9RmSKVvJb5Q=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnitRuntimeClasspathEnt
+ ry.java
+SHA1-Digest: ERPk46+56PpVAt2ps1YosZy5srI=
+
+Name: plugin.properties
+SHA1-Digest: voF/l3M/AGlnsTAinejdpWm6+hU=
+
+Name: org/eclipse/jdt/internal/junit/model/TestRunHandler.java
+SHA1-Digest: nR47q1IVu0w/T3Jwju1cwThMOco=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnit3TestFinder.java
+SHA1-Digest: VnnXyNAdHrAPNGC9ssEBzgfcETk=
+
+Name: org/eclipse/jdt/junit/launcher/JUnitLaunchConfigurationDelegate.
+ java
+SHA1-Digest: gy0mj+GwxIBrDMEU5KpF7nA/STk=
+
+Name: org/eclipse/jdt/internal/junit/launcher/ITestFinder.java
+SHA1-Digest: kb/eezhTbA70pBcQj0zG91PXLg4=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/JUnitHomeInitializer.ja
+ va
+SHA1-Digest: rW2ucJUibWOzmqhkx9VXxYlpS50=
+
+Name: org/eclipse/jdt/internal/junit/BasicElementLabels.java
+SHA1-Digest: 5AvsE47dqr6Zptj1eFoEpvti1eo=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnitLaunchConfiguration
+ Constants.java
+SHA1-Digest: k+cpHQAKELJKQGpAh1cHStNyrO4=
+
+Name: org/eclipse/jdt/junit/model/ITestSuiteElement.java
+SHA1-Digest: ihMIcXHD5jDUmakQofoQYC1GffU=
+
+Name: org/eclipse/jdt/junit/model/ITestElement.java
+SHA1-Digest: ZLL00rXisb/AmUroskQ1Hb9i7JE=
+
+Name: org/eclipse/jdt/internal/junit/launcher/ITestKind.java
+SHA1-Digest: TD7mDC59lfBj4LnVXNGi0PN0OcY=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnitMigrationDelegate.j
+ ava
+SHA1-Digest: WXbs3J9wOvi4e02r3JwutENclPI=
+
+Name: org/eclipse/jdt/internal/junit/model/TestCaseElement.java
+SHA1-Digest: OmhakBpYmd4oYtNql3CR1efuCu8=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/internal/junit/model/ITestSessionListener.java
+SHA1-Digest: ThO9iFKNGcmli4jerdsevL6RClM=
+
+Name: org/eclipse/jdt/internal/junit/model/ITestRunListener2.java
+SHA1-Digest: XVzTzU9fuX3itu2bnj+7HFMbfdo=
+
+Name: org/eclipse/jdt/internal/junit/JUnitPreferencesConstants.java
+SHA1-Digest: nBa0TnW0RzslfMrGc/QJHurTttc=
+
+Name: schema/internal_testKinds.exsd
+SHA1-Digest: 6sNwabaJXthyxIxpMcgjEJp3mkg=
+
+Name: org/eclipse/jdt/internal/junit/launcher/ContainerComparator.java
+SHA1-Digest: //rw2sy7r6Xz0dkWsyRRPkzatyU=
+
+Name: org/eclipse/jdt/junit/model/ITestElementContainer.java
+SHA1-Digest: ijXM7mtATUN7l8tvpLdA7PWElcI=
+

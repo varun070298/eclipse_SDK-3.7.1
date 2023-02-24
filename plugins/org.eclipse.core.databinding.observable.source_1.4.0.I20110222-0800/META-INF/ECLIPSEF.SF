@@ -1,0 +1,391 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: SzEVOscCiUgf9gZLvBIFdKEWQz8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: TBufEO1B/WaiNkeZqvWNDGpGfjo=
+
+Name: org/eclipse/core/internal/databinding/observable/UnmodifiableObs
+ ervableList.java
+SHA1-Digest: HVYGHB8v8DI6IvrVsJIORt+ZyLY=
+
+Name: org/eclipse/core/internal/databinding/identity/IdentitySet.java
+SHA1-Digest: WnssGmO12l2nPz5bx8QOTiflPi0=
+
+Name: org/eclipse/core/databinding/observable/map/MapChangeEvent.java
+SHA1-Digest: BrqL7CaT+WQVGp4uCWs3ksyWn74=
+
+Name: org/eclipse/core/databinding/observable/set/WritableSet.java
+SHA1-Digest: cANh9FGj5bbjY0/et2/W/zCt6ss=
+
+Name: org/eclipse/core/databinding/observable/list/IObservableList.jav
+ a
+SHA1-Digest: yHp+/GUZ79ekMq1Halo2876Ikxs=
+
+Name: org/eclipse/core/databinding/observable/value/AbstractObservable
+ Value.java
+SHA1-Digest: Oc2yI+rRywbIAgxGVUX4eSJMmm8=
+
+Name: org/eclipse/core/databinding/observable/value/AbstractVetoableVa
+ lue.java
+SHA1-Digest: gzTaqSOUhYojQfOeC/qBZ6Ob1g4=
+
+Name: org/eclipse/core/databinding/observable/set/SetChangeEvent.java
+SHA1-Digest: XjsRmENG2Rx0VMUyUnssHJJabd8=
+
+Name: org/eclipse/core/databinding/observable/IObservableCollection.ja
+ va
+SHA1-Digest: zcGTY/ZE1edshkhzLbN4znDPqUY=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/De
+ tailObservableMap.java
+SHA1-Digest: D1WKU1PTDDSD9vjH2ARVDa1erqM=
+
+Name: org/eclipse/core/internal/databinding/observable/StalenessTracke
+ r.java
+SHA1-Digest: 1BCqZT823KGtCv3uFxjfZcF/8FE=
+
+Name: org/eclipse/core/databinding/observable/map/BidirectionalMap.jav
+ a
+SHA1-Digest: BjhpIAMS4vBAXlIZIQ20ctoNfAI=
+
+Name: org/eclipse/core/databinding/observable/set/ISetChangeListener.j
+ ava
+SHA1-Digest: 7UnT5XqwUQP6/Cu+SM2RpuxS4FU=
+
+Name: org/eclipse/core/databinding/observable/value/IValueChangingList
+ ener.java
+SHA1-Digest: 9mS/Lu8v39J8zqLLSaZ5snj2oYA=
+
+Name: org/eclipse/core/internal/databinding/observable/StalenessObserv
+ ableValue.java
+SHA1-Digest: CVkn1OHjyU9CTq4l04ImAjvi2Ew=
+
+Name: org/eclipse/core/databinding/observable/masterdetail/IObservable
+ Factory.java
+SHA1-Digest: raacLfHgLoM9ZvqnB0z+AULP6xc=
+
+Name: org/eclipse/core/internal/databinding/observable/UnmodifiableObs
+ ervableMap.java
+SHA1-Digest: fA59zZfrVBwmK9BCwp+B3JfNfYg=
+
+Name: org/eclipse/core/databinding/observable/value/SelectObservableVa
+ lue.java
+SHA1-Digest: hG5Z5fFi0X9UaLJi/dfo2hIJihU=
+
+Name: org/eclipse/core/databinding/observable/value/WritableValue.java
+SHA1-Digest: RgAU1zr5AaWsSf2QOkSp+tNTx2Q=
+
+Name: org/eclipse/core/databinding/observable/DisposeEvent.java
+SHA1-Digest: BYa7dqOyD6r/1j8JW+iG9ZQGWM8=
+
+Name: org/eclipse/core/databinding/observable/value/ValueChangingEvent
+ .java
+SHA1-Digest: MzfxtbpRZhSXc3GpUXdHX2uX75s=
+
+Name: org/eclipse/core/databinding/observable/IChangeListener.java
+SHA1-Digest: FOI4PsbxKJorAz9D/JXdMbKLztc=
+
+Name: org/eclipse/core/databinding/observable/value/DecoratingObservab
+ leValue.java
+SHA1-Digest: BpJ5j+8dljSid0g8VIJZubfHtjM=
+
+Name: org/eclipse/core/internal/databinding/observable/EmptyObservable
+ List.java
+SHA1-Digest: cs2xwSkWvR347mg5oR7CriZRIlE=
+
+Name: org/eclipse/core/databinding/observable/value/DecoratingVetoable
+ Value.java
+SHA1-Digest: v9926g2/q9G4DMgm2RXMCvJg3Ls=
+
+Name: org/eclipse/core/databinding/observable/set/SetDiff.java
+SHA1-Digest: c506lGm5gyWcmnxi8qHPLq4vUBs=
+
+Name: org/eclipse/core/databinding/observable/ObservableTracker.java
+SHA1-Digest: VIAnPozznpFffpktNv2zWEok6RU=
+
+Name: org/eclipse/core/databinding/observable/list/AbstractObservableL
+ ist.java
+SHA1-Digest: Sn3MkJzkJxnY9vS8M4C8tlhg6cE=
+
+Name: org/eclipse/core/databinding/observable/list/ListDiff.java
+SHA1-Digest: K5JH0AmEGOu4UXl4ej3zyp4xKKM=
+
+Name: org/eclipse/core/internal/databinding/identity/IdentityMap.java
+SHA1-Digest: AOAfu82QUmPHsTla9dF0fC4dciQ=
+
+Name: org/eclipse/core/databinding/observable/list/ListChangeEvent.jav
+ a
+SHA1-Digest: gA6BKP2r4lg4jH8bWtSdrwPzW7g=
+
+Name: org/eclipse/core/databinding/observable/Observables.java
+SHA1-Digest: 46cLYrZPjGpWJ3sSFmxHh8UdhMk=
+
+Name: org/eclipse/core/internal/databinding/observable/DelayedObservab
+ leValue.java
+SHA1-Digest: l4qyg0Uuns6ZV54GWcDzgeZoQ90=
+
+Name: org/eclipse/core/databinding/observable/ChangeEvent.java
+SHA1-Digest: e7X1s6ZWw9WdieVqoUK2Lqvof20=
+
+Name: org/eclipse/core/databinding/observable/value/ComputedValue.java
+SHA1-Digest: bF59jO7yVUo0Ly9laM2r1Z3/O2A=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/De
+ tailObservableList.java
+SHA1-Digest: kbwKlHGGVGBsHtCwBINV8kcPWAk=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/databinding/observable/map/CompositeMap.java
+SHA1-Digest: O1PRzabqdBNKXpx6fF1XjzMdStg=
+
+Name: org/eclipse/core/databinding/observable/ChangeManager.java
+SHA1-Digest: fIXlUNEJhmYNsjB8fFiVBFVQr7I=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/Se
+ tDetailValueObservableMap.java
+SHA1-Digest: yas5Qa29v9GRtkjg+VCcwWVXqVs=
+
+Name: org/eclipse/core/databinding/observable/list/DecoratingObservabl
+ eList.java
+SHA1-Digest: fbZHGH85KGSVgHcwo3TBp5QNIYY=
+
+Name: org/eclipse/core/databinding/observable/map/DecoratingObservable
+ Map.java
+SHA1-Digest: CvLL5ExtX0iIOcLZye+AIurKkUM=
+
+Name: org/eclipse/core/databinding/observable/AbstractObservable.java
+SHA1-Digest: s5dxOg8eALmS8nmZTP56+fbEkgs=
+
+Name: org/eclipse/core/databinding/observable/value/ValueDiff.java
+SHA1-Digest: OIBrfrP6yKPLbL0YUJhyRnz0QEA=
+
+Name: org/eclipse/core/databinding/observable/value/ChangeVetoExceptio
+ n.java
+SHA1-Digest: OYPLjcjle88vI0szfaI37hAyQHQ=
+
+Name: org/eclipse/core/databinding/observable/StaleEvent.java
+SHA1-Digest: KMudPwliMWCeFlzpyZBAdxb+xJw=
+
+Name: org/eclipse/core/databinding/observable/IDecoratingObservable.ja
+ va
+SHA1-Digest: qZrkq7BFKmZPvoQEl6j0b+aYq9U=
+
+Name: org/eclipse/core/databinding/observable/set/AbstractObservableSe
+ t.java
+SHA1-Digest: oto1sMD2w9xuxUIS3aQIWtzJaD0=
+
+Name: org/eclipse/core/internal/databinding/observable/Activator.java
+SHA1-Digest: Aqmrn/Zcz4YXtU4AnGJZsBJ9fbw=
+
+Name: org/eclipse/core/internal/databinding/observable/UnmodifiableObs
+ ervableValue.java
+SHA1-Digest: 1UBHCj2psAzgOewfCGPyR6qpDl4=
+
+Name: org/eclipse/core/internal/databinding/observable/Queue.java
+SHA1-Digest: 9FZ4nP5HmecJSDD4wHnrETBjQbc=
+
+Name: org/eclipse/core/databinding/observable/set/ComputedSet.java
+SHA1-Digest: /xUX4IpNifD8Naml91hn3ieRzDM=
+
+Name: org/eclipse/core/internal/databinding/identity/IdentityWrapper.j
+ ava
+SHA1-Digest: sTXKwCf7OKd1SySqCZFNcNSCj0U=
+
+Name: org/eclipse/core/databinding/observable/map/AbstractObservableMa
+ p.java
+SHA1-Digest: 4MvDpCv/aKRR7Nbe62hWSOtfGOU=
+
+Name: org/eclipse/core/internal/databinding/observable/Util.java
+SHA1-Digest: YpcLNsWRiF6D2O8bvv3/hCUm9Rg=
+
+Name: org/eclipse/core/databinding/observable/IDisposeListener.java
+SHA1-Digest: 7Rw6DNlFaBdJ0A7dR6mVbzsHoe8=
+
+Name: org/eclipse/core/databinding/observable/value/IValueChangeListen
+ er.java
+SHA1-Digest: FzZORcjsCGt5n7AJlaQKzmD5AeA=
+
+Name: org/eclipse/core/databinding/observable/ChangeSupport.java
+SHA1-Digest: DX6cTeG2fyYgj4suiUOJanqxDKM=
+
+Name: org/eclipse/core/databinding/observable/list/MultiList.java
+SHA1-Digest: z8uBCjBrG2spauiJjXY4xClQWi0=
+
+Name: org/eclipse/core/internal/databinding/observable/IStalenessConsu
+ mer.java
+SHA1-Digest: ORpR+7U4TnMAyUR3x5d9aPKQCf4=
+
+Name: org/eclipse/core/databinding/observable/value/IObservableValue.j
+ ava
+SHA1-Digest: vO7mfMp9GpVISvKrht/1mICqdNU=
+
+Name: org/eclipse/core/databinding/util/ILogger.java
+SHA1-Digest: ktTsH9dgs0E/fx/xtu0fscJN5O8=
+
+Name: org/eclipse/core/databinding/observable/masterdetail/MasterDetai
+ lObservables.java
+SHA1-Digest: Jl35upxV83RSvh7HTW2TLaqXqQw=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/De
+ tailObservableHelper.java
+SHA1-Digest: hax9fLMSove6V/C5rS+9A+RGhaQ=
+
+Name: org/eclipse/core/databinding/observable/list/ListDiffEntry.java
+SHA1-Digest: CSs4pq+ZkIV3Mx3nEBHxCqAwW98=
+
+Name: org/eclipse/core/internal/databinding/observable/MapEntryObserva
+ bleValue.java
+SHA1-Digest: TLG/8/HGPMk8MvvlwKneecFW6uw=
+
+Name: org/eclipse/core/databinding/observable/list/WritableList.java
+SHA1-Digest: ZpaTtLTzB4QUQr64erHSiez8eJY=
+
+Name: org/eclipse/core/databinding/observable/value/DateAndTimeObserva
+ bleValue.java
+SHA1-Digest: uttX6cbIgHa9reIwN9+rCOXTbs0=
+
+Name: org/eclipse/core/databinding/observable/map/WritableMap.java
+SHA1-Digest: k3vfPawC0IqpeiAuV/5x+9tWQqc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/databinding/observable/set/MappedSet.java
+SHA1-Digest: 1kW0FYTbd7jbuqQ8PHYQEKgf6Ss=
+
+Name: org/eclipse/core/databinding/observable/map/ComputedObservableMa
+ p.java
+SHA1-Digest: fdCEYcGW/WrjEQygD9qGiqgD4gs=
+
+Name: org/eclipse/core/databinding/observable/set/IObservableSet.java
+SHA1-Digest: Hax4wjfBxZFaMrNJFWIzQoStYv8=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/Ma
+ pDetailValueObservableMap.java
+SHA1-Digest: 9v4o3SqEx9vrdLXn60ifKBVkPQY=
+
+Name: org/eclipse/core/databinding/observable/ObservableEvent.java
+SHA1-Digest: 0sYN37w75C7QwV0Wsqwap+6vJv8=
+
+Name: org/eclipse/core/databinding/observable/set/ObservableSet.java
+SHA1-Digest: XW/mry4QJhUn1MYk45X9Zg5z0do=
+
+Name: org/eclipse/core/databinding/observable/IObservablesListener.jav
+ a
+SHA1-Digest: GrTdvOYA/1LFc31EmW08+c44yCg=
+
+Name: org/eclipse/core/databinding/observable/value/ValueChangeEvent.j
+ ava
+SHA1-Digest: n3FUv/9AD2MqXCfM+AFXp5kFCdI=
+
+Name: org/eclipse/core/databinding/observable/set/ListToSetAdapter.jav
+ a
+SHA1-Digest: OW9Lmpy7/NNPvEm9ISrpvc+vsn0=
+
+Name: org/eclipse/core/databinding/observable/map/ObservableMap.java
+SHA1-Digest: l0udPELMHe8EMjtx+PisQgFPYIM=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/Li
+ stDetailValueObservableList.java
+SHA1-Digest: 7y7qBnwNXazqAc86kpfHkswdeyc=
+
+Name: org/eclipse/core/databinding/observable/DecoratingObservable.jav
+ a
+SHA1-Digest: Lj5ErnDFmaj/IOOx4jYPtIcxFro=
+
+Name: org/eclipse/core/internal/databinding/observable/ConstantObserva
+ bleValue.java
+SHA1-Digest: OCYGIL+1HeES7z6ld8OYDUqqcbk=
+
+Name: org/eclipse/core/databinding/observable/DecoratingObservableColl
+ ection.java
+SHA1-Digest: AP6iX5jSShpvKZMG3GTcsZiYATk=
+
+Name: org/eclipse/core/databinding/observable/value/DuplexingObservabl
+ eValue.java
+SHA1-Digest: /PXB0AR3S7khcjiyS0TmGt0MID4=
+
+Name: plugin.properties
+SHA1-Digest: vr58hQ4OsR3MyZPBJWHbc8aV2Ho=
+
+Name: org/eclipse/core/databinding/observable/list/ComputedList.java
+SHA1-Digest: ChO5Pf0wxBnfDDtJgq7a4N/Kuag=
+
+Name: org/eclipse/core/databinding/observable/IStaleListener.java
+SHA1-Digest: wnsKGPqJ4SU+CArv+qbhwl7leCg=
+
+Name: org/eclipse/core/databinding/observable/value/IVetoableValue.jav
+ a
+SHA1-Digest: wxy5QR0ragHMdAUr8tyOsRrDl/o=
+
+Name: org/eclipse/core/databinding/observable/list/ObservableList.java
+SHA1-Digest: B8HzwRhNSFZu7A3plkwwPhI5ItQ=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/De
+ tailObservableSet.java
+SHA1-Digest: FiRR099BC8yrIXW2xI6sUpxsjlQ=
+
+Name: org/eclipse/core/databinding/observable/list/ListDiffVisitor.jav
+ a
+SHA1-Digest: XaMRy8eY0sprOsfC2tM/5NR/3Ks=
+
+Name: org/eclipse/core/databinding/observable/map/MapDiff.java
+SHA1-Digest: JeBW4PFbE0tBxf7qNKhFJY3ULcg=
+
+Name: org/eclipse/core/databinding/observable/Diffs.java
+SHA1-Digest: e2RtOqSTNpbB/DHx3pahIFWUYhM=
+
+Name: org/eclipse/core/databinding/observable/IDiff.java
+SHA1-Digest: kIZJ6D7HJgcvekah0KJs/eu8VIs=
+
+Name: org/eclipse/core/databinding/observable/IObservable.java
+SHA1-Digest: I9Owo4pIdlfVu8OaqqU2UarN11k=
+
+Name: org/eclipse/core/databinding/util/Policy.java
+SHA1-Digest: 9uAm02EhmnDhVTPzYv3Y6QoHjIg=
+
+Name: org/eclipse/core/databinding/observable/set/DecoratingObservable
+ Set.java
+SHA1-Digest: hhswF9k7XU08MYXZYcqXDWh2rrw=
+
+Name: org/eclipse/core/databinding/observable/IObserving.java
+SHA1-Digest: shJEvcTv0h05gU9CQrZM+aEFDnI=
+
+Name: org/eclipse/core/databinding/observable/map/IMapChangeListener.j
+ ava
+SHA1-Digest: EH+BjfYj3WcBjR7h1/q4eGrs5uw=
+
+Name: org/eclipse/core/internal/databinding/observable/masterdetail/De
+ tailObservableValue.java
+SHA1-Digest: LKG1pTeuc0OBMm23+ffMl2chWA4=
+
+Name: org/eclipse/core/databinding/observable/map/BidiObservableMap.ja
+ va
+SHA1-Digest: AQ14i6x4XkHXs6vUbcV8oPYnuag=
+
+Name: org/eclipse/core/internal/databinding/observable/UnmodifiableObs
+ ervableSet.java
+SHA1-Digest: er9Bb1EAgiEyLArsE7HJgPwsiEE=
+
+Name: org/eclipse/core/databinding/observable/map/IObservableMap.java
+SHA1-Digest: RkOQlE49TnToOP1DhbPo1eZfQFM=
+
+Name: org/eclipse/core/databinding/observable/set/UnionSet.java
+SHA1-Digest: F55Wa6VWCXQvAtzNWVWgQ1DsXYw=
+
+Name: org/eclipse/core/internal/databinding/identity/IdentityObservabl
+ eSet.java
+SHA1-Digest: eX3d+8+5AgG77QRj/SrnssjnO44=
+
+Name: org/eclipse/core/internal/databinding/observable/EmptyObservable
+ Set.java
+SHA1-Digest: 6H3+OdbqwFcwKsZNKr+UwdhxZF0=
+
+Name: org/eclipse/core/databinding/observable/list/IListChangeListener
+ .java
+SHA1-Digest: RvJGxdm+glS/hYSRRyBEVyDBeqs=
+
+Name: org/eclipse/core/databinding/observable/Realm.java
+SHA1-Digest: 3Um4YcgQLeS2IP8ZRZqgpNv/V+4=
+

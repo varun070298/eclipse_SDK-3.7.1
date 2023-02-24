@@ -1,0 +1,516 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.compare;version="3.5.201.R37x_v20110
+ 817-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.compare.source
+Bundle-Version: 3.5.201.R37x_v20110817-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/compare/internal/AdapterFactory.java
+SHA1-Digest: GWAFpwzvhXofP49aQR0XsSaqn5o=
+
+Name: org/eclipse/compare/internal/ExceptionHandler.java
+SHA1-Digest: KDl1miV+aq4rSsPoOuQaCCLMMMQ=
+
+Name: org/eclipse/compare/internal/patch/PatchFileDiffNode.java
+SHA1-Digest: Zhaw1BMkH7xonl74AH5YGwHf9B0=
+
+Name: org/eclipse/compare/internal/patch/Utilities.java
+SHA1-Digest: 47gdmi3lchTMzdWdj2uSA5SCI2g=
+
+Name: org/eclipse/compare/internal/OutlineViewerCreator.java
+SHA1-Digest: D3f9Xagz2WKP6jYiBzQvqgusA+A=
+
+Name: org/eclipse/compare/internal/CompareEditorInputNavigator.java
+SHA1-Digest: D0+PKn5QQyvV0RP5Dr3EagZZAyk=
+
+Name: org/eclipse/compare/contentmergeviewer/ITokenComparator.java
+SHA1-Digest: bIKePHuVV8nO2JdRdnZmkzJsdK8=
+
+Name: org/eclipse/compare/structuremergeviewer/DiffNode.java
+SHA1-Digest: uqNKRS3xOGYLf5YnTO5iv4YZ35E=
+
+Name: org/eclipse/compare/internal/CompareOutlinePage.java
+SHA1-Digest: cu5XDo6PG2oADasCW+uMWTSY8Mw=
+
+Name: org/eclipse/compare/BufferedContent.java
+SHA1-Digest: zeDWpDdNEE50eYR4Ns1/eUInE6g=
+
+Name: org/eclipse/compare/internal/CompareHandlerService.java
+SHA1-Digest: olLz3COP++Z5wtUFMxIp8kflaks=
+
+Name: org/eclipse/compare/internal/ListContentProvider.java
+SHA1-Digest: RryMXlLVFMhWOY0McT2qjrAEJwg=
+
+Name: org/eclipse/compare/IModificationDate.java
+SHA1-Digest: 9oBUOGxiTSBeln/976+pNVU0Mps=
+
+Name: org/eclipse/compare/internal/Utilities.java
+SHA1-Digest: UVVPfm7TeAwS2LbO+lL3kIF5pXI=
+
+Name: schema/contentViewers.exsd
+SHA1-Digest: y5Hg5Fk6xcQFld1a++BpKdowIf8=
+
+Name: org/eclipse/compare/internal/patch/PatchDiffNode.java
+SHA1-Digest: lvUQyxAw1hzL7BIRBONNJwSRVmk=
+
+Name: org/eclipse/compare/internal/Worker.java
+SHA1-Digest: 1g/RV6bA+QezOsILhkaYR35qlsE=
+
+Name: org/eclipse/compare/internal/patch/FilePatch.java
+SHA1-Digest: kd5AyMy0E1TJYs2ZphbYC4J5E/A=
+
+Name: org/eclipse/compare/structuremergeviewer/StructureDiffViewer.jav
+ a
+SHA1-Digest: 6iRazVQKQRK64VjfKDb56d4+J48=
+
+Name: org/eclipse/compare/CompareNavigator.java
+SHA1-Digest: ZG95lm3ckvgjD17qksb4c9unSyM=
+
+Name: org/eclipse/compare/contentmergeviewer/TokenComparator.java
+SHA1-Digest: PLCBI3sB8utAexQq9Vh4Tp5l180=
+
+Name: org/eclipse/compare/ResourceNode.java
+SHA1-Digest: pThzxoHK/bMwK4IzMh+PNi36izY=
+
+Name: org/eclipse/compare/internal/BufferedCanvas.java
+SHA1-Digest: ehyTzPJnmNVxjZ9YIBgzOG6hWj4=
+
+Name: org/eclipse/compare/patch/ApplyPatchOperation.java
+SHA1-Digest: to8KaNN6igXwjemh0sq2F/pppTw=
+
+Name: org/eclipse/compare/internal/patch/InputPatchPage.java
+SHA1-Digest: dirjJAsiPtSWWN7cr2Ff0Ciea5E=
+
+Name: org/eclipse/compare/internal/ImageMergeViewerCreator.java
+SHA1-Digest: EmNjYLzlI/6jCbNv3EoZgONdE/Q=
+
+Name: org/eclipse/compare/patch/IFilePatch.java
+SHA1-Digest: gn+Z5aq6PXtqM5ADTisCgM0ssWA=
+
+Name: org/eclipse/compare/internal/ISavingSaveable.java
+SHA1-Digest: 3MopBHKa9uhRyJ2qTdcv8BXFg6s=
+
+Name: org/eclipse/compare/internal/patch/PatchCompareEditorInput.java
+SHA1-Digest: 1caQkIWzCMIg8MCJuQcM0X15FlE=
+
+Name: org/eclipse/compare/CompareViewerPane.java
+SHA1-Digest: 0U1QT130qkJfsSY5Vv63M68fofQ=
+
+Name: org/eclipse/compare/internal/merge/DocumentMerger.java
+SHA1-Digest: tpdGfxqsSlorYnWsdrU8aSBeA60=
+
+Name: org/eclipse/compare/internal/ResizableDialog.java
+SHA1-Digest: 7chsLbfOzVjhj/s84Yx+8FO43ko=
+
+Name: org/eclipse/compare/internal/TextEditorPropertyAction.java
+SHA1-Digest: OkPV3JZbRtjf59GfaM6CEW02K48=
+
+Name: org/eclipse/compare/IEditableContentExtension.java
+SHA1-Digest: wXonQpbVPqvYnJhq322XgKZQwzU=
+
+Name: org/eclipse/compare/internal/AddFromHistoryAction.java
+SHA1-Digest: iZUOdlAHLAvhqXLqOApYfXJW6pU=
+
+Name: org/eclipse/compare/structuremergeviewer/ICompareInput.java
+SHA1-Digest: wg9T/esc7jcJ97RHxS6h2KAvNys=
+
+Name: org/eclipse/compare/internal/ChangePropertyAction.java
+SHA1-Digest: iP00tUBtko2boN7fEL8PQsNrLU0=
+
+Name: org/eclipse/compare/internal/ReplaceWithEditionAction.java
+SHA1-Digest: BB+aTY94ZssN4Y8wtmV5TMw3XMQ=
+
+Name: org/eclipse/compare/internal/OverlayPreferenceStore.java
+SHA1-Digest: bcR8w+4jR4lbnxEAAeu14PJ9IHs=
+
+Name: org/eclipse/compare/internal/IMergeViewerTestAdapter.java
+SHA1-Digest: /E3bgcMNFfTUu2ih7O7DVGE12mU=
+
+Name: org/eclipse/compare/internal/patch/PatchErrorDialog.java
+SHA1-Digest: YoYrN8N1Rd4kBLfeAdn/T86YBVc=
+
+Name: org/eclipse/compare/internal/BufferedResourceNode.java
+SHA1-Digest: Jz3bkO9is9S8okuDwzeTIwLfDRA=
+
+Name: org/eclipse/compare/structuremergeviewer/SharedDocumentAdapterWr
+ apper.java
+SHA1-Digest: knFvSjLqnBZ7dOKMKJiCFs6O+s0=
+
+Name: org/eclipse/compare/internal/EditionAction.java
+SHA1-Digest: 3MWPoQefJHmWznzie+JNvf4rYT0=
+
+Name: org/eclipse/compare/ITypedElement.java
+SHA1-Digest: Bd8x3HKNcgIMbCEboLyowgWhN1c=
+
+Name: org/eclipse/compare/internal/DocumentManager.java
+SHA1-Digest: 821t6ZZHVilD50IiT/o8TrlaSh4=
+
+Name: org/eclipse/compare/structuremergeviewer/DiffElement.java
+SHA1-Digest: 1a3l38WTbCMaCEX6QXb3PQQusr4=
+
+Name: org/eclipse/compare/structuremergeviewer/IStructureComparator.ja
+ va
+SHA1-Digest: 2zgbtJaIyICpCVe1z/2+RvkTIbo=
+
+Name: org/eclipse/compare/internal/patch/PatchFileTypedElement.java
+SHA1-Digest: UtJ64HNn1wa4wCwOemzY0d0cRcM=
+
+Name: org/eclipse/compare/patch/WorkspacePatcherUI.java
+SHA1-Digest: qdDLwCQMC2YdSKJB6KLGeXVtcjw=
+
+Name: org/eclipse/compare/structuremergeviewer/ICompareInputChangeList
+ ener.java
+SHA1-Digest: iWW7grgVFiqeW5s3SbLYQDzEA3s=
+
+Name: org/eclipse/compare/internal/DiffImageDescriptor.java
+SHA1-Digest: fx+honoEdclW8NE90BthVX3x+Ak=
+
+Name: org/eclipse/compare/structuremergeviewer/IDiffContainer.java
+SHA1-Digest: 0WDFUD7ysU1YZolrXBM3zldLHJI=
+
+Name: org/eclipse/compare/IViewerCreator.java
+SHA1-Digest: kJ/kvpNZXoyaet/s4fhPftJDM5o=
+
+Name: org/eclipse/compare/structuremergeviewer/IStructureCreator2.java
+SHA1-Digest: Zx5da/LzT/DrL5KNRCdv1q8szxc=
+
+Name: org/eclipse/compare/internal/WorkQueue.java
+SHA1-Digest: pmGWR/2EZtcVhQIM+P4xn9/di7Q=
+
+Name: org/eclipse/compare/internal/patch/DecoratorOverlayIcon.java
+SHA1-Digest: uE4I2Edw/CD6Vof5awuVGOzGeNo=
+
+Name: schema/streamMergers.exsd
+SHA1-Digest: KIbhn3Mfu0IRYgPlIT0ZW6D2yAs=
+
+Name: org/eclipse/compare/structuremergeviewer/DocumentRangeNode.java
+SHA1-Digest: AsA/kKPEKawgCXFqNgiBEunkMSY=
+
+Name: org/eclipse/compare/internal/ResourceCompareInput.java
+SHA1-Digest: szGPUaN1OCyueN5ik2Tv9+Vnhzo=
+
+Name: org/eclipse/compare/structuremergeviewer/IStructureCreator.java
+SHA1-Digest: uDcOqABUmJ4OkyXn9f7tIaoJkZ4=
+
+Name: org/eclipse/compare/internal/AddFromHistoryDialog.java
+SHA1-Digest: HFmDGbuC9MvFZEDQm34IKvhP+sw=
+
+Name: org/eclipse/compare/internal/ShowWhitespaceAction.java
+SHA1-Digest: Fc8cEKwWOibsryeJg7wnQUBIeZs=
+
+Name: org/eclipse/compare/Splitter.java
+SHA1-Digest: 1sVHpOBqLUE5Vn611CqAT+RVY/w=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/compare/internal/ImageMergeViewer.java
+SHA1-Digest: /O6q+fcufWWpHfBaUI1Q5I+OkeQ=
+
+Name: org/eclipse/compare/internal/CompareWithOtherResourceHandler.jav
+ a
+SHA1-Digest: 7ntX8DSPL7ta+MJyGr74++nPzNU=
+
+Name: org/eclipse/compare/internal/CompareMessages.java
+SHA1-Digest: f9T1dR7UnK+rDljhIX8eFu4gnig=
+
+Name: org/eclipse/compare/structuremergeviewer/Differencer.java
+SHA1-Digest: IVkNVeoOccBlo7orhv56rCI6J9Q=
+
+Name: org/eclipse/compare/internal/ComparePreferencePage.java
+SHA1-Digest: Y0WgpETIaaRiPj6jISH3P147VXw=
+
+Name: org/eclipse/compare/internal/ContentChangeNotifier.java
+SHA1-Digest: ymK6xtfhMe2pk07kLb5nDUJSJts=
+
+Name: org/eclipse/compare/internal/TextViewerCreator.java
+SHA1-Digest: 3KJZUGlAH4ydHsdzi4qSaM9Zzp4=
+
+Name: org/eclipse/compare/IPropertyChangeNotifier.java
+SHA1-Digest: tpkHXwNiSwGVhkM8w1A6EnqbT5s=
+
+Name: org/eclipse/compare/internal/IViewerDescriptor.java
+SHA1-Digest: XR1DactAud3/9IXw0AyhlwWM0DI=
+
+Name: org/eclipse/compare/SharedDocumentAdapter.java
+SHA1-Digest: WBVLxGvVNcFMdQL8sdveRuXGUe0=
+
+Name: org/eclipse/compare/internal/CompareContainer.java
+SHA1-Digest: RsR325QfM4qUc7Gr5LEndjm5CuQ=
+
+Name: org/eclipse/compare/structuremergeviewer/DiffTreeViewer.java
+SHA1-Digest: DExhbwHCU/d20zSvr8h/j9JRGzg=
+
+Name: org/eclipse/compare/internal/NullViewer.java
+SHA1-Digest: zsJqNOy7AVcVZly+n5fOKGutcTI=
+
+Name: org/eclipse/compare/IResourceProvider.java
+SHA1-Digest: fG75+dMpILPlinMLvF7/THYzCz0=
+
+Name: schema/structureCreators.exsd
+SHA1-Digest: xPNIpcnJqqrQINlq1N0gs4gRkYE=
+
+Name: org/eclipse/compare/HistoryItem.java
+SHA1-Digest: cDDBqM/9Y7owlJpDvu40WpGCgpM=
+
+Name: org/eclipse/compare/structuremergeviewer/IDiffElement.java
+SHA1-Digest: jRal2RDcBxVREOy4e152tL7vB/Q=
+
+Name: org/eclipse/compare/internal/AbstractViewer.java
+SHA1-Digest: bJyG1qnxxUrS4jrHAoitDP27JN8=
+
+Name: org/eclipse/compare/IEditableContent.java
+SHA1-Digest: AlT4ZGvVlpOl8qUTHtMCIYP9Ago=
+
+Name: org/eclipse/compare/contentmergeviewer/IMergeViewerContentProvid
+ er.java
+SHA1-Digest: LtySETVRz8nllZ3jHs+Ac5Jv800=
+
+Name: org/eclipse/compare/internal/BinaryCompareViewer.java
+SHA1-Digest: ShFdg9hdaEcbmpLjINxnhCjQkE0=
+
+Name: org/eclipse/compare/internal/CompareStructureViewerSwitchingPane
+ .java
+SHA1-Digest: GM8qT/Z/KjF+hGIZ73ewslKV0D8=
+
+Name: org/eclipse/compare/internal/StreamMergerDescriptor.java
+SHA1-Digest: NFn76L0f2x1Gy2PDB0Df0kkNwDg=
+
+Name: org/eclipse/compare/ICompareNavigator.java
+SHA1-Digest: /n0VvcIpSd8PD1OaZRDFBI6rmCs=
+
+Name: org/eclipse/compare/contentmergeviewer/TextMergeViewer.java
+SHA1-Digest: 7cZTcPjiGpsiX+bxWFGLXRkH5Js=
+
+Name: org/eclipse/compare/CompareUI.java
+SHA1-Digest: 7CJbkOcruoyp3PFoIgDX7IryWek=
+
+Name: org/eclipse/compare/internal/CompareContentViewerSwitchingPane.j
+ ava
+SHA1-Digest: yRE2tbkbW5gsL9KkEp/Nk9C5kck=
+
+Name: org/eclipse/compare/internal/ICompareContextIds.java
+SHA1-Digest: N1gOIfZQzmjytSpQ6J89xKPaGMU=
+
+Name: org/eclipse/compare/ZipFileStructureCreator.java
+SHA1-Digest: fZnfEzzsukZHgHRl+xebVWKcm6c=
+
+Name: org/eclipse/compare/internal/patch/PatchMessages.java
+SHA1-Digest: 3pSBg800vExURENIK4WIGfLwDPI=
+
+Name: org/eclipse/compare/internal/ReplaceWithPreviousEditionAction.ja
+ va
+SHA1-Digest: be+gKJ3iqAZ8kliRZQU1NKatgFI=
+
+Name: org/eclipse/compare/internal/patch/WorkspaceFileDiffResult.java
+SHA1-Digest: QSBnsZwMkSwiajEMmj5dypM6Qow=
+
+Name: org/eclipse/compare/internal/merge/LineComparator.java
+SHA1-Digest: oppEvmzPhL3WKQPWhAK7Njngcpo=
+
+Name: org/eclipse/compare/internal/ViewerDescriptor.java
+SHA1-Digest: xR4P9iXepa5jBro4qlz3udy7e+Y=
+
+Name: org/eclipse/compare/internal/MergeViewerContentProvider.java
+SHA1-Digest: CYBrL8ETh92XTuQeRhdtybEu3+A=
+
+Name: org/eclipse/compare/IStreamContentAccessor.java
+SHA1-Digest: Y3KYEiDeQB0GC14eb8p2J2gNXxc=
+
+Name: org/eclipse/compare/IContentChangeListener.java
+SHA1-Digest: G7FCp/gmDefvVU0Wdh2WKx5fVdI=
+
+Name: org/eclipse/compare/internal/MergeSourceViewer.java
+SHA1-Digest: B0zbfHi8m17qI/oOCpnjS9sJvuA=
+
+Name: org/eclipse/compare/internal/patch/HunkDiffNode.java
+SHA1-Digest: wRs1865d5i8ff84fSaRoN13Mxaw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/compare/internal/patch/PatchTargetPage.java
+SHA1-Digest: y5C3EU9txl29RZsuCcI3SyJTcGk=
+
+Name: org/eclipse/compare/internal/BinaryCompareViewerCreator.java
+SHA1-Digest: 1hiqlE+8/pEfFrVPPZpoYh/4JeE=
+
+Name: org/eclipse/compare/internal/MergeViewerAction.java
+SHA1-Digest: MPCsAuydPYuJas2ttbEQLCM0ABM=
+
+Name: org/eclipse/compare/internal/ICompareUIConstants.java
+SHA1-Digest: t3M7B7zcgsP/Vf1lVGefW45kstc=
+
+Name: org/eclipse/compare/ICompareContainer.java
+SHA1-Digest: jgTU+z4vTEMeLfoufS5A8kISjhw=
+
+Name: org/eclipse/compare/internal/patch/PreviewPatchPage2.java
+SHA1-Digest: qTPOB74FG0gf2z59CsvTwJ9j/5Q=
+
+Name: org/eclipse/compare/NavigationAction.java
+SHA1-Digest: FoPh8YuJyRsFzWiA2NfaVZKc+ls=
+
+Name: org/eclipse/compare/IStreamMerger.java
+SHA1-Digest: OvSAIxjCMxCFaDMdp8EInTd6nCg=
+
+Name: org/eclipse/compare/ISharedDocumentAdapter.java
+SHA1-Digest: 1yIPGlEIHBxsXUbhgYIP0OpUJSc=
+
+Name: org/eclipse/compare/internal/CompareEditorSelectionProvider.java
+SHA1-Digest: UQbJ5p0x9WV6idrOKGUH9Lf9qbw=
+
+Name: org/eclipse/compare/internal/patch/PatchWizardDialog.java
+SHA1-Digest: SeFLScOrJzlazurYhtf2ODtXxxk=
+
+Name: org/eclipse/compare/IEncodedStreamContentAccessor.java
+SHA1-Digest: KC+NozPftqYcW5umYxsFNqlLscQ=
+
+Name: org/eclipse/compare/internal/CompareWithEditionAction.java
+SHA1-Digest: gSlUQYsvkPx7ZDX0U4Fot7Dd7Xo=
+
+Name: org/eclipse/compare/internal/CompareWithOtherResourceAction.java
+SHA1-Digest: pP3GO1KvIWFGIuZUfVMz3GcKyLk=
+
+Name: org/eclipse/compare/structuremergeviewer/StructureRootNode.java
+SHA1-Digest: FXlzy7shsPuNV5HI3CxxFKKt8/U=
+
+Name: org/eclipse/compare/internal/patch/WorkspacePatcher.java
+SHA1-Digest: PGDe0jDEOATYgqGCPWPlHIje+R4=
+
+Name: org/eclipse/compare/internal/patch/RetargetPatchElementDialog.ja
+ va
+SHA1-Digest: jWH+6R16JlalOE8U3HBljcXVGuc=
+
+Name: org/eclipse/compare/contentmergeviewer/IDocumentRange.java
+SHA1-Digest: xou9/aDiJ6NbkGJ1sD6+lu3RnBI=
+
+Name: org/eclipse/compare/internal/NavigationEndDialog.java
+SHA1-Digest: iSM9s6SUV8uhX1xUGgwLVuHmtgE=
+
+Name: org/eclipse/compare/internal/merge/MergeMessages.java
+SHA1-Digest: e7aS81f7xdZyx17cngr9UWiaytE=
+
+Name: org/eclipse/compare/internal/ComparePreferenceInitializer.java
+SHA1-Digest: 0YtuZ8QqdHN1AVKtGV4eeae9Zao=
+
+Name: org/eclipse/compare/contentmergeviewer/IFlushable.java
+SHA1-Digest: h4ryMTDyKBfvIp8dYSaZhdakrAw=
+
+Name: org/eclipse/compare/structuremergeviewer/StructureCreator.java
+SHA1-Digest: 0gX7KzEfORudN9fM3J+HoMbZmK0=
+
+Name: org/eclipse/compare/ICompareInputLabelProvider.java
+SHA1-Digest: BaMIOicG89rYoDJS35ZQM/4DhTY=
+
+Name: schema/structureMergeViewers.exsd
+SHA1-Digest: DikyLI1bn4moh8Mbt61ixax9H0Y=
+
+Name: org/eclipse/compare/internal/patch/UnmatchedHunkTypedElement.jav
+ a
+SHA1-Digest: zBMYDLWL4fpL7donXNGNlwCgaSY=
+
+Name: org/eclipse/compare/internal/ViewerSwitchingCancelled.java
+SHA1-Digest: WjQCOlrlx4+/4JGbODekOmkov44=
+
+Name: org/eclipse/compare/internal/patch/DiffViewerComparator.java
+SHA1-Digest: XfqJ1KkuO103ik5e3cGxd5viqz4=
+
+Name: org/eclipse/compare/internal/CompareFilter.java
+SHA1-Digest: wITA2G6M5LpML2XCPnbP5ly2RSI=
+
+Name: org/eclipse/compare/internal/SimpleTextViewer.java
+SHA1-Digest: 2wpanhK18kOWInEL0eXNagMJ84U=
+
+Name: org/eclipse/compare/internal/CompareAction.java
+SHA1-Digest: skhmJLW2jsjxdcNZzjPBDaCRbwU=
+
+Name: org/eclipse/compare/internal/TextMergeViewerCreator.java
+SHA1-Digest: +PXQ9tRFN5jMcCvpfa6am72YN9M=
+
+Name: plugin.properties
+SHA1-Digest: cBNzmGNARqDKH9nwxdQsnqlfXMg=
+
+Name: org/eclipse/compare/INavigatable.java
+SHA1-Digest: GgfkVJS9gaYyB4ofixzTXjQR6lw=
+
+Name: org/eclipse/compare/internal/StructureCreatorDescriptor.java
+SHA1-Digest: 4mrR57JYaP6h6QJPnM+NwUDe8Ac=
+
+Name: org/eclipse/compare/CompareViewerSwitchingPane.java
+SHA1-Digest: Oqfr2VSPmvemkAg/9gxRoVsFEnI=
+
+Name: org/eclipse/compare/internal/TabFolderLayout.java
+SHA1-Digest: /EeIozwovbBqx+OYzRFsC+cN0KM=
+
+Name: org/eclipse/compare/internal/patch/PatchWizard.java
+SHA1-Digest: +hjLvQhY5aoNpfTMrF3qmNiVQ7I=
+
+Name: org/eclipse/compare/internal/CompareUIPlugin.java
+SHA1-Digest: wxLbJS9vGVn+xY5YUKxeDedP3hQ=
+
+Name: org/eclipse/compare/CompareEditorInput.java
+SHA1-Digest: FcObrp1nwfciwUR6CUydFlefuvk=
+
+Name: org/eclipse/compare/internal/patch/PatchProjectDiffNode.java
+SHA1-Digest: /RjXiSiLEpQooeJcZqR266mz4tE=
+
+Name: org/eclipse/compare/internal/patch/LineReader.java
+SHA1-Digest: Cl8SkNTGFEyUhDeqj5kXa+aCDiU=
+
+Name: org/eclipse/compare/internal/CompareWithOtherResourceDialog.java
+SHA1-Digest: 89MDsnRfzSvj8K2Aeo0cOqw6Nuk=
+
+Name: org/eclipse/compare/CompareConfiguration.java
+SHA1-Digest: yrpD5pfoDnbk0Vw3KQj7NzZLi+o=
+
+Name: org/eclipse/compare/internal/DocLineComparator.java
+SHA1-Digest: UINFahiF97y2UH961WOL+KbXpDk=
+
+Name: org/eclipse/compare/internal/WorkerJob.java
+SHA1-Digest: FHMBkN4b4h277G9ZHcElObOfbYQ=
+
+Name: org/eclipse/compare/internal/IFlushable2.java
+SHA1-Digest: NmIOxsO+RCfLOj7ur1D1cEtinG4=
+
+Name: org/eclipse/compare/IContentChangeNotifier.java
+SHA1-Digest: VBnywjbsA8sA1WBFob55pTCSaBo=
+
+Name: org/eclipse/compare/structuremergeviewer/DiffContainer.java
+SHA1-Digest: E/v67CpxDAZ4v0n9xylC3gFBDgw=
+
+Name: org/eclipse/compare/internal/CompareEditorContributor.java
+SHA1-Digest: N4MRH0F0B8xVyymrY9uBWHLWNWw=
+
+Name: org/eclipse/compare/internal/ImageCanvas.java
+SHA1-Digest: RIduPIuW9dztm364CfXR8tgn8rw=
+
+Name: org/eclipse/compare/internal/CompareEditor.java
+SHA1-Digest: LOj2jq94sIXPvbFCyG5Pcd+Mcmg=
+
+Name: org/eclipse/compare/internal/patch/Patcher.java
+SHA1-Digest: ixrLNBwmhsSg+qhoi3TjUFNDE2M=
+
+Name: org/eclipse/compare/internal/patch/HunkTypedElement.java
+SHA1-Digest: VyWIHMSVYqpXc/9E4ojE2/t0+T0=
+
+Name: org/eclipse/compare/internal/CompareDialog.java
+SHA1-Digest: 9W0Vz6DxANL5VhIb4/m2eIDlf8I=
+
+Name: org/eclipse/compare/internal/BaseCompareAction.java
+SHA1-Digest: xtXwbVSMQqL67VppOUTqR9DQgMo=
+
+Name: org/eclipse/compare/internal/merge/TextStreamMerger.java
+SHA1-Digest: 8mLGRE+RlvgEFGn9bekt63sJuRk=
+
+Name: org/eclipse/compare/EditionSelectionDialog.java
+SHA1-Digest: bCOs182fa5+X/f2p9YQnqB3xj2s=
+
+Name: schema/contentMergeViewers.exsd
+SHA1-Digest: 59Zp/9L/d050G71q0iwk84J8sVU=
+
+Name: org/eclipse/compare/contentmergeviewer/ContentMergeViewer.java
+SHA1-Digest: 1UQ7svRmML7s2xunvDUySYvaIOQ=
+

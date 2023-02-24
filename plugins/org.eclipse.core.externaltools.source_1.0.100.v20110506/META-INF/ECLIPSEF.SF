@@ -1,0 +1,57 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5VWOuOdHhC7ccHTFlV8vdskOZGU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: SNIoidX/qeJ0mthUNGV4idAUCfY=
+
+Name: org/eclipse/core/externaltools/internal/registry/ExternalToolMig
+ ration.java
+SHA1-Digest: dI6QD1Kf+z19rKhhXp1ABai2md8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Ext
+ ernalToolsProgramMessages.java
+SHA1-Digest: 8GpdjaXtPdCNUYuenc+EXM4MI30=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Ext
+ ernalToolsCoreUtil.java
+SHA1-Digest: RID5VELKDsraqHfST3zoc7qPS0I=
+
+Name: org/eclipse/core/externaltools/internal/registry/ExternalToolsMi
+ grationMessages.java
+SHA1-Digest: vGaAQ2sfmX/1gSoWQARxPS0VEQA=
+
+Name: about.html
+SHA1-Digest: IcgTXS5pRzH3A0MAP37JQ5vh73Y=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Bac
+ kgroundResourceRefresher.java
+SHA1-Digest: sR0w3/IeY6Eyq9rOdeSpo0drfCA=
+
+Name: plugin.properties
+SHA1-Digest: N0wQfSLm2WNjtCmMzuwfVnTDg6w=
+
+Name: org/eclipse/core/externaltools/internal/model/ExternalToolsModel
+ Messages.java
+SHA1-Digest: MdF1TdgR7nqJPt6+0AjH1c+Ul2w=
+
+Name: org/eclipse/core/externaltools/internal/model/ExternalToolBuilde
+ r.java
+SHA1-Digest: bYZwpPltlM9y3Ymt+iujFnwiwBA=
+
+Name: org/eclipse/core/externaltools/internal/ExternalToolsCore.java
+SHA1-Digest: a7iouDWK/42Gf7Z3ezMO5KnEraU=
+
+Name: org/eclipse/core/externaltools/internal/IExternalToolConstants.j
+ ava
+SHA1-Digest: jKUpjPfOJA2HjDc2bVDPcvMOt48=
+
+Name: org/eclipse/core/externaltools/internal/model/BuilderCoreUtils.j
+ ava
+SHA1-Digest: /VAGIvnms2LrX6zsFfSToZvCfLM=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Pro
+ gramLaunchDelegate.java
+SHA1-Digest: he9Ec++KaSpAuvtRVpGSYXf0jtY=
+

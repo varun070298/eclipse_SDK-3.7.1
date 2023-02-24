@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5afGtGAIYBZuN9XHUI4H0X7WjsQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ty5JRiX7izWRfojZ24SlGBpOn3o=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Abs
+ tractWizard.java
+SHA1-Digest: XTd/Z8i4H1j7V9FR0U8EDZj5Y3s=
+
+Name: org/eclipse/equinox/internal/p2/importexport/VersionIncompatible
+ Exception.java
+SHA1-Digest: o2HKFDIEEdji2EA3+wGBDxdeljw=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/Messages.j
+ ava
+SHA1-Digest: pP0/lNheT9hek5te+rCUBj6QSdg=
+
+Name: org/eclipse/equinox/internal/p2/importexport/IUDetail.java
+SHA1-Digest: G2Ezo9sn2o+eBxSX5D2cN2cuW48=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/Constants.
+ java
+SHA1-Digest: GScM17+84H1qXsfCxyjbXY2DI/8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/importexport/persistence/P2FCons
+ tants.java
+SHA1-Digest: 6548QFEHWsjp/dAsG6wbgaEACNM=
+
+Name: org/eclipse/equinox/internal/p2/importexport/P2ImportExport.java
+SHA1-Digest: DnzcugedC6f/dGMrHi3ETJnQ4Ec=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Exp
+ ortPage.java
+SHA1-Digest: KRNcsSRpNujxSKEX10EGTZ10LsU=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/importexport/persistence/P2FPars
+ er.java
+SHA1-Digest: di17cT20L5rso0GEPg3vP9Jq+x8=
+
+Name: plugin.properties
+SHA1-Digest: HqNEEUwV3UO1HAyjS/hWpTUPLPc=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Exp
+ ortWizard.java
+SHA1-Digest: uFlHHxVAFso8B3bneSTkOm8ZFWY=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/ImportExpo
+ rtImpl.java
+SHA1-Digest: 5APZql+LAKpH6Udiy8vapmOtbkE=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Sty
+ ledErrorDialog.java
+SHA1-Digest: 9kNYcrvCqymALgIqQd5Nfgc7Mws=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Imp
+ ortFromInstallationPage.java
+SHA1-Digest: MU7atLjuopCaVDlLPNTdtBzlhdI=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Abs
+ tractImportPage.java
+SHA1-Digest: ScARZEFLzytjDW9SI7tJWqaNXSY=
+
+Name: org/eclipse/equinox/internal/p2/importexport/persistence/P2FWrit
+ er.java
+SHA1-Digest: jswz9ywV7UzsG9AabVj0vXMQGQo=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Imp
+ ortFromInstallationWizard.java
+SHA1-Digest: SCxBxNUaNHHMBJKVB2NkuOwzhL8=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Imp
+ ortPage.java
+SHA1-Digest: OsxVA0n0SOz1fKV9vsr52CyAfa8=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Abs
+ tractPage.java
+SHA1-Digest: AYHz7vDw3YoJ3d6sS/isSwNzn3U=
+
+Name: org/eclipse/equinox/internal/p2/importexport/internal/wizard/Imp
+ ortWizard.java
+SHA1-Digest: P9L4x6+6ca2jFZ5H49dM4kRj6sY=
+

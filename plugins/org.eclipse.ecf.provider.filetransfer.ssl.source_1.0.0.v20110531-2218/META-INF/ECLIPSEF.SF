@@ -1,0 +1,15 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 65swz/xx9fd7RQbGyLc11Wt7+20=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: zE+oUWYS43xr9cOFIvjwfkHkEQA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: about.html
+SHA1-Digest: iNWxM6jy8QeiF5+ti/F31diQ6JI=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/ssl/ECFURLConnect
+ ionModifier.java
+SHA1-Digest: 2bc20iVnKNhYkkuNrIo04+P8v+A=
+

@@ -1,0 +1,92 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: bVv3B1dUwwJDsJj8ecXbbrSA3yg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: SiHnd9oBxhNjTmeedTio91nSh7E=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/io/MetadataP
+ arser.java
+SHA1-Digest: rGSnTtG7hz590evbbj3IvDhDhl8=
+
+Name: org/eclipse/equinox/p2/metadata/io/IUDeserializer.java
+SHA1-Digest: hH/0FlKVNgQirD34xEBumxMgrEM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/MetadataRepo
+ sitoryIO.java
+SHA1-Digest: N5HEcbU8Sxrd9mi1gsq8lGQsSME=
+
+Name: ant_tasks/metadataRepository-antsrc/org/eclipse/equinox/internal
+ /p2/metadata/repository/ant/AddChildTask.java
+SHA1-Digest: PyNs7u/MsljGNkYY+Puh4nH+5mw=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/Activator.ja
+ va
+SHA1-Digest: +bMFM+T78aZKDzwUFdBtECW7Xu8=
+
+Name: org/eclipse/equinox/p2/metadata/io/IUSerializer.java
+SHA1-Digest: h/xdAkzCsYJ2v0JASkUg+CvywPg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/MetadataRepo
+ sitoryManager.java
+SHA1-Digest: I/UsVF+4X/h64W3ufQoIVxmBx4M=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: schema/metadataRepositories.exsd
+SHA1-Digest: gzksqtUgTfdSdFWsGg15yERA2lw=
+
+Name: plugin.properties
+SHA1-Digest: KJtN+6vg+mdwfUas48ZX202Wxvk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/io/MetadataW
+ riter.java
+SHA1-Digest: V/i0SaeB5dE78WkauLXyu0zDw68=
+
+Name: ant_tasks/metadataRepository-antsrc/org/eclipse/equinox/internal
+ /p2/metadata/repository/ant/CreateCompositeMetadataRepositoryTask.jav
+ a
+SHA1-Digest: 11AxLEMiK/r3t/G5puaJ0vpw9YM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/URLMetadataR
+ epository.java
+SHA1-Digest: 2vQlqPEd6y8b8Bk/o7zFHQKC+ZY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/MetadataRepo
+ sitoryComponent.java
+SHA1-Digest: om9GcJxzSAWMwO2v5m3OJVpCMZA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/LocalMetadat
+ aRepository.java
+SHA1-Digest: IuBti2AYJE5Py39sCZh/xvDZ87w=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/Messages.jav
+ a
+SHA1-Digest: NSx4AeY4S0l4IUYsqU/CkdlnpJ8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/io/XMLConsta
+ nts.java
+SHA1-Digest: nHJO61ncZrb4I5TJScpAj1ANV8M=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/CompositeMet
+ adataRepositoryFactory.java
+SHA1-Digest: G1llM0mJMfxZ6xkHJwjoyWlKkNE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/CompositeMet
+ adataRepository.java
+SHA1-Digest: a2WYEewoPlKwnIOeFKkw7uPNWhw=
+
+Name: ant_tasks/metadataRepository-antsrc/org/eclipse/equinox/internal
+ /p2/metadata/repository/ant/AbstractMDRTask.java
+SHA1-Digest: b+DDS1hGoeAiUJBm/nwALJnZvyA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/repository/SimpleMetada
+ taRepositoryFactory.java
+SHA1-Digest: pIaGQtYNTMIKsPBCemn62S6P61c=
+
+Name: ant_tasks/metadataRepository-antsrc/org/eclipse/equinox/internal
+ /p2/metadata/repository/ant/RemoveChildTask.java
+SHA1-Digest: Fh9zYdV8XTzWxK0paq/MHcdRCMw=
+

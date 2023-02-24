@@ -1,0 +1,282 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.registry;version="3.5.101.R3
+ 7x_v20110810-1611";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.registry.source
+Bundle-Version: 3.5.101.R37x_v20110810-1611
+Bundle-ManifestVersion: 2
+
+Name: schema/adapters.exsd
+SHA1-Digest: cBe9pliGtrhXoXISZ0314Or9xnc=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: org/eclipse/core/internal/registry/RegistryChangeEvent.java
+SHA1-Digest: gdlwq/4uSTJAicuo9JKHzNzrm8s=
+
+Name: org/eclipse/core/runtime/dynamichelpers/ExtensionTracker.java
+SHA1-Digest: n+zPTRp2JTNvATT3VsenbYon18E=
+
+Name: org/eclipse/core/internal/registry/ReadWriteMonitor.java
+SHA1-Digest: VdEqnYmm120UGAhFHZrg7TxxLXc=
+
+Name: org/eclipse/core/internal/registry/Contribution.java
+SHA1-Digest: e7rZTX4Le0HvnRzE2dcohSgvYog=
+
+Name: org/eclipse/core/internal/registry/RegistryProperties.java
+SHA1-Digest: k85VlQXnfeU0mpGNlgBDo7MfDyQ=
+
+Name: org/eclipse/core/internal/registry/ExtensionPointMulti.java
+SHA1-Digest: NUu8YqzJOl9JeVFIcotMjGIQVv0=
+
+Name: org/eclipse/core/runtime/IExtension.java
+SHA1-Digest: 95kOPrNggjb3uQgX0QWf0rDzHPs=
+
+Name: org/eclipse/core/internal/registry/osgi/Activator.java
+SHA1-Digest: v+TbQpcfiYLmutOli2czV9C6jyk=
+
+Name: org/eclipse/core/internal/registry/osgi/EquinoxUtils.java
+SHA1-Digest: KrEZ+a7EmpkvVBGZF+GJGdUPkJo=
+
+Name: org/eclipse/core/internal/registry/RegistryMessages.java
+SHA1-Digest: rfDO9jK6dC7P8mQyAANLHBDsnLY=
+
+Name: org/eclipse/core/internal/registry/HashtableOfStringAndInt.java
+SHA1-Digest: R11tIm7jIQcj9m5EM4+XlQx9yu0=
+
+Name: org/eclipse/core/internal/registry/Extension.java
+SHA1-Digest: ULiVVP5QIo8sND4t8kk3pBEC6Nk=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryProviderOSGI.jav
+ a
+SHA1-Digest: FC031BCXhmMWDnLgjh38jmjgsJU=
+
+Name: org/eclipse/core/internal/registry/CombinedEventDelta.java
+SHA1-Digest: 8itpZfwXGzTYrC5OVCWDysfaDI4=
+
+Name: org/eclipse/core/internal/adapter/AdapterFactoryProxy.java
+SHA1-Digest: qaKi9QmzHGRi2ap5QcSXxe8UN7U=
+
+Name: org/eclipse/core/internal/registry/OffsetTable.java
+SHA1-Digest: w0MlJmtXpp9rCixizR4iKvr1XU8=
+
+Name: org/eclipse/core/runtime/RegistryFactory.java
+SHA1-Digest: nF7AinD55v3n+YH+LN1KfOZsVcc=
+
+Name: org/eclipse/core/internal/registry/ExtensionPointHandle.java
+SHA1-Digest: 88xwcoVfPXBjlsCFEz3BD7ZWZYM=
+
+Name: org/eclipse/core/internal/registry/DirectMap.java
+SHA1-Digest: D1RI0ZYKM0FR4F6iHTkqmvYPUkw=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElementMulti.jav
+ a
+SHA1-Digest: 8jiqGCSruBzeGEGMaiAn03yWH8w=
+
+Name: org/eclipse/core/internal/registry/RegistrySupport.java
+SHA1-Digest: KYgOpT9v+4dMtYaPr2m2QeGmjvE=
+
+Name: org/eclipse/core/internal/registry/TableReader.java
+SHA1-Digest: w/THLt+Nm/tFjPA73BF9s/kFMng=
+
+Name: org/eclipse/core/internal/registry/osgi/EclipseBundleListener.ja
+ va
+SHA1-Digest: LWnZZDLR4IYMrL+YlTOHFmwDxRg=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectFactory.java
+SHA1-Digest: fL9c2xClDHsuBnMj4mR8PdXzABU=
+
+Name: org/eclipse/core/internal/registry/ExtensionsParser.java
+SHA1-Digest: a2icgiQ2PU7daWT36hbMu4Euos8=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IExtensionChangeHandler.
+ java
+SHA1-Digest: hC0KNrHEWdLfSNgd+QrzmxexvVs=
+
+Name: org/eclipse/core/internal/registry/osgi/ExtensionEventDispatcher
+ Job.java
+SHA1-Digest: gbzZtrhDBfF0isfjcwlGCMsoxoU=
+
+Name: org/eclipse/core/internal/registry/ReferenceMap.java
+SHA1-Digest: 0E5L27QrbiJBSr1dPQCSeCba6dg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElementHandle.ja
+ va
+SHA1-Digest: PLFZs0kI53ZSjMNPIDuGcynurwA=
+
+Name: org/eclipse/core/runtime/ContributorFactoryOSGi.java
+SHA1-Digest: 7lMvwRrEzLBZrDDZNNeooFiCAvs=
+
+Name: org/eclipse/core/runtime/spi/RegistryStrategy.java
+SHA1-Digest: Ol2KHDtieNw9zO696LyZLjY03aM=
+
+Name: org/eclipse/core/runtime/IContributor.java
+SHA1-Digest: Z4t95xVNrn6YrFU7yqlmmGs5Adk=
+
+Name: org/eclipse/core/internal/registry/Handle.java
+SHA1-Digest: UdLv9pFD4a6Z1WRwRWFGH0djOdg=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElement.java
+SHA1-Digest: HjebowZUgW/WJmDnnCcilpihU8E=
+
+Name: org/eclipse/core/runtime/IExecutableExtension.java
+SHA1-Digest: IgfSdTdADLmzlyu4xyeVxc95T5s=
+
+Name: org/eclipse/core/internal/registry/osgi/OSGIUtils.java
+SHA1-Digest: 9tkMCE1OeUVUsyemCzBLTa0oWqY=
+
+Name: org/eclipse/core/internal/registry/RegistryTimestamp.java
+SHA1-Digest: vw5pGuyOLiuv2ycL391pDv26sUw=
+
+Name: org/eclipse/core/runtime/IConfigurationElement.java
+SHA1-Digest: ExKxQcPG8buqF0wOpfPDzAg5Huo=
+
+Name: org/eclipse/core/internal/registry/BaseExtensionHandle.java
+SHA1-Digest: P6Pw180IhEACEiAoMyk1xMY6b6M=
+
+Name: org/eclipse/core/internal/registry/RegistryIndexChildren.java
+SHA1-Digest: WZKOMdNk35vmIgQkd2JWAZw3g4c=
+
+Name: org/eclipse/core/internal/registry/ExtensionDelta.java
+SHA1-Digest: YaQtf+Pum9GlZ4y6HZH+vJrbpvM=
+
+Name: org/eclipse/core/runtime/InvalidRegistryObjectException.java
+SHA1-Digest: tf2DiO5Hes+2tfH4tzSRF2gMOUU=
+
+Name: org/eclipse/core/runtime/IExtensionDelta.java
+SHA1-Digest: KP1GNgLFAC6j35aYxVz0Q4q1LHA=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IFilter.java
+SHA1-Digest: kiVH6dnMH87lYa9eJOrzprKccww=
+
+Name: org/eclipse/core/runtime/IExecutableExtensionFactory.java
+SHA1-Digest: CjI7d8D0O80E68D48auhlj/Z0O8=
+
+Name: org/eclipse/core/internal/registry/ExtensionHandle.java
+SHA1-Digest: 0fP4xRTe6aWdR++R0PSy9M6nOyQ=
+
+Name: org/eclipse/core/internal/registry/ThirdLevelConfigurationElemen
+ tHandle.java
+SHA1-Digest: 5ChbooSoxdWMPxEx+ixvq/1z7Yw=
+
+Name: org/eclipse/core/runtime/IExtensionRegistry.java
+SHA1-Digest: gSd3Kpfag3MkBCvAh4R9g6q4ga4=
+
+Name: org/eclipse/core/internal/registry/BaseExtensionPointHandle.java
+SHA1-Digest: fS3FccwF5dBayx1ONkSX5nOsLtI=
+
+Name: org/eclipse/core/internal/registry/IRegistryConstants.java
+SHA1-Digest: DlcQpJrYom2d6Gg9scABH6NhhIo=
+
+Name: org/eclipse/core/internal/registry/RegistryIndexElement.java
+SHA1-Digest: eEPZ8h8n2wOYh6B1Cj5q6w22lnc=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryStrategyOSGI.jav
+ a
+SHA1-Digest: 84KLx5xw/tzZmMMmvZKaWEzOu7c=
+
+Name: plugin.properties
+SHA1-Digest: GzpJkptxJfv3rH9kgZOj1nQIchE=
+
+Name: org/eclipse/core/runtime/spi/IRegistryProvider.java
+SHA1-Digest: JZNKFzOH2k3LlUO+LOq+uxS/ICg=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry.java
+SHA1-Digest: +TIvDK7a6fB7Aj27mhA/grrh1fs=
+
+Name: org/eclipse/core/internal/registry/RegistryProviderFactory.java
+SHA1-Digest: jXLnX49DnCtQ6GkTSNMKq8HKs2g=
+
+Name: org/eclipse/core/internal/registry/RegistryDelta.java
+SHA1-Digest: Lj/xQ2iBb25Qx8byh2gvXPz03KU=
+
+Name: org/eclipse/core/runtime/IRegistryEventListener.java
+SHA1-Digest: yUGRN4Wazjl9zjWqGO4QYY2U5Hw=
+
+Name: org/eclipse/core/internal/registry/osgi/EquinoxRegistryStrategy.
+ java
+SHA1-Digest: B9Eq/gLdihBKRTmcVNSrfplCVc8=
+
+Name: org/eclipse/core/internal/registry/TemporaryObjectManager.java
+SHA1-Digest: BKR76CukwWRH+itW/2ewBdVUscs=
+
+Name: org/eclipse/core/internal/registry/ExtensionMulti.java
+SHA1-Digest: cbjjyxuagk7ezvOK/vQAJMQxJxQ=
+
+Name: org/eclipse/core/runtime/IRegistryChangeListener.java
+SHA1-Digest: a7HWfxiuijIImddbW1L6Bu5pcFY=
+
+Name: org/eclipse/core/internal/registry/spi/ConfigurationElementAttri
+ bute.java
+SHA1-Digest: W6rSS+kHqmThCzFocIqTfjY2xtc=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectManager.java
+SHA1-Digest: wJbYfqXDjxDvPPB8y1e1xFhTRTQ=
+
+Name: org/eclipse/core/runtime/spi/IDynamicExtensionRegistry.java
+SHA1-Digest: UOE/rlKx/IRUMYcQeiGqZ7KDouc=
+
+Name: org/eclipse/core/internal/registry/ExtensionPoint.java
+SHA1-Digest: 31M3BYYjYaeLU3un0qAJghqfYPs=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IExtensionTracker.java
+SHA1-Digest: uSAWBxlC43m0GBZsiNDAdLZVcQM=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: l8kmUOH5ziCwuegrbv+5ZT8NVUE=
+
+Name: org/eclipse/core/internal/registry/BufferedRandomInputStream.jav
+ a
+SHA1-Digest: zC0JsW0Nco++tPuw6fHaDjBt4a0=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectFactoryMulti.ja
+ va
+SHA1-Digest: CdTTUq3Vzw//bEzsc5EnXpsuBqI=
+
+Name: org/eclipse/core/runtime/spi/RegistryContributor.java
+SHA1-Digest: pmInEbSyW5VglCF/U1of8gsKPqc=
+
+Name: org/eclipse/core/internal/adapter/AdapterManagerListener.java
+SHA1-Digest: YIWayqlGZg9nvqcfsod8wUVk84k=
+
+Name: org/eclipse/core/runtime/IExtensionPoint.java
+SHA1-Digest: JELRgMyQ8ncHj8j/uv4aVeB90cQ=
+
+Name: about.html
+SHA1-Digest: ZGuAaQAiIvuugvaUPONcS6hdDcg=
+
+Name: org/eclipse/core/internal/registry/TableWriter.java
+SHA1-Digest: +syVz7LR/fKh/9m0pzVWO+3HVoc=
+
+Name: org/eclipse/core/internal/registry/IObjectManager.java
+SHA1-Digest: 8z7grtM1hF+t2PL8ycu2Aak1KY8=
+
+Name: org/eclipse/core/internal/registry/KeyedElement.java
+SHA1-Digest: AutKERexj7Y8XGPm7xNFCpcxlcA=
+
+Name: org/eclipse/core/internal/registry/RegistryObject.java
+SHA1-Digest: DJFr5NPIs0xgmjLbNke5o+nScao=
+
+Name: org/eclipse/core/runtime/IRegistryChangeEvent.java
+SHA1-Digest: RD257jsDAML72yoMOT4JSZyeXTw=
+
+Name: org/eclipse/core/internal/registry/spi/ConfigurationElementDescr
+ iption.java
+SHA1-Digest: TIp/n00Sp3GqcaIU4VVVz9sphGA=
+
+Name: org/eclipse/core/runtime/ContributorFactorySimple.java
+SHA1-Digest: 96z67aE4J15DFQFDgYdJhxlGFAw=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryCommandProvider.
+ java
+SHA1-Digest: S5jwhKytXXeTYYBLXeoYLualK7k=
+
+Name: org/eclipse/core/internal/registry/KeyedHashSet.java
+SHA1-Digest: 7BchtwM1Djr8q82pU5n5G0albkc=
+

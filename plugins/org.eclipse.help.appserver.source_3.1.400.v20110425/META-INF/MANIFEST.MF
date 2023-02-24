@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.help.appserver;version="3.1.400.v201
+ 10425";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %appserver_plugin_name
+Bundle-SymbolicName: org.eclipse.help.appserver.source
+Bundle-Version: 3.1.400.v20110425
+Bundle-ManifestVersion: 2
+
+Name: schema/server.exsd
+SHA1-Digest: EFFGkKQN20TsKy2/uloiuDuGSO4=
+
+Name: org/eclipse/help/internal/appserver/WebappManager.java
+SHA1-Digest: Na5ROG+R4iiUyUbREPeTG8B4bpw=
+
+Name: org/eclipse/help/internal/appserver/PluginClassLoaderWrapper.jav
+ a
+SHA1-Digest: F+6zeWInIhhfs9fRhCjNRlkvP4M=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/help/internal/appserver/DevClassPathHelper.java
+SHA1-Digest: kTVGk6O2TpD3cOxi2EOuLDBCEmg=
+
+Name: org/eclipse/help/internal/appserver/IWebappServer.java
+SHA1-Digest: PXw5BH7Exy5n9n09+Oz29oMvaM0=
+
+Name: org/eclipse/help/internal/appserver/AppserverPlugin.java
+SHA1-Digest: lzTZyrkMqygaCqei7/T2N1JklWk=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/help/internal/appserver/AppserverResources.java
+SHA1-Digest: vlqb1q0nUv7mso1rJXTtiSnyiTQ=
+
+Name: plugin.properties
+SHA1-Digest: SPPrNCwR8J+MDLJ7TDSdWpm2hq0=
+

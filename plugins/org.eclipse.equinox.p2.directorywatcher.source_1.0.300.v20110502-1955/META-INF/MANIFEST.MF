@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.directorywatcher;version=
+ "1.0.300.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.directorywatcher.source
+Bundle-Version: 1.0.300.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Act
+ ivator.java
+SHA1-Digest: rHMfX+NCvA5PxF+l5Np4uo8x0bM=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Dir
+ ectoryWatcher.java
+SHA1-Digest: uukRyTpCuna1635cyCtjl4lKEEI=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Dir
+ ectoryChangeListener.java
+SHA1-Digest: b6CFGQOO0+gc8a0/qrYgVxID5b4=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Rep
+ ositoryListener.java
+SHA1-Digest: kjlga/qPgAd3Dm37CYM6W4z0Xu4=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Mes
+ sages.java
+SHA1-Digest: KhDu0yuX1ku4Nu6lflQA67urgAM=
+
+Name: about.html
+SHA1-Digest: qoDJAVvjGcPsIOfHP9YS+8+fFhw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Cac
+ hingArtifactRepository.java
+SHA1-Digest: W6zsDChMHZuAyDNPwbGc5KtYOMg=
+
+Name: plugin.properties
+SHA1-Digest: JpseNMFc6WWEJ1cwR2Ajsf7XTMU=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Ent
+ ryAdvice.java
+SHA1-Digest: 2W32ifHNviSOmmcyCi+qU+Bc12Y=
+

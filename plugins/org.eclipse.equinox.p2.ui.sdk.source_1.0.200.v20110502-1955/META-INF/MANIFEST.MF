@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.ui.sdk;version="1.0.200.v
+ 20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.p2.ui.sdk.source
+Bundle-Version: 1.0.200.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/PreferenceConstants
+ .java
+SHA1-Digest: peCPFGPDzEgtHwTbLKfu56vcjpU=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/SimpleLicenseManager.java
+SHA1-Digest: TSjySpLpjWpkmdiNFXY2RyGPrV0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: 5ZlSFQZbmvCUHP6PkNvGavS5gcI=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/SDKPolicy.java
+SHA1-Digest: dS8y+dyah0nGlHcCGgogeZmPbzc=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/ProvisioningPrefere
+ ncePage.java
+SHA1-Digest: kXzOo8urkh5PqyAmmscvlWNAnS4=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/prefs/PreferenceInitializ
+ er.java
+SHA1-Digest: mCvhU61u12XX2u9TkiPlckFioes=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/PreloadingRepositoryHandl
+ er.java
+SHA1-Digest: 32pvgmfDyQK+5LBsGFbTNCeW3KE=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/IProvSDKHelpContextIds.ja
+ va
+SHA1-Digest: nkxca2GnCRMJKunLS/RZNJfr4k0=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/ProvSDKUIActivator.java
+SHA1-Digest: mBCNCwKUQXupQEFKmJj3RTIp7cc=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/UpdateHandler.java
+SHA1-Digest: GQNPRZyy2Fth34QXgo5dYN6FDiw=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/RevertProfilePageExtensio
+ nFactory.java
+SHA1-Digest: pcTF+gYEEWTfGFAmdMpy73A8K9A=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/RevertProfilePageWithComp
+ are.java
+SHA1-Digest: GGgh7jlNQOvaokWEeaLBO1R/ByE=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/InstallNewSoftwareHandler
+ .java
+SHA1-Digest: BXp3hoIP/yY56HVMfOFOmO+sHT8=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/ProvSDKMessages.java
+SHA1-Digest: Al6EP46+3F0Yfs7NXXqEdw24pm8=
+

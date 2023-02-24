@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.http.jetty;version="2.0.100.
+ v20110502";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.http.jetty.source
+Bundle-Version: 2.0.100.v20110502
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/http/jetty/internal/Activator.java
+SHA1-Digest: FWUgYrJi0xiECYTfpu04K5HKFGc=
+
+Name: org/eclipse/equinox/http/jetty/JettyCustomizer.java
+SHA1-Digest: l4Rxl9TV/NMiD3Ev4VUnlNlZHOI=
+
+Name: org/eclipse/equinox/http/jetty/JettyConstants.java
+SHA1-Digest: wCcMcn7tl17BXF+EJhI82pmhY5o=
+
+Name: org/eclipse/equinox/http/jetty/internal/HttpServerManager.java
+SHA1-Digest: jPTrubFxuFdIX3+wNh7LxaKqH+s=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/slf4j/Logger.java
+SHA1-Digest: Up4L2c7TFrlZnATVvlfNniuoAoU=
+
+Name: org/eclipse/equinox/http/jetty/JettyConfigurator.java
+SHA1-Digest: bw2DvPI2Zc6vXM+lswzQXWGzgSY=
+
+Name: about.html
+SHA1-Digest: pFMxZIqhUX1ZnXwPxlDwu9Ch9F4=
+
+Name: org/slf4j/LoggerFactory.java
+SHA1-Digest: wS/YY0CLahFegoNfzDb1ZlQXZgo=
+
+Name: plugin.properties
+SHA1-Digest: 91DixJLmbGT0tmcDQCwHW6PDaeo=
+

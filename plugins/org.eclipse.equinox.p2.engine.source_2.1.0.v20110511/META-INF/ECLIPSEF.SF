@@ -1,0 +1,224 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5Nujv2zVKVONDBXI17MhLJgdlcE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: LANCKY9FZPJt/rviXVP70oP+7JA=
+
+Name: org/eclipse/equinox/internal/p2/engine/ActionManager.java
+SHA1-Digest: TtWAZFU9uutWXJxbrapmhp/pZxA=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Sizing.java
+SHA1-Digest: n8Il+XQFbHeUzsuAa5ROFpvn+Vc=
+
+Name: org/eclipse/equinox/internal/p2/engine/PhaseSet.java
+SHA1-Digest: b4ZOme6c7h9icype8KeOVJlaBx4=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileLock.java
+SHA1-Digest: EYgWdPZhOYiv0QBdcVDZL35ZHCw=
+
+Name: org/eclipse/equinox/p2/engine/spi/Memento.java
+SHA1-Digest: /0AmCp2iR2CTLMdggb0tZVt18WQ=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstructionParser.java
+SHA1-Digest: Pp9hk6xBIiLT9chm+CDlxBHFBso=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Property.java
+SHA1-Digest: 4QUCDfiG+lhKIe8FTLc6Dz0cjRo=
+
+Name: org/eclipse/equinox/p2/engine/ISizingPhaseSet.java
+SHA1-Digest: T/2DqHR/5Z3M2/OczjfxV4JZQ5U=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileParser.java
+SHA1-Digest: oNxKTVqxOug8oBx2axiVYB5hqmg=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CheckTrust.java
+SHA1-Digest: L+u/VuZvnlzduuwU2DedEny0oRE=
+
+Name: org/eclipse/equinox/internal/p2/engine/DownloadManager.java
+SHA1-Digest: Ishml2nDgv9yBLSiYRvZiKOQCA8=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProvisioningPlan.java
+SHA1-Digest: 5GuP9e2yhXPaYiAtivN3heRfXOs=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Unconfigure.java
+SHA1-Digest: dYKVcoiSQ514E0WqCzrGESQN6dY=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileMetadataRepository
+ .java
+SHA1-Digest: 4alv9qy4CE47DlXK1h4ekX80Ypk=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfilePreferences.java
+SHA1-Digest: UyAQlBsDjqzXwMevjfkI41Zj3EE=
+
+Name: org/eclipse/equinox/p2/engine/ProfileScope.java
+SHA1-Digest: vAuv6/EigTJjWIkRhe/omUoI+B8=
+
+Name: org/eclipse/equinox/internal/p2/engine/Phase.java
+SHA1-Digest: 2Te1DhN38rjelOg+ivlJ+YaxJLo=
+
+Name: org/eclipse/equinox/internal/p2/engine/MissingActionsException.j
+ ava
+SHA1-Digest: c/pVY19GvDQclqlwKAebRIzJq3A=
+
+Name: org/eclipse/equinox/p2/engine/spi/ProvisioningAction.java
+SHA1-Digest: ntOp6Qtk5rPKvbNdYvLKCCCYrMY=
+
+Name: org/eclipse/equinox/p2/engine/IProfileEvent.java
+SHA1-Digest: vrtu4CNF0U10+MOseuXK0k/HLr4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Install.java
+SHA1-Digest: cg0slOSxhYf98qOhJH1Oi1OgcXI=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitEvent.java
+SHA1-Digest: jlfvGyWwqyRQkUn1hN12pNKxqZE=
+
+Name: org/eclipse/equinox/p2/engine/IProfileRegistry.java
+SHA1-Digest: E5uuorq4jgWa84qxBOmWMzNuC5c=
+
+Name: org/eclipse/equinox/internal/p2/engine/TransactionEvent.java
+SHA1-Digest: 2qTh+UDqxGGyl/QYL23iOGRQOAU=
+
+Name: org/eclipse/equinox/p2/engine/spi/Touchpoint.java
+SHA1-Digest: GgI46Y9d9FKbzCM095hSKXheIoY=
+
+Name: org/eclipse/equinox/internal/p2/engine/RollbackOperationEvent.ja
+ va
+SHA1-Digest: rd7LVe2/Sg1lWstug5clwOwBdu4=
+
+Name: org/eclipse/equinox/internal/p2/engine/DebugHelper.java
+SHA1-Digest: 6fTOabyYI7TbTsA7YWkY4wusUts=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileEvent.java
+SHA1-Digest: PNQuj61K9Gdex2q/vMqoGHy3lUA=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Configure.java
+SHA1-Digest: lJ+1Si9qkNkMn8uWpWsrDaS45hI=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileWriter.java
+SHA1-Digest: W9FRBYhEcDMhtu6ylh1NGLB9WFg=
+
+Name: org/eclipse/equinox/internal/p2/engine/Messages.java
+SHA1-Digest: 5bZD2PxAm60nDUT6P6YKD8po5zY=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Uninstall.java
+SHA1-Digest: rpPFpsySiuAbqviNP2ttHwqouuU=
+
+Name: org/eclipse/equinox/internal/p2/engine/SurrogateProfileHandler.j
+ ava
+SHA1-Digest: MoohGGRWK4CwLfedRAM+Gir9wMg=
+
+Name: org/eclipse/equinox/internal/p2/engine/CommitOperationEvent.java
+SHA1-Digest: /74dr1aYdNOf9mxvH09CbWwMSYg=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileMetadataRepository
+ Factory.java
+SHA1-Digest: hrsyPU7Aou8stF06CxuR0Oj6bDU=
+
+Name: schema/actions.exsd
+SHA1-Digest: AaR+gg7gfdXTRU0hyZcANAVeHvc=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineSession.java
+SHA1-Digest: 8UwVd66yn7b0hYysDVjxoRK3VsE=
+
+Name: org/eclipse/equinox/internal/p2/engine/PropertyOperand.java
+SHA1-Digest: JyPHDN2CBs55uxZHSuoPtpLyoPk=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry.jav
+ a
+SHA1-Digest: ogDZmtYs/PK+ez6cAz8N3dwJ5C0=
+
+Name: org/eclipse/equinox/internal/p2/engine/Engine.java
+SHA1-Digest: R4yZ63kUI91mF1BJPvNz4SoSdtA=
+
+Name: org/eclipse/equinox/internal/p2/engine/Operand.java
+SHA1-Digest: Q2llM93tUW/RqlaoOxC+h9t6s6Q=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitPropertyOp
+ erand.java
+SHA1-Digest: Ym5ni8xcCmaENMxI5GP7PikqGFo=
+
+Name: plugin.properties
+SHA1-Digest: RZhd6miHL1FWvYVAUOLOlSYuKY4=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileRegistryComponent.
+ java
+SHA1-Digest: Ag8BK1IGkidT4I/O+TJuUIt8kb4=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileXMLConstants.java
+SHA1-Digest: PUNQj+7ET4p6+kL+MwlfDsimxR0=
+
+Name: org/eclipse/equinox/p2/engine/PhaseSetFactory.java
+SHA1-Digest: AdZU7C0+EipQ+AkRdzr/SrXc9sc=
+
+Name: org/eclipse/equinox/internal/p2/engine/ISurrogateProfileHandler.
+ java
+SHA1-Digest: On8OcdbpZnDNcmE2LsGOXkBHpqI=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitOperand.ja
+ va
+SHA1-Digest: UzeMl7mMoVOrUzrOf1p2gOaJvj4=
+
+Name: org/eclipse/equinox/p2/engine/ProvisioningContext.java
+SHA1-Digest: L8KnBZ9HkYO2e9D5gyFbPHbUAE8=
+
+Name: org/eclipse/equinox/internal/p2/engine/ParameterizedProvisioning
+ Action.java
+SHA1-Digest: xs3vFUhys0PTUo8bA2ELEBiF/pw=
+
+Name: org/eclipse/equinox/p2/engine/query/UserVisibleRootQuery.java
+SHA1-Digest: wv5JlYgR0kp7PeTKVcLY+TGx4dI=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CertificateChecker
+ .java
+SHA1-Digest: Lrtdt3uYieaHMDOMcb4e/KuhlD8=
+
+Name: org/eclipse/equinox/internal/p2/engine/SizingPhaseSet.java
+SHA1-Digest: l9YhxxcFEEFZeEOsgSF1X9k14F8=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineActivator.java
+SHA1-Digest: CdhydyTNdhjSKxvJV66TfK/3U9g=
+
+Name: org/eclipse/equinox/p2/engine/IProfile.java
+SHA1-Digest: cc9SCj90zxIoVU8+OP/e4kJewsM=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitPhase.java
+SHA1-Digest: dokDrMsSBZg6OwyX2s2UU/3zyZY=
+
+Name: org/eclipse/equinox/p2/engine/query/IUProfilePropertyQuery.java
+SHA1-Digest: J0X42ZxsRALnB8f1Q4IB7sQEjGU=
+
+Name: org/eclipse/equinox/p2/engine/IPhaseSet.java
+SHA1-Digest: vc/lndAGOIUKDnYu6a4VIwgh6Ww=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/engine/Profile.java
+SHA1-Digest: QtWQqjtIsI7t9f35KQM2WAzpzyg=
+
+Name: org/eclipse/equinox/p2/engine/IEngine.java
+SHA1-Digest: XwG6Y9WFIwyGx71dHWGBHCOFVwE=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Collect.java
+SHA1-Digest: ZQLYA3YIMUNoBMGzlgCIpcrAoRI=
+
+Name: org/eclipse/equinox/internal/p2/engine/TouchpointManager.java
+SHA1-Digest: P/Tgr3cJPyz/s0RV8VDqJFporII=
+
+Name: org/eclipse/equinox/internal/p2/engine/BeginOperationEvent.java
+SHA1-Digest: sOO0aeZbf+acM3urfrdQNlX90Rw=
+
+Name: org/eclipse/equinox/internal/p2/engine/MissingAction.java
+SHA1-Digest: MBv8bRJhPo8kr7D9Zh94XNUxkF8=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineComponent.java
+SHA1-Digest: c2MnRD6LGgMMfj5eY13FSmNbANk=
+
+Name: org/eclipse/equinox/p2/engine/IProvisioningPlan.java
+SHA1-Digest: qKacTCVzw/VDKhuM3DtI9UvjN6I=
+
+Name: schema/touchpoints.exsd
+SHA1-Digest: 5Yyy9guMj/L81HgfPaldC2nta3M=
+

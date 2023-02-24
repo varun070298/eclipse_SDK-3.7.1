@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Eclipse-PlatformFilter: (osgi.os=win32)
+Eclipse-SourceBundle: org.eclipse.compare.win32;version="1.0.200.I2011
+ 0510-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.compare.win32.source
+Bundle-Version: 1.0.200.I20110510-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/compare/internal/win32/AbstractMergeViewer.java
+SHA1-Digest: lTlnqJgwfpjWYpQWVTAiiDmIzY0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/compare/internal/win32/WordComparison.java
+SHA1-Digest: 0wHcYKclezugXMTU7mLwwqK+teg=
+
+Name: org/eclipse/compare/internal/win32/Activator.java
+SHA1-Digest: ykPNkK700HNh1aUerP6wb8ieKMw=
+
+Name: org/eclipse/compare/internal/win32/CompareWin32Messages.java
+SHA1-Digest: QEsGIO+iOy4H0VWbMi2twzOBRgI=
+
+Name: org/eclipse/compare/internal/win32/WordViewerCreator.java
+SHA1-Digest: nsLJ6Ou5OrOaSOfoaJ6wYAeK8Ns=
+
+Name: org/eclipse/compare/internal/win32/WordMergeViewer.java
+SHA1-Digest: 6CKyjZtMEj+VMGKJcppX33baQ80=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: t7valrLIYaKQZjU02K2tHo+nzUU=
+

@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.variables;version="3.2.500.v201
+ 10511";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.variables.source
+Bundle-Version: 3.2.500.v20110511
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/variables/DynamicVariable.java
+SHA1-Digest: UwX9rCAMerrKXQXqsnX2eMGyQhs=
+
+Name: org/eclipse/core/variables/IValueVariableListener.java
+SHA1-Digest: bVNAVRZvrUx0fheRuLsRUZZMrIY=
+
+Name: org/eclipse/core/variables/IDynamicVariableResolver.java
+SHA1-Digest: 48mkxejZjtBUtLyavg37LSRV6Uw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/variables/IStringVariableManager.java
+SHA1-Digest: n4tQ9krIPRtwZGlsRBqhzPplIhg=
+
+Name: org/eclipse/core/variables/IValueVariableInitializer.java
+SHA1-Digest: vmI09X58c840xepQiku553U8fl0=
+
+Name: org/eclipse/core/variables/IDynamicVariable.java
+SHA1-Digest: Ui8IUlX1zR1J6xvDoERSK1z3onI=
+
+Name: schema/dynamicVariables.exsd
+SHA1-Digest: dD41XJWgLVMOxe+r++qrNpxDx4k=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/internal/variables/ContributedValueVariable.jav
+ a
+SHA1-Digest: 7yuq2N5d73RMO0Mi3YS668i3TXo=
+
+Name: plugin.properties
+SHA1-Digest: aIQBioXBXwbzyBlTGqGST3AZs3E=
+
+Name: org/eclipse/core/variables/IStringVariable.java
+SHA1-Digest: 2FlcsYAL/2qZ8kKDcz0U0E2g38o=
+
+Name: org/eclipse/core/internal/variables/ValueVariable.java
+SHA1-Digest: +ExYu9KVhrtI8HVcCI6vaqzUcdc=
+
+Name: org/eclipse/core/internal/variables/StringSubstitutionEngine.jav
+ a
+SHA1-Digest: OBvjDBCGrJhPSlZ7UAC+hbSG1Yo=
+
+Name: org/eclipse/core/internal/variables/EclipseHomeVariableResolver.
+ java
+SHA1-Digest: 4k32EGDJ+I1osxEZqSd1CrVyYB0=
+
+Name: org/eclipse/core/internal/variables/StringVariable.java
+SHA1-Digest: 4MJeroMF3vz31SDHX2ax6cpP6oQ=
+
+Name: org/eclipse/core/variables/IValueVariable.java
+SHA1-Digest: hxTHHu92argPWwKTZQw3r1TX8HY=
+
+Name: org/eclipse/core/internal/variables/VariablesMessages.java
+SHA1-Digest: ftUapHf44GMRsWUBAvOTNTdPt9c=
+
+Name: org/eclipse/core/variables/VariablesPlugin.java
+SHA1-Digest: YzxZLMxdhuUpzAMNe3yEo+cGCrw=
+
+Name: org/eclipse/core/internal/variables/StringVariableManager.java
+SHA1-Digest: PHXHQicwO+Wm5UTWBpUf2CCcYXo=
+
+Name: schema/valueVariables.exsd
+SHA1-Digest: wHOi8ARtrsjv2WNaFTI+WcSw5EA=
+

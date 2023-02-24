@@ -1,0 +1,165 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ByZ1bf1rRWvzMM34kR46vz4MZWI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: FYWrULod6xMaJevABaVD1fwtSdI=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/URLRemoteFile.java
+SHA1-Digest: wNiUb4HGq1SKV+9vpGyaQrjyoFs=
+
+Name: org/eclipse/ecf/provider/filetransfer/identity/FileTransferID.ja
+ va
+SHA1-Digest: H5CTl3rxy5d94ACqW6XdLnMYiKg=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/URLFileSystemBrowse
+ r.java
+SHA1-Digest: AEZG3jJkwRgcp8Y5h1M3uDTCCok=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/SocketCreate
+ dEvent.java
+SHA1-Digest: NbJc0sgt1eKHMP+oe9MD7vYKgR0=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/Messages.java
+SHA1-Digest: eiY6wvJHd8yTryOiv7zUll5/6lc=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/LocalRemoteFile.jav
+ a
+SHA1-Digest: A/loyKCW2mEE4EckhsqEh5zJSxg=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/MultiProtocolFileSy
+ stemBrowserAdapterFactory.java
+SHA1-Digest: ou5oM81fk7SjTX/fTw1FwGHezYY=
+
+Name: org/eclipse/ecf/provider/filetransfer/identity/FileTransferNames
+ pace.java
+SHA1-Digest: Hec89+amn+Bwkrtjg+Iza0taHoY=
+
+Name: org/eclipse/ecf/provider/filetransfer/util/ProxySetupHelper.java
+SHA1-Digest: ASRT//KXMDc3Sp72RUAQ18RqJPg=
+
+Name: org/eclipse/ecf/provider/filetransfer/retrieve/HttpHelper.java
+SHA1-Digest: 4YYGlx99VhPeKo6H24qAIWltKAY=
+
+Name: org/eclipse/ecf/provider/filetransfer/outgoing/AbstractUrlConnec
+ tionOutgoingFileTransfer.java
+SHA1-Digest: rJv1X1Dv6wvbanT+nRnv7xoztwY=
+
+Name: schema/retrieveFileTransferProtocolFactory.exsd
+SHA1-Digest: FW9tJ0xLo3oCrOgjO1BdmwiZiYY=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/SocketEventC
+ reateUtil.java
+SHA1-Digest: uqZpQBdCaugmTeOMHzwwlskvonE=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/AbstractSock
+ etEvent.java
+SHA1-Digest: S49hkcKbp3GTcZEJvbWMBQwwF2c=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/AbstractFileSystemB
+ rowser.java
+SHA1-Digest: QPNv7BmHSf/+wNKoOxu/bX60fJY=
+
+Name: org/eclipse/ecf/provider/filetransfer/outgoing/MultiProtocolOutg
+ oingAdapterFactory.java
+SHA1-Digest: 4stg1t/xcPERHAQH700gaS1UyCI=
+
+Name: org/eclipse/ecf/provider/filetransfer/retrieve/AbstractRetrieveF
+ ileTransfer.java
+SHA1-Digest: iESUcqL6nE6lH/pf7ZGZ1p/pnTA=
+
+Name: org/eclipse/ecf/provider/filetransfer/outgoing/AbstractOutgoingF
+ ileTransfer.java
+SHA1-Digest: 0WeU5CMOEPRty0JBm22nFYFwQis=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/Activator.java
+SHA1-Digest: BJeaGR6f8PVkv90jamLTap+eT+c=
+
+Name: schema/sendFileTransferProtocolFactory.exsd
+SHA1-Digest: iam1Dl+k+tY+VtYlLvzgW1D/Kyg=
+
+Name: org/eclipse/ecf/provider/filetransfer/retrieve/MultiProtocolRetr
+ ieveAdapter.java
+SHA1-Digest: iNowjIANwcLXoQBBV04JWAI6q9U=
+
+Name: schema/browseFileTransferProtocolFactory.exsd
+SHA1-Digest: 4yTYCYcbW8Rzxl0Szy973xZm7mE=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/SocketClosed
+ Event.java
+SHA1-Digest: CQjPeOY8G8YAV6E5YVBdaGV7LnA=
+
+Name: org/eclipse/ecf/provider/filetransfer/util/PollingInputStream.ja
+ va
+SHA1-Digest: SrFKYGrK3AJEkyGh5fEBRWAHZSQ=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/SocketConnec
+ tedEvent.java
+SHA1-Digest: ih8phUV6VHypGt1jIjerv1qBKFU=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/DebugOptions.java
+SHA1-Digest: tEkEgvIoLz1YngSeavo5WB2hHLs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ecf/provider/filetransfer/IFileTransferProtocolToFac
+ toryMapper.java
+SHA1-Digest: caekT7Y8kY65XTN+b33wmHlWCV4=
+
+Name: org/eclipse/ecf/provider/filetransfer/util/JREProxyHelper.java
+SHA1-Digest: k9eizk8m6kjV5sR4HKLvnm3U+qs=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/URLRemoteFileAttrib
+ utes.java
+SHA1-Digest: KIRjGm0e/RcKYyeiVZDukc6ojrA=
+
+Name: about.html
+SHA1-Digest: hgEDy6ByJGOPFZGoJLF3ePUWGjY=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/LocalRemoteFileAttr
+ ibutes.java
+SHA1-Digest: E5eB9pKzZ02yrRlVEoSU9BuQ2E0=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/MultiProtocolFileSy
+ stemBrowserAdapter.java
+SHA1-Digest: 2M//t7QrBypuhG1Hxj7AAP/9XiQ=
+
+Name: org/eclipse/ecf/provider/filetransfer/retrieve/UrlConnectionRetr
+ ieveFileTransfer.java
+SHA1-Digest: JAZEPxElFq/7IvvyVAWdl00xNDE=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/messages.properti
+ es
+SHA1-Digest: 1uXtQPMW2i8B/EsQAEGu9WKp1hc=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/IURLConnectionMod
+ ifier.java
+SHA1-Digest: yM7lgKhTBOG4KcEUZ8gJQS9uPK8=
+
+Name: org/eclipse/ecf/provider/filetransfer/outgoing/LocalFileOutgoing
+ FileTransfer.java
+SHA1-Digest: +1KUIES7Dhz0x8hn3xTGcj00uUI=
+
+Name: org/eclipse/ecf/provider/filetransfer/retrieve/MultiProtocolRetr
+ ieveAdapterFactory.java
+SHA1-Digest: vAprb90gLLDqhtXHpRZ0R2uyS3Y=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/SocketEventS
+ ource.java
+SHA1-Digest: jkiSC6z+RvKHxwlghg5k006Gulo=
+
+Name: org/eclipse/ecf/provider/filetransfer/events/socket/AbstractSock
+ etWrapper.java
+SHA1-Digest: 8UoCQrlTnOJoX310bxBCOiW4QxY=
+
+Name: org/eclipse/ecf/provider/filetransfer/browse/LocalFileSystemBrow
+ ser.java
+SHA1-Digest: BW4QDACQ+6+Zd/YslLKopJSxtB0=
+
+Name: org/eclipse/ecf/provider/filetransfer/util/TimeoutInputStream.ja
+ va
+SHA1-Digest: o2/pLMg72/QJQhYf2dFe40WVU9I=
+
+Name: org/eclipse/ecf/provider/filetransfer/outgoing/MultiProtocolOutg
+ oingAdapter.java
+SHA1-Digest: vQ4mw0O2aeeVsPdOdCrHFrB7+0Y=
+

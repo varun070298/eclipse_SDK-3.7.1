@@ -1,0 +1,330 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.help.webapp;version="3.6.0.v20110518
+ ";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %help_webapp_plugin_name
+Bundle-SymbolicName: org.eclipse.help.webapp.source
+Bundle-Version: 3.6.0.v20110518
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/help/internal/webapp/data/WorkingSetManagerData.java
+SHA1-Digest: UOloAfysXOYx5kLSd+yQGE17nxk=
+
+Name: org/eclipse/help/internal/webapp/data/CssUtil.java
+SHA1-Digest: gvQnjEK50F4L0RoSL8yE73UsdaQ=
+
+Name: org/eclipse/help/internal/webapp/data/EnabledTopicUtils.java
+SHA1-Digest: n7zvo/jKwcWpP+wN8q/KV9sUdRc=
+
+Name: org/eclipse/help/internal/webapp/service/SearchService.java
+SHA1-Digest: LXB8hIq9FbNq9FyQHdta68/KmFo=
+
+Name: org/eclipse/help/internal/webapp/utils/Utils.java
+SHA1-Digest: kWIdxVzsKWcciCAjYaf759O24so=
+
+Name: org/eclipse/help/internal/webapp/servlet/FilterUtils.java
+SHA1-Digest: mVV+H5FGNM0hgSU0LzXjpypfGUQ=
+
+Name: org/eclipse/help/internal/webapp/parser/IndexFragmentParser.java
+SHA1-Digest: vhEbsDTqz+iLKmll+D4TxF5kNIw=
+
+Name: org/eclipse/help/internal/webapp/utils/XMLHelper.java
+SHA1-Digest: 3ywfe4tpHD2Ll7dNl51Liebk3sw=
+
+Name: org/eclipse/help/webapp/IFilter.java
+SHA1-Digest: OZJkPW6kqupjhGquMXJOIUT8+is=
+
+Name: org/eclipse/help/internal/webapp/data/UrlUtil.java
+SHA1-Digest: 7IJF1jkrhaxTjIQWQlA5FhYR9r8=
+
+Name: org/eclipse/help/internal/webapp/service/NavService.java
+SHA1-Digest: Y7n/K8cEjJApPcnEzNqE77CCtac=
+
+Name: org/eclipse/help/internal/webapp/servlet/NavServlet.java
+SHA1-Digest: r1lqf3/5LL8Pnejf39dbNg8CAEY=
+
+Name: org/eclipse/help/internal/webapp/parser/TocFragmentParser.java
+SHA1-Digest: a7BbgUu3fgwHBFf8rYAo5XZX8DY=
+
+Name: org/eclipse/help/internal/webapp/data/BookmarksData.java
+SHA1-Digest: csk6kURAR6W9He+byVhrB/XotZU=
+
+Name: org/eclipse/help/internal/webapp/WebappResources.java
+SHA1-Digest: auWr/4Ib5cj6hhYhDwuf/4m3qds=
+
+Name: org/eclipse/help/internal/webapp/service/ContextService.java
+SHA1-Digest: VAix3q3h1mNQM3TpemTe6i8tceo=
+
+Name: org/eclipse/help/internal/webapp/servlet/ContextServlet.java
+SHA1-Digest: 2yQUhop47kF9Njz6GJrh6ZeYP5c=
+
+Name: org/eclipse/help/internal/webapp/service/TocFragmentService.java
+SHA1-Digest: TJ/so/z/bGixxpiYn4LUrF56pR8=
+
+Name: org/eclipse/help/internal/webapp/servlet/FilterHTMLHeadAndBodyOu
+ tputStream.java
+SHA1-Digest: ISM+KcSGJeW3TgZ0ZGd6jwY1vdo=
+
+Name: org/eclipse/help/internal/webapp/servlet/TocFragmentServlet.java
+SHA1-Digest: TIqJkGOiF+/EuAi7Hysox5RXlpE=
+
+Name: schema/toolbarButton.exsd
+SHA1-Digest: x7fhFfz40GN81E/Ne7jP9Dxk2vk=
+
+Name: org/eclipse/help/internal/webapp/servlet/EclipseConnector.java
+SHA1-Digest: 2+I3BLKgH1y91OUGTf1Bfx4buTA=
+
+Name: org/eclipse/help/internal/webapp/servlet/InjectionFilter.java
+SHA1-Digest: C5IZzXZXdRCcdv02kg7yw4AhxdE=
+
+Name: org/eclipse/help/internal/webapp/servlet/WebappWorkingSetManager
+ .java
+SHA1-Digest: rp704boXsFhDNJ3SjazxtZpoR6c=
+
+Name: org/eclipse/help/internal/webapp/data/IconFinder.java
+SHA1-Digest: ocYQqrNbD/ikUegvjyQ9lrLSweg=
+
+Name: org/eclipse/help/internal/webapp/servlet/HighlightFilter.java
+SHA1-Digest: aojlYXZqsG1tqKcop3NuLYZJq9k=
+
+Name: org/eclipse/help/internal/webapp/data/Topic.java
+SHA1-Digest: LKy9m7OiVWRXmNtDcjPdSeuQb/8=
+
+Name: org/eclipse/help/internal/webapp/data/ServerState.java
+SHA1-Digest: QZgEx8N0ho169gKcIdOys7qJWc8=
+
+Name: org/eclipse/help/internal/webapp/servlet/DynamicXHTMLFilter.java
+SHA1-Digest: Qk2GdMbx+FKcPWMW6zOjnk1M910=
+
+Name: org/eclipse/help/internal/webapp/parser/SearchParser.java
+SHA1-Digest: 7/CDT4Y8TpDANtUGjp4iMPqqQi4=
+
+Name: org/eclipse/help/internal/webapp/parser/ContextParser.java
+SHA1-Digest: b6kI2If+GkOdoLP6UXRmfuAREeU=
+
+Name: org/eclipse/help/internal/webapp/servlet/PluginsRootFilter.java
+SHA1-Digest: XZyz+UkQwiVq2XHs/VxWFjHxjSs=
+
+Name: org/eclipse/help/internal/webapp/data/CookiesData.java
+SHA1-Digest: rL8X1SJnJC//MR1kjgDBzCNDopo=
+
+Name: org/eclipse/help/internal/webapp/data/RequestData.java
+SHA1-Digest: 01X+ntT/uIU3QbIG7KM3t0xq7bA=
+
+Name: org/eclipse/help/internal/webapp/utils/JSonHelper.java
+SHA1-Digest: M2fOm0pWc5uWk+GbrCNh/pp/8Y4=
+
+Name: schema/frame.exsd
+SHA1-Digest: 8XZ2JAF8eqvc+IlOBeoglZY6OKw=
+
+Name: org/eclipse/help/internal/webapp/servlet/PluginsRootResolvingStr
+ eam.java
+SHA1-Digest: dg0yulokXbEf94m4yXKEw23ETkk=
+
+Name: org/eclipse/help/internal/webapp/data/ButtonData.java
+SHA1-Digest: w9jI+NE4n5TIeWhZnnXd02CG3DM=
+
+Name: org/eclipse/help/internal/webapp/servlet/BreadcrumbsFilter.java
+SHA1-Digest: EDuX4CUuueOjI8Uh4546iT4aywY=
+
+Name: org/eclipse/help/internal/webapp/servlet/ServletPrintWriter.java
+SHA1-Digest: 8VUIBgozSUTrNqBlp5OAlJHFr2E=
+
+Name: org/eclipse/help/internal/webapp/data/LayoutData.java
+SHA1-Digest: OZ922P4o0ehMJRTkceppchcdkTA=
+
+Name: org/eclipse/help/internal/webapp/utils/SearchXMLGenerator.java
+SHA1-Digest: Mk++YJLEGngncrEd4luXv0jabAc=
+
+Name: org/eclipse/help/internal/webapp/HelpWebappPlugin.java
+SHA1-Digest: lFbmxWgvmuTs3/tfdm1fU23YcLQ=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/help/internal/webapp/servlet/InfocenterWorkingSetMan
+ ager.java
+SHA1-Digest: rUsKiCrlrcpGNp+sKVUNpz+nLLM=
+
+Name: org/eclipse/help/internal/webapp/servlet/FramesetFilter.java
+SHA1-Digest: edpkV7inLqr2ri3gtEKRKSPqnME=
+
+Name: org/eclipse/help/internal/webapp/data/RequestScope.java
+SHA1-Digest: 6HH9qAtxMcloM23VJwLAZU7WdmI=
+
+Name: org/eclipse/help/internal/webapp/data/PrintData.java
+SHA1-Digest: cbQlj9/dpbdVibac8o0Q+xkBVXA=
+
+Name: org/eclipse/help/internal/webapp/data/TopicFinder.java
+SHA1-Digest: zuLMkGFoh7wTCXFteMYayKTViTY=
+
+Name: org/eclipse/help/internal/webapp/parser/ExtensionParser.java
+SHA1-Digest: d5AU/LPnNtgcox6EYxVbvjlGdng=
+
+Name: org/eclipse/help/internal/webapp/data/WebappPreferences.java
+SHA1-Digest: GC0kew1+a3dkhn6ik+INImPP+aM=
+
+Name: org/eclipse/help/internal/webapp/parser/IndexParser.java
+SHA1-Digest: vHit0iDESPyGN/yZJAei8pGpkuo=
+
+Name: org/eclipse/help/internal/webapp/service/IndexService.java
+SHA1-Digest: JVa9Tqbjg4d4kXZLmQHJ3MCh8D0=
+
+Name: org/eclipse/help/internal/webapp/servlet/IndexServlet.java
+SHA1-Digest: nqjEhZb6zWI7YtCHTQLlsnC59Ec=
+
+Name: org/eclipse/help/internal/webapp/servlet/PrioritizedFilter.java
+SHA1-Digest: TnlBkd7lxJLHgDrn9QZaw3hEzzI=
+
+Name: org/eclipse/help/internal/webapp/servlet/ValidatorServlet.java
+SHA1-Digest: o7cQpItgcshzdHrVSWN0UUsKpXc=
+
+Name: org/eclipse/help/internal/webapp/data/ScopeSavingSearchData.java
+SHA1-Digest: iEexsgh4qtFYmr63CVbSczeyycU=
+
+Name: schema/validatedServlet.exsd
+SHA1-Digest: DKALtYxjAhY3ESpbCDvFworAkho=
+
+Name: org/eclipse/help/internal/webapp/parser/TocParser.java
+SHA1-Digest: 1MPjbw4rFMzKW8PJffuNOkwXe3Y=
+
+Name: org/eclipse/help/webapp/AbstractButton.java
+SHA1-Digest: EQf9pdWvDakVpM7CFEUzuL6F5cQ=
+
+Name: org/eclipse/help/internal/webapp/data/ToolbarButton.java
+SHA1-Digest: VKcyt0fYS2GmWMd6YyiCBbHS3fU=
+
+Name: org/eclipse/help/internal/webapp/StatusProducer.java
+SHA1-Digest: diRhpcIHs2kKIOlkxV3WCHxIf3k=
+
+Name: org/eclipse/help/internal/webapp/parser/ParseElement.java
+SHA1-Digest: 7C0G9J9lyVaeRwZ+hwAvmhZCXsE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/help/internal/webapp/data/SearchData.java
+SHA1-Digest: FbgWleLmxkvE7b5yiOBtlIUL5bI=
+
+Name: org/eclipse/help/internal/webapp/parser/ResultParser.java
+SHA1-Digest: yCTXXDbu3PQvghx/5om6o45oUHc=
+
+Name: org/eclipse/help/internal/webapp/data/FrameData.java
+SHA1-Digest: C/rFEswoAL6g8SEQrOLkiberGuM=
+
+Name: org/eclipse/help/internal/webapp/servlet/CookieUtil.java
+SHA1-Digest: sUfclCmPN5aOxib4Pttki5jYXhg=
+
+Name: org/eclipse/help/internal/webapp/data/TocData.java
+SHA1-Digest: vGR4l6YHcdAOGtRbycwo0foeNe4=
+
+Name: org/eclipse/help/internal/webapp/service/TocService.java
+SHA1-Digest: pysPUEWidRgP1+sgpLjn62ates0=
+
+Name: org/eclipse/help/internal/webapp/servlet/TocServlet.java
+SHA1-Digest: IdOTzvvy2d2uKW9/6AENavbNu0A=
+
+Name: org/eclipse/help/internal/webapp/service/SearchStateService.java
+SHA1-Digest: QzjnkA8VriwwNohKQeID6zn5fAQ=
+
+Name: org/eclipse/help/internal/webapp/servlet/XMLGenerator.java
+SHA1-Digest: BizSFYyUoDaJShzfJMuTpFojCS4=
+
+Name: org/eclipse/help/webapp/TocSystem.java
+SHA1-Digest: bf47TYOOtLQtoOmAMakPApJtK8w=
+
+Name: org/eclipse/help/webapp/AbstractView.java
+SHA1-Digest: w+2ijgQ4GUcc9cF1LnDfCD5yjzk=
+
+Name: org/eclipse/help/internal/webapp/service/AboutService.java
+SHA1-Digest: EiTEG8SQhO7v8OOFgDgu3+x808s=
+
+Name: org/eclipse/help/internal/webapp/servlet/AboutServlet.java
+SHA1-Digest: wly2kKMrv0tvjRKZfj0Oxb4TPpM=
+
+Name: org/eclipse/help/internal/webapp/servlet/ShowInTocFilter.java
+SHA1-Digest: 38UQikIf+8sQ/+KdYXGDKtFKJkU=
+
+Name: org/eclipse/help/internal/webapp/servlet/ChildLinkInserter.java
+SHA1-Digest: FiiM0fDdwA1zQgTq8laeJFT6YYA=
+
+Name: org/eclipse/help/internal/webapp/service/AdvancedSearchService.j
+ ava
+SHA1-Digest: 1npKAT8d74VnbIERpZdnRkCVEI0=
+
+Name: org/eclipse/help/internal/webapp/servlet/LiveHelpServlet.java
+SHA1-Digest: HXNAjwgv6ERq7ybQuoB7Yi8mqVQ=
+
+Name: org/eclipse/help/internal/webapp/servlet/PreferenceWriter.java
+SHA1-Digest: wQvqECVCbkL+Kkro18nu5gCJJgI=
+
+Name: plugin.properties
+SHA1-Digest: UkFg3cy/+Ce1qFt1wnpeKBC9wgQ=
+
+Name: org/eclipse/help/internal/webapp/servlet/ExtraFilters.java
+SHA1-Digest: Mhr9ToZqQ5lclEEb8uODZLfuorY=
+
+Name: org/eclipse/help/internal/webapp/data/View.java
+SHA1-Digest: 9IIG9NE0feVG3BzONOZHcrCCPn8=
+
+Name: org/eclipse/help/internal/webapp/service/ControlService.java
+SHA1-Digest: k2Oe/mTDujoSjxsDBMYwbcNgOI0=
+
+Name: org/eclipse/help/internal/webapp/servlet/ControlServlet.java
+SHA1-Digest: xdPf4KKoH2YtRYQMpI+u/VsPpts=
+
+Name: org/eclipse/help/internal/webapp/servlet/FilterHTMLHeadOutputStr
+ eam.java
+SHA1-Digest: t+geFYATGLtjFEfV+QicwdRjhhY=
+
+Name: org/eclipse/help/internal/webapp/data/ToolbarData.java
+SHA1-Digest: QdQ3sQ6DtJ6OlBQZFpqeLXFR+hA=
+
+Name: org/eclipse/help/internal/webapp/servlet/SearchServlet.java
+SHA1-Digest: LL2iXYMmRjJ/Pj7COIgcYmhlk98=
+
+Name: org/eclipse/help/webapp/AbstractFrame.java
+SHA1-Digest: YgWdiUIsxvWPuxH757G9vXWFr9Y=
+
+Name: org/eclipse/help/internal/webapp/service/LiveHelpService.java
+SHA1-Digest: ZDjJfByocd/qT65CN1miYhULBdA=
+
+Name: org/eclipse/help/internal/webapp/data/IndexData.java
+SHA1-Digest: rFfxqogVR+zEPPqHKckcQFoAXD8=
+
+Name: schema/contentFilter.exsd
+SHA1-Digest: hzcPXuSo+iH05nm/kqbMFFawHI8=
+
+Name: org/eclipse/help/internal/webapp/service/ContentService.java
+SHA1-Digest: G3aCO9MKoPWTZhCbyKQkadAqEwo=
+
+Name: org/eclipse/help/internal/webapp/servlet/ContentServlet.java
+SHA1-Digest: uOZIKVl+tpedLc6a751ncN+5MdE=
+
+Name: org/eclipse/help/internal/webapp/service/ExtensionService.java
+SHA1-Digest: uKv7T3CA49PZMoVuGh+nKLvNs+k=
+
+Name: org/eclipse/help/internal/webapp/servlet/ExtensionServlet.java
+SHA1-Digest: H0xJmd94fEUMpAKb5SjarheGUE0=
+
+Name: org/eclipse/help/internal/webapp/data/ServletResources.java
+SHA1-Digest: SR8E22akZZe3UvvOXWL7kxGxgPU=
+
+Name: org/eclipse/help/internal/webapp/service/IndexFragmentService.ja
+ va
+SHA1-Digest: B3vdOi6dH5j+6YKtKHtprcC1wMc=
+
+Name: org/eclipse/help/internal/webapp/servlet/IndexFragmentServlet.ja
+ va
+SHA1-Digest: kDd7qEDKs6XtBafNtWYmJPY9PdE=
+
+Name: org/eclipse/help/internal/webapp/data/WorkingSetData.java
+SHA1-Digest: sqWDNVd7ErFv/WfjMLyUb2jmuSs=
+
+Name: schema/view.exsd
+SHA1-Digest: joz/jzrnUgs7t+j/+Y04u79WD3k=
+
+Name: org/eclipse/help/internal/webapp/data/ActivitiesData.java
+SHA1-Digest: BeavhErPPnzg5KIDixnd4qHBCdw=
+

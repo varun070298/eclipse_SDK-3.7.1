@@ -1,0 +1,129 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.contenttype;version="3.4.100.v2
+ 0110423-0524";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.contenttype.source
+Bundle-Version: 3.4.100.v20110423-0524
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/content/ILazySource.java
+SHA1-Digest: WW3iRtV4ujKwkz8c02MNR0hby3s=
+
+Name: org/eclipse/core/internal/content/Util.java
+SHA1-Digest: ZTgCidYSiiTClI6Vwy7RQo0W/VI=
+
+Name: schema/contentTypes.exsd
+SHA1-Digest: gcNIEC9ypBKYD5QapQKzHoJHi+M=
+
+Name: org/eclipse/core/internal/content/ContentTypeMatcher.java
+SHA1-Digest: t074BXgSUEc6VwXc2l9NZFnA5Xk=
+
+Name: org/eclipse/core/internal/content/Activator.java
+SHA1-Digest: QgAiCUvI1fveauu07afR/kKx23A=
+
+Name: org/eclipse/core/internal/content/ContentType.java
+SHA1-Digest: bSQKILUiRJHfmhMEBlZvllCL4fY=
+
+Name: org/eclipse/core/internal/content/ContentTypeVisitor.java
+SHA1-Digest: QO/heeBjFfeWLUXIr1L/5nXpXHo=
+
+Name: org/eclipse/core/internal/content/TextContentDescriber.java
+SHA1-Digest: a1O0yaaH/Fgh0CqQIAtDtQSLHa0=
+
+Name: org/eclipse/core/internal/content/IContentTypeInfo.java
+SHA1-Digest: y2agdLDyE17v7HqG14bheYN9HHI=
+
+Name: org/eclipse/core/runtime/content/IContentDescription.java
+SHA1-Digest: Y2G3k9PSUQeibfD11YtkDDbSeyg=
+
+Name: plugin.properties
+SHA1-Digest: uD4Q83jcAYRhEdRgW3hG4BGOxCI=
+
+Name: org/eclipse/core/internal/content/FileSpec.java
+SHA1-Digest: qyzVqNIDUYPeXsAiIt1bgwG7Rr0=
+
+Name: org/eclipse/core/internal/content/LazyReader.java
+SHA1-Digest: BigOhXxcJ+zN0/alSS4Nmul+dqQ=
+
+Name: org/eclipse/core/runtime/content/XMLRootElementContentDescriber.
+ java
+SHA1-Digest: 5HzhSSjJvars8hLNJV7DxEe7dk0=
+
+Name: org/eclipse/core/internal/content/XMLContentDescriber.java
+SHA1-Digest: b6oft0h3l0QzD4/63N7GHTVF0JA=
+
+Name: org/eclipse/core/runtime/content/IContentTypeManager.java
+SHA1-Digest: CdH94eeA2U5dmGmO988jZq9CLLw=
+
+Name: org/eclipse/core/internal/content/BasicDescription.java
+SHA1-Digest: j9rR7eK4lvfCOF6aFtjIrmAG68Q=
+
+Name: org/eclipse/core/runtime/content/IContentType.java
+SHA1-Digest: L0M6NQUJWquFkzWGsnPAdAwP+G8=
+
+Name: org/eclipse/core/internal/content/ContentDescription.java
+SHA1-Digest: alYUTwN6twlAY0bnNnVoiai4Pzs=
+
+Name: org/eclipse/core/internal/content/LowLevelIOException.java
+SHA1-Digest: R9a5VeN3eZJ3C/Ctml9VwirCRh4=
+
+Name: org/eclipse/core/runtime/content/IContentDescriber.java
+SHA1-Digest: WwvZMR2F3q+xDnC2fE4Lg9Zb90Q=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/internal/content/ContentTypeSettings.java
+SHA1-Digest: HkT0Gn/Z3DxzLKm2vauyb62oXW0=
+
+Name: org/eclipse/core/internal/content/LazyInputStream.java
+SHA1-Digest: IlJhetgAAkwN8Ketn25i5rC8fOY=
+
+Name: org/eclipse/core/internal/content/DefaultDescription.java
+SHA1-Digest: sPUOWYDHd7ZMrfyo/Eh3M+qkWp8=
+
+Name: org/eclipse/core/internal/content/ContentTypeManager.java
+SHA1-Digest: 2JGC9y9aEgQUZ2a60GX3vgfVwWw=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/internal/content/ContentTypeHandler.java
+SHA1-Digest: KfXW66U0uOD635nzQ/zUwYglPts=
+
+Name: org/eclipse/core/runtime/content/IContentTypeMatcher.java
+SHA1-Digest: ulKkkLhLxmlSG0XAwGNmZ9ukuMI=
+
+Name: org/eclipse/core/internal/content/XMLRootHandler.java
+SHA1-Digest: mD/2m4COclQwP6QKdhMZm+dIuxo=
+
+Name: org/eclipse/core/runtime/content/XMLContentDescriber.java
+SHA1-Digest: oZQwHVm3B7Mqk9xSKYTqCWhATOM=
+
+Name: org/eclipse/core/runtime/content/ITextContentDescriber.java
+SHA1-Digest: 98C4TmkxFXZ+IGQ9F8yrRE+HJGY=
+
+Name: org/eclipse/core/runtime/content/BinarySignatureDescriber.java
+SHA1-Digest: LXzf5VJ2hsG7MCDoxmwJ86q4Ev0=
+
+Name: org/eclipse/core/internal/content/ContentMessages.java
+SHA1-Digest: OGHO6tBEXfYNs5fuNa9NjEc+XdE=
+
+Name: org/eclipse/core/runtime/content/XMLRootElementContentDescriber2
+ .java
+SHA1-Digest: j1Wyb8xpuCgtfXXqORbeT4Onw6c=
+
+Name: org/eclipse/core/runtime/content/IContentTypeSettings.java
+SHA1-Digest: RXtDUs1KQiICN+5VVHwUQiZSeu0=
+
+Name: org/eclipse/core/internal/content/IContentConstants.java
+SHA1-Digest: qL+7CMu0+KGzVvyhnZnt+RTeEgU=
+
+Name: org/eclipse/core/internal/content/ContentTypeBuilder.java
+SHA1-Digest: VWcOzJP+VNTo3TDDCP/+jhsxGbE=
+
+Name: org/eclipse/core/internal/content/ContentTypeCatalog.java
+SHA1-Digest: 0myf5qizMA738LLPAn1l5T3ze4o=
+

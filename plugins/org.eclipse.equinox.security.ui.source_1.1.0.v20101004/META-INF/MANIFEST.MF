@@ -1,0 +1,187 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.security.ui;version="1.1.0.v
+ 20101004";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.security.ui.source
+Bundle-Version: 1.1.0.v20101004
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/security/ui/storage/TabAdvanced.jav
+ a
+SHA1-Digest: r8PqYzFbogW5ElLbz0j8XmjZGfM=
+
+Name: org/eclipse/equinox/internal/security/ui/preferences/PolicyPage.
+ java
+SHA1-Digest: fJdA+4QqS8nef4O6w9U9QWE1vEE=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/ValuesView
+ .java
+SHA1-Digest: dtXPcMUg65POi81Wr4gkbvt3OXc=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/TabContents.jav
+ a
+SHA1-Digest: 92LKpm/EYXNk7rPg7By4ouwRgFk=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/NewNodeDia
+ log.java
+SHA1-Digest: 0QypmIQ+XWX96QK0iDll8vfxTUA=
+
+Name: org/eclipse/equinox/internal/security/ui/X509CertificateAttribut
+ eLabelProvider.java
+SHA1-Digest: cNFJ8uE1GhqbSD8JUPhV0MkcL6I=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/DefaultPassword
+ Provider.java
+SHA1-Digest: 8WAv9L+4c8vqyt4MJ9IR++YYAAM=
+
+Name: org/eclipse/equinox/internal/provisional/security/ui/SecurityCon
+ tributionItemFactory.java
+SHA1-Digest: un7kIPni1lJy32e0OsuVsoIA374=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/ChallengeRespon
+ seDialog.java
+SHA1-Digest: yO3Ciw0MiNYNkBjhLs4dlWfziNo=
+
+Name: org/eclipse/equinox/internal/security/ui/nls/SecUIMessages.java
+SHA1-Digest: w/2b3wLfAT49myvLhGfOQh0avcg=
+
+Name: org/eclipse/equinox/internal/security/ui/SecurityConfigurationSe
+ ction.java
+SHA1-Digest: nlt8ex+ZBHq8fU9MV0Lfb46gzMg=
+
+Name: plugin.properties
+SHA1-Digest: PnKzAyPEbCo9eTM7t7b6AmtRB5s=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/PasswordRecover
+ yDialog.java
+SHA1-Digest: erHqviS81tLx8ajHYnxnPr4A170=
+
+Name: org/eclipse/equinox/internal/security/ui/X509CertificateAttribut
+ e.java
+SHA1-Digest: spjRhoqaAzGw9Li0UIu4QrjwGtA=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/StorageUtils.ja
+ va
+SHA1-Digest: f9CzVuoQpbOnqZNdbpzdAY/rCHg=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/ChangePasswordW
+ izard.java
+SHA1-Digest: MMjoO7s8/Oh7TobQFkHOrTzX6Es=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/NewValueDi
+ alog.java
+SHA1-Digest: FPW07trEBzz2nnwYaCJKh7TX2mI=
+
+Name: org/eclipse/equinox/internal/security/ui/preferences/AdvancedPag
+ e.java
+SHA1-Digest: 8Fhy1nphfRMX6BFY1n6rzwkvz8Y=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateImpor
+ tTrustEngineSelectPage.java
+SHA1-Digest: vHjhkP/VKcHtaO7OjzeRB1gG8ys=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateViewe
+ r.java
+SHA1-Digest: Kh7rsWab+pS5gPCA4uvLYNXgeJI=
+
+Name: org/eclipse/equinox/internal/security/ui/SecurityStatusControl.j
+ ava
+SHA1-Digest: k2pGRurY6UdytiIy+a/lEO3STgM=
+
+Name: org/eclipse/equinox/internal/security/ui/preferences/SecurityCat
+ egoryPage.java
+SHA1-Digest: eUtgJR1pYqgouxNgQNqqBZPuGx8=
+
+Name: org/eclipse/equinox/internal/provisional/security/ui/Authorizati
+ onManager.java
+SHA1-Digest: 6JAeXyEu+0UaOtn/Len1+f7TOhY=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateImpor
+ tFileSelectPage.java
+SHA1-Digest: kquQ0InNFx1Rjbw6qgZF43eN8/I=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/ISecurePre
+ ferencesSelection.java
+SHA1-Digest: quxL4ClEaajlF+hSj7Ek1z28gDM=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/UICallbackProvi
+ der.java
+SHA1-Digest: lNmC11PTSmlaWidIt9m+oEIfImc=
+
+Name: org/eclipse/equinox/internal/security/ui/ConfirmationDialog.java
+SHA1-Digest: Y+DoReUoUZ35Ffyn1RZr3hg0pZA=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateImpor
+ tConfirmationPage.java
+SHA1-Digest: hdMK1UQdh5Xc6VQ6Z/npxdBD/TM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/security/ui/X509CertificateAttribut
+ eContentProvider.java
+SHA1-Digest: R/Za2YwPx9RcA6a0PHeQXe8HlMo=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/IStorageConst.j
+ ava
+SHA1-Digest: Oat3nf1NdNG21lSWQqH2oqTvnQY=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/TabPassword.jav
+ a
+SHA1-Digest: j3TP7Y85kuZYmMsv7WX/U3rdYfA=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/ChangePasswordW
+ izardDialog.java
+SHA1-Digest: b49PSGHL8ielxY1jp2MZZabvFao=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/security/ui/DefaultAuthorizationMan
+ ager.java
+SHA1-Digest: CvmeuUn3WyTxn2gxJIhdldIN5pM=
+
+Name: org/eclipse/equinox/internal/security/ui/Activator.java
+SHA1-Digest: 96+FnWmG+PdqiTpCwwDgb5fHkAc=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/ExportDial
+ og.java
+SHA1-Digest: 5/LhYAi3CtfsZU6neBRMzBO8BTE=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/StoragePreferen
+ cePage.java
+SHA1-Digest: n1y8O5kYxhR8xEE6eX3Xe+ut74Q=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/StorageLoginDia
+ log.java
+SHA1-Digest: 08YPkYtByzXqImJy0FovM56q9yA=
+
+Name: org/eclipse/equinox/internal/provisional/security/ui/X500Princip
+ alHelper.java
+SHA1-Digest: cGn5f0N98zgWR/0EfUjrI0t+8uw=
+
+Name: org/eclipse/equinox/internal/provisional/security/ui/X509Certifi
+ cateViewDialog.java
+SHA1-Digest: oLB43W6+3EkC+L9rSVTsiOo4oAw=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateImpor
+ tCertSelectPage.java
+SHA1-Digest: CekjqCtpr09p0nNmV3A+oAhwSxk=
+
+Name: org/eclipse/equinox/internal/security/ui/SecurityUIMsg.java
+SHA1-Digest: 59flhqg+kZTvUYZe0FhrbeRjH6U=
+
+Name: org/eclipse/equinox/internal/security/ui/wizard/CertificateImpor
+ tWizard.java
+SHA1-Digest: 32obWi3LSLZA18Rlqp5RZN3vDTI=
+
+Name: org/eclipse/equinox/internal/security/ui/preferences/Certificate
+ sPage.java
+SHA1-Digest: nQ4A2kAnhMuT1mGEGkeBou2bytU=
+
+Name: org/eclipse/equinox/internal/security/ui/storage/view/NodesView.
+ java
+SHA1-Digest: ng5AM/idanYblfEiNVUsl6hOBZI=
+

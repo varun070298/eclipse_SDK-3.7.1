@@ -1,0 +1,357 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.help.ui;version="3.5.101.r37_2011081
+ 9";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %help_system_plugin_name
+Bundle-SymbolicName: org.eclipse.help.ui.source
+Bundle-Version: 3.5.101.r37_20110819
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/help/ui/internal/SearchAction.java
+SHA1-Digest: uRvVWaUX7fkdtlbI1+clhjHGFQY=
+
+Name: org/eclipse/help/ui/internal/CloseHelpTrayHandler.java
+SHA1-Digest: vTqXbEEp1VnMyREms9TgSLa7MIM=
+
+Name: org/eclipse/help/ui/internal/preferences/RemoteICList.java
+SHA1-Digest: GgUeIgMx2XtLmumVKvkt6ws0QLk=
+
+Name: org/eclipse/help/ui/internal/preferences/TabFolderLayout.java
+SHA1-Digest: s0ATd+1LQzCTESBYot4LQluAygU=
+
+Name: org/eclipse/help/ui/internal/preferences/HelpContentBlock.java
+SHA1-Digest: 2jHNTNXCE9Wm7dnCi7vXu71fxQU=
+
+Name: org/eclipse/help/ui/internal/views/EngineTypeDescriptor.java
+SHA1-Digest: LhKQVLZPgHm3PRuY1INIPOlh5c4=
+
+Name: org/eclipse/help/ui/internal/handlers/OpenBundleResourceHandler.
+ java
+SHA1-Digest: HYadvd8RtjmBM0mSaHk1rXwP5Yw=
+
+Name: org/eclipse/help/ui/internal/preferences/AddICDialog.java
+SHA1-Digest: HvLlGZjcAiS57I+hPsH6om8dbwI=
+
+Name: org/eclipse/help/ui/internal/HelpUIPlugin.java
+SHA1-Digest: EgpnReEC2RViKOmodAaW1hKQ0Bc=
+
+Name: org/eclipse/help/ui/internal/views/HelpView.java
+SHA1-Digest: eOg5uxT82w/3zlY/fRfro0QW/k0=
+
+Name: org/eclipse/help/ui/internal/search/HelpCriteriaContentProvider.
+ java
+SHA1-Digest: D8WGs5WY2kkbuk+vXolNjhmvWKY=
+
+Name: org/eclipse/help/ui/internal/views/ScopeState.java
+SHA1-Digest: vLQl/ZDXrTzIGknCgZC1KTKkXz0=
+
+Name: org/eclipse/help/ui/internal/views/ScopeSetManager.java
+SHA1-Digest: rDB01gcfv/Gi9Oe8vAoJbyvDN6c=
+
+Name: org/eclipse/help/ui/internal/views/HelpTray.java
+SHA1-Digest: gtonvhUVR3ZKmzE/VjOKAyAZAKw=
+
+Name: org/eclipse/help/ui/internal/views/IHelpPart.java
+SHA1-Digest: VQcN5tHkQMj4USZS62Kyg3efJiI=
+
+Name: org/eclipse/help/ui/internal/handlers/ShowIndexHandler.java
+SHA1-Digest: O2+2DSXZgDf12jdGjCFCK6qh2iI=
+
+Name: org/eclipse/help/ui/internal/ContextHelpDialog.java
+SHA1-Digest: SjN8AOXgaK98ouSjC8kA5U/H1yo=
+
+Name: org/eclipse/help/ui/internal/search/LocalHelpPage.java
+SHA1-Digest: VRGH8ZlQKd7q39JbpJiwsMX1xm0=
+
+Name: org/eclipse/help/ui/internal/views/AllTopicsPart.java
+SHA1-Digest: kP885R4ipdb6zXJCXGbZhXgNcG8=
+
+Name: org/eclipse/help/ui/internal/views/EngineDescriptor.java
+SHA1-Digest: AwXyidkQkT5qFog+KD/h+qkApX4=
+
+Name: org/eclipse/help/ui/internal/views/LocalScopeDialog.java
+SHA1-Digest: 8/4erm8xSyDnTQeXooszP/OJkrc=
+
+Name: org/eclipse/help/ui/internal/views/ScopeSet.java
+SHA1-Digest: 16LndK4jrDiYl2OHjDtUDoOM8hs=
+
+Name: org/eclipse/help/ui/internal/search/WebSearchScopeFactory.java
+SHA1-Digest: 9ZUd/RBDkOY11cizi1XN1lbrInc=
+
+Name: org/eclipse/help/ui/internal/views/NewEngineWizard.java
+SHA1-Digest: HM0f8KawwlmhT2i1HTOVDxxxA/o=
+
+Name: org/eclipse/help/ui/internal/preferences/HelpContentPreferencePa
+ ge.java
+SHA1-Digest: 9vnL5YBf9Uii52aTrCMURrWaYIU=
+
+Name: org/eclipse/help/ui/internal/preferences/IRemoteHelpListViewer.j
+ ava
+SHA1-Digest: FsLu8OSR33lCT/F1Y3pLCaUiHdI=
+
+Name: org/eclipse/help/ui/internal/util/EscapeUtils.java
+SHA1-Digest: +xhpMCqx8NX1g+TC9xl0Lef2ZiE=
+
+Name: org/eclipse/help/ui/internal/search/HelpWorkingSetElementLabelPr
+ ovider.java
+SHA1-Digest: qTsbrQ7Cs0n+RWJ7Voc5kDvSTsM=
+
+Name: org/eclipse/help/ui/internal/views/HistoryScopeSet.java
+SHA1-Digest: 6qceG98N/oD32h2S8xXjpGUoJrA=
+
+Name: org/eclipse/help/ui/internal/views/BrowserPart.java
+SHA1-Digest: 1LqDdsFOABpYy/qxQauSBrNu99Y=
+
+Name: org/eclipse/help/ui/internal/util/FontUtils.java
+SHA1-Digest: luamKQ4bZHDocTzbFEhHYF0gTik=
+
+Name: org/eclipse/help/ui/internal/IHelpUIConstants.java
+SHA1-Digest: UpCjVPMpRowhrh1X0MA3pAChTG8=
+
+Name: org/eclipse/help/ui/internal/HyperlinkLabel.java
+SHA1-Digest: ld0XqntykRApGHg43hY1odXMOIk=
+
+Name: org/eclipse/help/ui/internal/browser/embedded/EmbeddedBrowserAda
+ pter.java
+SHA1-Digest: Ye8SOCu/u9SOOzJl8lOvdTfobik=
+
+Name: org/eclipse/help/ui/internal/views/BookmarksPart.java
+SHA1-Digest: k88UaBJy45aomvgWCjz9P9/CFDI=
+
+Name: org/eclipse/help/ui/internal/preferences/RemoteICViewer.java
+SHA1-Digest: qXsA8X7S2md4A9hngUyguiUKU0M=
+
+Name: org/eclipse/help/ui/internal/ShowCapabilitiesPreferenceAction.ja
+ va
+SHA1-Digest: S4m6lsLzA8nH+M6/wS6dzukpzOs=
+
+Name: org/eclipse/help/ui/internal/search/WebSearchPage.java
+SHA1-Digest: ZNfnOWWOZsQYcSBhM+FIiq7tFJw=
+
+Name: org/eclipse/help/ui/internal/preferences/EditICDialog.java
+SHA1-Digest: +s2q+oP1K4WZxz22s0OK2PbLlsU=
+
+Name: org/eclipse/help/ui/internal/views/ReusableHelpPart.java
+SHA1-Digest: N6vl9LaCbux/bY9JQEoH/xOyD90=
+
+Name: org/eclipse/help/ui/internal/views/ContextHelpPart.java
+SHA1-Digest: /tzPnPmUysS2oEwQaE4UtY3N8UA=
+
+Name: org/eclipse/help/ui/internal/views/ComboPart.java
+SHA1-Digest: 7Y5kGOa3xt0fuXkJSUdLj+kTInY=
+
+Name: org/eclipse/help/ui/internal/preferences/IHelpContentBlockContai
+ ner.java
+SHA1-Digest: HLIHgWpFhJHRkb9OxuzH5rOolyA=
+
+Name: org/eclipse/help/ui/internal/ShowInTocAction.java
+SHA1-Digest: JR/YnsDhSUYxElbM1DzmN/Q8hTM=
+
+Name: org/eclipse/help/ui/internal/views/BookmarkHeaderPart.java
+SHA1-Digest: mHL1MLZUzhxWuJy7mIpgdtxYq3k=
+
+Name: org/eclipse/help/ui/internal/search/InfoCenterPage.java
+SHA1-Digest: w8MxcLPuf6dhDzHWfbm4ntevi8c=
+
+Name: org/eclipse/help/ui/internal/DynamicHelpAction.java
+SHA1-Digest: JZfxoG9OikCsWNdqFrf3dXOjbZY=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/help/ui/internal/preferences/TestConnectionDialog.ja
+ va
+SHA1-Digest: ucaMi+S+6IuB1ExHmleDD2Qsd3A=
+
+Name: org/eclipse/help/ui/internal/Messages.java
+SHA1-Digest: iFNtDMxFU8ZQwn/snGDyk0ktx/s=
+
+Name: org/eclipse/help/ui/internal/StyledLineWrapper.java
+SHA1-Digest: sifvt8IOtwWM7x6/IBZUJ0bs850=
+
+Name: org/eclipse/help/ui/internal/browser/embedded/EmbeddedBrowserFac
+ tory.java
+SHA1-Digest: LPsVMS49Ybc6I7cH1DWmg1LyqpI=
+
+Name: org/eclipse/help/ui/internal/search/InfoCenterSearchScopeFactory
+ .java
+SHA1-Digest: zkz/AIrnaS9Bqqag8y6fN8JQQzs=
+
+Name: org/eclipse/help/ui/internal/views/EngineResultSection.java
+SHA1-Digest: iF2ui/Cvj+2KzG0oP7INThQJcrk=
+
+Name: org/eclipse/help/ui/internal/views/ScopePreferenceManager.java
+SHA1-Digest: 9Od8jI2XyW7ayNewG5JG/ovrHZ0=
+
+Name: org/eclipse/help/ui/internal/views/ScopeSelectPart.java
+SHA1-Digest: QVUssO9D2jm4tTuMRhiVZR04vkY=
+
+Name: org/eclipse/help/ui/internal/views/ScopeSetDialog.java
+SHA1-Digest: b/pkz26BWgqmOkggdDHDkzv0+Ps=
+
+Name: org/eclipse/help/ui/internal/views/EngineDescriptorManager.java
+SHA1-Digest: hbqZpxyQ+o/jLrZyrJptogaEtFw=
+
+Name: org/eclipse/help/ui/ISearchScopeFactory.java
+SHA1-Digest: k5wlgQwGbOPFRUOJg6Bg5Uhh6XE=
+
+Name: org/eclipse/help/ui/internal/views/FederatedSearchSorter.java
+SHA1-Digest: SiMp0LcJV6PUyxA9mVFXYAtVM+E=
+
+Name: org/eclipse/help/ui/internal/views/HyperlinkTreePart.java
+SHA1-Digest: kukMFLBRY/q1m/N/Cepf8XPC6cs=
+
+Name: org/eclipse/help/ui/internal/IHyperlinkListener.java
+SHA1-Digest: BZmfY0XyPjAYxAwnvCRTwpUWkSE=
+
+Name: org/eclipse/help/ui/internal/views/ReusableHelpPartHistory.java
+SHA1-Digest: FtRFfBMaM3JDBJ0kwvvuaI/G5XA=
+
+Name: org/eclipse/help/ui/internal/HelpUIResources.java
+SHA1-Digest: lxsAlC7tqLweTu1WWhy9+YyjZU8=
+
+Name: org/eclipse/help/ui/internal/views/IndexPart.java
+SHA1-Digest: SjhPXNwQA5+aGXXzwHpKyRm9TN8=
+
+Name: org/eclipse/help/ui/internal/util/OverlayIcon.java
+SHA1-Digest: I2T8suH2Oi0xdc9bA+RT2xNE+EA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/help/ui/internal/HelpUIEvaluationContext.java
+SHA1-Digest: SwxtPsjWjZ/1HVAVuPe+c3UcXQw=
+
+Name: org/eclipse/help/ui/internal/DefaultHelpUI.java
+SHA1-Digest: DEosQQX6S23GavE8YudCdQeLXp8=
+
+Name: org/eclipse/help/ui/RootScopePage.java
+SHA1-Digest: oztRX1PK4JaeQEPL3ufGS5vqzfA=
+
+Name: org/eclipse/help/ui/internal/views/SorterByScore.java
+SHA1-Digest: jMIDqfzSAc59tybaFHlTiqxqmoU=
+
+Name: org/eclipse/help/ui/internal/preferences/RemoteICLabelProvider.j
+ ava
+SHA1-Digest: mL5Mmayi+5lBUOptaWBSkicQzdc=
+
+Name: org/eclipse/help/ui/IEngineDescriptor.java
+SHA1-Digest: /eIw1683FEm4HcMfOvhpM4dCG9E=
+
+Name: schema/searchEngine.exsd
+SHA1-Digest: Ep+92bSAjtEYcviPeGNxidR0voU=
+
+Name: org/eclipse/help/ui/internal/preferences/InfocenterDisplay.java
+SHA1-Digest: JxQmMI8RQvn1cSnWg7S4id718zY=
+
+Name: org/eclipse/help/ui/internal/HyperlinkHandler.java
+SHA1-Digest: q1OlEywYc4Hj5vvzCzDjMML8YnA=
+
+Name: org/eclipse/help/ui/internal/browser/embedded/EmbeddedBrowser.ja
+ va
+SHA1-Digest: heyvQ/jktAB3lBxCWQVy1DN4n0c=
+
+Name: org/eclipse/help/ui/internal/views/IndexTypeinPart.java
+SHA1-Digest: 624ZrxEOqv1uxlUMlk3SvvvdvC4=
+
+Name: org/eclipse/help/ui/internal/search/HelpCriteriaLabelProvider.ja
+ va
+SHA1-Digest: IK1JHYjtiKQgtl1WF5621HpsZ/I=
+
+Name: org/eclipse/help/ui/internal/browser/SystemBrowserAdapter.java
+SHA1-Digest: 8MkYVdxjhfHxiqB3bCWX59YQ2qY=
+
+Name: org/eclipse/help/ui/internal/util/ErrorUtil.java
+SHA1-Digest: ZHfugJkiUZHnmkCTglXyHgD8/8Q=
+
+Name: org/eclipse/help/ui/internal/views/SearchResultsPart.java
+SHA1-Digest: mLbuIjQStUmV2v0ZVvSj1sIv52o=
+
+Name: org/eclipse/help/ui/internal/views/SearchPart.java
+SHA1-Digest: FH5BgcqLL3u5156HxFnSzJaSn5I=
+
+Name: org/eclipse/help/ui/internal/HelpActivitySupport.java
+SHA1-Digest: BKYov1wPGkR2+wXYDdi35qpEzRM=
+
+Name: org/eclipse/help/ui/internal/views/EngineTypeWizardPage.java
+SHA1-Digest: Rfw119+OEVVPJA6MQoYChU7PGJ0=
+
+Name: org/eclipse/help/ui/internal/views/Chevron.java
+SHA1-Digest: aekJDAy6OxjWnG8y/r8ilv1vM+4=
+
+Name: org/eclipse/help/ui/internal/views/ContextHelpSorter.java
+SHA1-Digest: 0N7wyG41tGgnS9loGLluieXJKis=
+
+Name: org/eclipse/help/ui/internal/views/ScopePreferenceDialog.java
+SHA1-Digest: c5Q8DQITgKrUb6BRqDVBmtKU4+o=
+
+Name: plugin.properties
+SHA1-Digest: K5cRYoesBX1XOqc7CSFi6NPDL4w=
+
+Name: org/eclipse/help/ui/internal/browser/embedded/IBrowserCloseListe
+ ner.java
+SHA1-Digest: 3mNeZiuRH6KV8fU6rFV1YQC+hMo=
+
+Name: org/eclipse/help/ui/internal/views/DynamicHelpPart.java
+SHA1-Digest: V2I3ug1Qng5/ddj+IUEoLJozt7Y=
+
+Name: org/eclipse/help/ui/internal/dynamic/FilterResolverExtension.jav
+ a
+SHA1-Digest: TuwZJGRIb1VEvRW97OXnXzg+tV4=
+
+Name: org/eclipse/help/ui/internal/ExecuteCommandAction.java
+SHA1-Digest: 6md1F9zCfeAnqy1fXXQKr6SSStU=
+
+Name: org/eclipse/help/ui/internal/views/ContextHelpProviderInput.java
+SHA1-Digest: 9WKO5kICfuuaVPIzkJMoO277VuY=
+
+Name: org/eclipse/help/ui/internal/HyperlinkAdapter.java
+SHA1-Digest: ZBvsi7FDFvoAXOCJG3Zb6bs2gKk=
+
+Name: org/eclipse/help/ui/internal/views/IHelpPartPage.java
+SHA1-Digest: zVNQLnvTqbzltsjMUFxK9nNw6Ko=
+
+Name: org/eclipse/help/ui/browser/LaunchURL.java
+SHA1-Digest: PFvrUjvgfz351DDgFGxoTwUNR1s=
+
+Name: org/eclipse/help/ui/internal/preferences/HelpPreferencePage.java
+SHA1-Digest: tnErloMKnEM6l0JVUR8Xn3Isgek=
+
+Name: org/eclipse/help/ui/internal/views/HistoryEntry.java
+SHA1-Digest: AyL/xpxk+uaJKQL9jf8t5CetDPI=
+
+Name: org/eclipse/help/ui/internal/preferences/ViewICPropsDialog.java
+SHA1-Digest: LUD2oDmFgyTSra53Uwvvx6i8KTk=
+
+Name: org/eclipse/help/ui/internal/views/RelatedTopicsPart.java
+SHA1-Digest: +PqvNCa8T1oZ3iYp0k5GL7oI0/s=
+
+Name: org/eclipse/help/ui/internal/util/AbstractOverlayIcon.java
+SHA1-Digest: DIWwr8Ku8IfxIAjAjPw+UGd8LUo=
+
+Name: org/eclipse/help/ui/internal/browser/SystemBrowserFactory.java
+SHA1-Digest: 7qxjq7B37OHO6RDwqLHgtwsTJNQ=
+
+Name: org/eclipse/help/ui/internal/preferences/StatusInfo.java
+SHA1-Digest: DII3Hze7fRrZnLP9Cv+h9mqeu04=
+
+Name: org/eclipse/help/ui/internal/search/HelpWorkingSetTreeContentPro
+ vider.java
+SHA1-Digest: n6G4tau8eYwfXRs+e3lUH02+mfg=
+
+Name: org/eclipse/help/ui/internal/views/SeeAlsoPart.java
+SHA1-Digest: qxjA67mzf9N14YML0LBu+XbSLyI=
+
+Name: org/eclipse/help/ui/internal/views/RenameDialog.java
+SHA1-Digest: 7xM6Dv9qF9gF/gun12By7tIa0N8=
+
+Name: org/eclipse/help/ui/internal/HelpUIEventLoop.java
+SHA1-Digest: PF0SVtTR07PDXcJDnOjbhljHj8Y=
+
+Name: org/eclipse/help/ui/internal/search/LocalSearchScopeFactory.java
+SHA1-Digest: QNBhMpxFbS/3cNL0YjWgdNJAfXk=
+
+Name: org/eclipse/help/ui/ISearchScopePage.java
+SHA1-Digest: fngKmAUGlIFXZVqbJv9rVcfpPi4=
+

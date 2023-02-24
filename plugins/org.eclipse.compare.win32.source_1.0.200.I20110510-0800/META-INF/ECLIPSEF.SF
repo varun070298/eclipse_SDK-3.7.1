@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: GGLxHUrcxWcJm+ClfxRaphBHHj0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: gPBTRyzLp5TvrRCM6MfyMg9aeMU=
+
+Name: org/eclipse/compare/internal/win32/AbstractMergeViewer.java
+SHA1-Digest: /POdBhMiVrxiSiZasBqEuzbbxXg=
+
+Name: org/eclipse/compare/internal/win32/Activator.java
+SHA1-Digest: 3VENKj5k7/3M2hW/+7Df9I2Rdlk=
+
+Name: org/eclipse/compare/internal/win32/WordComparison.java
+SHA1-Digest: hqk0FKRbiwTv0QQQgzZOg49oekc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/compare/internal/win32/CompareWin32Messages.java
+SHA1-Digest: JtdGP0s+mYGd+wUX/DwW4C5Qrgk=
+
+Name: org/eclipse/compare/internal/win32/WordMergeViewer.java
+SHA1-Digest: qprv9bF0QtsboxuzmSirBKIcKlI=
+
+Name: org/eclipse/compare/internal/win32/WordViewerCreator.java
+SHA1-Digest: JZQaIXcmCEEas3b0HXCG8K4gXew=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: BsX62COumIpNb5g8t4jtqLKnpEk=
+

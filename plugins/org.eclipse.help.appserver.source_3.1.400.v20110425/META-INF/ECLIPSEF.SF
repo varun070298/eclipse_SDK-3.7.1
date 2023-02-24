@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ODAvRyVfNd2qUNaF3Za0yzzQ/ZY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: htHvKhxFbDW2gMh1RdHVdw7tbP4=
+
+Name: schema/server.exsd
+SHA1-Digest: 83SfcgTXk9+DW+9H/mONyRpVe6E=
+
+Name: org/eclipse/help/internal/appserver/WebappManager.java
+SHA1-Digest: zslistveyNQrdqmLw1V50f5Xr6Q=
+
+Name: org/eclipse/help/internal/appserver/PluginClassLoaderWrapper.jav
+ a
+SHA1-Digest: fcTohx3GqCBqWUhS3eGGzj+msfY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/help/internal/appserver/DevClassPathHelper.java
+SHA1-Digest: plBylBw+MxLxPBpAgSOZUNFNAH0=
+
+Name: org/eclipse/help/internal/appserver/IWebappServer.java
+SHA1-Digest: 4EGta5zMITWWgA66PuVNcrKTTt0=
+
+Name: org/eclipse/help/internal/appserver/AppserverPlugin.java
+SHA1-Digest: 69lG+4Yu2YUTZzw4PeQLZ+zweEk=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/help/internal/appserver/AppserverResources.java
+SHA1-Digest: bp+TKaqOvQUiFBnYUPdZbErvRDk=
+
+Name: plugin.properties
+SHA1-Digest: VlnEtMBwnI/pFD/hZ6KDCIE++P8=
+

@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: lfmjOSXretW9cl3yyEw9ydJMbs8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: PVznNHFLmcpLC8J7nE2pQAy60VY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/console/Messages.java
+SHA1-Digest: NchP4++ejjs985t/spLa/LzWl1E=
+
+Name: org/eclipse/equinox/internal/p2/console/ProvisioningHelper.java
+SHA1-Digest: OzE4sAUvTikZG6ely5KJqpvfezI=
+
+Name: org/eclipse/equinox/internal/p2/console/Activator.java
+SHA1-Digest: XY5C45E96KJbdiam3zPopmoQplw=
+
+Name: org/eclipse/equinox/internal/p2/console/ProvCommandProvider.java
+SHA1-Digest: 2nfdX6HI8lsyg22+CN94BkvPIwI=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: CUijPxuKQAFPrSaPjNCQHdph9gU=
+

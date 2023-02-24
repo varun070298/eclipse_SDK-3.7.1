@@ -1,0 +1,73 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.simpleconfigurator;version="
+ 1.0.200.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.simpleconfigurator.source
+Bundle-Version: 1.0.200.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/URIUtil.ja
+ va
+SHA1-Digest: rdkZuIYTVth8WKR1LGmsP7CNnAY=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/BundleInfo
+ .java
+SHA1-Digest: sTqCWrkkGjLXSr4nvkZED3rcRfI=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/console/Configur
+ atorCommandProvider.java
+SHA1-Digest: zbboSrgO3OHMVU+ymeJjZ3edu/A=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/SimpleConf
+ iguratorUtils.java
+SHA1-Digest: +0S4uTMN7GzvVr3YCA3dzrqZOTw=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/SimpleConf
+ iguratorConstants.java
+SHA1-Digest: FSUYt+0TWq1wRN0JFIX5ye3bwAk=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/ConfigApplier.ja
+ va
+SHA1-Digest: j2L2cOJ+pXowvpVvoEB6luNvwYw=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/SimpleConfigurat
+ orImpl.java
+SHA1-Digest: gWtyjRoI5QNxZXfb6uKIbjISSzI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: cpeiUvznbsLAtThxzkR8lbKBaJQ=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/SimpleConfigurat
+ orFactory.java
+SHA1-Digest: 3P58pGofP3ga0MBsqKVWcdlZ2Z8=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/StateResol
+ verUtils.java
+SHA1-Digest: OIKElBEIUGZuC88Q+fNqP5J+k1w=
+
+Name: org/eclipse/equinox/internal/provisional/configurator/Configurat
+ or.java
+SHA1-Digest: QnBHNT7A4sw1WCHlaxqfRZjuyJg=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/EquinoxUti
+ ls.java
+SHA1-Digest: mtB8EHoJi2Mfk41hfEkfcWMB3eA=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/console/ApplyCom
+ mand.java
+SHA1-Digest: //21DBUmZT/sliatmHkHXoTNlzo=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/Activator.java
+SHA1-Digest: IOQJRxn6jamudyieQzLsA4FiOaE=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/Utils.java
+SHA1-Digest: myDWf0nf+p487LE8+qNwqnU/Y48=
+

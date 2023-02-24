@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.compiler.tool;version="1.0.100.v
+ _B76_R37x";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: compiler_tool_fragment
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.jdt.compiler.tool.source
+Bundle-Version: 1.0.100.v_B76_R37x
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/internal/compiler/tool/Options.java
+SHA1-Digest: vAxUnCoxHX5UUdv4y4Nhla73lCw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/internal/compiler/tool/ArchiveFileObject.java
+SHA1-Digest: 8SFCrGW14ScuL69omM8XNl/n8mE=
+
+Name: org/eclipse/jdt/internal/compiler/tool/EclipseFileManager.java
+SHA1-Digest: VtYx+r6DKk1zQTcMort87pInKUY=
+
+Name: compiler_tool_fragment.properties
+SHA1-Digest: s3EBxI9U6m4bVUedQUr0Qw7tP2Y=
+
+Name: org/eclipse/jdt/internal/compiler/tool/EclipseCompilerImpl.java
+SHA1-Digest: uApPNPjYHd1BscYWrfDBy/LdiNY=
+
+Name: org/eclipse/jdt/internal/compiler/tool/EclipseCompiler.java
+SHA1-Digest: Cs952pLuwTTg/XoF95wx7iqIYtM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/internal/compiler/tool/Util.java
+SHA1-Digest: 3Pcossjh/GTVOhhZ6LrYs+aIe7Q=
+
+Name: org/eclipse/jdt/internal/compiler/tool/EclipseFileObject.java
+SHA1-Digest: ZDCwo0ffdsibGxdIBWEjsSYmpPg=
+
+Name: org/eclipse/jdt/internal/compiler/tool/Archive.java
+SHA1-Digest: cMontC1KP84TUkNh8auBzMCwRQg=
+

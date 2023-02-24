@@ -1,0 +1,62 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: j+uU236RtHnaXzzMyry+575s3Oc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 1VrefMkCBhWl6EQ3HFZ6tr4pZVE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpRegistryManager.j
+ ava
+SHA1-Digest: Y6QyWIVbYs8AZgYbvwJqlqRwpUQ=
+
+Name: schema/filters.exsd
+SHA1-Digest: 3QpwKrFXHjff94obKXVJCJatFyY=
+
+Name: org/eclipse/equinox/http/registry/internal/ExtensionPointTracker
+ .java
+SHA1-Digest: 9EgFDWvc5USu1V+lXR93KBeIiM0=
+
+Name: org/eclipse/equinox/http/registry/HttpContextExtensionService.ja
+ va
+SHA1-Digest: +T4MgaZXFZrL6Qg3DKKj6XhKGP4=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpServiceTracker.ja
+ va
+SHA1-Digest: C6tt7eEsi038tw1D666qkoniwko=
+
+Name: org/eclipse/equinox/http/registry/internal/DefaultRegistryHttpCo
+ ntext.java
+SHA1-Digest: Px9zD0CsOnQl8potpAJnA6PHVSs=
+
+Name: about.html
+SHA1-Digest: IMJKsR3Vi9xFUgMu+9YZDYhzI7I=
+
+Name: org/eclipse/equinox/http/registry/internal/ServletManager.java
+SHA1-Digest: /D/XrkuL60klxk0QlnwAiO1M5R8=
+
+Name: org/eclipse/equinox/http/registry/internal/ResourceManager.java
+SHA1-Digest: 6koBNtHrINfBUnLVJNnLJ9liMmk=
+
+Name: plugin.properties
+SHA1-Digest: WLkgIqaUqT79DI6uwIXmXZzLS4A=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpContextManager.ja
+ va
+SHA1-Digest: exrwkFfB5+oRzEvBO7n0zS2iOaI=
+
+Name: schema/servlets.exsd
+SHA1-Digest: hBbi6W4aRfQCjE4K9Blc1Ous8bA=
+
+Name: org/eclipse/equinox/http/registry/internal/FilterManager.java
+SHA1-Digest: /8gfldEGS+h++pYWU8KAZSZE8yY=
+
+Name: org/eclipse/equinox/http/registry/internal/Activator.java
+SHA1-Digest: tsNBfmfxHV0xwgTCN4RLZX5P8dw=
+
+Name: schema/httpcontexts.exsd
+SHA1-Digest: kk6nSQyWGDyXM4vb4VXHTnRpF4I=
+
+Name: schema/resources.exsd
+SHA1-Digest: tgMxi3GgSCg6IH/7vLcyWXvmxt8=
+

@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.simpleconfigurator.manipulat
+ or;version="2.0.0.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.simpleconfigurator.manipulato
+ r.source
+Bundle-Version: 2.0.0.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorUtils.java
+SHA1-Digest: bvfQSJ3rso6BCYrTPmPrkjtpSOw=
+
+Name: org/eclipse/equinox/simpleconfigurator/manipulator/SimpleConfigu
+ ratorManipulator.java
+SHA1-Digest: SyY7Dk7F+RwXZoEpq7PCewzEaRE=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorImpl.java
+SHA1-Digest: 69rWnsSQut3CnpcqN5ur4dayiXw=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/manipulator/Simp
+ leConfiguratorManipulatorFactoryImpl.java
+SHA1-Digest: H9cvbFckLMPiB4ifMVVOyb1dpnw=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: PTIFPXUdzjXGbWxutmhBEFKXKns=
+

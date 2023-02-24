@@ -1,0 +1,215 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: OGTaTG4OCr++Hk5AR6cciYUwClU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: vOflntxTaJsShzSDqmBy/oDysQw=
+
+Name: org/eclipse/jdt/internal/core/refactoring/descriptors/JavaRefact
+ oringDescriptorUtil.java
+SHA1-Digest: bAH1QO1Yv0wZi1tS+fxz+RCe6ms=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/IntroduceIndirectio
+ nDescriptor.java
+SHA1-Digest: HETa3B/JtQWOjmMVZHAD0YFLZk4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ConvertAnonymousDes
+ criptor.java
+SHA1-Digest: xLvJotGBjcbr+fGYdt9FqMEY20g=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractInterfaceDes
+ criptor.java
+SHA1-Digest: guwGA1xGtb4ZN2wjg80E/omU5s4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/MoveStaticMembersDe
+ scriptor.java
+SHA1-Digest: qTXQMybAeM/O2paBvOlwpDWXHYY=
+
+Name: org/eclipse/jdt/internal/core/manipulation/IStatusConstants.java
+SHA1-Digest: HHhzmbDpPTUCE9pxz9xUyhrfQJ8=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/UseSupertypeDescrip
+ tor.java
+SHA1-Digest: Wpa0COUJVJ4wYbQ0tVdNJ6S3vC8=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractLocalDescrip
+ tor.java
+SHA1-Digest: ogeg3uI3kd08Ys916pBo0vGXxxQ=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/InlineLocalVariable
+ Descriptor.java
+SHA1-Digest: a+gdX0zT5eXi/B7vXUqHMK/fu0o=
+
+Name: org/eclipse/jdt/internal/core/manipulation/Messages.java
+SHA1-Digest: bEmMdMIOEtKWh+VmXFHZwFxSRHI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/JavaRefactoringCont
+ ribution.java
+SHA1-Digest: Sxt9LBR3tmqfxSC9pR5P5KKX4ZI=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/JavaRefactoringDesc
+ riptor.java
+SHA1-Digest: kp2W6ikVNyrVtKCoEoPc6jY42Vo=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/InlineMethodDescrip
+ tor.java
+SHA1-Digest: afVEvgCVCyijP4/qydHldpaMDh8=
+
+Name: org/eclipse/jdt/core/manipulation/JavaManipulation.java
+SHA1-Digest: EbTt7B1iyuSlZoHpRWB53eTJh9g=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/CopyDescriptor.java
+SHA1-Digest: wVKEgNoVCed5HpMZdQIwk+mRSq4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ConvertLocalVariabl
+ eDescriptor.java
+SHA1-Digest: r5e1mTi2dVE/JS0V8CpXy6569V0=
+
+Name: org/eclipse/jdt/internal/core/refactoring/descriptors/RenameReso
+ urceRefactoringContribution.java
+SHA1-Digest: UE875Lrn57sSgya/ANskWOE9SYA=
+
+Name: org/eclipse/jdt/internal/core/manipulation/JavaManipulationPlugi
+ n.java
+SHA1-Digest: nJTyuMNx3i4OntfFeLwid6p7CAM=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/DeleteDescriptor.ja
+ va
+SHA1-Digest: gcLb2XRm/VZ3m5djcHNkf7pqL+M=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/IntroduceParameterD
+ escriptor.java
+SHA1-Digest: i5v+g6eHpRvU1ZWVbNq5TZBQPR8=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/GeneralizeTypeDescr
+ iptor.java
+SHA1-Digest: K5yJZcMnfXgWweggpL0/h7QzPmE=
+
+Name: schema/changeMethodSignatureParticipants.exsd
+SHA1-Digest: ndYOhTu6NorWWc9O5vQfIa5anOs=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/RenameLocalVariable
+ Descriptor.java
+SHA1-Digest: Y88wfZ02jD8iq1GWcilJaOaqorM=
+
+Name: org/eclipse/jdt/core/refactoring/participants/JavaParticipantMan
+ ager.java
+SHA1-Digest: djNQ5f7AKvpb8TtCfWGqxFBgSqQ=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractMethodDescri
+ ptor.java
+SHA1-Digest: Hz5MPVjT6GpRNtPUSLRJ+8gTGv0=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/InlineConstantDescr
+ iptor.java
+SHA1-Digest: DOuLYto7Vw1aUpN5Ip+PVpRqDeo=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractSuperclassDe
+ scriptor.java
+SHA1-Digest: yG6HpE23B3++BVMIucdqgmoy/SM=
+
+Name: org/eclipse/jdt/core/refactoring/IJavaRefactorings.java
+SHA1-Digest: Znp94jrudeghD6nrqvnZteK6o7Y=
+
+Name: org/eclipse/jdt/core/refactoring/RenameTypeArguments.java
+SHA1-Digest: 7cR1fJ5Uj++GHzvT97Sh7lTheJA=
+
+Name: org/eclipse/jdt/core/refactoring/participants/ChangeMethodSignat
+ ureArguments.java
+SHA1-Digest: U5EL3Xxip5DKD3PPw/6WyJDVVZs=
+
+Name: org/eclipse/jdt/core/refactoring/participants/ChangeMethodSignat
+ ureParticipant.java
+SHA1-Digest: TPqfhrLEB3QKR6Icu1kbree6cyM=
+
+Name: org/eclipse/jdt/internal/core/refactoring/descriptors/Refactorin
+ gSignatureDescriptorFactory.java
+SHA1-Digest: tdv56HlMHLVIExtDv6cNzZkUAWM=
+
+Name: plugin.properties
+SHA1-Digest: DinWsN1LUfvRrD0fj2sJa//uS9I=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/MoveDescriptor.java
+SHA1-Digest: VPkpEVjZyUtCDLtdmlX1aqhowUI=
+
+Name: org/eclipse/jdt/core/refactoring/CompilationUnitChange.java
+SHA1-Digest: FJ4BaE/tz9SXBQKXgvO/6h2BVyU=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/RenameResourceDescr
+ iptor.java
+SHA1-Digest: lB2uYvNtIM4RzsloJTLKBdLLUrA=
+
+Name: org/eclipse/jdt/core/refactoring/UndoCompilationUnitChange.java
+SHA1-Digest: ciFasSTCBdPoyWyX7nKB/jjWns4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ChangeMethodSignatu
+ reDescriptor.java
+SHA1-Digest: yhjtKjDZ8D3Wd6n3oN8F8V5HqGI=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ConvertMemberTypeDe
+ scriptor.java
+SHA1-Digest: WrIW/zxzRi8Hzo/6MVfl/U19ExM=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractConstantDesc
+ riptor.java
+SHA1-Digest: 4d2mUZASXU1nS8OAR1rCod1SWo4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/PushDownDescriptor.
+ java
+SHA1-Digest: +MrXtuE+n5gZeQi2N1Yqrof17vA=
+
+Name: org/eclipse/jdt/core/refactoring/IJavaElementMapper.java
+SHA1-Digest: lMb4KqEKTquvm6+mQYmgzOa3wS8=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/RenameJavaElementDe
+ scriptor.java
+SHA1-Digest: WULGYCi30hifbUGxjTLHDgpnSFI=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/ExtractClassDescrip
+ tor.java
+SHA1-Digest: qremJhpMchG8+3M4lxJNE6/BFo4=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/MoveMethodDescripto
+ r.java
+SHA1-Digest: H4aQ8D+G1KAn2YJMEms7nyeJGwA=
+
+Name: org/eclipse/jdt/internal/core/manipulation/JavaElementPropertyTe
+ ster.java
+SHA1-Digest: DvfC/l12CN1Iym7wt4ny2+NK1y4=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/InferTypeArgumentsD
+ escriptor.java
+SHA1-Digest: zAl/33sZjJWoW0sHEY2rbyLzQRg=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/IntroduceFactoryDes
+ criptor.java
+SHA1-Digest: Eax9ZApwKupcy1QmTM7VQYvosl8=
+
+Name: org/eclipse/jdt/internal/core/refactoring/descriptors/Descriptor
+ Messages.java
+SHA1-Digest: VEw6jujR6NbJCnzGN2aXQunQo0w=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/IntroduceParameterO
+ bjectDescriptor.java
+SHA1-Digest: IvPs+h015zhpbEYnDM+M00kd1Ac=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/EncapsulateFieldDes
+ criptor.java
+SHA1-Digest: MZ2cZnJuhv8L0anLVN3xUWlNQWA=
+
+Name: org/eclipse/jdt/internal/core/manipulation/JavaManipulationMessa
+ ges.java
+SHA1-Digest: ky9pVmrTThSpgD4o+ITGmAG/cYM=
+
+Name: org/eclipse/jdt/core/refactoring/participants/IRefactoringProces
+ sorIds.java
+SHA1-Digest: 3qsdy0fWmRPmWBlghW3JrKh08M0=
+
+Name: org/eclipse/jdt/core/refactoring/descriptors/PullUpDescriptor.ja
+ va
+SHA1-Digest: 7FE9iOFtDr2IST4PAa5r8kn63y4=
+

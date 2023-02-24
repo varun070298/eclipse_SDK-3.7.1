@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.frameworkadmin;version="2.0.
+ 0.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.frameworkadmin.source
+Bundle-Version: 2.0.0.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdminRuntimeException.java
+SHA1-Digest: sy0MRFPmeT+TnpRYLUQHUhv1urg=
+
+Name: org/eclipse/equinox/internal/provisional/configuratormanipulator
+ /ConfiguratorManipulator.java
+SHA1-Digest: weGIhiUKf7zkB543ctmdX/QSbqo=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/BundlesS
+ tate.java
+SHA1-Digest: 4bl9rCOXelyRYA6KYC/nCmPrVBc=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/SimpleBundlesS
+ tate.java
+SHA1-Digest: YBYN155fy4AFYLPFc+ZsL7pE76M=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Manipula
+ tor.java
+SHA1-Digest: KsL1s63OIWE4/1tdicN1Y2uYj3s=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/frameworkadmin/BundleInfo.java
+SHA1-Digest: 8ISSPqeJnIj0APnsr7Cz2fuG+8A=
+
+Name: plugin.properties
+SHA1-Digest: 0z3A7HmxLOOCCyz2MO5qvAcGYKM=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/Activator.java
+SHA1-Digest: Uew5k/Z0bT6qhNeChVY6F7ehODM=
+
+Name: org/eclipse/equinox/internal/provisional/configuratormanipulator
+ /ConfiguratorManipulatorFactory.java
+SHA1-Digest: hkLTBhjMdHGG36HN8r+y1vM5n4c=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/Utils.java
+SHA1-Digest: WjtbVfOiSRqPAtC5TZA1+zHEiDg=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdmin.java
+SHA1-Digest: +UmxOwoBMU6tLqnRrUONnuRKjRQ=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/ConfigDa
+ ta.java
+SHA1-Digest: yMLIcZ8MDV3Sx8cbJSA0oOOIJoY=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Launcher
+ Data.java
+SHA1-Digest: KSofBjgxMh/oDILCmqc7PaD+odo=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdminFactory.java
+SHA1-Digest: /+96dZhZjuwl/bTwW4Kmgnsi3eo=
+

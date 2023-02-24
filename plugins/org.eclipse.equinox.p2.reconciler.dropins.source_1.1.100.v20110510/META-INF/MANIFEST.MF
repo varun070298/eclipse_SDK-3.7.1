@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.reconciler.dropins;versio
+ n="1.1.100.v20110510";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.reconciler.dropins.source
+Bundle-Version: 1.1.100.v20110510
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Activator.jav
+ a
+SHA1-Digest: jueq0OXErhe9kqjSUnaDDxpONyQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Application.j
+ ava
+SHA1-Digest: ZJ8SZSl3WX9b9VakU75SK3eexpY=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/DropinsReposi
+ toryListener.java
+SHA1-Digest: b9mNjmU4LzTG4+yB2EbVPAsCqmk=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/ProfileSynchr
+ onizer.java
+SHA1-Digest: RCpr68I+WCmVKTgf68QW3vyfTCg=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/PlatformXmlLi
+ stener.java
+SHA1-Digest: YwpeG+pn2cPHVWH04KK+EXcAqI0=
+
+Name: plugin.properties
+SHA1-Digest: eFPfRvyktESZ9r1k0Exl8tyOCY4=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Messages.java
+SHA1-Digest: bXJkapnxCd8DTIzPis5LvDBhyzU=
+

@@ -1,0 +1,383 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: +P1UcPj0MGcYFxavmbXTYyZ0iKg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 2DTKLLX3vShb7ykqjkoQkedrXPw=
+
+Name: org/eclipse/help/IHelp.java
+SHA1-Digest: 7j3XPUBisjQDY+4uaLHLW7oFdhs=
+
+Name: org/eclipse/help/internal/util/URLCoder.java
+SHA1-Digest: YHB6ASx+L1q2GFnWB2DKCegy+3E=
+
+Name: org/eclipse/help/internal/entityresolver/LocalEntityResolver.jav
+ a
+SHA1-Digest: SA/NmP9qNSsvIQfH+VXFih7AmL0=
+
+Name: org/eclipse/help/internal/dynamic/FilterResolver.java
+SHA1-Digest: SfnWjyKZqBNzkDd8XwpF+8jl2uY=
+
+Name: org/eclipse/help/internal/CachedEntityResolver.java
+SHA1-Digest: GcSIFdC+1TI1DVoA7w4lJmLGapY=
+
+Name: schema/index.exsd
+SHA1-Digest: PPUFYgY+ekDirLoSDK4RpxIbaVw=
+
+Name: schema/criteriaProvider.exsd
+SHA1-Digest: WjYKSCpu/G+tWLNkeDm3WTUeyC4=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionContributio
+ n.java
+SHA1-Digest: 2IlqQxnnVMkjuuWv9OeXtXLOcnA=
+
+Name: org/eclipse/help/IInclude.java
+SHA1-Digest: rUvkwjwj1Znn7xizlSFvudlv0yM=
+
+Name: org/eclipse/help/internal/context/Context.java
+SHA1-Digest: m1MrmG6O+Bsk8PcLxDAEkrmcA6s=
+
+Name: org/eclipse/help/internal/toc/TocFileProvider.java
+SHA1-Digest: APQ0iaVHoL5fgqlRfa8OxTfM0DU=
+
+Name: org/eclipse/help/internal/toc/TocSorter.java
+SHA1-Digest: Hq3q/XdYAoE6tJufsDhwqV8zmY4=
+
+Name: org/eclipse/help/internal/context/ContextManager.java
+SHA1-Digest: +OtKrNnHromeY2H1TCXJrrmqNi4=
+
+Name: org/eclipse/help/ITopic2.java
+SHA1-Digest: r+y3Q0yZ9o4GcE6d/WT3hVoKTA4=
+
+Name: org/eclipse/help/ILiveHelpAction.java
+SHA1-Digest: k4c5RcjdMgktfWsxfH68uDel3hI=
+
+Name: org/eclipse/help/IContext2.java
+SHA1-Digest: 87wxhpsFJbJKnCFuJJhI38gnVXw=
+
+Name: org/eclipse/help/ICriteriaDefinitionContribution.java
+SHA1-Digest: yP98luOjptAoIGQnGvqQ3+yjvzs=
+
+Name: org/eclipse/help/IIndexSee.java
+SHA1-Digest: hkAKrVpwnJ6rmOTtoY0+nuj2zjw=
+
+Name: org/eclipse/help/internal/index/IndexContribution.java
+SHA1-Digest: o7CSkWY+P7SkEKVJOLj48dTMfKc=
+
+Name: org/eclipse/help/internal/Anchor.java
+SHA1-Digest: cpiAEKCSbPU8ZnmTAMqOF6RnWwk=
+
+Name: org/eclipse/help/internal/dynamic/FilterHandler.java
+SHA1-Digest: HbupBQ9H1X3BrhNzgL1DVY6wt8Y=
+
+Name: org/eclipse/help/UAContentFilter.java
+SHA1-Digest: UJeJto8agOuETEVWtljLKMM3zLA=
+
+Name: org/eclipse/help/internal/dynamic/ValidationHandler.java
+SHA1-Digest: WqLh8MDSYpVS7AdLPA410j/jDXc=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionFile.java
+SHA1-Digest: ZoT/ICE0wDHgh3UdiLR59wtjgVc=
+
+Name: org/eclipse/help/internal/toc/TocFileParser.java
+SHA1-Digest: J30m42No0WsNDUOzKkB+i6yMo2Q=
+
+Name: schema/criteriaDefinition.exsd
+SHA1-Digest: l1sNmMagv3DOdrK3gmmDgBmrHA4=
+
+Name: org/eclipse/help/internal/index/IndexFile.java
+SHA1-Digest: 99GPcndMOWGB4IRtijMDD2X1o9E=
+
+Name: org/eclipse/help/internal/dynamic/DocumentWriter.java
+SHA1-Digest: bDnd+w15o6o032mG05NF3AB412E=
+
+Name: org/eclipse/help/AbstractContentExtensionProvider.java
+SHA1-Digest: OaIzJqFQCD/0h6+4qTebRwP3njI=
+
+Name: org/eclipse/help/AbstractCriteriaProvider.java
+SHA1-Digest: Em+oLtEZl28lSM2AZbDBRrE2MeI=
+
+Name: org/eclipse/help/ITocContribution.java
+SHA1-Digest: d9CSQXjdAguPHodsCwvzn57wD2k=
+
+Name: org/eclipse/help/IUAElement.java
+SHA1-Digest: CX6O5Kv0MuqgVdsBN5McCg3EYjw=
+
+Name: org/eclipse/help/IIndexSubpath.java
+SHA1-Digest: kITcy6I5jqIzMH76dFBeqB41TTg=
+
+Name: org/eclipse/help/ICriteriaDefinition.java
+SHA1-Digest: f0aBqsynw8eS20qPeZwdMGDz4Fw=
+
+Name: org/eclipse/help/internal/dynamic/ProcessorHandler.java
+SHA1-Digest: pP2UCSXT+k3dkrmdALS/aWnUfyE=
+
+Name: org/eclipse/help/internal/index/Index.java
+SHA1-Digest: 6/+OYypclmsUVvPIYa9qpROYhJc=
+
+Name: org/eclipse/help/IHelpContentProducer.java
+SHA1-Digest: K9M2mojZdj28jORV3CqZMvjAq8M=
+
+Name: org/eclipse/help/AbstractTocProvider.java
+SHA1-Digest: CifRzcQRnSkWDzDlGK2Nh84xkQo=
+
+Name: org/eclipse/help/internal/toc/TopicSorter.java
+SHA1-Digest: IB6CSd4r0tM8yNABXCwey14kpdE=
+
+Name: org/eclipse/help/internal/extension/ContentExtensionFileProvider
+ .java
+SHA1-Digest: 0XAHPu/bgIgvH1iDjOygcPdzWDc=
+
+Name: org/eclipse/help/internal/UAElement.java
+SHA1-Digest: yMvoYGH/CFa6RDNVVqI2tYfKYFI=
+
+Name: org/eclipse/help/internal/criteria/Criteria.java
+SHA1-Digest: niFCzYeZvQm26q2ByZG1pjsyrEo=
+
+Name: org/eclipse/help/internal/Include.java
+SHA1-Digest: AUiw+/8rANyHWxaC95t/oZbVdQg=
+
+Name: schema/contexts.exsd
+SHA1-Digest: 31t2ns+ofQZwR3mfdiBJaCrbJ80=
+
+Name: org/eclipse/help/IIndexEntry.java
+SHA1-Digest: qGJpoYxM/1gPrh4fQRSIqScbx0E=
+
+Name: org/eclipse/help/internal/extension/ContentExtension.java
+SHA1-Digest: u4udAittYporxfHGRsUpvkTSU/s=
+
+Name: org/eclipse/help/ICriterionDefinition.java
+SHA1-Digest: hW94zismq9LdCKpSp/7Nungb9Qg=
+
+Name: about.html
+SHA1-Digest: PLmaVCNBtcH+CE4wqvQqq5oUO4Y=
+
+Name: org/eclipse/help/ITopic.java
+SHA1-Digest: 1Hz8DA2Daz6l/BcybjTj8eNrWWk=
+
+Name: org/eclipse/help/IContext.java
+SHA1-Digest: WVnl/j9XFElTFm6hPTd7DhkYM8Y=
+
+Name: org/eclipse/help/internal/extension/ContentExtensionManager.java
+SHA1-Digest: o2N6hUFaz5O/VoACSoOPch/MB08=
+
+Name: org/eclipse/help/internal/toc/DocumentFinder.java
+SHA1-Digest: FcjKAVlGGyF3qI0yQ9YkfpfONxk=
+
+Name: org/eclipse/help/internal/criteria/CriterionValueDefinition.java
+SHA1-Digest: Rav94wnK9fa4hJ3PQ2UfpGM2fko=
+
+Name: org/eclipse/help/internal/toc/TocContribution.java
+SHA1-Digest: mPVF30oCeFpl8QX0OqGQ0QAPasw=
+
+Name: org/eclipse/help/IToc.java
+SHA1-Digest: 6cXXD95CCU6YHvZt95H93N+EhKM=
+
+Name: org/eclipse/help/IIndexContribution.java
+SHA1-Digest: J+enmvJ/dinwNz+35YRIQaHZXDg=
+
+Name: org/eclipse/help/internal/index/IndexEntry.java
+SHA1-Digest: dSmwtDU8bUvR1fB85uAl800kZFI=
+
+Name: schema/contentExtension.exsd
+SHA1-Digest: HqiybjRAZD6QPLHgko0hT/QBDtM=
+
+Name: org/eclipse/help/internal/util/ResourceLocator.java
+SHA1-Digest: Hsabv78B8sS8acwLEkT1tAlFrzg=
+
+Name: org/eclipse/help/internal/dynamic/ExtensionHandler.java
+SHA1-Digest: StNBn+2BV0BdAAS5Qy5kA6yAlcM=
+
+Name: org/eclipse/help/internal/toc/TocFile.java
+SHA1-Digest: q+wvybIRDd1aEoGf6tlcYD4wSec=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionFileParser.
+ java
+SHA1-Digest: BfqmWV6XSQymnnr2Ht3me74uTjQ=
+
+Name: org/eclipse/help/internal/context/ContextFileProvider.java
+SHA1-Digest: ZtJHgR0w1csNgBcCd7H3B8UK6P4=
+
+Name: org/eclipse/help/IIndexEntry2.java
+SHA1-Digest: E1GfP09IyzBdr4oNun05yBgZX/A=
+
+Name: org/eclipse/help/IAnchor.java
+SHA1-Digest: P7qfpfQaXxjtzsbvxDzFxywDiVQ=
+
+Name: org/eclipse/help/IHelpResource.java
+SHA1-Digest: lDzv2AvCfRKKWbtosb0jbZLcTLk=
+
+Name: org/eclipse/help/internal/criteria/CriterionDefinition.java
+SHA1-Digest: MqvChql2oynj+lebUpo1myuN1Cg=
+
+Name: org/eclipse/help/internal/util/FastStack.java
+SHA1-Digest: ndR8hRwDckUArWOi4RM1y1CtjeM=
+
+Name: org/eclipse/help/IContentExtension.java
+SHA1-Digest: VqOCc8QUmXO2r9acV1tVN6cY9lQ=
+
+Name: org/eclipse/help/internal/index/IndexManager.java
+SHA1-Digest: BMQim1sisBGImdH38t+6cdvgKT8=
+
+Name: org/eclipse/help/ICriteria.java
+SHA1-Digest: tucVTi/Jgo0rqSmpO2iWkkuV4aE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/help/HelpSystem.java
+SHA1-Digest: LUWrUPlCALpBp4G4wQ0TMCJlwWU=
+
+Name: org/eclipse/help/internal/toc/Toc.java
+SHA1-Digest: KxAoj+aJx64ynjtJtkTdqUo+F7o=
+
+Name: org/eclipse/help/internal/dynamic/IncludeHandler.java
+SHA1-Digest: KftN9FZT/5OchD1MWK4oCTwNzt8=
+
+Name: org/eclipse/help/internal/extension/ContentExtensionFileParser.j
+ ava
+SHA1-Digest: JGFWfxYS6o0pHYUpNgT4Yq6WdVk=
+
+Name: org/eclipse/help/internal/criteria/CriteriaProviderRegistry.java
+SHA1-Digest: Z6zICIosrA9bcCIDq8lrPj4vCOs=
+
+Name: org/eclipse/help/IIndex.java
+SHA1-Digest: aWj/hrkHL6F8m3sBa95gW3hEA88=
+
+Name: org/eclipse/help/AbstractCriteriaDefinitionProvider.java
+SHA1-Digest: RChyQFoQaan6pXMCmpY1ZmPy28U=
+
+Name: org/eclipse/help/internal/util/SequenceResolver.java
+SHA1-Digest: yM5k3x5RARRt0W2W+tfwC4+Rypk=
+
+Name: org/eclipse/help/internal/index/IndexDocumentReader.java
+SHA1-Digest: Vl8lLQtNTT2FoxJXdjQC2vaqj3c=
+
+Name: org/eclipse/help/internal/toc/Link.java
+SHA1-Digest: rbHJ8P3oJnlYKxx3LjlYC4DJOW4=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionFileProvide
+ r.java
+SHA1-Digest: p22sSZrcpZRPxiQCJ2Ny+q3yvlM=
+
+Name: org/eclipse/help/internal/criteria/CriterionResource.java
+SHA1-Digest: 6PJWSAy5Q0QGnzk67VOQbvoEcKY=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionAssembler.j
+ ava
+SHA1-Digest: 73rKiNt/P1slnIWb3Gpi7XMO/xw=
+
+Name: org/eclipse/help/internal/index/IndexSee.java
+SHA1-Digest: rufc+gdknBYyl3xuflqrP/NhAnU=
+
+Name: org/eclipse/help/IContext3.java
+SHA1-Digest: k7iE5DesZkABDHdkWCtDR4ShAoY=
+
+Name: org/eclipse/help/internal/toc/TocProviderComparator.java
+SHA1-Digest: bPZ/xEYmL7B+oL6w6L2gDzySot4=
+
+Name: org/eclipse/help/ICriterionValueDefinition.java
+SHA1-Digest: 3VPSXLumOsqI1ELoGfLCgZmj2d0=
+
+Name: org/eclipse/help/internal/UAElementFactory.java
+SHA1-Digest: y49JLumY98Un8q/Cp9H1kmGR0Ak=
+
+Name: org/eclipse/help/internal/dynamic/DocumentProcessor.java
+SHA1-Digest: KuSJjA/LoOyuCr4TUOZgs38VMmw=
+
+Name: org/eclipse/help/internal/CommandLink.java
+SHA1-Digest: wM5QNQSqbIj+obnIOzoEh5QSibc=
+
+Name: org/eclipse/help/internal/toc/HrefUtil.java
+SHA1-Digest: qT548xbxfh15oUqOdYtAvSfWuIw=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinition.java
+SHA1-Digest: L8I+Xee/ANJIkiVV6pMUnyf6NIg=
+
+Name: org/eclipse/help/internal/index/IndexFileProvider.java
+SHA1-Digest: yHuiIFpqe9Yvjl5qj77DmJaMOwg=
+
+Name: org/eclipse/help/internal/context/IStyledContext.java
+SHA1-Digest: wqnI4e5la0TJTCSmWyK77sYZ/GI=
+
+Name: org/eclipse/help/internal/dynamic/IncludeResolver.java
+SHA1-Digest: Se2eqL5iRRJ/GTxwgQ7hQa4qASc=
+
+Name: org/eclipse/help/AbstractIndexProvider.java
+SHA1-Digest: iDhCBt9SscVCKKOzgWOo/z4M0lg=
+
+Name: org/eclipse/help/AbstractContextProvider.java
+SHA1-Digest: koVdgt3XtOmwzb8MRC312Ngd8XI=
+
+Name: org/eclipse/help/internal/toc/TocManager.java
+SHA1-Digest: OYkmbWKxinzv3McG3J4+osNC3yk=
+
+Name: org/eclipse/help/internal/index/IndexAssembler.java
+SHA1-Digest: DQqZ9g2pA2imykpZP8K9+zmwvqg=
+
+Name: org/eclipse/help/internal/dynamic/XMLProcessor.java
+SHA1-Digest: j1rlCdDekY6sdjKNTtV90Td+zx0=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionManager.jav
+ a
+SHA1-Digest: QPmeTWehNDxnU75rP4MN6/j9E0o=
+
+Name: plugin.properties
+SHA1-Digest: qo23nYBeGjCxY1Og+wIcq54hUtU=
+
+Name: org/eclipse/help/internal/HelpData.java
+SHA1-Digest: TFeICAGfFKu6wThKSqYpXTkza9Y=
+
+Name: org/eclipse/help/internal/util/ProductPreferences.java
+SHA1-Digest: NNjLkvOXE0lk5nstkX75VEQmxpI=
+
+Name: org/eclipse/help/internal/dynamic/ExtensionResolver.java
+SHA1-Digest: bd4ZZXmTOR6Gr29iPno/IH4MfaE=
+
+Name: schema/contentProducer.exsd
+SHA1-Digest: lCw/YkWMnIJ2/0xUzVZDEp+aG2Q=
+
+Name: org/eclipse/help/internal/index/IndexFileParser.java
+SHA1-Digest: 1qZxMH83ECSnbLYYjfBhzAn/99s=
+
+Name: schema/toc.exsd
+SHA1-Digest: CBZPovakeZ+MO7+4bgVe1MmFLqY=
+
+Name: schema/helpData.exsd
+SHA1-Digest: XeCYVWbPU7qXaUlGmL3/H7lp3H8=
+
+Name: org/eclipse/help/internal/criteria/CriteriaManager.java
+SHA1-Digest: /Spuk1X+qZZr/DNskKsvjeSFbDI=
+
+Name: org/eclipse/help/internal/HelpPlugin.java
+SHA1-Digest: wuRrPTSfxieNtbxpAhz92dPmtBg=
+
+Name: org/eclipse/help/internal/criteria/CriteriaDefinitionDocumentRea
+ der.java
+SHA1-Digest: bX7UGrZErdbaBhO6iq7qv1yYV5E=
+
+Name: org/eclipse/help/ILink.java
+SHA1-Digest: 3zqR+79wFazvq2Idup6RlRApPLU=
+
+Name: org/eclipse/help/internal/index/IndexSubpath.java
+SHA1-Digest: QdfuIlCrsKtqHJhLPRfYwbPaOK0=
+
+Name: org/eclipse/help/internal/dynamic/DocumentReader.java
+SHA1-Digest: uiDgqRAkKNe6bhoN0QeJq51n52U=
+
+Name: org/eclipse/help/IToc2.java
+SHA1-Digest: Btvg9a9Rg4jKDTjhNu+wYASCsd4=
+
+Name: org/eclipse/help/internal/Topic.java
+SHA1-Digest: DdcI+NGg0PWVNWPvXmWg711MQnM=
+
+Name: org/eclipse/help/ICommandLink.java
+SHA1-Digest: maPeXXjwPndyH0sf9sOIrWr8pCc=
+
+Name: org/eclipse/help/internal/toc/TocAssembler.java
+SHA1-Digest: ZQDoZICPJPyt5gxf/UXOAIlbsSk=
+
+Name: org/eclipse/help/internal/context/ContextFile.java
+SHA1-Digest: SvxtLnxBbvjfUp8IVrwC23mlzNM=
+
+Name: org/eclipse/help/IContextProvider.java
+SHA1-Digest: Ml+wkvxLipoLyNbGu7D5t++mHOU=
+

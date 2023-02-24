@@ -1,0 +1,1098 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Vv9oPe99ZHWPVUbhPKtjHlXFfIo=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: p+vOcnxrFRKfdl3AHOCv2q5R9rw=
+
+Name: com/ibm/icu/impl/locale/BaseLocale.java
+SHA1-Digest: ijp7QP4YUliS6xUnGdjKCv6v10w=
+
+Name: com/ibm/icu/impl/duration/impl/PeriodFormatterData.java
+SHA1-Digest: onSuq1gAu4lGMAzrheqG4LZwcqY=
+
+Name: com/ibm/icu/impl/ICUConfig.java
+SHA1-Digest: QESYvGRU09BoegaWZabYGw1ZI10=
+
+Name: com/ibm/icu/text/Normalizer2.java
+SHA1-Digest: q68+0tUmncL5OO568zs71wFFLvQ=
+
+Name: com/ibm/icu/text/BreakIterator.java
+SHA1-Digest: JiN0vtu2TNJ/bJ3loka/Vl28nVk=
+
+Name: com/ibm/icu/text/Collator.java
+SHA1-Digest: zC+H20iWP+P/IimrlTb4PuQpWIg=
+
+Name: com/ibm/icu/impl/ZoneStringFormat.java
+SHA1-Digest: uuiN662KUT4TSeCSNOZcfuTNwLs=
+
+Name: com/ibm/icu/impl/UCharacterUtility.java
+SHA1-Digest: vM8M/7OtScI6HLOYvofTftSbObM=
+
+Name: com/ibm/icu/impl/Differ.java
+SHA1-Digest: 5Wt2JHj8AMCCG/YmjidUoxzkXqI=
+
+Name: com/ibm/icu/text/RBBIRuleBuilder.java
+SHA1-Digest: cfXNY5W72M/k7oj2sDI8Cgk/Z5w=
+
+Name: com/ibm/icu/impl/CacheBase.java
+SHA1-Digest: XPAhDj/92PB58qyVggloKyXArOw=
+
+Name: com/ibm/icu/impl/DateNumberFormat.java
+SHA1-Digest: 9oIhIjMS3VxZs442t4e7+IDyjAg=
+
+Name: com/ibm/icu/text/UppercaseTransliterator.java
+SHA1-Digest: hF3b0mJ+b3MWeV+SjgXdp/PQpiM=
+
+Name: com/ibm/icu/text/StringSearch.java
+SHA1-Digest: PGivai2P7LD4xPT1UUQEaSZA528=
+
+Name: com/ibm/icu/math/MathContext.java
+SHA1-Digest: tlgDVvJ+mSiVjWGf6GFu6XXBIaI=
+
+Name: com/ibm/icu/impl/duration/DurationFormatterFactory.java
+SHA1-Digest: zEpP0T+uwAdFVNgyETd7B7ZBTQY=
+
+Name: com/ibm/icu/impl/USerializedSet.java
+SHA1-Digest: Y3mfEKg2iQS+h8xJyVPQ0TtbdNE=
+
+Name: com/ibm/icu/util/SimpleTimeZone.java
+SHA1-Digest: VPIGRlaDarChefe6F/314M9AX5w=
+
+Name: com/ibm/icu/lang/UCharacterEnums.java
+SHA1-Digest: UBJmPTaj8G8w81uYtgftcsAyMdM=
+
+Name: com/ibm/icu/impl/TrieIterator.java
+SHA1-Digest: N81voV6AyVBzQijq58BtogO5l/A=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_fr_CA.java
+SHA1-Digest: +matoPHaFd6+Gpo3KxDGI4GgP+8=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_de_AT.java
+SHA1-Digest: AiyFUpII3cp9jH5Cq7XGR4c/hzU=
+
+Name: com/ibm/icu/util/IslamicCalendar.java
+SHA1-Digest: TwNFfCd5xwajOuu2zC7Jejwm2gg=
+
+Name: com/ibm/icu/text/RuleBasedCollator.java
+SHA1-Digest: VOT0UTUKEbk0w1LWoS5g71jIBjg=
+
+Name: com/ibm/icu/text/RbnfLenientScanner.java
+SHA1-Digest: V5JRSjM6c6ysRJitlEWc1YtMb2c=
+
+Name: com/ibm/icu/impl/locale/LocaleSyntaxException.java
+SHA1-Digest: 9xlxB+Jz/eZ/Zz6UMyVdFKvsBFA=
+
+Name: com/ibm/icu/text/DateFormat.java
+SHA1-Digest: 8zEHts1Jnjece4kSLNtC7upHAR8=
+
+Name: com/ibm/icu/util/Holiday.java
+SHA1-Digest: WIUeOKo2XCJ+0GTxLNhTJfVsZzo=
+
+Name: com/ibm/icu/impl/ICUCurrencyDisplayInfoProvider.java
+SHA1-Digest: k+a30P8rPXa3ShDS+xfXX7u5xV0=
+
+Name: com/ibm/icu/text/LocaleDisplayNames.java
+SHA1-Digest: NVMbdAZ0ZWIyjPzrSd1kHaqadMc=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_fr.java
+SHA1-Digest: MR2KEiD+I0DogiEvgtNfF0je/rA=
+
+Name: com/ibm/icu/text/CompoundTransliterator.java
+SHA1-Digest: 23crSN+u8hDtKWQXW8QEnheKVaA=
+
+Name: com/ibm/icu/impl/CharTrie.java
+SHA1-Digest: /xMNK7fT1JgQdiC5I6iSoyHrIlI=
+
+Name: com/ibm/icu/util/RuleBasedTimeZone.java
+SHA1-Digest: IsW0SmVWyIwHLIKug1i6VeBd+eU=
+
+Name: com/ibm/icu/impl/LocaleUtility.java
+SHA1-Digest: p3Y59sy6+gnv5oV/89rJ1mG7v5c=
+
+Name: com/ibm/icu/impl/duration/PeriodFormatter.java
+SHA1-Digest: I3g7chs1R3vaNRW7ZSWKQkusksQ=
+
+Name: com/ibm/icu/util/VTimeZone.java
+SHA1-Digest: u9NoSE+8r6Txk8CpJYxEUZ+8vuQ=
+
+Name: com/ibm/icu/impl/SimpleCache.java
+SHA1-Digest: wOorxFa7bFsVdeK2ggcwgzbAZ34=
+
+Name: com/ibm/icu/impl/Utility.java
+SHA1-Digest: Pyuyc0ljhUbM5Dqt+DRFcKb4dUU=
+
+Name: com/ibm/icu/util/CopticCalendar.java
+SHA1-Digest: 7Vs7vBbeRoI71Eiv8rAYoFCncB0=
+
+Name: com/ibm/icu/impl/data/BreakIteratorRules_th.java
+SHA1-Digest: //SUdg6ODR2xboOZ6A+ER+ZDlg0=
+
+Name: com/ibm/icu/text/RBBISetBuilder.java
+SHA1-Digest: oMsdSnwtq86xUIDil1f59gEjtfw=
+
+Name: com/ibm/icu/impl/CalendarCache.java
+SHA1-Digest: MIHxmgsq8qZHsOCrcAUL5S1zE+E=
+
+Name: com/ibm/icu/impl/ResourceBundleWrapper.java
+SHA1-Digest: nGdNMGLf96j27EVa2oyZ7rMuVHk=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_da_DK.java
+SHA1-Digest: 0jXCvZNDf8ezSCR9QM+zJBF8Jr8=
+
+Name: com/ibm/icu/impl/locale/AsciiUtil.java
+SHA1-Digest: VV8UpOxoxqCBR60keNURb5DsPFc=
+
+Name: com/ibm/icu/impl/ICUCurrencyMetaInfo.java
+SHA1-Digest: bN8U1jo4SjTW7T6P3NezDKUoBCo=
+
+Name: com/ibm/icu/impl/JavaTimeZone.java
+SHA1-Digest: Z5XMTlvHpc+ai/i1J5x+BoISI6k=
+
+Name: com/ibm/icu/impl/LocaleIDs.java
+SHA1-Digest: qaaWvYQ/7Y7mgkiNS8Cx+RuK9HE=
+
+Name: com/ibm/icu/text/ThaiBreakIterator.java
+SHA1-Digest: t4qZDtO8yongc3wgdpNH9hEijlQ=
+
+Name: com/ibm/icu/impl/duration/impl/RecordWriter.java
+SHA1-Digest: IA0SyM2UytERBrX1ee3ORqUyOJU=
+
+Name: com/ibm/icu/text/CollatorReader.java
+SHA1-Digest: VZLP5PW9RfLUfCjX6diBxgd6O4s=
+
+Name: com/ibm/icu/lang/UCharacterDirection.java
+SHA1-Digest: zMV3huffWe3svuNRhN+d1P+/0/o=
+
+Name: com/ibm/icu/util/DateTimeRule.java
+SHA1-Digest: 0xoALVWt4MRS/CLPQm1ejtmdwDM=
+
+Name: com/ibm/icu/impl/Trie2.java
+SHA1-Digest: CeJWymPRFjgykmGUp2ituSQck0Y=
+
+Name: com/ibm/icu/text/CharsetRecog_mbcs.java
+SHA1-Digest: bRQpxWuSZRgnbUanG96RRRzJiyo=
+
+Name: com/ibm/icu/text/NullTransliterator.java
+SHA1-Digest: 6lguTkB/SouqoE/iQSrpGH7MiQ4=
+
+Name: com/ibm/icu/impl/data/BreakIteratorRules.java
+SHA1-Digest: ZDzhvXpZ+CeQ5nuOvsfQ0AokqBo=
+
+Name: com/ibm/icu/text/CharsetRecog_sbcs.java
+SHA1-Digest: YsWzdeKzMLIJH5x6p2JGcXxN4g4=
+
+Name: com/ibm/icu/text/SearchIterator.java
+SHA1-Digest: gDPebCVrRImsQDv+gvVcZlCW1wY=
+
+Name: com/ibm/icu/text/RBBISymbolTable.java
+SHA1-Digest: 830JTSRhnYNnpuy1UlFnLnCdf7A=
+
+Name: com/ibm/icu/text/UnicodeMatcher.java
+SHA1-Digest: bKfcJ60Imgw1Xa0Yr1TXj7yjOwY=
+
+Name: com/ibm/icu/text/MessageFormat.java
+SHA1-Digest: lchbHkYtawaHqSewl1I+3bGVhtc=
+
+Name: com/ibm/icu/text/DecimalFormatSymbols.java
+SHA1-Digest: 3Th6e4AH/ki7KPGSctk9NX9U/dQ=
+
+Name: com/ibm/icu/text/EscapeTransliterator.java
+SHA1-Digest: OW9IfF1na66ZfEYHYtQZ0Ly7Nvg=
+
+Name: com/ibm/icu/text/ReplaceableContextIterator.java
+SHA1-Digest: Y8CFKtEqwBWenhWnXnSDTL6b2/o=
+
+Name: com/ibm/icu/impl/locale/StringTokenIterator.java
+SHA1-Digest: wCR27zzDpCggx2QChRUfAHtB5Xc=
+
+Name: com/ibm/icu/impl/ICUData.java
+SHA1-Digest: oGdMDUPCBPjCoKXlWN6wTakH2iU=
+
+Name: com/ibm/icu/impl/PVecToTrieCompactHandler.java
+SHA1-Digest: Pi4UOCMa86hRHkOg0DC92A1voa8=
+
+Name: com/ibm/icu/impl/UCharacterNameChoice.java
+SHA1-Digest: hIqbLioU/JvU8QPc1P2AiT4UqMY=
+
+Name: com/ibm/icu/text/SymbolTable.java
+SHA1-Digest: FekgWZIWLmt3nFRWkIy56jGj7B8=
+
+Name: com/ibm/icu/util/CompactCharArray.java
+SHA1-Digest: r7tCGbmKbMY8gXt3x1i/X43r+Xo=
+
+Name: com/ibm/icu/impl/ICUNotifier.java
+SHA1-Digest: BWLJ9X0SHvw1B721LFc2FqIeGMk=
+
+Name: com/ibm/icu/impl/Punycode.java
+SHA1-Digest: MzDyxgxOSgiKvHzoOAB0MMAVtNM=
+
+Name: com/ibm/icu/impl/CharacterIteratorWrapper.java
+SHA1-Digest: gHMT6vUw8rbT5aGPOZGfRLGqBkY=
+
+Name: com/ibm/icu/text/CurrencyFormat.java
+SHA1-Digest: 7hE2VBtqf9ddugY80m8UR3lK0Fo=
+
+Name: com/ibm/icu/impl/ICURegionDataTables.java
+SHA1-Digest: 32E8wDucqwh5MnYQjhhbhqQsweQ=
+
+Name: com/ibm/icu/text/Normalizer.java
+SHA1-Digest: 0d/CDV99IAlWJlGS1QP9Yagw3O0=
+
+Name: com/ibm/icu/impl/RuleCharacterIterator.java
+SHA1-Digest: Dt64JWJ27zJyEOUpvo0HXru1TCE=
+
+Name: com/ibm/icu/text/Replaceable.java
+SHA1-Digest: 1vB8tpFqiH6U3ijwaDPnXQ/o5/s=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_fr_FR.java
+SHA1-Digest: QxoscgRrb/bJQp94RErXFRL/YuY=
+
+Name: com/ibm/icu/text/DigitList.java
+SHA1-Digest: NeO5Q4ng8xvOf/vny9LxMkfwqlw=
+
+Name: com/ibm/icu/util/DateInterval.java
+SHA1-Digest: eWoh+DhQrtxCEkEYpZL96foaDyY=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_en.java
+SHA1-Digest: kDFFVDhDOulnTgvDFtAz64xIMHc=
+
+Name: com/ibm/icu/lang/UCharacterTypeIterator.java
+SHA1-Digest: M6n3lehOn1+QuJ1zDnTs6xU0IS0=
+
+Name: com/ibm/icu/util/JapaneseCalendar.java
+SHA1-Digest: udaLmmoEF4gQT0VphlBl7Jzb9co=
+
+Name: com/ibm/icu/impl/locale/Extension.java
+SHA1-Digest: hSgm9sfHTdc3aJK5KERBr7lhAHY=
+
+Name: com/ibm/icu/text/AnyTransliterator.java
+SHA1-Digest: TasZp1+9zj2pDd8z2JpAvw0CP7E=
+
+Name: com/ibm/icu/impl/ICULogger.java
+SHA1-Digest: g1ICRYyauEshHfDmgWVh2r3CcNQ=
+
+Name: com/ibm/icu/impl/UCharacterNameReader.java
+SHA1-Digest: QOlGrFNxI2i+62CwyG91R7FdEcQ=
+
+Name: com/ibm/icu/util/LocaleData.java
+SHA1-Digest: 8Q/99X0kC05ElmzLE9/jNfppr/0=
+
+Name: com/ibm/icu/impl/duration/PeriodBuilder.java
+SHA1-Digest: mqVTVl63aHmHGcSZf3cuXJy1RgY=
+
+Name: com/ibm/icu/impl/UCharArrayIterator.java
+SHA1-Digest: nsgBKvcWE2MdMo1grJw6PDTlP10=
+
+Name: com/ibm/icu/impl/duration/DurationFormatter.java
+SHA1-Digest: q2CmkbeNe/jQMTZ/mHEzx6Zh8Xs=
+
+Name: com/ibm/icu/text/TimeUnitFormat.java
+SHA1-Digest: kDPFgEqiEjbQjwOQSMP8E26uJVg=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_el_GR.java
+SHA1-Digest: gcBzZU0mr3sooAqyl6H6kfEgtz0=
+
+Name: com/ibm/icu/impl/ICUBinaryStream.java
+SHA1-Digest: frHb/e37mjVagfAsh/rxNh11Ljg=
+
+Name: about_files/unicode-license.txt
+SHA1-Digest: +ss5R3OaIiJ3XcKPaI10+hs3tHg=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_de_DE.java
+SHA1-Digest: +gFYT6vh5aXVnxqPm1RshZ7mIDA=
+
+Name: com/ibm/icu/impl/Trie2Writable.java
+SHA1-Digest: DU8c+KNMO2+oLy3+ESsduRs2VZU=
+
+Name: com/ibm/icu/impl/duration/BasicPeriodFormatter.java
+SHA1-Digest: JbqtgD7KpTKrK4y+1tlhcEVw8MI=
+
+Name: com/ibm/icu/text/CollationRuleParser.java
+SHA1-Digest: WALfLSL3DVS6KXciIDvuK6bWoOU=
+
+Name: com/ibm/icu/impl/MultiComparator.java
+SHA1-Digest: 179yexiYEDfHF1iq6pPd+iT74TA=
+
+Name: com/ibm/icu/text/CurrencyDisplayNames.java
+SHA1-Digest: SIHGY1hReRdtOF1F7sdp/dEQu7M=
+
+Name: com/ibm/icu/impl/UnicodeRegex.java
+SHA1-Digest: MR6A6mR9iprNo8rPbm8vMC6m0tw=
+
+Name: com/ibm/icu/impl/ICUResourceBundleReader.java
+SHA1-Digest: YdxhEuUxHhiZCCPk8WQ7ypdElZ8=
+
+Name: com/ibm/icu/impl/ICUResourceTableAccess.java
+SHA1-Digest: ezqUcuuBJzS4BfugTKoUka/uFlI=
+
+Name: com/ibm/icu/math/BigDecimal.java
+SHA1-Digest: m7P8zFKJguZDlrCPiA7SE4g/DV8=
+
+Name: com/ibm/icu/util/IllformedLocaleException.java
+SHA1-Digest: JYyiGIsEfQH+HtjpmvGYfQkPJ60=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_en_GB.java
+SHA1-Digest: DDBxc0FLKUGuqju8uxNLDVnGp74=
+
+Name: com/ibm/icu/impl/duration/PeriodBuilderFactory.java
+SHA1-Digest: gUsgiguV3N86bQJET19OXpH672g=
+
+Name: com/ibm/icu/util/Freezable.java
+SHA1-Digest: AApJIthe8UH/tvrqbA1DlU3y4rg=
+
+Name: com/ibm/icu/util/UResourceBundle.java
+SHA1-Digest: XPHlREqT0/Isx9HPPDGd0wj0R3I=
+
+Name: com/ibm/icu/impl/UnicodeSetStringSpan.java
+SHA1-Digest: S+fHuFq49YnKFrEWN3tBsMPxhKU=
+
+Name: com/ibm/icu/impl/ICULocaleService.java
+SHA1-Digest: gHdlWePqLNBcwFsxUQsG8tY2yHQ=
+
+Name: com/ibm/icu/text/BidiClassifier.java
+SHA1-Digest: P1clA5wWoB8CMrC2hUR3X2WmbEw=
+
+Name: com/ibm/icu/impl/locale/LocaleExtensions.java
+SHA1-Digest: u7QeYQM5/Dp64ZKHCJeIjGRvyqk=
+
+Name: com/ibm/icu/text/TransliterationRule.java
+SHA1-Digest: EXPgRY3eIRr6Dq2fBr5pT/uRcZM=
+
+Name: com/ibm/icu/text/MeasureFormat.java
+SHA1-Digest: vOcxaAenmCvDt2toQ2OonAuEh2w=
+
+Name: com/ibm/icu/impl/Grego.java
+SHA1-Digest: labGaubcHrxcWlMToW3xjCoTyPI=
+
+Name: com/ibm/icu/util/Calendar.java
+SHA1-Digest: RjJyqss2gqnxwiZMSWb9k1X3iCw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SwPvGXzoqhbu6llulpm8WpBxiUo=
+
+Name: com/ibm/icu/impl/ICUBinary.java
+SHA1-Digest: GtJ5nhzQs+HsDWOJm4y7XdNWQyA=
+
+Name: com/ibm/icu/util/TimeZone.java
+SHA1-Digest: Bsod2dUeKFBLFbJ60k6xjNSDZ7w=
+
+Name: com/ibm/icu/text/RBBITableBuilder.java
+SHA1-Digest: 0tFrVteUGU5Md46mMc7I7kX5k88=
+
+Name: com/ibm/icu/text/NFRuleSet.java
+SHA1-Digest: cEd8dMMASq9lGbpug5jnBRqJcFo=
+
+Name: com/ibm/icu/util/GlobalizationPreferences.java
+SHA1-Digest: emH9vih3dLeWF88Rad8nxiGFSBQ=
+
+Name: com/ibm/icu/text/RbnfLenientScannerProvider.java
+SHA1-Digest: zn9rkWATfTUbQilsu2n6sweMq0w=
+
+Name: com/ibm/icu/text/RuleBasedTransliterator.java
+SHA1-Digest: 2Dh0kQw0eHoBEFlspzbGdJgW+yE=
+
+Name: com/ibm/icu/text/NumberingSystem.java
+SHA1-Digest: u4Isv4mnW4fhZUIQ5rgWghDSiTU=
+
+Name: com/ibm/icu/impl/RelativeDateFormat.java
+SHA1-Digest: 8MefyvgtB1oXpZ8yzbha0X7de/Y=
+
+Name: com/ibm/icu/impl/duration/impl/DataRecord.java
+SHA1-Digest: xV0fQQN4Phx4lpPgRdndGsX749U=
+
+Name: com/ibm/icu/impl/locale/LanguageTag.java
+SHA1-Digest: OKAgWfL3/aC2z/axv7zBHDMQD5o=
+
+Name: com/ibm/icu/util/EasterHoliday.java
+SHA1-Digest: ybd4OicK560jJ/+rCljeAnDZZm4=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_en_US.java
+SHA1-Digest: DAjybEroy6u7Rq81TbliIs+Ch8A=
+
+Name: com/ibm/icu/impl/UCharacterProperty.java
+SHA1-Digest: CrN1zsu5OWFwHDD6K1j+DNScbYs=
+
+Name: com/ibm/icu/impl/Normalizer2Impl.java
+SHA1-Digest: ltrXbroFgvhO+diWd3n6bZHf8RM=
+
+Name: com/ibm/icu/impl/CalendarData.java
+SHA1-Digest: mljZalUDjlrx7T81RpUZnfAGuOs=
+
+Name: com/ibm/icu/impl/Assert.java
+SHA1-Digest: Yo8KCpwa6B6chCTlzVgTz1OS1EU=
+
+Name: com/ibm/icu/text/DictionaryBasedBreakIterator.java
+SHA1-Digest: 0zpIBCBd7RFwz0Tk5uCun4SaTHg=
+
+Name: com/ibm/icu/impl/duration/TimeUnitConstants.java
+SHA1-Digest: fyxrJqPMW0NVirWhYeoMmnzoEy0=
+
+Name: com/ibm/icu/text/StringReplacer.java
+SHA1-Digest: xq9IeoF9CRe/khhLzOzAkHZkguY=
+
+Name: com/ibm/icu/util/MeasureUnit.java
+SHA1-Digest: 4akz8wemw2CDb36NfiqzdOfucDs=
+
+Name: com/ibm/icu/impl/UCharacterName.java
+SHA1-Digest: cOoxjZzQTpBbk4hNlurnWCNCmsM=
+
+Name: com/ibm/icu/lang/UCharacterNameIterator.java
+SHA1-Digest: yTv/1gO/f6/mzgk6DoEVM6wq8u4=
+
+Name: com/ibm/icu/impl/SortedSetRelation.java
+SHA1-Digest: IXFI9uXlUnHlK+fFYq6kDA+msd0=
+
+Name: com/ibm/icu/util/LocalePriorityList.java
+SHA1-Digest: 3HK25iP1r3vZIyUH2RzdkLiXTTY=
+
+Name: com/ibm/icu/impl/locale/UnicodeLocaleExtension.java
+SHA1-Digest: Q9CEADWTDlGnyrsTliTSoQv3+1o=
+
+Name: com/ibm/icu/impl/CalendarAstronomer.java
+SHA1-Digest: +CP4mf96PnPA7QHlLOTWutvb5uU=
+
+Name: com/ibm/icu/impl/duration/Period.java
+SHA1-Digest: aqMbWB+j7UxtBCrLXzHLPNOAWsA=
+
+Name: com/ibm/icu/text/CaseFoldTransliterator.java
+SHA1-Digest: i6/xDIMhwKYMmff5FQBJXQUrv6M=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_it_IT.java
+SHA1-Digest: p2VqsDD9KELmgtNZKFocleqy+2A=
+
+Name: com/ibm/icu/text/DateIntervalInfo.java
+SHA1-Digest: 8QrchWhS4e7WXLwc48Y+kMSoGAQ=
+
+Name: com/ibm/icu/impl/IntTrieBuilder.java
+SHA1-Digest: JmkozBFwpRfTTm5d37oCDpxtHWI=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_es_MX.java
+SHA1-Digest: LZvdwaHPZGgLaBqZmbbMR8Qx328=
+
+Name: com/ibm/icu/text/DecimalFormat.java
+SHA1-Digest: WvfsMb3TLFiocNUQP8xyaUHnfy8=
+
+Name: plugin.properties
+SHA1-Digest: bw9G8DkTSTLk84w3AU9Ey+VwrEA=
+
+Name: com/ibm/icu/text/RbnfScannerProviderImpl.java
+SHA1-Digest: WlNJ6s5kjo7+EIEmVVk8HXgKOdQ=
+
+Name: com/ibm/icu/impl/duration/impl/ResourceBasedPeriodFormatterDataS
+ ervice.java
+SHA1-Digest: WRSQEDzq5ruCswcmeEq1lqZdgEc=
+
+Name: com/ibm/icu/impl/UCharacterIteratorWrapper.java
+SHA1-Digest: BlQKTInoqfArq+vKP/x50Vv0/kw=
+
+Name: com/ibm/icu/text/CharsetRecog_Unicode.java
+SHA1-Digest: S34LIfWPmfl+l/F8UVhZYRGABLM=
+
+Name: com/ibm/icu/text/LowercaseTransliterator.java
+SHA1-Digest: R/ffs1wTLmOuYKuW1hR1Wp+oArk=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_iw_IL.java
+SHA1-Digest: KRvPaFbbeCGkDu/KOHMTwAvOZvE=
+
+Name: com/ibm/icu/text/Quantifier.java
+SHA1-Digest: uM+SUM7zgstElAIjIbHyD055UIw=
+
+Name: com/ibm/icu/impl/duration/TimeUnit.java
+SHA1-Digest: ITVwIv3wlMcEKXcm8n1NHKUm5T4=
+
+Name: com/ibm/icu/impl/ICUResourceBundle.java
+SHA1-Digest: KTjNUdZQoIe+uTNcJ1w7/G5BGVY=
+
+Name: com/ibm/icu/text/Transliterator.java
+SHA1-Digest: rOE7Tr2mFo5CDj2/EqC+29VWaYc=
+
+Name: com/ibm/icu/text/UnicodeNameTransliterator.java
+SHA1-Digest: 5iUFgdMPYFV4OgK7yBDX4EG8WHA=
+
+Name: com/ibm/icu/impl/data/TokenIterator.java
+SHA1-Digest: qzBXAuzK3xyp0sf2bSIP3iXu2NM=
+
+Name: com/ibm/icu/text/RBBIRuleParseTable.java
+SHA1-Digest: HHn0JOuvVPzkyeukeX9B2L80w+0=
+
+Name: com/ibm/icu/impl/LocaleDisplayNamesImpl.java
+SHA1-Digest: 6SFxpUfSYQRlZEXSf7LAyYrMPK4=
+
+Name: com/ibm/icu/text/DateFormatSymbols.java
+SHA1-Digest: 72lUWeB1qOYMPcgVI0HUEQj+lDk=
+
+Name: com/ibm/icu/text/UnicodeFilter.java
+SHA1-Digest: KFsbfRDvttFMS6rjuZMndu/OniY=
+
+Name: com/ibm/icu/util/Measure.java
+SHA1-Digest: ZWZ6VcRRdvFUXlLm6dElSMeCmfc=
+
+Name: com/ibm/icu/text/NormalizationTransliterator.java
+SHA1-Digest: r9E+X9Sh1//95sFGTUTdXD5X0+c=
+
+Name: com/ibm/icu/text/UTF16.java
+SHA1-Digest: C7vG8UYClm826AnzwCIKQheycNQ=
+
+Name: com/ibm/icu/text/UFormat.java
+SHA1-Digest: KOri1V1qvHXGKiV+0Dy5Vi2TBMY=
+
+Name: com/ibm/icu/text/CollationElementIterator.java
+SHA1-Digest: Z5Cl8S1Lwxh6bAdoRdcolzDWf4Q=
+
+Name: com/ibm/icu/lang/UProperty.java
+SHA1-Digest: rTJJeGwgUJ4o7+g/CY9xgSGbxyo=
+
+Name: com/ibm/icu/text/NumberFormat.java
+SHA1-Digest: D2bchcPrn7c99JoJ3Qcbi4CF2Tw=
+
+Name: com/ibm/icu/impl/TimeZoneAdapter.java
+SHA1-Digest: 4d/6QnHrNEDGTD6gg3nH6XrzE7U=
+
+Name: com/ibm/icu/util/BuddhistCalendar.java
+SHA1-Digest: JsETTx/3m9JSAFGjj/l83F5R/5Q=
+
+Name: com/ibm/icu/text/DateTimePatternGenerator.java
+SHA1-Digest: UYqANghUoj2X0+AEm/gZenNSo14=
+
+Name: com/ibm/icu/text/BreakIteratorFactory.java
+SHA1-Digest: 4pY/chs6N0GPvXaF3S0iOu84W4g=
+
+Name: com/ibm/icu/text/StringPrepParseException.java
+SHA1-Digest: o0E8LQ9wA4Uqtyu/0fHWmWvlh8c=
+
+Name: com/ibm/icu/impl/UCaseProps.java
+SHA1-Digest: w8DG415OLWfsSjFmnSY3MUSFl4I=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_en_CA.java
+SHA1-Digest: XUXM+JDwVOWf9w/j3kAEeLlkCG8=
+
+Name: com/ibm/icu/util/CurrencyAmount.java
+SHA1-Digest: LVZX1KJBQ3lpz9NjK39hXsKBwAo=
+
+Name: com/ibm/icu/impl/locale/PrivateuseExtension.java
+SHA1-Digest: J6zz8vp6B5c+2ek+6TO108A96ZY=
+
+Name: com/ibm/icu/util/SimpleHoliday.java
+SHA1-Digest: RhZSPZQ0a6yA1DBAB5XTmG56rhc=
+
+Name: com/ibm/icu/lang/UCharacterCategory.java
+SHA1-Digest: 344/asSYBo5A6p/0wiHA4z3guxM=
+
+Name: com/ibm/icu/impl/duration/PeriodFormatterService.java
+SHA1-Digest: V7ghaKIIUWT/6BRywTqpTumbsM8=
+
+Name: com/ibm/icu/text/TransliterationRuleSet.java
+SHA1-Digest: XKE28+CC7Z8LdTwArddOiuxfkCc=
+
+Name: com/ibm/icu/text/Bidi.java
+SHA1-Digest: 6XpIkDr/VFlfFxvXfVP4wdIcNuw=
+
+Name: com/ibm/icu/text/TransliteratorIDParser.java
+SHA1-Digest: Aq2Jq/glrRShsUNYzG7WnLQCUL0=
+
+Name: com/ibm/icu/text/DurationFormat.java
+SHA1-Digest: 3U/MnizZkPoBDAbXGkUHUJd90Y0=
+
+Name: com/ibm/icu/text/CharsetRecog_UTF8.java
+SHA1-Digest: FedHjiExPzBdJ5SCOGpqp4GCbaI=
+
+Name: com/ibm/icu/impl/UtilityExtensions.java
+SHA1-Digest: jvQwlVbQaQISeo6dQYM58v1h2gI=
+
+Name: com/ibm/icu/util/SimpleDateRule.java
+SHA1-Digest: WI9Q6b7dh/G1bYnjLyQ497k2e3U=
+
+Name: com/ibm/icu/text/CurrencyMetaInfo.java
+SHA1-Digest: fUzXI1dQ1Dk9MhVc+SjjIyn6XEg=
+
+Name: com/ibm/icu/util/InitialTimeZoneRule.java
+SHA1-Digest: 4ZQqmnndQ3qmXu8WT58W4SzRvYQ=
+
+Name: com/ibm/icu/util/LocaleMatcher.java
+SHA1-Digest: w+07WEJ241YbIjTDqjGc9iWT8pM=
+
+Name: com/ibm/icu/text/Transform.java
+SHA1-Digest: enicvHyQpz7Q9V20HkIrclrQs38=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_iw.java
+SHA1-Digest: hqVEs2t7lDof1bwhi4rto64fR1E=
+
+Name: com/ibm/icu/impl/UPropertyAliases.java
+SHA1-Digest: JYZ1W3dRn3zmCizVmaoDjBZouvQ=
+
+Name: com/ibm/icu/text/BidiWriter.java
+SHA1-Digest: ZgdmfJYHLTKxKAtKhp849wZrquE=
+
+Name: com/ibm/icu/util/CalendarServiceShim.java
+SHA1-Digest: jY5Hiu/BcxWpKtXM7WLUXzpJ/KI=
+
+Name: com/ibm/icu/text/UnicodeDecompressor.java
+SHA1-Digest: 8gXznTaghxEJ2i5CSLGdYbXAL4U=
+
+Name: com/ibm/icu/impl/StringPrepDataReader.java
+SHA1-Digest: EM23lG5It+OV47lRKHqcr/h8k88=
+
+Name: com/ibm/icu/util/ChineseCalendar.java
+SHA1-Digest: 16N+lwRd2ggFezWGlzZedESAWx0=
+
+Name: com/ibm/icu/impl/ImplicitCEGenerator.java
+SHA1-Digest: +mBdTNCe9n9t/mtURbQQgkXNZ3Y=
+
+Name: com/ibm/icu/impl/ICUResourceBundleImpl.java
+SHA1-Digest: 3TZohXf2x9nLoAT8kwAQnxuDFmY=
+
+Name: com/ibm/icu/impl/ICURWLock.java
+SHA1-Digest: 7iSJ8s07f4/03k/RD0oQuFIJBd4=
+
+Name: com/ibm/icu/util/TimeUnitAmount.java
+SHA1-Digest: np6Vc0YR6i3oBV183WjWi8hd3xc=
+
+Name: com/ibm/icu/impl/IntTrie.java
+SHA1-Digest: Bl56DVrymLWfCqLJPfJ7Kcs8mXc=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_da.java
+SHA1-Digest: XkH3SHD/FuBiWh8dpjM9FjJ2cJE=
+
+Name: com/ibm/icu/impl/duration/BasicPeriodFormatterService.java
+SHA1-Digest: 74tV2i4kWpgexmg7goObz2zAut8=
+
+Name: com/ibm/icu/text/UnescapeTransliterator.java
+SHA1-Digest: ifm+GfXu+7tWW+wv1oI5DP5QNu0=
+
+Name: com/ibm/icu/lang/UScriptRun.java
+SHA1-Digest: Th+cHN3kCaRlUfrzBpfcHsKdb2E=
+
+Name: com/ibm/icu/text/DateIntervalFormat.java
+SHA1-Digest: t54UVuBYDuBo9rTXam363yz2lh8=
+
+Name: com/ibm/icu/text/ChineseDateFormat.java
+SHA1-Digest: kD6ATxOlilO6Khf9vViAoXfRSD8=
+
+Name: com/ibm/icu/text/UnicodeSet.java
+SHA1-Digest: 6c/Y66MH64nbfQLmK8fCQw4Jak8=
+
+Name: com/ibm/icu/text/NumberFormatServiceShim.java
+SHA1-Digest: EM5F9SlafPs9lu55zFCqPXpUwD0=
+
+Name: com/ibm/icu/impl/locale/LocaleObjectCache.java
+SHA1-Digest: wmyCoVTK53Bl/hgSQMwywxL/B8s=
+
+Name: com/ibm/icu/impl/SoftCache.java
+SHA1-Digest: 2QNqZY/hTp3wcieYKka1rigIsvs=
+
+Name: com/ibm/icu/impl/duration/impl/XMLRecordReader.java
+SHA1-Digest: VDInxQ1b0T3BKGUTyuzuv3atXek=
+
+Name: com/ibm/icu/impl/data/ResourceReader.java
+SHA1-Digest: CjAnRIJgrted3qlfw5j0Ko669Ag=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_it.java
+SHA1-Digest: T5xeNVfoFXGZmv9mYtzZIVgDYW8=
+
+Name: com/ibm/icu/text/StringPrep.java
+SHA1-Digest: jY8qj7ntW5/SF+2YsPgBRFdMItA=
+
+Name: com/ibm/icu/impl/locale/InternalLocaleBuilder.java
+SHA1-Digest: 0kDF3/ZwjDa8QZPvw4tDYBJ0Oe0=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_el.java
+SHA1-Digest: Jz/NnCB/dXcUy9E498omz160zR0=
+
+Name: com/ibm/icu/impl/ReplaceableUCharacterIterator.java
+SHA1-Digest: HDzOK5Hz5U73DBpp7eZeD9VPVRs=
+
+Name: com/ibm/icu/text/StringMatcher.java
+SHA1-Digest: 09dSF1zmmXS8YAnSvrwy3CYV/2M=
+
+Name: com/ibm/icu/text/CollationKey.java
+SHA1-Digest: AfoR0Jh8/IzARtLgoIsxWngkWOk=
+
+Name: com/ibm/icu/text/NFSubstitution.java
+SHA1-Digest: mbuhzQY/Wzcp+jdojwSIPrsDnOA=
+
+Name: com/ibm/icu/impl/duration/BasicDurationFormatterFactory.java
+SHA1-Digest: YmwNudYNpApwdnw9ESIktvJQI3Q=
+
+Name: com/ibm/icu/text/TransformTransliterator.java
+SHA1-Digest: adJBXOfbak86NlH63lwYH024c7M=
+
+Name: com/ibm/icu/text/SCSU.java
+SHA1-Digest: QDwZaEeWek5KaN9tkkab4Or4Ytg=
+
+Name: com/ibm/icu/text/TransliteratorParser.java
+SHA1-Digest: VJb63IQOoLfivlwFnt1SU47GiUE=
+
+Name: com/ibm/icu/util/StringTokenizer.java
+SHA1-Digest: 78B8eS8XmzqeHt5sehAaG5E8A6w=
+
+Name: com/ibm/icu/util/ByteArrayWrapper.java
+SHA1-Digest: Sr1L3am+KJbAyEeyoXUb8dc+Ja4=
+
+Name: com/ibm/icu/text/FilteredNormalizer2.java
+SHA1-Digest: k+n63wNSw4vGibsJjitkVncFpuE=
+
+Name: com/ibm/icu/impl/duration/BasicDurationFormat.java
+SHA1-Digest: Crd7XHL2bPseeTZHanWWRi8d5zk=
+
+Name: com/ibm/icu/text/ChineseDateFormatSymbols.java
+SHA1-Digest: pYLevCbjH9bI657bf/XW+/K043M=
+
+Name: com/ibm/icu/text/CharsetDetector.java
+SHA1-Digest: eO022uDFVb45J1nEcWAZQi/dKA0=
+
+Name: com/ibm/icu/impl/CurrencyData.java
+SHA1-Digest: eNDXtb8JVufbOVLM7E4dA6ap2HQ=
+
+Name: com/ibm/icu/impl/URLHandler.java
+SHA1-Digest: /zReD7oVzLNC7VQgt3cnPyAZbR0=
+
+Name: com/ibm/icu/text/BreakTransliterator.java
+SHA1-Digest: GYTjw2jYU/sL5OW+ofO1np8W8Rg=
+
+Name: com/ibm/icu/impl/ICUDebug.java
+SHA1-Digest: 0ytCh589zDRGqwIa0vfq5AuWL1E=
+
+Name: com/ibm/icu/util/HebrewHoliday.java
+SHA1-Digest: m7/UyMc/iNBKXESDB0n4NE7OOe0=
+
+Name: com/ibm/icu/impl/data/HolidayBundle.java
+SHA1-Digest: bsEgbWgq+MhxQJxzEJPIKj0j+U8=
+
+Name: com/ibm/icu/text/CollatorServiceShim.java
+SHA1-Digest: 9izxTgH7SjkN1gsr6yv8oeL+ees=
+
+Name: com/ibm/icu/impl/LocaleIDParser.java
+SHA1-Digest: VTgdUnerojlb75BGAhf4PTRYD0w=
+
+Name: com/ibm/icu/text/ComposedCharIter.java
+SHA1-Digest: rhwAx1DATrj9MDJrkDi9iwWLrZU=
+
+Name: com/ibm/icu/text/RBNFPostProcessor.java
+SHA1-Digest: BBUxINqwXQEPH7bMqZDn9qMGSNo=
+
+Name: com/ibm/icu/impl/TextTrieMap.java
+SHA1-Digest: kqXn6Orl37z51WQ9IJjp9u0PACA=
+
+Name: com/ibm/icu/text/ArabicShapingException.java
+SHA1-Digest: hhPyh9yvLM9D0V3Vzx0GTx+iywM=
+
+Name: com/ibm/icu/text/UForwardCharacterIterator.java
+SHA1-Digest: Tj/InUV+mvhUwuf0xgK35bhhdfU=
+
+Name: com/ibm/icu/text/BreakCTDictionary.java
+SHA1-Digest: U3wqux6bBVcEjcanl1FKVzA++SA=
+
+Name: com/ibm/icu/text/StringCharacterIterator.java
+SHA1-Digest: pK5R+tx+uKhpPMSGo2xrNbHEM2I=
+
+Name: com/ibm/icu/text/CharsetMatch.java
+SHA1-Digest: WUynA0snUP9R8qN4u6IH6VQUB2k=
+
+Name: com/ibm/icu/impl/IterableComparator.java
+SHA1-Digest: M7qxe2Ta9BvVNG9k6cD7Y2OfoJM=
+
+Name: com/ibm/icu/lang/UCharacter.java
+SHA1-Digest: THe83BWbVzQQJNANWeOI4PcwonY=
+
+Name: com/ibm/icu/text/SelectFormat.java
+SHA1-Digest: xmYU9IlAfl/x79B+G3GP6X18yIs=
+
+Name: com/ibm/icu/text/UnicodeSetIterator.java
+SHA1-Digest: JDvygq0fTzzQTEvxRmwLAPArVO8=
+
+Name: com/ibm/icu/util/STZInfo.java
+SHA1-Digest: Lyit/pNpo9YKYivYH3xT1xAViFk=
+
+Name: com/ibm/icu/text/IDNA.java
+SHA1-Digest: EFZw5IsOphfgrVDpDDYgV+WdZXw=
+
+Name: com/ibm/icu/impl/CalendarUtil.java
+SHA1-Digest: 9mhWGrO6plYCQ+MjuaTaeeSSE9Y=
+
+Name: com/ibm/icu/text/RBNFChinesePostProcessor.java
+SHA1-Digest: J0/D1Jszeh7aD8h6Es60djcFYvQ=
+
+Name: com/ibm/icu/text/BreakDictionary.java
+SHA1-Digest: nOv/HbbEri9hjBY3TRdDYO/29yw=
+
+Name: com/ibm/icu/util/HebrewCalendar.java
+SHA1-Digest: CJHRZuZ5F2/5L9zRzVtXFfq3dYA=
+
+Name: about.html
+SHA1-Digest: SGp3Yzb3ATDSXgiB0hhG/AbQCtA=
+
+Name: com/ibm/icu/util/AnnualTimeZoneRule.java
+SHA1-Digest: QW+e7qW9SX5+M17/kjJyFB2mbC8=
+
+Name: com/ibm/icu/lang/UScript.java
+SHA1-Digest: U2NN+j+jyWjwZH+p6LM5jWv067o=
+
+Name: com/ibm/icu/text/RemoveTransliterator.java
+SHA1-Digest: EXjitlUKAy7k1XoG59jvG8ZvqMY=
+
+Name: com/ibm/icu/impl/ICUCache.java
+SHA1-Digest: LnEb/ctXlk1Gw2/Ge9aAY4SMhsE=
+
+Name: com/ibm/icu/util/BasicTimeZone.java
+SHA1-Digest: FnyvPqAmQJYASOhWkGTOsbzyCK0=
+
+Name: com/ibm/icu/impl/duration/impl/XMLRecordWriter.java
+SHA1-Digest: g0nfCpnsB48s4dfB+HtROCRDzSg=
+
+Name: com/ibm/icu/util/UResourceTypeMismatchException.java
+SHA1-Digest: w9x59W3xGvHmnPb0q4LQl1vLNJo=
+
+Name: com/ibm/icu/text/RuleBasedNumberFormat.java
+SHA1-Digest: b/f6zNWYWeBvA9eUTCmNY9Ptl0c=
+
+Name: com/ibm/icu/util/CECalendar.java
+SHA1-Digest: dULBtOLiUY6EE76oYpXBjv1Ku5o=
+
+Name: com/ibm/icu/impl/Row.java
+SHA1-Digest: 4RBBZCwQWROFkgijKeWkjS5tZLI=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_es.java
+SHA1-Digest: 4qC9nKHC5Brf9ZG+s58dD0ABlpI=
+
+Name: com/ibm/icu/text/RBBIRuleScanner.java
+SHA1-Digest: kgq3iHfGzPwUGHTgQechPPgnbSY=
+
+Name: com/ibm/icu/util/TimeZoneRule.java
+SHA1-Digest: nSgMD/vSg8Qz8+vNNnO3uMPRyJc=
+
+Name: com/ibm/icu/impl/ZoneMeta.java
+SHA1-Digest: 9W/VvvgfEALq8gX/ON+9yi9BAts=
+
+Name: com/ibm/icu/util/CaseInsensitiveString.java
+SHA1-Digest: bU1Xt39M4/CA73810yX3++fvjB8=
+
+Name: com/ibm/icu/util/CompactByteArray.java
+SHA1-Digest: He1/nGdlI7QfqBIV+YHlbaz+ki0=
+
+Name: com/ibm/icu/util/TimeZoneTransition.java
+SHA1-Digest: qk1KF8oKaqx94Dp1TptJLESG5dE=
+
+Name: com/ibm/icu/impl/OlsonTimeZone.java
+SHA1-Digest: swSHpzJ1+9ADiSp/1mSQA2/torQ=
+
+Name: com/ibm/icu/text/FunctionReplacer.java
+SHA1-Digest: f5diMNVztxDXuxwmZjl2D4gvnps=
+
+Name: com/ibm/icu/text/ReplaceableString.java
+SHA1-Digest: ZOh6bWrGq83eCu8b5apxeE9yITQ=
+
+Name: com/ibm/icu/util/DateRule.java
+SHA1-Digest: rBe5DQn8hfSCQIMKY9lioGTvtzo=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_de.java
+SHA1-Digest: GVZgVc4uF8xrY1aLMGiTg9RQXdY=
+
+Name: com/ibm/icu/text/NFRule.java
+SHA1-Digest: gR2341fxz0ft9a1Svp1BeP8gRwg=
+
+Name: com/ibm/icu/text/RawCollationKey.java
+SHA1-Digest: OI6mnje6ZiAdp/O7D/yjE6i+55w=
+
+Name: com/ibm/icu/impl/data/HolidayBundle_ja_JP.java
+SHA1-Digest: J9f0EaAQil0NEkKG32j3brymd5g=
+
+Name: com/ibm/icu/util/VersionInfo.java
+SHA1-Digest: OBlaaQf604xkIXCRqXHg59yY2l8=
+
+Name: com/ibm/icu/text/TitlecaseTransliterator.java
+SHA1-Digest: 7xaH7yqiUVwPCO0tTAJ60IeQ/+Q=
+
+Name: com/ibm/icu/impl/PluralRulesLoader.java
+SHA1-Digest: WabfTzLrE3RyTBHDWMHNXdqEfLo=
+
+Name: com/ibm/icu/text/TransliteratorRegistry.java
+SHA1-Digest: kQeDt8s+qGSLU9bFINP4MLR5RI8=
+
+Name: com/ibm/icu/impl/duration/DateFormatter.java
+SHA1-Digest: XV5P6L3FtAryo2T4qhvQofC+qWk=
+
+Name: com/ibm/icu/impl/Norm2AllModes.java
+SHA1-Digest: IHQUoF2JwZFeYCBCD6a7/1WdUsM=
+
+Name: com/ibm/icu/impl/duration/impl/YMDDateFormatter.java
+SHA1-Digest: j7sLn34OoMqg+e/cwRDZhJGFI4c=
+
+Name: com/ibm/icu/util/RangeValueIterator.java
+SHA1-Digest: T/ZkqqwS2ls1fboqdUluXV5g5jw=
+
+Name: com/ibm/icu/impl/TrieBuilder.java
+SHA1-Digest: /eRUXUcnOOed/IVlk1QtuJBjTiI=
+
+Name: com/ibm/icu/util/Currency.java
+SHA1-Digest: nFDG8QxzeKb0hj3t3xkGNR6Lqw4=
+
+Name: com/ibm/icu/text/DecompData.java
+SHA1-Digest: 9SrFRAFSVgix8L+8Myp/DSzh5+w=
+
+Name: com/ibm/icu/util/ULocale.java
+SHA1-Digest: kCKmKrYr2aNeNkM66tFI/7sqDXY=
+
+Name: com/ibm/icu/text/RBBINode.java
+SHA1-Digest: 7BvXwFEbepC/85LJ5fig3MBcQEM=
+
+Name: com/ibm/icu/text/CanonicalIterator.java
+SHA1-Digest: 2tZPwpfNxXNqCdgMfT0Jf4cQ3QM=
+
+Name: com/ibm/icu/text/UnicodeCompressor.java
+SHA1-Digest: Ew5xZmun1pyPWUV940kGTa0U+FA=
+
+Name: com/ibm/icu/text/CharsetRecog_2022.java
+SHA1-Digest: 5qMIv6TJYaMufUc/hHMBpyMym8A=
+
+Name: com/ibm/icu/text/BidiRun.java
+SHA1-Digest: 2ijqefaIvnah2IbJwkKR6GdrD4U=
+
+Name: com/ibm/icu/impl/PatternTokenizer.java
+SHA1-Digest: W7+22ZV9wFJyoUnla4W3MWjdrVA=
+
+Name: com/ibm/icu/util/EthiopicCalendar.java
+SHA1-Digest: YvuF0f72rBXguKyFX21opxxcAuU=
+
+Name: com/ibm/icu/util/RangeDateRule.java
+SHA1-Digest: 9S8bEEe+uBSHq8DiyFKC3rzF5WE=
+
+Name: com/ibm/icu/text/StringTransform.java
+SHA1-Digest: ohIWwowoVM4XsTsFT6jzZNN215o=
+
+Name: com/ibm/icu/util/TaiwanCalendar.java
+SHA1-Digest: 5iUKCLIufLncxhg08gtmnUEfAZY=
+
+Name: com/ibm/icu/impl/duration/BasicPeriodBuilderFactory.java
+SHA1-Digest: z8UpcHt03GJ9c0L/AjhvxhQyP3U=
+
+Name: com/ibm/icu/util/GregorianCalendar.java
+SHA1-Digest: G22NdZ9UYPISrYsO+Miwbqop1Mo=
+
+Name: com/ibm/icu/impl/InvalidFormatException.java
+SHA1-Digest: 33LHrRLlIyasscMKDkS6vEHgWKg=
+
+Name: com/ibm/icu/impl/PropsVectors.java
+SHA1-Digest: AOLrVqRMuleUXzBBbi3rl46rhHs=
+
+Name: com/ibm/icu/impl/BOCU.java
+SHA1-Digest: D4mRGij3mOrC7vEpm1XUIQXoP80=
+
+Name: com/ibm/icu/util/TimeArrayTimeZoneRule.java
+SHA1-Digest: sGXUMtbc8OGHAYV3AzUYjJLHUcg=
+
+Name: com/ibm/icu/impl/BMPSet.java
+SHA1-Digest: 28VPAuujlHXCJFHols8Le9bn/8o=
+
+Name: about_files/license.html
+SHA1-Digest: Y2cJIYfNQOx5MA+RW0rCfbh0eAY=
+
+Name: com/ibm/icu/text/PluralRules.java
+SHA1-Digest: Rsv9JRDKwBVQkHlJGa0smRIDHpg=
+
+Name: com/ibm/icu/text/RBBIDataWrapper.java
+SHA1-Digest: iDLWAmwo+BZqM3gIgfVVUQ2sumU=
+
+Name: com/ibm/icu/impl/duration/PeriodFormatterFactory.java
+SHA1-Digest: t9UaA6ZBojow5YearFXKf9rZ3dU=
+
+Name: com/ibm/icu/text/CollationParsedRuleBuilder.java
+SHA1-Digest: 1aouZPcuLRbZ7XO0OMVjgXeb/A4=
+
+Name: com/ibm/icu/impl/duration/impl/PeriodFormatterDataService.java
+SHA1-Digest: nBf6sZ9iszn+rZFsi3C3qiUtLmQ=
+
+Name: com/ibm/icu/text/UCharacterIterator.java
+SHA1-Digest: kyTQmfiwXVzhtYGPkQ2sa0Ikt9w=
+
+Name: com/ibm/icu/util/IndianCalendar.java
+SHA1-Digest: FssrGBNhdd/tA/RoEAhMQJLVyko=
+
+Name: com/ibm/icu/util/UResourceBundleIterator.java
+SHA1-Digest: IpddYZLGPu+TMMI/AgOzsBcAqT0=
+
+Name: com/ibm/icu/util/OverlayBundle.java
+SHA1-Digest: Hu7LH/ebqGeLizVKHLpK4a/uVko=
+
+Name: com/ibm/icu/util/TimeUnit.java
+SHA1-Digest: 6ABCy/L880v/4iVwIdRPUe22aeU=
+
+Name: com/ibm/icu/text/PluralFormat.java
+SHA1-Digest: MtCD7rAkG8F05F5Pjixbibiu6Fk=
+
+Name: com/ibm/icu/text/NameUnicodeTransliterator.java
+SHA1-Digest: PkrG3VwUtgJjAaMCTm2dLHNnpkA=
+
+Name: com/ibm/icu/impl/Trie2_16.java
+SHA1-Digest: /QOtIEbRJ5g45/L7rIcj+kQEfbs=
+
+Name: com/ibm/icu/text/SimpleDateFormat.java
+SHA1-Digest: nb1YDScdF8FJd7HbkVrK9JleGB4=
+
+Name: com/ibm/icu/text/RuleBasedBreakIterator.java
+SHA1-Digest: cWVB0DYl6g2pWXO/NZgy+yjhh7A=
+
+Name: com/ibm/icu/impl/Trie2_32.java
+SHA1-Digest: jONam9OyEM5RnNro5epB2LEnbDA=
+
+Name: com/ibm/icu/text/IndexCharacters.java
+SHA1-Digest: 1bb6KxxWi7ot4koOblDqU5/DQBI=
+
+Name: com/ibm/icu/text/UnicodeReplacer.java
+SHA1-Digest: bE6D1MKEUYYU/tsvKvRSI8ILydQ=
+
+Name: com/ibm/icu/impl/duration/BasicDurationFormatter.java
+SHA1-Digest: FII7O/GFwC2qqicLbpRrJH4H8HY=
+
+Name: com/ibm/icu/util/ValueIterator.java
+SHA1-Digest: 8kMM1KUG4NtScRCPNQgOr5xXknI=
+
+Name: com/ibm/icu/text/ArabicShaping.java
+SHA1-Digest: bumdZAkwAcqcmC8uhr1KldzL3lI=
+
+Name: com/ibm/icu/util/CurrencyServiceShim.java
+SHA1-Digest: Nx8Ic+NPyQHBs4bTZKmYOsT10FA=
+
+Name: com/ibm/icu/impl/ICUService.java
+SHA1-Digest: 9jn4lOyAxc2lRvF8szNTUrX9Sx0=
+
+Name: com/ibm/icu/impl/Trie.java
+SHA1-Digest: A1BWq/9WeW14lXo4uzR8ooAca+M=
+
+Name: com/ibm/icu/impl/duration/impl/Utils.java
+SHA1-Digest: xg2gzLOCttVtFo7EeeFPEhy2kJ0=
+
+Name: com/ibm/icu/text/CharsetRecognizer.java
+SHA1-Digest: ziQuL8UDjw1M3/nWLxMiIxTfqTI=
+
+Name: com/ibm/icu/text/CurrencyPluralInfo.java
+SHA1-Digest: y8+Mm70jA7xldohAmTSInRYbIeg=
+
+Name: com/ibm/icu/impl/duration/BasicPeriodFormatterFactory.java
+SHA1-Digest: DZpJDRVZ70KRQM2rUfL8bDcA28M=
+
+Name: com/ibm/icu/impl/ICULangDataTables.java
+SHA1-Digest: dJlLSXei+HuTnYebIoSMybsA7gI=
+
+Name: com/ibm/icu/text/BidiLine.java
+SHA1-Digest: e4JDeph92yeYrNJwWOdCh/nGawo=
+
+Name: com/ibm/icu/impl/ICUDataVersion.java
+SHA1-Digest: D11fpLLKPEuzDPFBPzBZyWleLis=
+
+Name: com/ibm/icu/impl/StringUCharacterIterator.java
+SHA1-Digest: gJZ0Y/v4Vb6nGz4VOJ9Qzp5EicQ=
+
+Name: com/ibm/icu/util/UniversalTimeScale.java
+SHA1-Digest: GeHCgArRgoJfV0H8Cc9uQ6lqlLg=
+
+Name: com/ibm/icu/impl/UBiDiProps.java
+SHA1-Digest: CzP68LFLdcrdEKuyzMtHs/cNhMg=
+
+Name: com/ibm/icu/impl/UCharacterPropertyReader.java
+SHA1-Digest: 0PRjUxerL0GEp7ssIQkRdmV2DqQ=
+
+Name: com/ibm/icu/impl/IllegalIcuArgumentException.java
+SHA1-Digest: m3JJHLkcxhaMPehmOqGVjq77atQ=
+
+Name: com/ibm/icu/impl/duration/impl/RecordReader.java
+SHA1-Digest: x503mK/+zsV5J2hfoC+0s06uCVE=
+

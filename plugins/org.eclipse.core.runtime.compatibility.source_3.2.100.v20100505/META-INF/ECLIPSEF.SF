@@ -1,0 +1,122 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: OdeWSF8Gbx4kyboF8jTM5sJmrUo=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Hk3gDYvS6iJaXcSDg2cR/ZgEa0I=
+
+Name: org/eclipse/core/internal/compatibility/PluginActivator.java
+SHA1-Digest: 9DKKQE81t+WWSkGNaORMl8rlK+I=
+
+Name: org/eclipse/core/internal/model/PluginMap.java
+SHA1-Digest: QpFvTHrPGxbxz47mQYYzBozJXSI=
+
+Name: org/eclipse/core/internal/plugins/PluginPrerequisite.java
+SHA1-Digest: b7kwW8oN0t0JU5HsygO30cE/Kpg=
+
+Name: org/eclipse/core/internal/model/PluginParser.java
+SHA1-Digest: KA/FlX/Fk7YNr17u422exvnktEM=
+
+Name: org/eclipse/core/runtime/model/PluginDescriptorModel.java
+SHA1-Digest: 44Xsarf1/LvN8HKxWZgijkrmmEo=
+
+Name: org/eclipse/core/internal/model/RegistryLoader.java
+SHA1-Digest: BgSAGOj9+dTFNcOv3QKelMeaTyI=
+
+Name: org/eclipse/core/internal/plugins/CompatibilityActivator.java
+SHA1-Digest: MYaTpjpy54Hj6T99+9EZ8x7wwTU=
+
+Name: org/eclipse/core/runtime/model/LibraryModel.java
+SHA1-Digest: yTR201gTwatn4DvWYGEB42N8I+0=
+
+Name: org/eclipse/core/runtime/model/PluginPrerequisiteModel.java
+SHA1-Digest: aGyjESTGIYx9NZdAZ/nUfLTGH5g=
+
+Name: org/eclipse/core/boot/BootLoader.java
+SHA1-Digest: o3mv8bOilUe7RkIefHfY0LosjLo=
+
+Name: org/eclipse/core/runtime/model/ExtensionModel.java
+SHA1-Digest: 7Y8TlUiYc6Bv5Uiq5nLn5fqIbrI=
+
+Name: org/eclipse/core/internal/boot/SiteEntry.java
+SHA1-Digest: qtqCxB1VQFOQhKBXeHOrWxJp9B8=
+
+Name: plugin.properties
+SHA1-Digest: 08U+OUybFwAwn5Zsf7j1ZB9Dq7A=
+
+Name: org/eclipse/core/internal/boot/SitePolicy.java
+SHA1-Digest: t11dzMpc9tM0XHvQ3JgLXV4YwVY=
+
+Name: org/eclipse/core/runtime/model/PluginRegistryModel.java
+SHA1-Digest: phY1K4lYQNvc1J5+q8mNoqwmK3s=
+
+Name: org/eclipse/core/runtime/model/ExtensionPointModel.java
+SHA1-Digest: Pj5e0P2XFfgGpUY5Z6zNU27Bsjo=
+
+Name: org/eclipse/core/internal/plugins/Library.java
+SHA1-Digest: QoLdl/SP5r4710IpW0HVVcPuUhM=
+
+Name: org/eclipse/core/internal/plugins/InternalPlatform.java
+SHA1-Digest: JZvDSBMHSiqtqbVOXnuZW0vaXuM=
+
+Name: org/eclipse/core/internal/plugins/PluginRegistry.java
+SHA1-Digest: sZlikcyKPoLFI53IAq6eoopvvLY=
+
+Name: org/eclipse/core/runtime/model/Factory.java
+SHA1-Digest: zZ5N/KBviMJ8bAjNO0QCeRl2rxE=
+
+Name: org/eclipse/core/internal/plugins/DefaultPlugin.java
+SHA1-Digest: c5dH4Ploz75Edohi/RT+FUSoTIw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/runtime/model/PluginFragmentModel.java
+SHA1-Digest: MDCTYjAUZalf4bJ8CZRZXOqa2Iw=
+
+Name: org/eclipse/core/runtime/model/ConfigurationElementModel.java
+SHA1-Digest: iKk8nVpTwRmrv+8ACHKl3jJMllI=
+
+Name: org/eclipse/core/internal/plugins/PluginDescriptor.java
+SHA1-Digest: XZoC72pUW7GQjf+8eXt7NL8572o=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/internal/boot/FeatureEntry.java
+SHA1-Digest: xCOkunznacTinOoqeu53l63vuho=
+
+Name: org/eclipse/core/internal/model/RegistryResolver.java
+SHA1-Digest: cIKS06+gKOYRj5OV26TJGAuLmf0=
+
+Name: org/eclipse/core/runtime/model/PluginModel.java
+SHA1-Digest: wn98x18Ep1eQRSRaIGxiSfeQF4c=
+
+Name: org/eclipse/core/internal/boot/PlatformConfiguration.java
+SHA1-Digest: iO6Zmwo6V4HHgp1lOJmegn+UL/k=
+
+Name: org/eclipse/core/internal/model/IModel.java
+SHA1-Digest: zLo2lIHSmzEOYcE2vOMnTG/pQ0M=
+
+Name: org/eclipse/core/runtime/model/PluginModelObject.java
+SHA1-Digest: e47KTbEhlxyFXMEhUHK97PsUFQc=
+
+Name: org/eclipse/core/internal/plugins/DevClassPathHelper.java
+SHA1-Digest: 06F/hgynMfkHG5ZnRHZYLr/vWCE=
+
+Name: org/eclipse/core/boot/IPlatformConfiguration.java
+SHA1-Digest: fgNe968IrqdusPtqTsNjY+J1vl0=
+
+Name: org/eclipse/core/boot/IPlatformRunnable.java
+SHA1-Digest: Qb5kjgsCR5pvGB1cXYz6fq/YG8M=
+
+Name: org/eclipse/core/runtime/model/ConfigurationPropertyModel.java
+SHA1-Digest: VJMiL7404Hme61tZIc/cUaHZKXk=
+
+Name: org/eclipse/core/internal/plugins/Policy.java
+SHA1-Digest: KFbGiJXA5mX48A04W16QJl/XZJ8=
+
+Name: org/eclipse/core/internal/plugins/PluginClassLoader.java
+SHA1-Digest: V7BpMQpp/kIZ3Hr8ut4/zZYC8a4=
+
+Name: org/eclipse/core/runtime/model/URLModel.java
+SHA1-Digest: ZYTKGiDdlLFZ2YBA70BZmq1C3rA=
+

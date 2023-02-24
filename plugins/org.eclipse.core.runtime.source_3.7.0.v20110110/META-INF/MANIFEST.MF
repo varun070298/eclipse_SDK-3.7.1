@@ -1,0 +1,94 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.runtime;version="3.7.0.v2011011
+ 0";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.runtime.source
+Bundle-Version: 3.7.0.v20110110
+Bundle-ManifestVersion: 2
+
+Name: schema/contentTypes.exsd
+SHA1-Digest: yga1YVyqvW+o1MYLs3apH5kQOXQ=
+
+Name: org/eclipse/core/runtime/Platform.java
+SHA1-Digest: W91xJfjgXiKumWy4esX35KWi2p8=
+
+Name: org/eclipse/core/runtime/Plugin.java
+SHA1-Digest: DjXya9X7Or+A3S3yY8bZt2JhVEU=
+
+Name: org/eclipse/core/runtime/ILibrary.java
+SHA1-Digest: pG7oQhR/ZYrfE9JGXRWNaN+uQ9c=
+
+Name: org/eclipse/core/runtime/IPluginRegistry.java
+SHA1-Digest: G1e9BylV8uQXcjwNWSQRDvtydhQ=
+
+Name: org/eclipse/core/runtime/Preferences.java
+SHA1-Digest: 0Z/P/athPtxdAY2zqFa+sSRg9u4=
+
+Name: plugin.properties
+SHA1-Digest: 7PS4pwfU67dF4hd5H7Qr/2Gju/s=
+
+Name: org/eclipse/core/internal/preferences/legacy/PreferenceForwarder
+ .java
+SHA1-Digest: +FXsvnpbWXsrXzEIchSh++O9h1s=
+
+Name: org/eclipse/core/internal/runtime/InternalPlatform.java
+SHA1-Digest: mnEU5BgdwNs+7I4vZEEpPmV+cJc=
+
+Name: org/eclipse/core/runtime/IProduct.java
+SHA1-Digest: H+dGWLOpqzTpK8mI4tffR7gOxQ0=
+
+Name: org/eclipse/core/internal/runtime/Messages.java
+SHA1-Digest: CizC6+/82zuM1dhtF4PeAaKf0bY=
+
+Name: org/eclipse/core/internal/runtime/PerformanceStatsProcessor.java
+SHA1-Digest: hTI8PtbCg+avp4Y5EOqQVQNYyzg=
+
+Name: org/eclipse/core/runtime/IPluginDescriptor.java
+SHA1-Digest: X1Sk6+j7JRIzwP62aZeZThJX/ik=
+
+Name: org/eclipse/core/internal/runtime/PlatformActivator.java
+SHA1-Digest: RvbjjI7j5vAfrAS4VMNHwgYulUY=
+
+Name: org/eclipse/core/internal/preferences/legacy/ProductPreferencesS
+ ervice.java
+SHA1-Digest: pEMJBzmgu4vUvNWeuRjlkPsrj74=
+
+Name: org/eclipse/core/runtime/ILog.java
+SHA1-Digest: Hpx799Azm1V/VFbTHxN1CXpjg9I=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/runtime/IProductProvider.java
+SHA1-Digest: s9t0uyGj5MfsFfMKsyietzsgE5A=
+
+Name: schema/preferences.exsd
+SHA1-Digest: j+nmdpk55UBVVnmxCgLuBOq7ar0=
+
+Name: org/eclipse/core/internal/preferences/legacy/InitLegacyPreferenc
+ es.java
+SHA1-Digest: 1VOveelEBBJt9i6F/SlDw7zOees=
+
+Name: org/eclipse/core/runtime/IPlatformRunnable.java
+SHA1-Digest: tlFI+zUBTk+acAP7RU8tea4QeTk=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/internal/runtime/Product.java
+SHA1-Digest: y0y8BtGiVI7TfGyVV4/pdC+DNG4=
+
+Name: org/eclipse/core/runtime/PerformanceStats.java
+SHA1-Digest: ObvAzuR9CZvM7c/8LVO0ITcD3k4=
+
+Name: org/eclipse/core/runtime/IPluginPrerequisite.java
+SHA1-Digest: fRd/HbHn2hQzbG2VIc327g8lXdk=
+
+Name: org/eclipse/core/internal/runtime/Log.java
+SHA1-Digest: ZqG0o4ZQFd8mfLPzhEcLmBwvqUM=
+
+Name: org/eclipse/core/internal/runtime/CompatibilityHelper.java
+SHA1-Digest: 8L/7SSS5D8fQdzdzskSqb+O2/yY=
+

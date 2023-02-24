@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.event;version="1.2.100.v2011
+ 0502";roots:="."
+Bundle-Vendor: %bundleVendor
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.event.source
+Bundle-Version: 1.2.100.v20110502
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/event/EventAdminMsg.java
+SHA1-Digest: qpLBJXS33JvQf+NLQHkwPGvijJo=
+
+Name: org/eclipse/equinox/internal/event/LogTracker.java
+SHA1-Digest: ecKNKUJVszXTuzPcHJgLnCJQTkM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/event/EventHandlerTracker.java
+SHA1-Digest: 4XtKSW0Wsyv8sLRPE9aznQUoOHE=
+
+Name: org/eclipse/equinox/internal/event/mapper/BundleEventAdapter.jav
+ a
+SHA1-Digest: 7SJF+3EhmnYajUlk6x5yPg4sT24=
+
+Name: org/eclipse/equinox/internal/event/mapper/EventAdapter.java
+SHA1-Digest: kyqyjKd4xkXNhGwUHvsBLUXubpc=
+
+Name: org/eclipse/equinox/internal/event/EventHandlerWrapper.java
+SHA1-Digest: wrcOzii8fLJD78fcb8VPWFmzXTw=
+
+Name: about.html
+SHA1-Digest: +/ZbB4iOoCwiJmEdG+67tzzJKc4=
+
+Name: plugin.properties
+SHA1-Digest: Y3xdMD5+AUrZ8WKRY0tHfXWKCZk=
+
+Name: org/eclipse/equinox/internal/event/mapper/FrameworkEventAdapter.
+ java
+SHA1-Digest: esXykL4BWDbh3qij5D9HVQr5Qjo=
+
+Name: org/eclipse/equinox/internal/event/EventComponent.java
+SHA1-Digest: GZFSRjDJWXmbDx5JAQmqINIL2yA=
+
+Name: org/eclipse/equinox/internal/event/mapper/Constants.java
+SHA1-Digest: IplJjfohv7rGDDGcp1p4i6Krpwc=
+
+Name: org/eclipse/equinox/internal/event/Activator.java
+SHA1-Digest: Y5Nz0cIPWhCjqaXM4MLKWBLAIT8=
+
+Name: org/eclipse/equinox/internal/event/mapper/ServiceEventAdapter.ja
+ va
+SHA1-Digest: Zw6zR2zmx1ZlG0sVpmJC24L0030=
+
+Name: org/eclipse/equinox/internal/event/mapper/EventRedeliverer.java
+SHA1-Digest: k67CfHnxdLZaG2SXQ9YIOvppAFo=
+
+Name: org/eclipse/equinox/internal/event/EventAdminImpl.java
+SHA1-Digest: BtRxwXPVSRkyrGNlJ3L+OJEtMIk=
+
+Name: org/eclipse/equinox/internal/event/LogTrackerMsg.java
+SHA1-Digest: KELcW7mqEYeaZ3JDxuElNpZ9OXw=
+

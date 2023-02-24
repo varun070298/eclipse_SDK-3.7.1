@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.garbagecollector;version=
+ "1.0.200.v20110510";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.garbagecollector.source
+Bundle-Version: 1.0.200.v20110510
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/Application.jav
+ a
+SHA1-Digest: VDJtgHD8tX5ceJ0xPlu+r4w0xlY=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/Messages.java
+SHA1-Digest: Q+Mid9rmH+71CtK0WGXWVTf28Hg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GarbageCollecto
+ r.java
+SHA1-Digest: ehndlSjvfncuqgrzXTW8WtAftjk=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GCActivator.jav
+ a
+SHA1-Digest: nAI7EDi2EKfhEh3eB+xkQ65+H80=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/CoreGarbageColl
+ ector.java
+SHA1-Digest: 1joV3xwFCv4yhJtZKpLhzT/v12k=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/MarkSetProvider
+ .java
+SHA1-Digest: 1KlSwgfoJ9s7HtpgVTkB5+NFuHo=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/MarkSet.java
+SHA1-Digest: WZ3sUoOKn+Z8/6VmKFR+/m++y9U=
+
+Name: org/eclipse/equinox/internal/p2/garbagecollector/GarbageCollecto
+ rComponent.java
+SHA1-Digest: NwWRp0l2NkNc0mgMMHhat5Iw+RQ=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: LNbU7cky8AKBK9VZQh/QjOerPow=
+

@@ -1,0 +1,30 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: kRmA1o9o+nb4Jh1KIJwdge03S2Y=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: BJtSY/aPG5UhGSGvI64ZJNbTj14=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/BundleProxyClassLoader.j
+ ava
+SHA1-Digest: chAYmFGMCpj8VgoCAzcecKj/cb0=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/JSPContextFinder.java
+SHA1-Digest: /LtvoP5qLljphbUrUAwqruRqWLw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/jsp/jasper/JspServlet.java
+SHA1-Digest: z1N4ZhvDoJtwad2wuhkC7XC5fRk=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/Activator.java
+SHA1-Digest: HqkB5DDELg6yvYMOH+UBC+La25k=
+
+Name: about.html
+SHA1-Digest: IMJKsR3Vi9xFUgMu+9YZDYhzI7I=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/JspClassLoader.java
+SHA1-Digest: NftBLffhREEYhvBY4eoaua26PNg=
+
+Name: plugin.properties
+SHA1-Digest: uX1DnodDJK+052IbQ2jrN0j8UMg=
+

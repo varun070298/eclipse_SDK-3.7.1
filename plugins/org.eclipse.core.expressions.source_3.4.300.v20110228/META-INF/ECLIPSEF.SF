@@ -1,0 +1,158 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Vq32iMhT6beuOmzBDw9ONfw8U/8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: yM5gK6r4se1jjQu4fYKhaEz0QsQ=
+
+Name: schema/propertyTesters.exsd
+SHA1-Digest: sivXadIu/oGxJR9ds0d+5fyEgfQ=
+
+Name: org/eclipse/core/internal/expressions/PropertyTesterDescriptor.j
+ ava
+SHA1-Digest: ock06EtL7TMn3LSCpfoVS9sLxGg=
+
+Name: org/eclipse/core/expressions/EvaluationResult.java
+SHA1-Digest: 7M2w2mOgcPGVk+CCTKXTG0JjGH8=
+
+Name: org/eclipse/core/expressions/IIterable.java
+SHA1-Digest: P5JMfybUCa8YPVCQvdPew5L55L8=
+
+Name: org/eclipse/core/expressions/Expression.java
+SHA1-Digest: De4vPWmF8+mv0TarYQoELinGuPs=
+
+Name: org/eclipse/core/internal/expressions/util/LRUCache.java
+SHA1-Digest: qqXgLsjgyMLdsgW++kQGBOAY15c=
+
+Name: org/eclipse/core/internal/expressions/ExpressionPlugin.java
+SHA1-Digest: PXrKvZT8UrDYZNVLlFPJ0HqkIog=
+
+Name: org/eclipse/core/internal/expressions/Expressions.java
+SHA1-Digest: h4sCe9QhqtirXeAYb3OLJOIkdDk=
+
+Name: org/eclipse/core/expressions/ICountable.java
+SHA1-Digest: qxHFIr8RTuBFqLrzl5avc5s0IwI=
+
+Name: schema/definitions.exsd
+SHA1-Digest: FzlIZmWrsUToNVK0KRlG2m6oEHw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/expressions/WithExpression.java
+SHA1-Digest: 6WGSmGH94Tcq9MK3S0oMr4VvJko=
+
+Name: org/eclipse/core/expressions/PropertyTester.java
+SHA1-Digest: dZqfVfJQgPz3LBFsp7jlPuNM7Xc=
+
+Name: org/eclipse/core/internal/expressions/OrExpression.java
+SHA1-Digest: ruAw0SZG6ouxxElGY4mY+dgHaY0=
+
+Name: org/eclipse/core/expressions/EvaluationContext.java
+SHA1-Digest: zxfY0sdiGU7k9ykF1LBSDq6bTUQ=
+
+Name: org/eclipse/core/expressions/ElementHandler.java
+SHA1-Digest: +IK1+0h9m3DLhnxyH/zdLW/LGx4=
+
+Name: org/eclipse/core/internal/expressions/ResolveExpression.java
+SHA1-Digest: 0TkVhWL7KBqFO2+V9igYAhdu078=
+
+Name: org/eclipse/core/internal/expressions/ReferenceExpression.java
+SHA1-Digest: bF/xqq7c028VpRBhFcrBsuAgdn8=
+
+Name: org/eclipse/core/internal/expressions/DefinitionRegistry.java
+SHA1-Digest: G2wHPGUVyC+j6Yv8wsJfKzAor3c=
+
+Name: org/eclipse/core/internal/expressions/ExpressionStatus.java
+SHA1-Digest: sQqMVaNW+wtSn0bVGbn4EKfkMTM=
+
+Name: org/eclipse/core/internal/expressions/InstanceofExpression.java
+SHA1-Digest: aYStCX0TG8LsS7sODRZLlg8I/Xw=
+
+Name: org/eclipse/core/expressions/IPropertyTester.java
+SHA1-Digest: htSVwbVP1hHzWwWZ0mTWv6sLe48=
+
+Name: org/eclipse/core/internal/expressions/PropertyCache.java
+SHA1-Digest: T5gWmBKpAphFGktalqofnl49VhA=
+
+Name: plugin.properties
+SHA1-Digest: CWpNgj+5t6DU3tV6BXMV3lQHr0Y=
+
+Name: org/eclipse/core/internal/expressions/EqualsExpression.java
+SHA1-Digest: Uli4Qmof2s9WeHwg+qftD2wYecE=
+
+Name: org/eclipse/core/internal/expressions/TypeExtension.java
+SHA1-Digest: jjj6/k2+vEuQoqODcXlvqfRtymY=
+
+Name: org/eclipse/core/internal/expressions/util/ToStringSorter.java
+SHA1-Digest: ezJgErdQ1TmRhQXQlGr0wsjBirc=
+
+Name: org/eclipse/core/expressions/IVariableResolver.java
+SHA1-Digest: RRHznKIwh4Usmqx1oQyp6gvp2+U=
+
+Name: org/eclipse/core/expressions/ExpressionTagNames.java
+SHA1-Digest: pKQS7U+6Wf1oGOWQIQuJXk+0Heg=
+
+Name: org/eclipse/core/internal/expressions/Messages.java
+SHA1-Digest: O1fC66uuEsOYELm1f8tdtteTzu8=
+
+Name: org/eclipse/core/internal/expressions/DefaultVariable.java
+SHA1-Digest: mXHz39ohXEIdi8NSkW1ZXrwBVB0=
+
+Name: org/eclipse/core/internal/expressions/TestExpression.java
+SHA1-Digest: lVVxfPMNsjWzBe98/WenZf2XOZE=
+
+Name: org/eclipse/core/internal/expressions/TypeExtensionManager.java
+SHA1-Digest: E9gt2L3+Tv9r7tJ97Eid+jr0I04=
+
+Name: org/eclipse/core/internal/expressions/ExpressionMessages.java
+SHA1-Digest: hVjv2JHbk8BUkK55riQ0gXYC5KE=
+
+Name: org/eclipse/core/internal/expressions/IterateExpression.java
+SHA1-Digest: iPGKD4MSnjkTXX1jQUSSxD2T3Uc=
+
+Name: org/eclipse/core/internal/expressions/AndExpression.java
+SHA1-Digest: lOpCqPiEQwbbefoPjJS1zBW/Z9s=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/internal/expressions/EnablementExpression.java
+SHA1-Digest: 38CTSNQ9vV/vRcLLUyNxBVfB5dM=
+
+Name: org/eclipse/core/internal/expressions/NotExpression.java
+SHA1-Digest: dqy7Z6Lsa9qwGj/XtA4vIABg97o=
+
+Name: org/eclipse/core/internal/expressions/SystemTestExpression.java
+SHA1-Digest: FsG6VFz4V+eXV3FTO/LPaEb+gFw=
+
+Name: org/eclipse/core/internal/expressions/CountExpression.java
+SHA1-Digest: oKv+BPnwvLDDQ4f4WQTwwRdHSRQ=
+
+Name: org/eclipse/core/internal/expressions/Property.java
+SHA1-Digest: r5U4QA9h49gyJ08rmio8Q9Fr95E=
+
+Name: schema/expressionLanguage.exsd
+SHA1-Digest: 82d/FEgwvulZezyRlhig+9etID0=
+
+Name: org/eclipse/core/expressions/IEvaluationContext.java
+SHA1-Digest: ScWhh980BNXysUzI+es5pff9WDU=
+
+Name: org/eclipse/core/internal/expressions/propertytester/PlatformPro
+ pertyTester.java
+SHA1-Digest: hY9WIPE6w4P/Y/lMLheuYWj/mnk=
+
+Name: org/eclipse/core/expressions/ExpressionConverter.java
+SHA1-Digest: 30rDxaGFE7rJ0EF8A6zYxQqezjo=
+
+Name: org/eclipse/core/expressions/ExpressionInfo.java
+SHA1-Digest: pOq3xwWqJ/3dDzX7K6BvR7HZv9o=
+
+Name: org/eclipse/core/internal/expressions/CompositeExpression.java
+SHA1-Digest: rvkSShqrEVU9sOPqjDF460Hs4Js=
+
+Name: org/eclipse/core/internal/expressions/StandardElementHandler.jav
+ a
+SHA1-Digest: xB9X9o9i8Cl543Pzx0ZKp7ea9jY=
+
+Name: org/eclipse/core/internal/expressions/AdaptExpression.java
+SHA1-Digest: cnzusUzw+o22c789vDjGfVNI4og=
+

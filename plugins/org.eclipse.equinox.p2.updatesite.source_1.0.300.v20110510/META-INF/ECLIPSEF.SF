@@ -1,0 +1,92 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 9qEYT9ZT03hvWslW2bglpChfLjU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: rRHEXs3MLpwvir+kBEClk9ywJ7w=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/metadata/UpdateSiteMe
+ tadataRepository.java
+SHA1-Digest: 4Y7QtmmSJouFvxejdS4Ub05ZYKc=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/SiteXMLAction.java
+SHA1-Digest: rZ5FdhC0ZLzbXZgJj+I3VDhBJB0=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/SiteIU.java
+SHA1-Digest: cksKwfpn2ApE0a8W2oSUzEbzdck=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/CategoryPublisherAppl
+ ication.java
+SHA1-Digest: Lmh075iR1OY1t02GIg26HwoGw3M=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/SiteModel.java
+SHA1-Digest: xyIIUq20rsr62UAD+CXYtQHX6tc=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/Messages.java
+SHA1-Digest: 2Yyknj+rTn+1hik8mA4SuQ9jj+8=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/VersionSuffixGenerato
+ r.java
+SHA1-Digest: oLxrz13vp2y+GrEvFSB/sthQlTc=
+
+Name: plugin.properties
+SHA1-Digest: XddR15KEWmmtiPqR33ZkBr1A5lk=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/SiteCategory.java
+SHA1-Digest: 1aON8yqRKoY+1rYoMmxwbIdUR5k=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/UpdateSitePublisherAp
+ plication.java
+SHA1-Digest: q546xMjauR8OqT71I5iIgAiBJG8=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/artifact/UpdateSiteAr
+ tifactRepositoryFactory.java
+SHA1-Digest: u639bqx2ZZ1EhTVaazNj3loKuCE=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/SiteFeature.java
+SHA1-Digest: HKqpcK3JDGu40NjTttUzCdj6NQ0=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/artifact/UpdateSiteAr
+ tifactRepository.java
+SHA1-Digest: acDGYAiWpx5Y6pwF/2hrFs2rJ2M=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/DefaultSiteParser.jav
+ a
+SHA1-Digest: IQdzvCt/o5qIqheToSVqZPMHMz4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/UpdateSite.java
+SHA1-Digest: F+GmeDrpP4dP+tEPYvi1SsbK1q4=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/RemoteUpdateSiteActio
+ n.java
+SHA1-Digest: ofEjtOHQXIGI4U3G3Ze0FS3Lx1I=
+
+Name: about.html
+SHA1-Digest: eujd3AqZ5wPHk7ipaPatuG94PCs=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/DigestParser.java
+SHA1-Digest: I296AN+T8HxoLnEpPcmrPbtLiE8=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/Activator.java
+SHA1-Digest: AsUTt4EYUiR2CGI3NJTp/QurdZI=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/metadata/UpdateSiteMe
+ tadataRepositoryFactory.java
+SHA1-Digest: tHSb6pludd2LkuWeV+UMyttmDIU=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/LocalUpdateSiteAction
+ .java
+SHA1-Digest: Gi16kzHDJGUH4L4NBVFPkRymQ4U=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/CategoryXMLAction.jav
+ a
+SHA1-Digest: hSfvFLll8PmdlDwIJvlQZYNbXsc=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/CategoryParser.java
+SHA1-Digest: mXZNh3CGYfCnHgaKwqC1VAlUSPc=
+
+Name: org/eclipse/equinox/internal/p2/updatesite/RemoteFeaturesAction.
+ java
+SHA1-Digest: SPgZk0EX0JStaUHT7S/XL5jvSH0=
+

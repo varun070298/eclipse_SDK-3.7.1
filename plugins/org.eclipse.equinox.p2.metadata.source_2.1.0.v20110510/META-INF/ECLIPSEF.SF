@@ -1,0 +1,490 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: uVNbB7LUadtQARmQDM4mWXxan/Q=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: lwje6viH0abtp2eedSQtRm/EeU8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/CompoundIndex.jav
+ a
+SHA1-Digest: J1Q0t3pIpbXGVCXoEIpLBsRE/68=
+
+Name: org/eclipse/equinox/p2/query/CompoundQueryable.java
+SHA1-Digest: Xx19LdJuhY/UKIPkJ5M3HF2hq94=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/FilterFuncti
+ on.java
+SHA1-Digest: wvWvk+fQTMzrBrUkgsrT5zjQqBA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ContextExpre
+ ssion.java
+SHA1-Digest: My/HusvZYTZWZvw4BXfxdE3+hfQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Flatten.java
+SHA1-Digest: mOIvVaee8QAUiAGId0rHkkj7kKU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/OmniVersion.java
+SHA1-Digest: UUMlutIUllNG7Ge6mwjlNUL2wtY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/All.java
+SHA1-Digest: yDrGPYT+9QaakokKip3yiSu52O4=
+
+Name: org/eclipse/equinox/p2/metadata/IArtifactKey.java
+SHA1-Digest: 1L8gusPf6VnqaxXgkU6yOqLWJfc=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IFilterExpression.jav
+ a
+SHA1-Digest: Tnc+aAo/f6LFZ5pqbN3F+kYYIGk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Binary.java
+SHA1-Digest: ZCtAa0aZerZD1p/1bSCkt492BXw=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Condition.ja
+ va
+SHA1-Digest: I4GK4rbK4Qs7Nfp9AOiK4cYq06g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Equals.java
+SHA1-Digest: R88PjO0deVMHk5GxQImr0ON+HtA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Array.java
+SHA1-Digest: DM4yO9s6Pjzimhyb8LgHkCFedL0=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnitPatch.java
+SHA1-Digest: +oMaldbXTBKHFF8AO7/ACebTRKg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TranslationSupport.java
+SHA1-Digest: 7hyxgfl336MnTAo+ujIMfSeuqgM=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IContextExpression.ja
+ va
+SHA1-Digest: LlYn5qQ1TMh2j/gb5PFhhD+KC0w=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Member.java
+SHA1-Digest: 9u87vdkMQxvFhfgw+yTdvcClm/E=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CompoundIter
+ ator.java
+SHA1-Digest: GLge80evUt7eGqIDM3BsNa+s1Q8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Not.java
+SHA1-Digest: S19dkkGBMqEgoGwh4lYSktYfaRQ=
+
+Name: org/eclipse/equinox/p2/metadata/index/IIndexProvider.java
+SHA1-Digest: 1AJ02Kjupid5ktrBMVMHz44lgxc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormat.java
+SHA1-Digest: qbZgNZ/YUo8WnpDqz4pbkOH1yhg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointData.java
+SHA1-Digest: 2T9isC16PS/kIpKvZXe09YXW0CY=
+
+Name: org/eclipse/equinox/p2/metadata/VersionedId.java
+SHA1-Digest: nHyo+A2ekUKGhGe4X6mAq/QfVz0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/First.java
+SHA1-Digest: AH7/m47Et0OqwUt/4ZMWJ9oxDTk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ArtifactKey.java
+SHA1-Digest: vapQHDxvj4BbuMkJzfxukwUzuho=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Everything.j
+ ava
+SHA1-Digest: iqLL3NcCOubwjb3M1LjSA0c9uEg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/QueryResult.
+ java
+SHA1-Digest: Kj95r6YFaYG1Q2V7Ka8vwffGalQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/BasicVersion.java
+SHA1-Digest: CT8mFCdb3w6qRTU5YV0DflDY35g=
+
+Name: org/eclipse/equinox/p2/metadata/KeyWithLocale.java
+SHA1-Digest: 6sEK/yPgD4sabDiHw3McUOwTDyE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnit.java
+SHA1-Digest: ONqgZ8sBP31eT26J9qfCrk+jyOI=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnitFragment.java
+SHA1-Digest: lIbaZ2uxb0zEzJIKN5HLwzIC8xk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/OSGiVersion.java
+SHA1-Digest: YvnCDi+KFFueCC8ByT4BDailVqE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Matches.java
+SHA1-Digest: CpNbiPwdMsghztotC98g38zDsp4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ExpressionFa
+ ctory.java
+SHA1-Digest: 8sAemsoqQ+J5nxjWkTd0CSGL6Ds=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Literal.java
+SHA1-Digest: U8UM3iW6kwlJ48vnvyBs6r1UqVM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/LDAPF
+ ilterParser.java
+SHA1-Digest: akihLG9wP3Koo6jw3jwb8eDJeZs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/IRepeatableI
+ terator.java
+SHA1-Digest: C3V+A8RrxaAaTL0yD5yW43j7h2c=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Unique.java
+SHA1-Digest: 8jl7UVt1xjzuKyZhFt7HsPsqC8o=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MatchIterato
+ rFilter.java
+SHA1-Digest: RQf+WwNl1+dyRWEQgKpRlpatZpE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/Copyright.java
+SHA1-Digest: 7VhUtZgwCgoLsPBnAD2zGeFvKRs=
+
+Name: org/eclipse/equinox/p2/metadata/expression/ExpressionParseExcept
+ ion.java
+SHA1-Digest: BYjc6Mg1qt5DOJDvIVmkRmK34Ps=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IMatchExpression.java
+SHA1-Digest: txJx4dTf2cJN4qUdxeq1WF6dT4w=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Parameter.ja
+ va
+SHA1-Digest: i3csO+hHWdxkfBa7W4aFtHT/LCo=
+
+Name: org/eclipse/equinox/p2/query/MatchQuery.java
+SHA1-Digest: +VAgePYL+4LGaw9VEPYTdyAAaiM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Pipe.java
+SHA1-Digest: nbjYdnRHKwCm03Op+cACV4Tb5x8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Assignment.j
+ ava
+SHA1-Digest: uEVAk7rj/leTbbIXGgTgVVOehQk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ResolvedInstallableUnit
+ .java
+SHA1-Digest: HzjS0zAYJ4xD3c8j0C966ghcPSc=
+
+Name: org/eclipse/equinox/p2/query/IQueryResult.java
+SHA1-Digest: WFhRQzBhwEToGjsOL6UezL6KiN4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Latest.java
+SHA1-Digest: lTv1H7T8cMsbRgpPgjbE+MZHwtw=
+
+Name: org/eclipse/equinox/p2/query/IMatchQuery.java
+SHA1-Digest: Joy7Gwd3mSChY/MU5K9uOEW36cU=
+
+Name: org/eclipse/equinox/p2/metadata/IUpdateDescriptor.java
+SHA1-Digest: 6fdxdOjNBNiNl9oS2X7zV9UodI8=
+
+Name: org/eclipse/equinox/p2/query/IQueryable.java
+SHA1-Digest: O0xr+4XbxmCqpae3i9d4CFTHTI8=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionFactory.ja
+ va
+SHA1-Digest: zFwPCEGb2lAeImUebNdHRPDSGwU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector.java
+SHA1-Digest: NUFZel6ZG9cf5BtRLI2Dn6UT7ZE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LambdaExpres
+ sion.java
+SHA1-Digest: R56i59iJrwcTHMrMxeU/mtdo3Ko=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/NAry.java
+SHA1-Digest: nChS+sNnIb+C0VlUvlm8QBYyfgI=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/EvaluationCo
+ ntext.java
+SHA1-Digest: TVuYbcb0otZM8Q2xfEzxAHefxRQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression.j
+ ava
+SHA1-Digest: gFWblKY5hlthhGlpvN/Csarbt1Q=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ClassFunctio
+ n.java
+SHA1-Digest: YQH4wph7hmxgew8uCpog2j7ZNhs=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointInstruction.java
+SHA1-Digest: Cb1XpGFSWpxJg8EcfDmRLCVD58o=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Union.java
+SHA1-Digest: UMgGZCNtdcU/TCc50wgOrxCrzfA=
+
+Name: org/eclipse/equinox/p2/query/IQuery.java
+SHA1-Digest: 66yR8SR9KfjIsh8eI/uNfysapLw=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CurryedLambd
+ aExpression.java
+SHA1-Digest: EGGgUO0mWkrs7hcYSbIc9PP3v+U=
+
+Name: org/eclipse/equinox/p2/metadata/IVersionedId.java
+SHA1-Digest: CM2T9srrQbUzqcUhjauU71hIbKk=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionVisitor.ja
+ va
+SHA1-Digest: TLo7gUVZt6BidcEuQLTidsB5+o0=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IEvaluationContext.ja
+ va
+SHA1-Digest: wfkfPtMumJ9YWF/W5dvdxQmV0AQ=
+
+Name: org/eclipse/equinox/p2/metadata/VersionRange.java
+SHA1-Digest: DuhndTl2QCEYLTcXa+/hI5COGZw=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/BooleanFunct
+ ion.java
+SHA1-Digest: yPB2yq099kxGSwPQWajFMxzh+FU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/CapabilityIndex.j
+ ava
+SHA1-Digest: TvoAKWJbMZxu8WFFGLRM3Q2H3YE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MatchExpress
+ ion.java
+SHA1-Digest: KjYBgMiQDbVbBPOS8Lq4zAOKZcc=
+
+Name: org/eclipse/equinox/p2/metadata/ICopyright.java
+SHA1-Digest: RFem82FgBhl6slKMAm6u3FAVCPc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LDAPFilter.j
+ ava
+SHA1-Digest: YcwuOSGoetCbJX5L/W8uU93F05I=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IMemberProvider.java
+SHA1-Digest: lZt1oJiAwPQVuLcwIiZ800Be+5M=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RequiredCapability.java
+SHA1-Digest: H4C88marOEa+AwIfHUlKrzmy+G4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Traverse.jav
+ a
+SHA1-Digest: bkZzxUlyhjayfFnM+xCW93ebC1M=
+
+Name: org/eclipse/equinox/internal/p2/metadata/EnumDefinition.java
+SHA1-Digest: y0MawgxSpVZTGMAoeZ0jfsIlRDY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/IndexProvider.jav
+ a
+SHA1-Digest: YVs0kY4QCAHDWr67Re0y0YeGuG4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingComp
+ arator.java
+SHA1-Digest: JxihMBwpKvHS6tF4BS2rXxJGjkQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/IExpressionC
+ onstants.java
+SHA1-Digest: /qJoqTjesQfgDoDfovA7ZoaCSTU=
+
+Name: org/eclipse/equinox/p2/query/ExpressionQuery.java
+SHA1-Digest: GybARoTt6v4CO39hTenvVDHvpEg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/License.java
+SHA1-Digest: FyeINo6Ktt2LCI4WHyhNn9qHDgk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/WrappedIQuer
+ y.java
+SHA1-Digest: XlhGgGvMhjBBD+1c/o+togZ33Dc=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointData.java
+SHA1-Digest: XBKnzCFAWmCQh3zUrBVTFrH/lZE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointType.java
+SHA1-Digest: VQrQOJCZkSIqtDTXCZHHkB3Vgl8=
+
+Name: org/eclipse/equinox/p2/metadata/index/IIndex.java
+SHA1-Digest: fuPB3b2FT+USi5FjsmEM3Tq6DXQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Intersect.ja
+ va
+SHA1-Digest: PpTEiuAyyy7vPysjvKS+BYMjJVY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/And.java
+SHA1-Digest: reZQ0oZKy6FjTAZoGaiyeQLV/xc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Exists.java
+SHA1-Digest: IHis0WnE92XkAGe5Qxb4P+eQpa8=
+
+Name: org/eclipse/equinox/p2/metadata/expression/ExpressionUtil.java
+SHA1-Digest: GrM5NO2nguIFshiEoHE0CxcyTis=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LDAPApproxim
+ ation.java
+SHA1-Digest: mQZaqOMiGNP/Jdg2IOWhswjDX/o=
+
+Name: org/eclipse/equinox/internal/p2/metadata/UpdateDescriptor.java
+SHA1-Digest: pKsKshYwd3DhW15teJdsg1uLQBk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/At.java
+SHA1-Digest: DorXg0BB5a3MwtCyn5c/VZf6hYk=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnit.java
+SHA1-Digest: /vWN0Vkh700LoRBXJbYhwiF/1i0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Collect.java
+SHA1-Digest: gT9a5qFjZufVOnmwZIuKuualLHE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/QLPar
+ ser.java
+SHA1-Digest: Zm5DpWZWyGu0tAUS73JktKvMZdY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvid
+ er.java
+SHA1-Digest: dTPsGidw1lDPCzRHdZ4jhYlOR9U=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpression.java
+SHA1-Digest: AP7ud3C1tasspxfUkXtzDbub8k8=
+
+Name: org/eclipse/equinox/p2/metadata/IProvidedCapability.java
+SHA1-Digest: Iv7K6JC23bu0M0S1xg6MgP9sTv8=
+
+Name: org/eclipse/equinox/p2/query/CollectionResult.java
+SHA1-Digest: JU/q5QYL6ZiNz79yJG3t1M8m5i8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointInstruction.j
+ ava
+SHA1-Digest: q5AMjWOezV32YyQQcsgODaT8aCc=
+
+Name: org/eclipse/equinox/p2/query/QueryUtil.java
+SHA1-Digest: lKIDKQiTQEexwnX9qH3cTUxjSz8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/IdIndex.java
+SHA1-Digest: mNoNYpM0O4R5K1mawiiyqWaz4Nk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Variable.jav
+ a
+SHA1-Digest: WJ7xBlt2ojKb2bmBHzK7Bmph8ak=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RequirementChange.java
+SHA1-Digest: dqLy0WDPvrkosg/teN+ukjxgjas=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RangeFunctio
+ n.java
+SHA1-Digest: bjWPSbDUBF3ZG/sjjN+omUN6j5Y=
+
+Name: org/eclipse/equinox/p2/metadata/IRequirement.java
+SHA1-Digest: 9TvU/uDyGOM3Tx00d2+F3A1VBc0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ProvidedCapability.java
+SHA1-Digest: teOKCvc1j4EAW1Xb930/eksbByA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/VersionFunct
+ ion.java
+SHA1-Digest: 3jqJQZE1vNfdDDg4wJKjrOcUAiY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CollectionFi
+ lter.java
+SHA1-Digest: Qbhosjxh2pwLQv7TneF5BBNfIq8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnitFragment
+ .java
+SHA1-Digest: ZLyud+b14qOoucUKqaR4pWucP7w=
+
+Name: org/eclipse/equinox/internal/p2/metadata/MetadataActivator.java
+SHA1-Digest: DvmBU6OlkBzOXsVpETZ9rhnUJ+8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Compare.java
+SHA1-Digest: 5dSc4R9BxrENHTgEACpp10n/c8M=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionParser.jav
+ a
+SHA1-Digest: YpmcDZMN2oi4CAeSEl3sfnxJMas=
+
+Name: org/eclipse/equinox/internal/p2/metadata/IRequiredCapability.jav
+ a
+SHA1-Digest: ngcjKsG/6tafjJ8JOMYDEYW9cWQ=
+
+Name: org/eclipse/equinox/p2/metadata/IVersionFormat.java
+SHA1-Digest: NoMt05u8gyzHIgLZbBAySFxMRgU=
+
+Name: org/eclipse/equinox/p2/query/ExpressionMatchQuery.java
+SHA1-Digest: HB49XQ2eJywEHFO4FlnvpQwmpss=
+
+Name: plugin.properties
+SHA1-Digest: Sd3Pp9U0WLg5Zg160RC0PAHEqmA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RepeatableIt
+ erator.java
+SHA1-Digest: EOOiNxpBnCuU2i48jKPZBwHFjow=
+
+Name: org/eclipse/equinox/p2/metadata/MetadataFactory.java
+SHA1-Digest: iirWTLLjL7m//1cq6Ix3TrMM56Q=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Function.jav
+ a
+SHA1-Digest: HtN1FRM9ykibWeL1PRVZ2JwY2go=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/Expre
+ ssionParser.java
+SHA1-Digest: t7QZ7X4EtwHXafH2mHQfnxm4DVI=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnitPatch.ja
+ va
+SHA1-Digest: UpgBKg8R757/GxRwKCUWQY6C7J0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/UnaryCollect
+ ionFilter.java
+SHA1-Digest: swEALsBVVybOLhQW+s+Ddz96zWk=
+
+Name: org/eclipse/equinox/p2/metadata/IRequirementChange.java
+SHA1-Digest: sXGXxZrwKsdlL57qFqQXgBPh/f8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/Messages.java
+SHA1-Digest: 7jBhi89UD+OZkyGolOHFkWisXFg=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern.java
+SHA1-Digest: uE0lcnX3zuwq+Ermggf34g5PYaI=
+
+Name: org/eclipse/equinox/p2/query/Collector.java
+SHA1-Digest: PFUHExKMvFUjH4SKn9FJ2b8jlN0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Or.java
+SHA1-Digest: VECtlKjW8+0axTHp2Ab3ql5fcJM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/query/UpdateQuery.java
+SHA1-Digest: nNS51rQlJ6cNBbMvuGzF/xUK3l8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Limit.java
+SHA1-Digest: e9Fti3DtFnqhqcrJcvIp7GQrgbs=
+
+Name: org/eclipse/equinox/p2/metadata/VersionFormatException.java
+SHA1-Digest: SC4fF2PsxlvMapaSigIOHTomoYg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/SetFunction.
+ java
+SHA1-Digest: wXX3SndwQKC/DYFx2WxyWGerkZ8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionParser.java
+SHA1-Digest: Xr1kuDR4F4E4OihtVMnJ9z84mK8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/Index.java
+SHA1-Digest: ouSqrtPjdYA2YT/9Vb+9p0VVHo0=
+
+Name: org/eclipse/equinox/p2/metadata/Version.java
+SHA1-Digest: wHEjwmb1LIw/jbqxMJ/GhVyIQFs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Select.java
+SHA1-Digest: 6wfrhHb9a0ITLGwm8GfeJ5vCnHU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/IUMap.java
+SHA1-Digest: dR7d4Rh4c1HQE9W7x4XgwS+fAu0=
+
+Name: org/eclipse/equinox/p2/metadata/ILicense.java
+SHA1-Digest: yn8BBQAaUMTz2uj/aS4BBRmtmpY=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointType.java
+SHA1-Digest: Wf616Z7lK2qHHws0nMjQ29lwVGg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser.jav
+ a
+SHA1-Digest: ZIysZzfML0lQg1mztHTFVqqra+0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Unary.java
+SHA1-Digest: RoL+/1ijYeRRHFtSAdNGaJyZP+4=
+
+Name: org/eclipse/equinox/p2/metadata/index/IQueryWithIndex.java
+SHA1-Digest: jfG6RHkPTNLadlVbxGMdRh42U/k=
+

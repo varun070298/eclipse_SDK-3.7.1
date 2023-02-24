@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 4Y/h2hb5w976tjv37ubI2fHPjKU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: nMMn0530kOiVXMsGQ91CAAlSwHI=
+
+Name: fragment.properties
+SHA1-Digest: MubIAMz+uV0S7hQXJhOudwY/vw4=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/BundleHelper.java
+SHA1-Digest: EEX9PA2iaNBS/+wBv7eGjUTaRNw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/ExtensionHandle.java
+SHA1-Digest: Ltxz5sItn2PayZ0WCnLOR6MDn6c=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/runtime/IExte
+ nsion.java
+SHA1-Digest: AUTz6skdCT6CrJR8WS8rMhb2C0A=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/ExtensionPointHandle.java
+SHA1-Digest: e9HGctkgeu9tkRrTfg3BBFWMW9A=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/runtime/IExte
+ nsionPoint.java
+SHA1-Digest: OfmxHu3lNJ1BVOY7KSdCqol1xLI=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/RegistryCompatibilityHelper.java
+SHA1-Digest: 7QuC2q1ZmBpQWRP5RhiBs8ewW5Q=
+

@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.transport.ecf;version="1.
+ 0.0.v20110510";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.transport.ecf.source
+Bundle-Version: 1.0.0.v20110510
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/FileInfoReader.jav
+ a
+SHA1-Digest: j9LzTaR9+hTZZfszqn360KZu2mA=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryStatus.j
+ ava
+SHA1-Digest: 6TU/7wqbVGBYaDqC0Km0DnAADBE=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/Messages.java
+SHA1-Digest: xGLn6JUAeM5lSKerLp4tk2RjG48=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryStatusHe
+ lper.java
+SHA1-Digest: Xym5Npw5xJEDDIGwjgXH9yJSC0k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryTranspor
+ t.java
+SHA1-Digest: lr37Q8vmKcfss7+JGUa9Aaq6DEg=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/ECFTransportCompon
+ ent.java
+SHA1-Digest: ehm4gStLy22/tvmkp1qKJ/bqQz4=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/FileReader.java
+SHA1-Digest: mkNflCBp6RyDHfFRkQd+o0NjFQw=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/Activator.java
+SHA1-Digest: CWxcSTHCP3fWERD0ix0syBr8w58=
+
+Name: plugin.properties
+SHA1-Digest: jO3d7/2CRVeaN+nrAQABh+Q9H5Y=
+

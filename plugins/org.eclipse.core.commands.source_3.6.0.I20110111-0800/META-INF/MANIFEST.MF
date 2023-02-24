@@ -1,0 +1,265 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.commands;version="3.6.0.I201101
+ 11-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.commands.source
+Bundle-Version: 3.6.0.I20110111-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/commands/ParameterValuesException.java
+SHA1-Digest: WvnCZfpBQ8qsWEBirhhOy3vIViA=
+
+Name: org/eclipse/core/commands/IObjectWithState.java
+SHA1-Digest: SV3ZOXRQUDTxSnGqgKZHjRr6NDg=
+
+Name: org/eclipse/core/commands/AbstractParameterValueConverter.java
+SHA1-Digest: dNmTORGFox9Ubpn/uWmK90qiE/c=
+
+Name: org/eclipse/core/commands/SerializationException.java
+SHA1-Digest: 9ujG05JnREinBJ7eiT58KQVhkLo=
+
+Name: org/eclipse/core/commands/State.java
+SHA1-Digest: a1q8EmqXTWWFNuheyutTauW++qU=
+
+Name: org/eclipse/core/commands/IHandlerAttributes.java
+SHA1-Digest: iDwO2TCcL4bxslsrz7ntElMXEW0=
+
+Name: org/eclipse/core/commands/Command.java
+SHA1-Digest: EAYALmQApeI5Cwn8IfzPn5QiTWg=
+
+Name: org/eclipse/core/commands/util/Tracing.java
+SHA1-Digest: 4tMFx0RZr0UdYbfSwzIN/00ugjg=
+
+Name: org/eclipse/core/commands/contexts/ContextManager.java
+SHA1-Digest: u4HolipbS63CMcfSQOyIexHXI7o=
+
+Name: org/eclipse/core/commands/IHandlerListener.java
+SHA1-Digest: hdIueG27pniYcAZuWx5hwYRzEII=
+
+Name: org/eclipse/core/commands/operations/IOperationApprover.java
+SHA1-Digest: bwFgn2L848niNtCdx0e5E1cCmYc=
+
+Name: org/eclipse/core/commands/operations/IUndoContext.java
+SHA1-Digest: BWYvKggkBy9qI1fvg78ZUjr3C6Q=
+
+Name: org/eclipse/core/commands/NotEnabledException.java
+SHA1-Digest: knz26yLSIpsRljTbS7JJ6lHAsJQ=
+
+Name: org/eclipse/core/commands/common/AbstractHandleObjectEvent.java
+SHA1-Digest: /5tANfe62S/IlfpzUOXo7DhrcIQ=
+
+Name: org/eclipse/core/commands/operations/IOperationApprover2.java
+SHA1-Digest: UJeRfyhpTIfCzeTiB2x6DKX0LPU=
+
+Name: org/eclipse/core/commands/operations/DefaultOperationHistory.jav
+ a
+SHA1-Digest: dytMB8TQDeoL40Zl7UjXDKj/5pE=
+
+Name: org/eclipse/core/commands/operations/UndoContext.java
+SHA1-Digest: JEGB0Zb0dyQzo7QFnb7ekRoyblE=
+
+Name: org/eclipse/core/commands/operations/LinearUndoEnforcer.java
+SHA1-Digest: 6IcarwygJ8NCF2VIjxBTEzcgUfo=
+
+Name: org/eclipse/core/commands/operations/ICompositeOperation.java
+SHA1-Digest: XGYkhxhqF6xY4R5PIcAmDK9+ISM=
+
+Name: org/eclipse/core/commands/CommandManagerEvent.java
+SHA1-Digest: gbPBTyLyfzz8Yub7DE5IiSRBznM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/commands/IParameterValues.java
+SHA1-Digest: D/ZIlhnDgozlMRzGr36A9Lp+aMQ=
+
+Name: org/eclipse/core/commands/operations/TriggeredOperations.java
+SHA1-Digest: 6tvWDbjhx96GX1v6bhuxl2IHpCA=
+
+Name: org/eclipse/core/commands/IParameter.java
+SHA1-Digest: W3ZWNkqvsrWSq6giZfMvH7cytmM=
+
+Name: org/eclipse/core/commands/INamedHandleStateIds.java
+SHA1-Digest: VkRw3oxZdbpfX26nHoRDAJ8rkVQ=
+
+Name: org/eclipse/core/commands/common/AbstractBitSetEvent.java
+SHA1-Digest: 81kKfVaJVI5X0v4sIkRkaDooWsw=
+
+Name: org/eclipse/core/commands/Category.java
+SHA1-Digest: E2k5QdcY29C0/rnHrjABGJeQX6g=
+
+Name: org/eclipse/core/commands/ParameterValueConversionException.java
+SHA1-Digest: +p6Eh8+io7r3HxmO2h09m91EquU=
+
+Name: org/eclipse/core/commands/Parameterization.java
+SHA1-Digest: chLeyshXZDo9EQZ8OysoF/rSSZQ=
+
+Name: org/eclipse/core/commands/ExecutionException.java
+SHA1-Digest: fozUVAgRaTJGvWLCQ/O/T8fFu2Q=
+
+Name: org/eclipse/core/commands/ICommandListener.java
+SHA1-Digest: hGHpl/pwyRstqBiC69IVabLJwxI=
+
+Name: org/eclipse/core/commands/common/NotDefinedException.java
+SHA1-Digest: R1S9EwpCTfTdpRxSgeutVnI6Kp0=
+
+Name: org/eclipse/core/commands/IExecutionListenerWithChecks.java
+SHA1-Digest: T3oRUQDJ61jieuTAMTexkGp6+yk=
+
+Name: org/eclipse/core/commands/AbstractHandler.java
+SHA1-Digest: CH1Vhb3hpCBtOZzM8dDU8OuA8is=
+
+Name: org/eclipse/core/commands/operations/IOperationHistory.java
+SHA1-Digest: WmrBl4Zuyb9YGgNhR+HTqeM4aok=
+
+Name: org/eclipse/core/commands/common/NamedHandleObjectComparator.jav
+ a
+SHA1-Digest: rc5rBRlE8G4JOsFCi90rzJQWtuo=
+
+Name: org/eclipse/core/commands/operations/IUndoableOperation.java
+SHA1-Digest: mc6/jbCrfORBAmTIQ+AGpqUKTRk=
+
+Name: org/eclipse/core/commands/CommandEvent.java
+SHA1-Digest: EKPhrSipa3bniE7+9XENRWW+LXA=
+
+Name: org/eclipse/core/commands/IParameterTypeListener.java
+SHA1-Digest: d7YazUuQTiyxScgTWqyXlmHbtFM=
+
+Name: org/eclipse/core/commands/operations/ObjectUndoContext.java
+SHA1-Digest: efHRNLbyuu9OQ4hT2fO9XocP1w4=
+
+Name: org/eclipse/core/commands/CategoryEvent.java
+SHA1-Digest: fPox5ZRjt1/TqbaryJzrbsOqKpQ=
+
+Name: org/eclipse/core/commands/IExecutionListener.java
+SHA1-Digest: eCouhZ/QrDYffVCp3QwFkI7/X2U=
+
+Name: org/eclipse/core/commands/AbstractHandlerWithState.java
+SHA1-Digest: m2VyRZvdQNoFV9ppF1Jnk2u7OvA=
+
+Name: org/eclipse/core/commands/common/EventManager.java
+SHA1-Digest: 3KcpNJ682kqz1YBqbyCa/mAUoFs=
+
+Name: org/eclipse/core/commands/contexts/ContextEvent.java
+SHA1-Digest: E/BSUkJOGyh4MfZtT368efwpomQ=
+
+Name: org/eclipse/core/commands/CommandManager.java
+SHA1-Digest: uGOwjAHdEJCaILWhgZSDqUjbpL4=
+
+Name: org/eclipse/core/commands/ExecutionEvent.java
+SHA1-Digest: nMaj/h/c83I1sMQmcHSPvORv3Xc=
+
+Name: org/eclipse/core/commands/operations/LinearUndoViolationDetector
+ .java
+SHA1-Digest: TSeW4aVUeVC/+P8yFyPaDTg6TAI=
+
+Name: org/eclipse/core/commands/common/IIdentifiable.java
+SHA1-Digest: F8yn9k8NfmnzMeY4sb4On47GP4E=
+
+Name: plugin.properties
+SHA1-Digest: YAJKQw1KTztC1725xidCi7qmYco=
+
+Name: org/eclipse/core/commands/operations/OperationStatus.java
+SHA1-Digest: VgqE1YpsZCpajcIkCbwllMcSecE=
+
+Name: org/eclipse/core/commands/ITypedParameter.java
+SHA1-Digest: kZo+Eg5UEQz7tKInWQchf2JxX/c=
+
+Name: org/eclipse/core/commands/common/CommandException.java
+SHA1-Digest: c3olY5QO+jp+H2jOx1ShxYouqUg=
+
+Name: org/eclipse/core/commands/NotHandledException.java
+SHA1-Digest: FFX9CaThKNw0JBTH9ioYib7x3ww=
+
+Name: org/eclipse/core/commands/ParameterizedCommand.java
+SHA1-Digest: snRUZD6VepAvwr0MeRQYPnkQr4U=
+
+Name: org/eclipse/core/commands/operations/IAdvancedUndoableOperation2
+ .java
+SHA1-Digest: 125bDbBAVjvO4xVYk3BOLXC6dHw=
+
+Name: org/eclipse/core/commands/ParameterType.java
+SHA1-Digest: cpDZYk0VCFyNxrKSbnD8Kpp/6ZE=
+
+Name: org/eclipse/core/internal/commands/operations/GlobalUndoContext.
+ java
+SHA1-Digest: kSb3XW++zaOEOOw0u5mQbzAf2Iw=
+
+Name: org/eclipse/core/commands/ICommandManagerListener.java
+SHA1-Digest: t8sgBIDwUqCyHs1Cv8IFz/kSxHI=
+
+Name: org/eclipse/core/commands/NamedHandleObjectWithState.java
+SHA1-Digest: I915FtD89FRaxiZIe6iWXrzdFuA=
+
+Name: org/eclipse/core/commands/common/AbstractNamedHandleEvent.java
+SHA1-Digest: LrTKxOvugNyjb4OmxL7RzO8gVH4=
+
+Name: org/eclipse/core/commands/operations/OperationHistoryEvent.java
+SHA1-Digest: dVaUsrIaSkhX4vBWyuE/xvFDLmI=
+
+Name: org/eclipse/core/commands/operations/IOperationHistoryListener.j
+ ava
+SHA1-Digest: AN31m2C1koAEitq7PTu5+SaOjHs=
+
+Name: org/eclipse/core/commands/contexts/Context.java
+SHA1-Digest: f6RAMNkS26OA1O0Dh84++76xhZk=
+
+Name: org/eclipse/core/commands/operations/AbstractOperation.java
+SHA1-Digest: IkEV5vLLpkzOlP/cSORQMREIls8=
+
+Name: org/eclipse/core/commands/common/HandleObjectManager.java
+SHA1-Digest: qnN2GioKQnQOsdzZJb/e14ae19Y=
+
+Name: org/eclipse/core/commands/IHandler.java
+SHA1-Digest: g2GNTCmg/NH5ierQqsIBqutGJFQ=
+
+Name: org/eclipse/core/commands/IHandler2.java
+SHA1-Digest: C8wYgGp3cYWauqGAcqh4KOghJDE=
+
+Name: org/eclipse/core/commands/common/NamedHandleObject.java
+SHA1-Digest: emX3tqrqHu9aTIM3p3yWf23geJ4=
+
+Name: org/eclipse/core/commands/IStateListener.java
+SHA1-Digest: QoTD7WYCuf0A7aHSeGS5uWEadtk=
+
+Name: org/eclipse/core/commands/operations/OperationHistoryFactory.jav
+ a
+SHA1-Digest: upTjwVtw21g8dbPSpTdjjJVkkC8=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/commands/ParameterTypeEvent.java
+SHA1-Digest: rZ27DCL2g3ha0q3O9CjemtTd8WI=
+
+Name: org/eclipse/core/commands/common/HandleObject.java
+SHA1-Digest: rMoHdHVIWqZu4sHO7KQOVzskEYo=
+
+Name: org/eclipse/core/internal/commands/util/Util.java
+SHA1-Digest: aSvmbWVRADFAbdq40euCcZyxL14=
+
+Name: org/eclipse/core/commands/contexts/IContextListener.java
+SHA1-Digest: jHF+GSaBYXDg8jBQzWNYx7n3FfA=
+
+Name: org/eclipse/core/commands/contexts/ContextManagerEvent.java
+SHA1-Digest: 7arN/AVud356Sy49ozKrT269Zig=
+
+Name: org/eclipse/core/commands/contexts/IContextManagerListener.java
+SHA1-Digest: L0sBtcF+34TV+0OLP5+GAo7g9e0=
+
+Name: org/eclipse/core/commands/HandlerEvent.java
+SHA1-Digest: jMdnBizjEgQiFgboms8eC1YOOQI=
+
+Name: org/eclipse/core/commands/operations/IAdvancedUndoableOperation.
+ java
+SHA1-Digest: ZjRrVoX0WROBg/er+FQIiihMVO0=
+
+Name: org/eclipse/core/commands/operations/IContextReplacingOperation.
+ java
+SHA1-Digest: BsiVnZUWhhfSjDHd81mtbOPQDuM=
+
+Name: org/eclipse/core/commands/ICategoryListener.java
+SHA1-Digest: B5D5Cag6fKMHeSK4XKbBgyjLj4I=
+

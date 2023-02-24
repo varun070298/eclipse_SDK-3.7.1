@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.ui.sdk.scheduler;version=
+ "1.0.100.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.p2.ui.sdk.scheduler.source
+Bundle-Version: 1.0.100.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ sPopup.java
+SHA1-Digest: dF7bdDvStAwsNPeZuGLWDl8s9sw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Plugin.java
+SHA1-Digest: eYlac47TiRTfLc3wrwUhIosCXXc=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/PreferenceIniti
+ alizer.java
+SHA1-Digest: wQXCusew4cbS+zA0fq0LZDwpgjQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ sPreferencePage.java
+SHA1-Digest: NsXOEgn524slV25OeBtIhxKrgfs=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Scheduler.java
+SHA1-Digest: nH0XFi1YB+5DF46DJAVapUulQXw=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/StatusLineCLabe
+ lContribution.java
+SHA1-Digest: Fxv2aam3g0Mq1Q01w5ExI2dkxRE=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: 2la3352pWsxC+rlSx9d7d/YLNGY=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Messages.java
+SHA1-Digest: zHJZ4yYp/6oj+piFSyZEjU3vJko=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ r.java
+SHA1-Digest: 26DWdlQ4CAfnC/rRzWT6MWepJB8=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/PreferenceConst
+ ants.java
+SHA1-Digest: cn9qf7N4HRdXccJF7+nlwIiRe6Q=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/IAutomaticUpdat
+ erHelpContextIds.java
+SHA1-Digest: IcbgvoawvW/3fmGCneX6kZ4uk0g=
+

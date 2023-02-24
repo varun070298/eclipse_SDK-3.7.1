@@ -1,0 +1,246 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ewOOE5KBVXGY2/ncsIHxMVP9Spw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: h6Mhe9ks9hTw18r+7YPCd4RPbzI=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/Contribu
+ tedClasspathEntriesEntry.java
+SHA1-Digest: Yav5wuMuZDF0KhY+STKrUoG6Tfs=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntClass
+ pathProvider.java
+SHA1-Digest: HQjz+6+ACU7/OG27UfDC4JuS39s=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/InputHan
+ dlerSetter.java
+SHA1-Digest: uIE2mJhaWCaRgSyqx6o4obe40YU=
+
+Name: lib/loggerssrc/org/eclipse/ant/internal/launching/runtime/logger
+ /AntProcessDebugBuildLogger.java
+SHA1-Digest: N9WUzgAKVEpwr/gFQJI24EygK+M=
+
+Name: org/eclipse/ant/internal/launching/AntLaunchingPreferenceInitial
+ izer.java
+SHA1-Digest: UtpVLXxrUexJZpMW1SmtH6lSOZ4=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/DemuxInp
+ utStreamSetter.java
+SHA1-Digest: B5dPcUxyEcu0IrLPHvKj7f/IrUQ=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/logger/M
+ essageIds.java
+SHA1-Digest: wleuDjQ7Nohf0lM+fvu249pCtsI=
+
+Name: lib/antdebugsrc/org/eclipse/ant/internal/launching/debug/IDebugB
+ uildLogger.java
+SHA1-Digest: 9glpnxmGxWCnfssaA3ba/XgIb3A=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntProperties.jav
+ a
+SHA1-Digest: 6P9kvHmDGiipojdtb9IZORLiBQQ=
+
+Name: org/eclipse/ant/internal/launching/debug/IAntDebugController.jav
+ a
+SHA1-Digest: JLn5a40X+qAL8s6Djy1bpCqlQlQ=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/logger/R
+ emoteAntDebugBuildLogger.java
+SHA1-Digest: orZj07IMtN8tsTkJA4a2iVaA5fE=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/EclipseD
+ efaultExecutor.java
+SHA1-Digest: iiq7fnYcNbdOoQmle1vneCVqNrg=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/EclipseS
+ ingleCheckExecutor.java
+SHA1-Digest: Eb48XBUf2vovfRfLezG0G5JedBM=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/MessageI
+ ds.java
+SHA1-Digest: a6DfWuPJ0RJHqy8Rqb2EydaskPQ=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntThread.java
+SHA1-Digest: fUuTDOF4pDheO7sj197N+BscuK4=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntLaunc
+ hConfigurationMessages.java
+SHA1-Digest: nT4YfkBalwlKoBpspQV03fr4iFs=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntProce
+ ss.java
+SHA1-Digest: hplFFfHu+zNtqWsaqV0womVzQFo=
+
+Name: lib/loggerssrc/org/eclipse/ant/internal/launching/runtime/logger
+ /RuntimeMessages.java
+SHA1-Digest: oLoFoehodWKP53WXdLlFF+yDk0I=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/logger/R
+ emoteAntBuildLogger.java
+SHA1-Digest: 035ivWFFgmYGPhv+9NAwEJKxP7A=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ant/internal/launching/debug/model/DebugMessageIds.j
+ ava
+SHA1-Digest: 7k4LqHuXVp2NQMMMd6VIKFCz52U=
+
+Name: org/eclipse/ant/internal/launching/AntCoreModelMessages.java
+SHA1-Digest: /vLPaZ+5o3P0QVgL6hKwxy4/Bz0=
+
+Name: org/eclipse/ant/internal/launching/AntLaunch.java
+SHA1-Digest: zDCObgeLvzdVhvMytUflzA6+DWE=
+
+Name: org/eclipse/ant/launching/IAntLaunchConstants.java
+SHA1-Digest: /9XF9Pae2Mpm/7LJty+DEy+jViE=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntProperty.java
+SHA1-Digest: 7oCeBmJ5L/O4orqqbAqc26U/9sA=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntValue.java
+SHA1-Digest: fQaPnqpUhrOutjAtYukXTg14skg=
+
+Name: lib/loggerssrc/org/eclipse/ant/internal/launching/runtime/logger
+ /NullBuildLogger.java
+SHA1-Digest: Lu7JfSMtYvhcHwUQSkhP3Amw0m4=
+
+Name: org/eclipse/ant/internal/launching/LinkDescriptor.java
+SHA1-Digest: +QjPbbQAGT1ZuzQgCWjAQzJrYe0=
+
+Name: org/eclipse/ant/internal/launching/AntLaunching.java
+SHA1-Digest: h+z5/i+gTXFjEF00dLo2uIJohTw=
+
+Name: org/eclipse/ant/internal/launching/debug/model/DebugModelMessage
+ s.java
+SHA1-Digest: ipJzg+gYJC5S3twVMYeQFcyHtF4=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntJavaL
+ aunchDelegate.java
+SHA1-Digest: eyNu9dqIBChITB0wXK5x00X1PDw=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntLaunc
+ hDelegate.java
+SHA1-Digest: V5Tx5E1PyuUMKmbLTkgesfAzSeI=
+
+Name: org/eclipse/ant/internal/launching/debug/model/RemoteAntDebugBui
+ ldListener.java
+SHA1-Digest: ++rAjUqjbflqPk8No0eRWafN5pA=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntDebugTarget.ja
+ va
+SHA1-Digest: 3yWYzNkIf6MH0cDDxpIlvBcgVUQ=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/RemoteAn
+ tProcessFactory.java
+SHA1-Digest: KAJarr0lFKk20D5Vlravjq6fDGc=
+
+Name: org/eclipse/ant/internal/launching/debug/AntSourcePathComputerDe
+ legate.java
+SHA1-Digest: gQFYZk380D1MK4DE5w8OFBUyG+M=
+
+Name: lib/antdebugsrc/org/eclipse/ant/internal/launching/debug/AntDebu
+ gState.java
+SHA1-Digest: SaHpBdnF7pYnDY+mlXV+FKLbTr0=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/AntSecur
+ ityManager.java
+SHA1-Digest: GVBJNp3ojJoEHhSyYFyr7ikpsvg=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntStackFrame.jav
+ a
+SHA1-Digest: GGqahCjBSHji1sovxUsYwOxM9ZM=
+
+Name: org/eclipse/ant/internal/launching/debug/AntSourceContainer.java
+SHA1-Digest: xj1ueuQ7mZuMcQ4Hzq5pkPi99kg=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntPropertiesValu
+ e.java
+SHA1-Digest: HsUoIyLdnJSDZaIBksM193mSuPA=
+
+Name: org/eclipse/ant/internal/launching/debug/IAntDebugConstants.java
+SHA1-Digest: fWWxgCxYeZmme+XVB0c8TrsyZW8=
+
+Name: org/eclipse/ant/internal/launching/debug/AntDebugMessages.java
+SHA1-Digest: wBT+VNOsJPFXLi1NKubTdk85M0k=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/RemoteAn
+ tBuildListener.java
+SHA1-Digest: asxkFj59gZdAI8tQWsElUPpbDQ8=
+
+Name: plugin.properties
+SHA1-Digest: EY7IhZ3aRTgIzDMFhOBMux47fug=
+
+Name: org/eclipse/ant/internal/launching/AntLaunchingUtil.java
+SHA1-Digest: kV5lh/wgNtJodvk8pimRAeXFjnY=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/RemoteAn
+ tMessages.java
+SHA1-Digest: mE1euo8auF4tiyiOKy+mp721N9g=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntDebugElement.j
+ ava
+SHA1-Digest: jKPpjscTe30RaFhDT6d+rJwKmUk=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/AntSecur
+ ityException.java
+SHA1-Digest: MIh95qcem1SFYcUBkre7fKn6R3A=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntMigra
+ tionDelegate.java
+SHA1-Digest: OeFelHIR2Fx5vHB/XU9Jp33ZFw8=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/RemoteAn
+ tRuntimeProcess.java
+SHA1-Digest: ytNEKA3KQey7typG0THmu8WIsHo=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/Internal
+ AntRunner.java
+SHA1-Digest: TDQ3tFWxIWPClIQQXtHhGeUN3+M=
+
+Name: org/eclipse/ant/internal/launching/debug/AntSourceLookupParticip
+ ant.java
+SHA1-Digest: u1F3GxME2GG44zsyu24l8ljJk9s=
+
+Name: about.html
+SHA1-Digest: RGZnPUirt9ZA8EDiJ5edPmil8zE=
+
+Name: lib/loggerssrc/org/eclipse/ant/internal/launching/runtime/logger
+ /AntProcessBuildLogger.java
+SHA1-Digest: 8RkmRDCVRHAaXcaO72tsv0iR1SE=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/inputhan
+ dler/FailInputHandler.java
+SHA1-Digest: DkD8bB6yaVwd17Ev+/o9oGPBB7I=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/logger/R
+ emoteAntBreakpoint.java
+SHA1-Digest: 0kHNntYCyxpul76fUbsdzFF7e34=
+
+Name: lib/remotesrc/org/eclipse/ant/internal/launching/remote/Executor
+ Setter.java
+SHA1-Digest: oT1voLxp3grd6kq0erGSWVaVbM8=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntStrea
+ mMonitor.java
+SHA1-Digest: Yin/+gf8TRNATXXcnuZI+A3RcZk=
+
+Name: org/eclipse/ant/internal/launching/IAntLaunchingPreferenceConsta
+ nts.java
+SHA1-Digest: T4cFB384EeY/n78VfD1KsHiG+LQ=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntStrea
+ msProxy.java
+SHA1-Digest: JbmCWNAA415xtpLeGBALyBm1DbI=
+
+Name: org/eclipse/ant/internal/launching/debug/AntSourceLookupDirector
+ .java
+SHA1-Digest: evYaxmYJsMr/x63RC0eVgkIrZzo=
+
+Name: org/eclipse/ant/internal/launching/debug/model/AntLineBreakpoint
+ .java
+SHA1-Digest: iyUcnk7zIpIY9gdDNB35M8MaLHo=
+
+Name: org/eclipse/ant/internal/launching/launchConfigurations/AntHomeC
+ lasspathEntry.java
+SHA1-Digest: sNiyI+RmYt5fpj6LXdTMuLaJQ6k=
+

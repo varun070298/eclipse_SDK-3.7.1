@@ -1,0 +1,69 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: XYPctNl8rjPOULsP2a43T+is1Ns=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: H5RZY3umtrSfdCod2KQWXaE2Mic=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeOutputJavaF
+ ileObject.java
+SHA1-Digest: BoamiX0enTu2mzbouESSkSFDzvI=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeJavaSourceO
+ utputStream.java
+SHA1-Digest: DTZWDMZOzQwod9JcLAz87lx0GFM=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeOutputFileO
+ bject.java
+SHA1-Digest: InIUczFBCSgDA322ffTuS3QZQHg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/dispatch/IdeProcessi
+ ngEnvImpl.java
+SHA1-Digest: wicX6lopPXJGl9Vn6zSBIfcpk90=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeFilerImpl.j
+ ava
+SHA1-Digest: Xv9P1NOBPRDR87auDvmtHAikg+o=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/Apt6Plugin.java
+SHA1-Digest: W2p8iAazyff8B/UElJNhImbh99M=
+
+Name: plugin.properties
+SHA1-Digest: MWwZZW6wKPdvEK0b3xnLI6RFKvA=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/Apt6CompilationParti
+ cipant.java
+SHA1-Digest: 1upesjYBfwJ2W2LCo+c+6WECh+I=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/dispatch/IdeBuildPro
+ cessingEnvImpl.java
+SHA1-Digest: uBrcqa8HNJkEiHGMQTPIcra6flk=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/dispatch/IdeReconcil
+ eProcessingEnvImpl.java
+SHA1-Digest: pPMkUi7O44SnaNbzYu33iBTiwmk=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/dispatch/IdeMessager
+ Impl.java
+SHA1-Digest: 8tWvVy/ySwfNBYc8sN82doLy7Q4=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/dispatch/IdeAnnotati
+ onProcessorManager.java
+SHA1-Digest: d8qT4BAm3uzIDp4oY0zZyBikoHo=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeNonSourceOu
+ tputStream.java
+SHA1-Digest: RHCUQ9KtNSVdhMCQn2aU5SS4X/o=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeInputFileOb
+ ject.java
+SHA1-Digest: ebl5Dkc4L3CvipGtedkZgZbeLi0=
+
+Name: org/eclipse/jdt/internal/apt/pluggable/core/filer/IdeOutputNonSo
+ urceFileObject.java
+SHA1-Digest: ZPX+tyo9FT8poBKHBGECkXWMCS0=
+

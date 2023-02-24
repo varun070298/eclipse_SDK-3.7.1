@@ -1,0 +1,92 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: uWg1FbmPY8CkAG4xkd7qHgdSsPQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: hMJWVFhE0z2TXTTX+4MljIa39oM=
+
+Name: org/eclipse/equinox/internal/p2/director/AttachmentHelper.java
+SHA1-Digest: fEHO1uijbB3+BJKPb4Pk3of0YyE=
+
+Name: org/eclipse/equinox/internal/p2/director/Messages.java
+SHA1-Digest: N0DFmbTrL4m5HzpGTWJvnOJdLSA=
+
+Name: org/eclipse/equinox/p2/planner/ProfileInclusionRules.java
+SHA1-Digest: 1ZMScnpsInkBrkbGaDtQmOhCzDQ=
+
+Name: plugin.properties
+SHA1-Digest: 2eqYbgxrKIYkq65Ja9NBhXbAkl4=
+
+Name: org/eclipse/equinox/p2/planner/IProfileChangeRequest.java
+SHA1-Digest: G/Yjh3u0vsEMUquh9esfLo8w9r8=
+
+Name: org/eclipse/equinox/internal/p2/director/InfiniteProgress.java
+SHA1-Digest: cN0gOglw/8XykIFmzwmfZloPI50=
+
+Name: org/eclipse/equinox/internal/p2/director/ApplicablePatchQuery.ja
+ va
+SHA1-Digest: AV2PNItjQwZNl+3t/qeETWis4MY=
+
+Name: org/eclipse/equinox/internal/p2/director/PermissiveSlicer.java
+SHA1-Digest: uLYany08FVmnsURBTxwu19cgiwo=
+
+Name: org/eclipse/equinox/internal/provisional/p2/director/RequestStat
+ us.java
+SHA1-Digest: 7mcCgs5lUDC7D1m+iZ7/UeMzX8U=
+
+Name: org/eclipse/equinox/internal/p2/director/QueryableArray.java
+SHA1-Digest: nyjzin/BGmeOE3VSkxqTgGysjxE=
+
+Name: org/eclipse/equinox/internal/p2/director/DirectorActivator.java
+SHA1-Digest: 2gPoJmLIU71+Ckw3aGAbBwhzBFQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/director/OperationGenerator.java
+SHA1-Digest: T4xts2bXHlmGxHqYu/caY1/KKQ4=
+
+Name: org/eclipse/equinox/internal/provisional/p2/director/IDirector.j
+ ava
+SHA1-Digest: cAms/ZS23Xur13FYxbx5F5jO+T0=
+
+Name: org/eclipse/equinox/internal/p2/director/PlannerComponent.java
+SHA1-Digest: mcLEewO+RWSGVvKXvtG1Ur4QnDo=
+
+Name: org/eclipse/equinox/p2/planner/IPlanner.java
+SHA1-Digest: CJ2ufdeR/0fGUmHzXph+lSYdp2I=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/director/SimplePlanner.java
+SHA1-Digest: r98iUybuRkHeYCCM+7TNJ9p0E1o=
+
+Name: org/eclipse/equinox/internal/p2/director/Projector.java
+SHA1-Digest: 2CFnCdfaN4R1hRtObEif1abl1Ts=
+
+Name: org/eclipse/equinox/internal/p2/director/Slicer.java
+SHA1-Digest: 4jYX/1RU7fOV8p6Rjkx5dv3oKdM=
+
+Name: org/eclipse/equinox/internal/p2/director/Explanation.java
+SHA1-Digest: +uo1Coai9HkWYaV/bHAwvL6R4yk=
+
+Name: org/eclipse/equinox/internal/p2/director/SimpleDirector.java
+SHA1-Digest: MbPqB6Qpsnfzt5JDpGd9vLyI9Ug=
+
+Name: org/eclipse/equinox/internal/p2/rollback/FormerState.java
+SHA1-Digest: lXl/M+xpv0VGndT6BGcDk0vdDnI=
+
+Name: org/eclipse/equinox/internal/provisional/p2/director/PlannerStat
+ us.java
+SHA1-Digest: /09Rz8x09N60i+vJeCjvn8a8c8w=
+
+Name: org/eclipse/equinox/internal/p2/director/DirectorComponent.java
+SHA1-Digest: bTloOhEPy/GfH/3qehjn7l8CO3U=
+
+Name: org/eclipse/equinox/internal/p2/director/ProfileChangeRequest.ja
+ va
+SHA1-Digest: 2xzLJusaAFwf04yO6vucuXwjFpQ=
+
+Name: org/eclipse/equinox/internal/provisional/p2/director/PlanExecuti
+ onHelper.java
+SHA1-Digest: EPKrgFc73f2GaUIOpG4sIKNayLQ=
+

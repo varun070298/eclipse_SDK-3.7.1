@@ -1,0 +1,149 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 7e/vJ/VQ7M11/PsvJXZuxyb1sv4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 6vfAOekOOhwt839q6th+xd549m0=
+
+Name: org/eclipse/core/internal/preferences/PrefsMessages.java
+SHA1-Digest: RkzvGSdhV8xTkFrJSSkLlMJRVoc=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: DMnZPrY7w/ZEOj0YI/l8KoozuvM=
+
+Name: org/eclipse/core/runtime/preferences/IEclipsePreferences.java
+SHA1-Digest: v03EUxu/IGsxYAjKQC8ZnN4xZ60=
+
+Name: org/eclipse/core/internal/preferences/PreferencesService.java
+SHA1-Digest: +Q27XDskD8QdDCiud3xnxJWyuj8=
+
+Name: org/eclipse/core/runtime/preferences/ConfigurationScope.java
+SHA1-Digest: NYe3XzMFkvhZqcJQ8Mc9dm4DCPc=
+
+Name: org/eclipse/core/runtime/preferences/IExportedPreferences.java
+SHA1-Digest: jJ0CpQxIHQDowe4xisZ+CtChZLw=
+
+Name: org/eclipse/core/internal/preferences/ImmutableMap.java
+SHA1-Digest: 1iEo7pYWZUySqdRq1Kl8eprsghg=
+
+Name: org/eclipse/core/internal/preferences/AbstractScope.java
+SHA1-Digest: +zW2UjTTCLywTxj2M28zsfEyP0U=
+
+Name: org/eclipse/core/internal/preferences/BundleDefaultPreferences.j
+ ava
+SHA1-Digest: /QWY/JSt/tyOoV7wveE6FNO88/c=
+
+Name: org/eclipse/core/internal/preferences/exchange/IProductPreferenc
+ esService.java
+SHA1-Digest: eZlGva4a8E2xdNVGK1n9mBYp85o=
+
+Name: plugin.properties
+SHA1-Digest: fO2UgoD5fBjcbOa5xOAphKdIF+A=
+
+Name: org/osgi/service/prefs/Preferences.java
+SHA1-Digest: knAOypa0bRjtfQHJpyse8oWBjLg=
+
+Name: org/eclipse/core/runtime/preferences/DefaultScope.java
+SHA1-Digest: tam3znZtTqsoc2x8xLZdkBwBUUI=
+
+Name: org/eclipse/core/internal/preferences/ListenerRegistry.java
+SHA1-Digest: RKpTYJ0nKXGuC8VnhZrkJpd12mc=
+
+Name: org/eclipse/core/runtime/preferences/IPreferencesService.java
+SHA1-Digest: yajJgxd98ZMKn1U3p70raI2e9jw=
+
+Name: org/eclipse/core/internal/preferences/Base64.java
+SHA1-Digest: uspWcn+GzY5KAzse6chnsjwOMC4=
+
+Name: org/eclipse/core/runtime/preferences/AbstractPreferenceInitializ
+ er.java
+SHA1-Digest: XfKgbHJ6ysIOrrgGApqDoXrPUX4=
+
+Name: org/eclipse/core/internal/preferences/ExportedPreferences.java
+SHA1-Digest: VIH/sxoHGyiXLpeL+O2st6e1Iec=
+
+Name: org/eclipse/core/internal/preferences/StringPool.java
+SHA1-Digest: 69IPOdVsJA6bSX7VBZLkaF6HTyU=
+
+Name: org/eclipse/core/internal/preferences/InstancePreferences.java
+SHA1-Digest: xb88cB4KUHm1FVCvZ5BJdH1/cjM=
+
+Name: org/eclipse/core/runtime/preferences/PreferenceModifyListener.ja
+ va
+SHA1-Digest: uB9NX+ty1WJXGDPxkSNFT4nyJJs=
+
+Name: org/eclipse/core/runtime/preferences/PreferenceFilterEntry.java
+SHA1-Digest: In08nNPO0Ddh8ZtMm5C4V9ci9Dc=
+
+Name: org/eclipse/core/runtime/preferences/InstanceScope.java
+SHA1-Digest: A4Ga5jwbhrCjVU/0cH8mPrbMtx8=
+
+Name: org/eclipse/core/internal/preferences/IPreferencesConstants.java
+SHA1-Digest: V+54Yxwcrhy4B7HLkLSzBwxV3Ik=
+
+Name: org/eclipse/core/internal/preferences/OSGiPreferencesServiceImpl
+ .java
+SHA1-Digest: nfRqWEW1/MkcyYNTAWbVMbdytyc=
+
+Name: org/eclipse/core/internal/preferences/ConfigurationPreferences.j
+ ava
+SHA1-Digest: PQDZxMbZo4BdeduUDuTZrzdwsO0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/preferences/RootPreferences.java
+SHA1-Digest: 8xAI/wcuSzhOWBQJdgrBDReiXXU=
+
+Name: org/eclipse/core/internal/preferences/Activator.java
+SHA1-Digest: RUjk7gRmEDoPjQbrh07Sriwdol4=
+
+Name: org/eclipse/core/internal/preferences/LookupOrder.java
+SHA1-Digest: qAGhsw583xFo5hDoicWgibiByqA=
+
+Name: schema/preferences.exsd
+SHA1-Digest: 8s/jOPDrzLcczCd1P+ALcHdXLBQ=
+
+Name: org/eclipse/core/internal/preferences/exchange/ILegacyPreference
+ s.java
+SHA1-Digest: z0vnomV4dU0z1tlhzgFFopyemAU=
+
+Name: about.html
+SHA1-Digest: rrsP7lwTcdELpJKrPWMtel20nPo=
+
+Name: org/eclipse/core/internal/preferences/DefaultPreferences.java
+SHA1-Digest: hY0hEOnFcC7iOSd1khYyHV6ixPg=
+
+Name: org/eclipse/core/internal/preferences/PreferencesOSGiUtils.java
+SHA1-Digest: 0GgZngDgTTgyQX4MMlUaacPuafM=
+
+Name: org/eclipse/core/internal/preferences/OSGiPreferencesServiceMana
+ ger.java
+SHA1-Digest: GZX0lgwPK79ObUC3uFBoZpGe3Go=
+
+Name: org/eclipse/core/internal/preferences/EclipsePreferences.java
+SHA1-Digest: wd1FsWhuEzzsO6Syqu9+Vvptl1I=
+
+Name: org/eclipse/core/internal/preferences/PreferenceServiceRegistryH
+ elper.java
+SHA1-Digest: DZ3+zXwc8sT+XicxiuX2TMY0ADA=
+
+Name: org/eclipse/core/runtime/preferences/IScopeContext.java
+SHA1-Digest: aDBxTGuVMAzOGVcNJysFxxKAUe8=
+
+Name: org/eclipse/core/runtime/preferences/IScope.java
+SHA1-Digest: lBr8BsrvxJtyoGitfbERfeCZ3q8=
+
+Name: org/eclipse/core/runtime/preferences/BundleDefaultsScope.java
+SHA1-Digest: Dxh8VNCfYAslnAuPjhvaoc6FUAw=
+
+Name: org/osgi/service/prefs/PreferencesService.java
+SHA1-Digest: 6aXPWkvZaZiIWZemlir5hXgvInc=
+
+Name: org/eclipse/core/runtime/preferences/IPreferenceNodeVisitor.java
+SHA1-Digest: kubspZhSZ2e5YsVrmluwjfn9NcE=
+
+Name: org/osgi/service/prefs/BackingStoreException.java
+SHA1-Digest: EOGdqBguH8T+ivKtgv77TgmEdqE=
+
+Name: org/eclipse/core/runtime/preferences/IPreferenceFilter.java
+SHA1-Digest: DYmzciPjHP3DM6/tu70VPIiq5sI=
+

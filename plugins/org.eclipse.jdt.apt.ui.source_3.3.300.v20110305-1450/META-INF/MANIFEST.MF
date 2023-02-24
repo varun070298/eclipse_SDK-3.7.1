@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.apt.ui;version="3.3.300.v2011030
+ 5-1450";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.apt.ui.source
+Bundle-Version: 3.3.300.v20110305-1450
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/apt/ui/internal/util/Messages.java
+SHA1-Digest: 8GyoLnOSastEpkSMhmhx0qrSxws=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AptPreferencePage.ja
+ va
+SHA1-Digest: VABlNGiRNkkquX+4fp8xNGZv1eE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/Messages.java
+SHA1-Digest: lxui+c6Zvt1puStF/cReQ17r9Kc=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/ProcessorOptionInput
+ Dialog.java
+SHA1-Digest: 72k0LICodb5ieJluaguKY3LHmtU=
+
+Name: org/eclipse/jdt/apt/ui/internal/util/IAptHelpContextIds.java
+SHA1-Digest: VerQrJtELfoLewXa7oQ/PSaYg8g=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/BaseConfigurationBlo
+ ck.java
+SHA1-Digest: WgDSoa/TvtYt+7YYCB0Hadr5Bf0=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/FactoryPathConfigura
+ tionBlock.java
+SHA1-Digest: MgBlVbrBfOuNH+7T8sG9cEcxvcU=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/apt/ui/internal/AptUIPlugin.java
+SHA1-Digest: lSQ5UAifxl7RmR+SloWh7EuBeyI=
+
+Name: plugin.properties
+SHA1-Digest: kcrQPsGJEMmNcvLFk2qC9EnOGBo=
+
+Name: org/eclipse/jdt/apt/ui/internal/util/ExceptionHandler.java
+SHA1-Digest: +EgD+tX2+yCpn3HOVj+IMWLR7ao=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AptConfigurationBloc
+ k.java
+SHA1-Digest: WGFF72JCJFpilBsqsJZ8+RMzqJo=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/BasePreferencePage.j
+ ava
+SHA1-Digest: y8ltT8L/OLw7zfEHnpNEFKhznAA=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AdvancedFactoryPathO
+ ptionsDialog.java
+SHA1-Digest: Vwwat3gpP/5hB6nw3rfo9s9vOeY=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/FactoryPathPreferenc
+ ePage.java
+SHA1-Digest: ua3DXq0JuXwkYoHkdVR6sMr1Vb8=
+
+Name: org/eclipse/jdt/apt/ui/internal/Messages.java
+SHA1-Digest: tntPFcb2K1xeIz5/YebYr+HO83Q=
+

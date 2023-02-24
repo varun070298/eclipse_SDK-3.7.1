@@ -1,0 +1,93 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: jR2NVkOiA7CVFABqA7BEb2uExXc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: xD2r31NtmvpCDJTkHLT6ckoH0YQ=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: DMnZPrY7w/ZEOj0YI/l8KoozuvM=
+
+Name: org/eclipse/equinox/internal/app/IBranding.java
+SHA1-Digest: CzkROyd4x3uIoWKMp84dNwpYaMA=
+
+Name: schema/applications.exsd
+SHA1-Digest: zHqtz0KOmVdnSsCljfu0RFuKGb0=
+
+Name: org/osgi/service/application/ApplicationAdminPermission.java
+SHA1-Digest: XPioQTSKHSXeA1jxA2mhMwNk7hQ=
+
+Name: org/eclipse/equinox/internal/app/MainApplicationLauncher.java
+SHA1-Digest: FvoLLkC4faoJtBi3neUttWbCXDI=
+
+Name: plugin.properties
+SHA1-Digest: jSB79dY5hIuqRsILAxvP9h4nDgA=
+
+Name: org/osgi/service/application/ApplicationHandle.java
+SHA1-Digest: SpSZt3T3m0Ba5yHmQ5YSs8x3V5c=
+
+Name: org/eclipse/equinox/app/IApplication.java
+SHA1-Digest: W67E1SdhyFRCd7M93RQuPoPtwJk=
+
+Name: org/eclipse/equinox/internal/app/Activator.java
+SHA1-Digest: DxLYkXHVx2OB7J4aDoCTQeBTD68=
+
+Name: org/eclipse/equinox/internal/app/ErrorApplication.java
+SHA1-Digest: ZelULbquqEXQ866NuFJOOXy5OFY=
+
+Name: org/osgi/service/application/ScheduledApplication.java
+SHA1-Digest: FN06NRaqWJmf+I4NyQ+40dhoJdU=
+
+Name: org/eclipse/equinox/internal/app/EclipseAppHandle.java
+SHA1-Digest: i7MDqmxb/ZzMj1gF9UeJsrgWhNc=
+
+Name: org/osgi/service/application/ApplicationException.java
+SHA1-Digest: zJU/Uk4Ejxyqe6neTrMMOUM8fRA=
+
+Name: org/eclipse/equinox/internal/app/AppCommands.java
+SHA1-Digest: 0Q3dkF3DGtUC3TNBl0EEgcndubU=
+
+Name: org/eclipse/equinox/internal/app/EclipseAppContainer.java
+SHA1-Digest: 79F6HBNYyO7wkASUvUFHf9GIj4g=
+
+Name: schema/products.exsd
+SHA1-Digest: 3XGN8z7ijQeFF+KlzH9u9QddCfg=
+
+Name: org/eclipse/equinox/app/IApplicationContext.java
+SHA1-Digest: VYgLvyrDlaFxeh6vl0SBmG+6QF8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/osgi/service/application/ApplicationDescriptor.java
+SHA1-Digest: 8LbLEn1yLvbIrCGWuJVJeeejdTM=
+
+Name: org/eclipse/equinox/internal/app/CommandLineArgs.java
+SHA1-Digest: mar2fjKBd1jDBpPZtp1MTWy4hgw=
+
+Name: about.html
+SHA1-Digest: rrsP7lwTcdELpJKrPWMtel20nPo=
+
+Name: org/eclipse/equinox/internal/app/Messages.java
+SHA1-Digest: AmaAGsxO1Y2eUD9HMkrUNKJd5Ko=
+
+Name: org/eclipse/equinox/internal/app/AnyThreadAppLauncher.java
+SHA1-Digest: QuVMFvbvMxSo9O0qbNe4M60h3ec=
+
+Name: org/eclipse/equinox/internal/app/ProductExtensionBranding.java
+SHA1-Digest: uAkklhoLCUPpfCxSoLPfyX1mVXk=
+
+Name: org/eclipse/equinox/internal/app/EclipseAppDescriptor.java
+SHA1-Digest: F4YcY3tnCGfKaEdYcLFaXL/lakE=
+
+Name: org/eclipse/equinox/internal/app/DefaultApplicationListener.java
+SHA1-Digest: gy/YwzZOB/v+iVTEMwwKmgtw0QQ=
+
+Name: org/eclipse/equinox/internal/app/EclipseScheduledApplication.jav
+ a
+SHA1-Digest: E73jQb6WDsCNngZN32vKYx7YsZI=
+
+Name: org/eclipse/equinox/internal/app/ProviderExtensionBranding.java
+SHA1-Digest: VdxeYcIgUyBIGDzTJW6pU0LKako=
+
+Name: org/eclipse/equinox/internal/app/AppPersistence.java
+SHA1-Digest: +svzzknwu6yauIosbpLG4IDNH5c=
+

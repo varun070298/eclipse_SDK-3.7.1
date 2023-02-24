@@ -1,0 +1,115 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: eyiHxf4/refqWoWqPsWkVbmT1Wg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: foYsDwPtRHKObdAlx6YfIY6SdQc=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Tracing.java
+SHA1-Digest: kCOgqpkO4U9A6OKUCHWaNE5Daj8=
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgentProvider.java
+SHA1-Digest: 14F0HaWh8T+TJB43TC/Nrp1iNdA=
+
+Name: org/eclipse/equinox/internal/p2/core/EventBusComponent.java
+SHA1-Digest: CO9A6mXXvm6QK+XKP+imjsLshWE=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/IProvi
+ sioningEventBus.java
+SHA1-Digest: mewhh/8mTKKfCbuqLw2N4Rlmy4g=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/OrderedProperties.j
+ ava
+SHA1-Digest: 1EuJgAz1dpi8Lgrdq4L6t6IpRcU=
+
+Name: org/eclipse/equinox/internal/p2/core/Activator.java
+SHA1-Digest: hcg2ikSMXmHV5Vaqxt/mHk1G348=
+
+Name: org/eclipse/equinox/p2/core/ProvisionException.java
+SHA1-Digest: 4Bua3i2KRIKzBgGV11cCgom8iEw=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentService.java
+SHA1-Digest: bZzp1hyIXvyeetQdq2V0SLeY/0k=
+
+Name: plugin.properties
+SHA1-Digest: gEx1JcaAHN0bqWbLtQzeAfhlazw=
+
+Name: org/eclipse/equinox/p2/core/WeakPool.java
+SHA1-Digest: yrM3tREPuNEqcNsFZ/x0c3Aewgs=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils.java
+SHA1-Digest: ZGC54olIVR2TUyTzIeZ13wRJ5U0=
+
+Name: org/eclipse/equinox/p2/core/StrongPool.java
+SHA1-Digest: BgQCvnuxwBzCJiS03zahXNbHME8=
+
+Name: org/eclipse/equinox/p2/core/UIServices.java
+SHA1-Digest: X9hI3H1o5QlbkeTv2h8wAxAUDLU=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Messages.java
+SHA1-Digest: uhfvG2XRk7NaZcBZroxo59owLfQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/URLUtil.java
+SHA1-Digest: LPqE4T5yfrzX2rNLq0d28H2wlgU=
+
+Name: org/eclipse/equinox/p2/core/IPool.java
+SHA1-Digest: 6WZsRbhwFJLjzQVI9GAH/7i8OI4=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/StringHelper.java
+SHA1-Digest: YhWgabvO/ebaUMTW4AOf97646Ec=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Provis
+ ioningListener.java
+SHA1-Digest: 52623msT3gMWdkyT3h/rg21U1FY=
+
+Name: org/eclipse/equinox/internal/p2/core/AgentLocation.java
+SHA1-Digest: 8FhpgnW6QV6GTai9cEUrbjKbARI=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/ServiceHelper.java
+SHA1-Digest: h2Pw/XQoyWA5UbScov1BfPOnFzE=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningAgent.java
+SHA1-Digest: R2Xd6PyUK4o6shZILm07xuJNj6U=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarFile.java
+SHA1-Digest: Q4PgC1DSK8zXp3L81pHhGMiFY0I=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentServiceFactory.java
+SHA1-Digest: iLqNeqLuT5UlRQf8Rcid7Jrisi8=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarEntry.java
+SHA1-Digest: Sr0OW2lNr+QkMkaobru8AvmLyKs=
+
+Name: org/eclipse/equinox/internal/p2/core/DefaultAgentProvider.java
+SHA1-Digest: lCoRjkKpBhgi9JOct2EzVxe0EdQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/CollectionUtils.jav
+ a
+SHA1-Digest: oed/Zu2hBuvVDYEp9Q27QtlxfDA=
+
+Name: org/eclipse/equinox/p2/core/IAgentLocation.java
+SHA1-Digest: jqcQ1+ctuTjwGno3C65FzJwBKvY=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarException.java
+SHA1-Digest: zm0gul5bC4wKCqsd/w0aE5kR4x4=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/LogHelper.java
+SHA1-Digest: 2HkSrjTo9MANogDZA1XKlzi16F8=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningEventBus.java
+SHA1-Digest: RgVTOqvB7xTlc+pxBF+165qD4xg=
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgent.java
+SHA1-Digest: pJxGg+DShXpWGZJHRBICATxCupk=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Synchr
+ onousProvisioningListener.java
+SHA1-Digest: kMzZsmwI/aei6yhEYByRII2duwQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarInputStream.java
+SHA1-Digest: Jz4l8OsWHWmHVRcD0ZC6oBX/2x0=
+

@@ -1,0 +1,1554 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: FvRqU8H0L/jFeSzvZ5VTbi1B2XM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: FClXkCJULepIXvhgGzhzFyISU+Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/VMDetailsDialog.java
+SHA1-Digest: oVYJdm8aNSFKvmv+e9pQeGdxO4Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/IEntriesChangedListen
+ er.java
+SHA1-Digest: lMyBVHQcf5ZAugs4Llol7+z0/08=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/AddExceptionAction
+ .java
+SHA1-Digest: i+NvGAgYPZxzhLEfZ8/SHaT0jgQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddPackageStepFilterAc
+ tion.java
+SHA1-Digest: Xm27pwOZGR233UXTqGPxfPzmEqY=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREMessages.java
+SHA1-Digest: OueIQmM3CXSF+0scDT/k5b1YL18=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/DeleteBreakpoint
+ Change.java
+SHA1-Digest: 4weEF22vFzgYqnfDTzbDIC6knCM=
+
+Name: org/eclipse/jdt/internal/debug/ui/IJDIStatusConstants.java
+SHA1-Digest: af7UNM9N13t35hxLlyW3MIpk1Ng=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaJRETab.java
+SHA1-Digest: vBSwRSzD60jHdV9BXXST44x5XF0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/BreakpointToggleAction
+ .java
+SHA1-Digest: WxprWfIIXDPerz34AqynY/6roAc=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RemoveAction.java
+SHA1-Digest: R9BmBn0mAUXu0lV2TWltZo5MEaM=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/ExecutionEnvironmentsPref
+ erencePage.java
+SHA1-Digest: lp7fV4jpSctQkrslmdfQcH8O+as=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionIJavaProjectRenameParticipant.java
+SHA1-Digest: mZcTei445v90fJlmX5kn++pHV6A=
+
+Name: org/eclipse/jdt/internal/debug/ui/search/LaunchConfigurationQuer
+ yParticipant.java
+SHA1-Digest: AYf6CLnm5eSaNdANPC98GyoZje4=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableLabelPro
+ vider.java
+SHA1-Digest: FsVlNAolDriUuhxzw4tDuGOc1EM=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/OpenPreferencePageRes
+ olution.java
+SHA1-Digest: Qu3k5+Au3DE1igZu8BqtachDD74=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/PopupDisplayAction.jav
+ a
+SHA1-Digest: UZ0kkRUhv0CtBB1EBjy/bgX0N+0=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaThreadGroupLa
+ belProvider.java
+SHA1-Digest: rmhlFadexBSBTird+IOqgjXjVWA=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddTypeStepFilterActio
+ n.java
+SHA1-Digest: Hgx5JgRvgfYaOSasRRNReZuxb4A=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaWordFinder.java
+SHA1-Digest: haC7qSqfFRHWp6jzeMoF+RMWaF8=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/StandardVMPage.java
+SHA1-Digest: focU8op+NUGGcjVyoyCM4j2SF3Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/DebugTypeSelectionDia
+ log.java
+SHA1-Digest: 43azVrkITE3PLYHBHvdURsc89Pc=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowNullArrayEntriesAc
+ tion.java
+SHA1-Digest: 9pbKJ9nSclPzHGfKVDyrABZPK70=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/ContendedMonitorConte
+ ntProvider.java
+SHA1-Digest: sqvr5CIBKuL44/7SyK2ReLqE26k=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/BootpathFilter.java
+SHA1-Digest: Z4V/WdAzLjuX13YX+AVM4q2EhRs=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/JavaWorkingDirectoryB
+ lock.java
+SHA1-Digest: kVTj6jikBKSAALJ053ELPZbB9jg=
+
+Name: org/eclipse/jdt/internal/debug/ui/ExpressionInformationControlCr
+ eator.java
+SHA1-Digest: Xk+sKSuvE/qL/bATVD+w204MF4E=
+
+Name: org/eclipse/jdt/internal/debug/ui/BreakpointUtils.java
+SHA1-Digest: 9hdK4vhkiNPg9GeSdvSS/lm24Kk=
+
+Name: org/eclipse/jdt/internal/debug/ui/IJavaDebugHelpContextIds.java
+SHA1-Digest: tUkO3fd6HLZ5C2zlZnwWpdpZs28=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathMessages.ja
+ va
+SHA1-Digest: 0Q59nvdA9uIs1PHvioIUNjD/law=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/WatchpointTypeRe
+ nameChange.java
+SHA1-Digest: hS4oMTgkPdCADAajztyIhQQxrsA=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenVariableConcreteTy
+ peAction.java
+SHA1-Digest: RhsSC+7KS6XQg6KE2LCEmOigMIo=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/DefaultClasspathEntr
+ yDialog.java
+SHA1-Digest: N1Oq9PNeC2e3IDHASQAs1manoyk=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/ExceptionBreakpoin
+ tDetailPane.java
+SHA1-Digest: 35VDLK5VaVQ/dpeOIBOSPlcSmLY=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetEditorAct
+ ionContributor.java
+SHA1-Digest: mjVPT98Ncd8CZXHCyT7Y671QzQ4=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddProjectAction.java
+SHA1-Digest: p77jwfs903HXWnmoJgyYaV5PAbo=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ TypeParticipant.java
+SHA1-Digest: OzN6GNr03HPHk9kaHp47+d5mqhw=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableColumnPr
+ esentationFactory.java
+SHA1-Digest: DES5zyXnc66DQJOnELfydpsb1A4=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/StandardBreakpoint
+ DetailPane.java
+SHA1-Digest: 3AVV87LvupIPClHuhM4uHwVriBs=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionIPackageFragmentRenameParticipant.java
+SHA1-Digest: mLa99cjzz2SgB5VEssaK53kPHuM=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/MethodBreakpoint
+ TypeChange.java
+SHA1-Digest: Tn8OTq5N9XrGAf0bfqj6AmeBVEI=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaMainTab.java
+SHA1-Digest: Ofz0jRa+7XNtV7eaP6Lkk1bsFao=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaConsoleTracker.jav
+ a
+SHA1-Digest: SzMM7zJPdA34DBTDb8QHosOsYyE=
+
+Name: org/eclipse/jdt/debug/ui/JavaUISourceLocator.java
+SHA1-Digest: jfi0WmZrDj1h75DKrRfMGByIZJI=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetFileDocum
+ entProvider.java
+SHA1-Digest: zHNpvT/z/jvzH/E8Xt/s2LxRevo=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTraceConsole.
+ java
+SHA1-Digest: 1Kz24BWHg867bxOvY/xgOGn/UjQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/StackFrameShowInS
+ ourceAdapter.java
+SHA1-Digest: Ish5BRGIoCUu9TzdIx7xNGfrRBk=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DisplayView.java
+SHA1-Digest: C2GHefpaZJ140RGiXaUY1HPZm/M=
+
+Name: org/eclipse/jdt/internal/debug/ui/DebugWorkingCopyManager.java
+SHA1-Digest: BUOOwKR7lDjRLPZmJ3HHxF3jCdI=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/PropertyPageMess
+ ages.java
+SHA1-Digest: cq1M3Fz+6s4hZmbLPKw3y7ISOx4=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableCellModi
+ fier.java
+SHA1-Digest: 1fI+gXqPzJzB2wrcdluwlJ7cfyY=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/CompositeBreakpoin
+ tEditor.java
+SHA1-Digest: jlcICqCR7LSr22Qt7Bmf3nUfvIY=
+
+Name: org/eclipse/jdt/internal/debug/ui/TypeNameResolver.java
+SHA1-Digest: V0J+5QgI2bntilVfq0tz96YWeag=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDIDebugUIPlugin.java
+SHA1-Digest: O5ANmYt1yR8dmXLqrMU7mobh02Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/AppletSelectionDialog
+ .java
+SHA1-Digest: Ub9R4g4YpBnsWfYECyeWQQu9CFU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenVariableTypeAction
+ .java
+SHA1-Digest: gankNsN8qcWozYs6tPQGjaWnRYs=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaAppletLaunchSh
+ ortcut.java
+SHA1-Digest: FG3Uu+op1zY/nR9mnBRhGdEw4uI=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenFromClipboardActio
+ n.java
+SHA1-Digest: h0SpHDCqY7bteFChypti3Of9v04=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsLabelProvider.java
+SHA1-Digest: HD44EoCZI/HSOFL02uM7ML7RdDg=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/JavaInspectExpression.
+ java
+SHA1-Digest: l9sPnvZxTC9C9d5EE+t/iLx9+F0=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/NoMonitorInformationE
+ lement.java
+SHA1-Digest: OG3zUfBRArB4RSnNd/LRrhGnsBY=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/ScrapbookLaunche
+ r.java
+SHA1-Digest: FpOx2cuE7IsB4f1yv7P89aw78iE=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/AppletMainTab.java
+SHA1-Digest: zy3Wt2ZVQCMvHzfDdABhnJnQJr0=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTraceConsoleP
+ age.java
+SHA1-Digest: AD5ZsyYpV+zzgZYiLOkp3soKJk0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/JavaVariableValueEdito
+ r.java
+SHA1-Digest: lBj507R3pza+zmE0BkySAwlbslM=
+
+Name: org/eclipse/jdt/internal/debug/ui/FilterLabelProvider.java
+SHA1-Digest: /fPEmwrOi6Uzy1XTB4mbV3dLZUU=
+
+Name: snippetsupportsrc/org/eclipse/jdt/internal/debug/ui/snippetedito
+ r/ScrapbookMain1.java
+SHA1-Digest: ugNyez8+Z8YwUMkdbP2Dk89gZoQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/ErrorDialogWithToggle.java
+SHA1-Digest: 1okVvcE5nEGnWHy+JawUEq+9o6U=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/VMConnectTimeoutStatu
+ sHandler.java
+SHA1-Digest: eDZZq8TzrYfq2dLKmsVYY0Mfmw4=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowQualifiedAction.ja
+ va
+SHA1-Digest: nutKzNOnpBlN37h1KjC8MNpC9os=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionIPackageFragmentMoveParticipant.java
+SHA1-Digest: L8i1UaGXzbUp7APVxl8L8kFnGgw=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/VMInstallWizard.java
+SHA1-Digest: PMB9lMGWVLjDYlu+2aS4zAloL4s=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/AbstractVMInstallP
+ age.java
+SHA1-Digest: +wDVo38WP+NeQCeG4bkpCkCINTA=
+
+Name: org/eclipse/jdt/internal/debug/ui/DebugUIMessages.java
+SHA1-Digest: a+m0+8gUHh+og1gmV0u+wyv1+jw=
+
+Name: snippetsupportsrc/org/eclipse/jdt/internal/debug/ui/snippetedito
+ r/ScrapbookMain.java
+SHA1-Digest: z0IkEoENC6ZSNzenntxtQ0f6TT4=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetOpenHiera
+ rchyOnSelectionAction.java
+SHA1-Digest: F8qvSvystKZCqj6r9HM2Uw4G+YY=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTracePagePart
+ icipant.java
+SHA1-Digest: ZrsQ3iywRvXZ75U/9p7noQ52cSg=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaConnectTab.jav
+ a
+SHA1-Digest: PuFDRQK1Qrl7izSQJSNqkXYOO1M=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/CurrentValueCont
+ ext.java
+SHA1-Digest: ChAYWlSJ/D5b0KGeolGmsMr7rpg=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/ThreadGroupAdapte
+ rFactory.java
+SHA1-Digest: FzDgVd8NVZEdaskJxIfBfEDB4XM=
+
+Name: org/eclipse/jdt/internal/debug/ui/LocalFileStorageEditorInput.ja
+ va
+SHA1-Digest: 0jR9+vfKqWsoRpp81kS4Hzq3nDw=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionHandl
+ er.java
+SHA1-Digest: 2V0F59qszXU0KBXkeb4Eo47qN2U=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/JavaDebugComplet
+ ionProposalCollector.java
+SHA1-Digest: eKNRbmQZza8V+solJ4YpchdcJb4=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathLabelProvid
+ er.java
+SHA1-Digest: Eweu6C1JRr3krX+Xi///GPc7qpE=
+
+Name: org/eclipse/jdt/internal/debug/ui/NoLineNumberAttributesStatusHa
+ ndler.java
+SHA1-Digest: NOxRhI4uGywVDfIWxeXfMHTXUQg=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/JavaBreakpointType
+ AdapterFactory.java
+SHA1-Digest: d6QiG8At0VlVnMBCcSRdaR0BS8Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaModelProxyFac
+ tory.java
+SHA1-Digest: 4DuDTFnzedXiqcSiZe65MnlQbkg=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaHotCodeReplaceListener.jav
+ a
+SHA1-Digest: +kc7/K9xRth6TnLRFriDf49C6t8=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaMonitorThread.jav
+ a
+SHA1-Digest: ayVTIyVHtev8dpK4DZlM1SibnnE=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDebugHover.java
+SHA1-Digest: Za10XabqtGjcGZRZl8bmz05gz0I=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/JavaAppletTabGroup.ja
+ va
+SHA1-Digest: p/2URxxEd3FiewJx2VrOcuZRtVk=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/JavaBreakpointProperti
+ esRulerAction.java
+SHA1-Digest: g+Cj0LR1PwxHi6OFx5Iqf5ve8wI=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDetailFormattersManager.ja
+ va
+SHA1-Digest: ZBCJw8EfUvJjCZGBuRMbfrSZZSM=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/WorkspaceOperationRun
+ ner.java
+SHA1-Digest: dhrWPefBZEV2zwyxq6FD1N9G5ek=
+
+Name: org/eclipse/jdt/debug/ui/JavaSourceLookupDialog.java
+SHA1-Digest: P8Tbo8CtEt8MspEneJjIfMtvhoc=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaThreadGroupCo
+ ntentProvider.java
+SHA1-Digest: b73hMUA1veRbJ7kcDKBbtAHzg8I=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaBreakpointWorkbenchAdapter
+ Factory.java
+SHA1-Digest: ko6TSo+GS/COsNqnBN6+uXANa4A=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/AddExceptionTypeDi
+ alogExtension.java
+SHA1-Digest: 6d75pfwNNOQW8QRNWBPcCMYF0Xg=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenStackFrameAction.j
+ ava
+SHA1-Digest: b8NM8dn+Om70vn293TvtbllkLnY=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ Participant.java
+SHA1-Digest: TOx5vhEyOSVVYu5uc1w1vU8OI9o=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ActionMessages.java
+SHA1-Digest: jMPvV7ytJFnJdNLSwOZwqLkgHHE=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DisplayViewerConfigura
+ tion.java
+SHA1-Digest: P99X7SsZdnH5fbPY44GHip5iwKI=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/OwningThreadContentPr
+ ovider.java
+SHA1-Digest: DrTsAY8dvVHZfzdk81uwiQpmm8Y=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaClasspathTab.j
+ ava
+SHA1-Digest: u6XohDStZi+hRPYm9x57GYCdFgk=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ FieldParticipant.java
+SHA1-Digest: GsH1ySnwccG2hxWff9nRObAhxTY=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionITypeRenameParticipant.java
+SHA1-Digest: VfpAeklIaiBl2eckhslDjuFf2Kw=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/JavaBreakpointPa
+ ge.java
+SHA1-Digest: vuAvfkSeNwLKaeZfScmQywb+aBo=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddJarAction.java
+SHA1-Digest: +4+h4uz9glTNwh6U/F5r/9HES+Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/InstanceFiltersAction.
+ java
+SHA1-Digest: 8pJzXyNNU0vhECoQKBaJm6cFbzY=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/SuspendOnCompilati
+ onErrorListener.java
+SHA1-Digest: JwzPAbYtVia1UsPWTovxEWuGkvE=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenVariableDeclaredTy
+ peHierarchyAction.java
+SHA1-Digest: 8Zc3UWnL5f8/BIjOktEJPMMqAmE=
+
+Name: org/eclipse/jdt/debug/ui/actions/JavaBreakpointPropertiesRulerAc
+ tionDelegate.java
+SHA1-Digest: gRog96YwQGXTu//vj82fnOJrPjY=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/IClasspathViewer.java
+SHA1-Digest: c+iTsXClx3D1hsTkOihyEiiIRuk=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ControlAccessibleListe
+ ner.java
+SHA1-Digest: KJrMcvKgnNOAJNvSAysC3AkifMA=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDetailFormattersPreference
+ Page.java
+SHA1-Digest: LOoBS21JJjKwo7/9kY0i9XDg5S8=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/AllReferencesInVie
+ wActionDelegate.java
+SHA1-Digest: hKgnumh2Rtcf6mjw0ZeK668714M=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/JavaProjectSource
+ ContainerBrowser.java
+SHA1-Digest: kpha160ABpjL/KupATCCF+/PQq4=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SourceElementQualifie
+ rProvider.java
+SHA1-Digest: Sx6hXUTpmrzbWLE1sSpCoJ5NyDk=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/AddVMInstallWizard.java
+SHA1-Digest: 81jGgeysO5JQ4PRyX+Dx3al1wVo=
+
+Name: org/eclipse/jdt/internal/debug/ui/IJDIPreferencesConstants.java
+SHA1-Digest: /oJfyJPXAGrdrca7ICMS6eS6ZSs=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExitToggleAction.java
+SHA1-Digest: CNDH+39mE0OmEw5K81H2apJ3Z60=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SelectImportsAct
+ ion.java
+SHA1-Digest: p5050HnK0z2gCcERX82crgrk6t8=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/MoveUpAction.java
+SHA1-Digest: bfHpGXRwLIHzrHG7wZNV5Nr6c0A=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/VMArgumentsBlock.java
+SHA1-Digest: qf2iqOd4NSHv9N5MpqOI1Xf6CmQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/StandardVMCommandTab.java
+SHA1-Digest: uAbslLtojq8rrJySkTwdWOEouZU=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREContainerWizardPage.ja
+ va
+SHA1-Digest: 16bwxKLTNVorqhHxddZFE/LIKXk=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/StandardJavaBreakp
+ ointEditor.java
+SHA1-Digest: e8g1wM14fJcHji27zpuul/yAlRk=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaVarActionFilter.java
+SHA1-Digest: UBLYuXB3Qv8af9pmz6WFQGQKETU=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaThreadContentProv
+ ider.java
+SHA1-Digest: iUwigYMtQ7JUSxfkGhzgXpI4HYw=
+
+Name: org/eclipse/jdt/internal/debug/ui/FilterViewerComparator.java
+SHA1-Digest: v8q0JbXzGzGmBTNCieObqEm3yQU=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/WaitingThreadContentP
+ rovider.java
+SHA1-Digest: i/xb2pY4FOfWItExSMVuwQbQWqs=
+
+Name: org/eclipse/jdt/internal/debug/ui/ImageDescriptorRegistry.java
+SHA1-Digest: 9Gb/hyg1de6DvE1IezBc2yHL8qw=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaElementContentPro
+ vider.java
+SHA1-Digest: VH5n4jcjPm1Yk+7RWCRePL3Z0Q4=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaStackFrameLabelP
+ rovider.java
+SHA1-Digest: IJ/RzPyJspJzYMVHBJBPRfhhtJ8=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/AllInstancesAction
+ Delegate.java
+SHA1-Digest: V6VWqdVNN7oWBAw1XDQ3UlWpIW8=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsEnvironmentLabelProvi
+ der.java
+SHA1-Digest: PmB3zFR8nV///+ZiaJBrURwqI18=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddExternalFolderActio
+ n.java
+SHA1-Digest: w7tO8vIQzAl08M4uY8I/l5WTzic=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/JreResolutionGenerato
+ r.java
+SHA1-Digest: 7t+fpjAqCe5CW43rfmEHmn2plZs=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDIContentAssistPreference.jav
+ a
+SHA1-Digest: OnQRn2i7cgmgI+z8+aplYm5uw1E=
+
+Name: org/eclipse/jdt/internal/debug/ui/PackageSelectionDialog.java
+SHA1-Digest: s6KaxzAK7CVJ+d6U903Xu7YNnbU=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/AppletLaunchConfigura
+ tionUtils.java
+SHA1-Digest: F+r8f/dAqmBE5ITmtQGaZM7xq/o=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/InstalledJREsBlock.java
+SHA1-Digest: AR+JoqrdyfaPtMigYS5WnfF3hgA=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SelectImportsDia
+ log.java
+SHA1-Digest: Qh78HUHRvlwwrfcGR9RRgN25IfU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddLibraryAction.java
+SHA1-Digest: zqN06XAofiE+CxI2S8tRCgamTIs=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AbstractAddStepFilterA
+ ction.java
+SHA1-Digest: qDTQZyOt9xj98zYtdVFyFiKbH4s=
+
+Name: org/eclipse/jdt/internal/debug/ui/EditLogicalStructureDialog.jav
+ a
+SHA1-Digest: 0sP3eJcaVJpvurpxIBXTglYxqx8=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/JREResolution.java
+SHA1-Digest: azHU0SzjviJvAnbTgPdtwwEgoCs=
+
+Name: org/eclipse/jdt/internal/debug/ui/ConditionalBreakpointErrorDial
+ og.java
+SHA1-Digest: WeNUbYUxA+x+uAVIIQQcrasy1/A=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/AllReferencesActio
+ nDelegate.java
+SHA1-Digest: NmM4hx9OzIESf5gvPATBpEd0El4=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/ExceptionFilterE
+ ditor.java
+SHA1-Digest: 1RxE4BehuZHGbnMxSkhwBN/n+CI=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/RuntimeClasspathView
+ er.java
+SHA1-Digest: ZhfpKaGVSsh7xs8GFtQfI4o2SQY=
+
+Name: org/eclipse/jdt/internal/debug/ui/CreateStepFilterDialog.java
+SHA1-Digest: Qf/3H9nCDNpVoeZJIzz09Cfzpog=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AttachSourceAction.jav
+ a
+SHA1-Digest: pKDAZZJtTrpxlX54TVVj5zlHIFo=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ValidBreakpointLocatio
+ nLocator.java
+SHA1-Digest: z0owf6AiAp2Is8Ah3celL2ImqvY=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowStaticVariablesAct
+ ion.java
+SHA1-Digest: 2W4pL8EIPy7CHXFp+duvVkmya7Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/JavaExceptionBre
+ akpointAdvancedPage.java
+SHA1-Digest: zqK3IWB7murIqgnfzD+WfZiBE44=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetEditorSto
+ rageDocumentProvider.java
+SHA1-Digest: dh9gT4rySf/iTOKQCcJAMdb9wmA=
+
+Name: org/eclipse/jdt/debug/ui/JavaDebugUtils.java
+SHA1-Digest: prkKp93flwZWX9ek4zbCojwVByg=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/MonitorsAdapterFactor
+ y.java
+SHA1-Digest: bjGMFvU5VYopqw/6/MBZiNEWhQE=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionActio
+ nDelegate.java
+SHA1-Digest: eEilhsoP48+A6eE3jo1upYVX61I=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/StopAction.java
+SHA1-Digest: nXksYnHoFb/Kq+Tz4vxfmeSpvjo=
+
+Name: org/eclipse/jdt/internal/debug/ui/EvaluationContextManager.java
+SHA1-Digest: cHUh8Pgdqs2ucI+GfzdLORbyEkQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathGroup.java
+SHA1-Digest: I83yRrLZEKinBDdmmiUZwjOpOz0=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDebugPreferencePage.java
+SHA1-Digest: YqYhpfY/AmMLAg/IGbChj5UZCvE=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenTypeAction.java
+SHA1-Digest: yOc5tcSfgYm+8YFi8lM3PnVFTWc=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/JavaPrimitiveValueEdit
+ or.java
+SHA1-Digest: KfYj1E5h7OpviQdlxhI62zXt/YI=
+
+Name: org/eclipse/jdt/debug/ui/IJavaDebugUIConstants.java
+SHA1-Digest: Aj31bch7UZ/Rbyxts4zLz4uz7Kc=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableEditor.j
+ ava
+SHA1-Digest: N+IB4Z+z7Rpa4NTp00xcH6ZLAQc=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/JavaObjectValueEditor.
+ java
+SHA1-Digest: NnqVrDc0LoLvmxmHyjbGklD0gxE=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetDocumentS
+ etupParticipant.java
+SHA1-Digest: ksAzzJrSKsEXh9GRXYyA0P7E7BA=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SelectDefaultSystemLi
+ braryQuickFix.java
+SHA1-Digest: DUrn/M4KkxgpQ57H4SaerK+Obio=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/VMCapabilitiesPr
+ opertyPage.java
+SHA1-Digest: YUgwP2VEf85F2Wk6+bSao7oGPjU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/JavaBreakpointProperti
+ esAction.java
+SHA1-Digest: 89q06OiiRnszKf4ZArqg/6ALEwY=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTraceConsoleF
+ actory.java
+SHA1-Digest: 5AE/goFPIG05nAaIBNw0H+9Auts=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTraceConsoleV
+ iewer.java
+SHA1-Digest: g3PQgrLcljx70d/uTkLG9lxiBBc=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/AbstractDetailPane
+ .java
+SHA1-Digest: e2IuJAyHsXyUO/kTm/D09Uj0y78=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RunToLineAdapter.java
+SHA1-Digest: fXm43KwHdXG/uGqtZoHVO5dY1QU=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaThreadEventHa
+ ndler.java
+SHA1-Digest: TmHdHQJnWXzioZ6d2r4XAkL+zNE=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/ColumnPresentationAd
+ apterFactory.java
+SHA1-Digest: izLdjKrR/4WUnVq+aJzDP/qU0Gc=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/JavaSnippetCompl
+ etionProcessor.java
+SHA1-Digest: mcojQP/xCptA1lxjRsvHsdjUp0I=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionProjectMainTypeChange.java
+SHA1-Digest: mN3I7VbRwdFeqCz7XL66KIV11Sw=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/ClasspathContaine
+ rSourceContainerBrowser.java
+SHA1-Digest: H/TcCiRE/YoByCNmpOQMOdYJ6Ic=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LaunchConfigurat
+ ionITypeMoveParticipant.java
+SHA1-Digest: rAD2ekr/b9kh13TFNvuNp55vX38=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointMovePa
+ ckageParticipant.java
+SHA1-Digest: ryyCnK4c7OHDyt0TfwnA0NgSxbg=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/Messages.java
+SHA1-Digest: 9eECNockx349D5vyDQSE2Wlt9VY=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaExceptionConsoleTr
+ acker.java
+SHA1-Digest: hJydhpeXSdUI0RQqasXQhmTkO4E=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ToggleBooleanPreferenc
+ eAction.java
+SHA1-Digest: 93XHgb1pVEek8k2K6wXLyLuC5kU=
+
+Name: org/eclipse/jdt/internal/debug/ui/ActionFilterAdapterFactory.jav
+ a
+SHA1-Digest: QW//FZO99BRY3Oh2IcAHL5zi+DE=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/AppletWorkingDirector
+ yBlock.java
+SHA1-Digest: fQqXXi73ywuFFSQwG0fDaeiA33o=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/StringValueInputDialog
+ .java
+SHA1-Digest: O2EIuAXoDXJLutTF9ZNOWOvgUKM=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaOwnedMonitor.java
+SHA1-Digest: KIOr3Ht8T80o0aZkF0iM1pac1Ps=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaLaunchTab.java
+SHA1-Digest: X4vyB/tltBv87kpZI44LWMkAn2k=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenVariableDeclaredTy
+ peAction.java
+SHA1-Digest: J5EOXpCZCRqO+7mTW8itOrIOgKo=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDebugImages.java
+SHA1-Digest: JWAhADj3CHsV7KkPFAgzcOoThz0=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathContentProv
+ ider.java
+SHA1-Digest: 9G/60sXV+fXjF9PxKzGWZn8n6lw=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaContentProviderF
+ ilter.java
+SHA1-Digest: bvT3gMRdJNsACXinupqL9MZ6zyU=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaSourceLocationWorkbenchAda
+ pterFactory.java
+SHA1-Digest: DqFPACp5swcfQ2icsvna48BgUZ8=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/InstanceFilterEd
+ itor.java
+SHA1-Digest: AolbuhMgL8hexjzn6L7I4+ci568=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/VMLibraryBlock.java
+SHA1-Digest: lkX/arXCdJoN9iBsC39ZCqwxinI=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ MethodParticipant.java
+SHA1-Digest: dcm44c5DDHRC5KYXFYqHma1MXGc=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/WatchpointChange
+ .java
+SHA1-Digest: 3CG9jwgElm7xFvXc0Th6Sb5izBE=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREDescriptor.java
+SHA1-Digest: jkl7CP5Et/OkeuO2BJ2Le5sqYs4=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/JavaWatchExpressio
+ nFilter.java
+SHA1-Digest: uOZg7iiJdZePvZm1WQngbMqO5+M=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RuntimeClasspathAction
+ .java
+SHA1-Digest: Hq81dmS9bqg59egm7E9GxOw5iX0=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/LineBreakpointDeta
+ ilPane.java
+SHA1-Digest: mQkE+t2QNlW7GtKv+5AhzIjKO8A=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/JavaDebugContent
+ AssistProcessor.java
+SHA1-Digest: 7eXj2uufcjpEFn+ddO9G8Gf1Wo0=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsComboBlock.java
+SHA1-Digest: YeotR8pvQFsxIF5mbUo8wVc9zmI=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionUtils
+ .java
+SHA1-Digest: UWW+DINGWBI8NtyV9DIjMbnyKaQ=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointMovePa
+ rticipant.java
+SHA1-Digest: 7sNNy5did2BkwuNqRMxroPjhoWE=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaWaitingThread.jav
+ a
+SHA1-Digest: I95k0TcFcm4mrcJwuxTfvUsexJ4=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/RuntimeClasspathEntry
+ LabelProvider.java
+SHA1-Digest: Jbil2Wo2Nt0pvrG2vP5y1Qb2gbM=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/ScrapbookSourcep
+ athProvider.java
+SHA1-Digest: kgJsOLUDWJGtawt9HjPXlZ8Fkn8=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EditVariableLogicalStr
+ uctureAction.java
+SHA1-Digest: 9EWJMgqBpmKqcV5wy0dXEfCaFuo=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowSystemThreadsActio
+ n.java
+SHA1-Digest: e4RWoGUxWNDEA/q0JTMIM4WQMvU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowMonitorThreadInfor
+ mation.java
+SHA1-Digest: UD87lZD8YbqUWNzlWRj8AwG9Mo8=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/MacVMSearch.java
+SHA1-Digest: TOgngcgFDjTJSsCGrJBX9cFHaYM=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExcludeExceptionLocati
+ onAction.java
+SHA1-Digest: DDQygXyt+4C5atmRh/8kQ9eIQ5s=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaNativeConsoleTrack
+ er.java
+SHA1-Digest: jiT9Dhy5ntVORt6OcEUH0EnnAjs=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/ThreadGroupMessag
+ es.java
+SHA1-Digest: h1yFuCkZZ2OIp032KDW1vP6dBJ0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowConstantsAction.ja
+ va
+SHA1-Digest: SDVhL6g+wA2CZ7BKMLTsWeZAovk=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/FormatStackTraceAction
+ Delegate.java
+SHA1-Digest: 8LTG57aMXPLa5Z7gg+ZrMBN1gKk=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointChange
+ .java
+SHA1-Digest: hNcvky0mcWXY/WShqa0EFYA2KwQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/NewDetailFormatterActi
+ on.java
+SHA1-Digest: WYz492l/A8WN4qyotQGL09kSGX0=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaSourceLookupTa
+ b.java
+SHA1-Digest: pijFNV1hqlkDHcvoEgTLkiEPQv0=
+
+Name: org/eclipse/jdt/internal/debug/ui/StatusInfo.java
+SHA1-Digest: ShyM9pAiKzRpQATlpwUAE804Yt4=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/StackFrameShowInT
+ argetListAdapter.java
+SHA1-Digest: 8kkmayTJGWtU7APLkebazDNszDs=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EditStepFiltersAction.
+ java
+SHA1-Digest: TmvdvGqjeLHRcHXHDlEn+RpqE8E=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/ExecutionEnvironmentS
+ elector.java
+SHA1-Digest: lZqDLlkqlUCSgypWGPIe0UyhAvw=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddAdvancedAction.java
+SHA1-Digest: RJb/oxC07PWAFgr2r68/aPlgn/Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/MethodBreakpointDe
+ tailPane.java
+SHA1-Digest: fHIuENpT2DUEoDPXXEBZz5RlMp4=
+
+Name: org/eclipse/jdt/internal/debug/ui/DetailFormatterDialog.java
+SHA1-Digest: hEP9YlpWNKG9inbmLMGIb/7svlA=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DisplayMessages.java
+SHA1-Digest: 1zKh0M9KwlPJbAjfQznHF7A08TI=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExceptionUncaughtToggl
+ eAction.java
+SHA1-Digest: qdlbdLsU2ylaUBVnMh7NYZphDGU=
+
+Name: org/eclipse/jdt/internal/debug/ui/MessageLine.java
+SHA1-Digest: G7Cfj/uiY3guyuZIPDPgjf2hTus=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/LauncherMessages.java
+SHA1-Digest: EHRj4RwGLFEgtYvzgcl2remxILQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaExpressionConten
+ tProvider.java
+SHA1-Digest: 0x9hQYTebWKpqLjDEtT/DGpmq1s=
+
+Name: org/eclipse/jdt/internal/debug/ui/HeapWalkingPreferencePage.java
+SHA1-Digest: JfI8Bhb1MmrF7Fe5/O4pY6ct4kI=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/BuildJREDescriptor.java
+SHA1-Digest: SxEJ4T7qVo4qO+81I2tKyJ2HTT0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/BreakpointLocationVeri
+ fierJob.java
+SHA1-Digest: 7g7ZhS5TgXOptix7d7F8HEreDJI=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/ConsoleMessages.java
+SHA1-Digest: oB0Cj39uBiQtN/MciXe8MNc+NmM=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ PackageParticipant.java
+SHA1-Digest: lZGjjQvXsTrKFoP7KX2SYnwV14M=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/AddClassPrepareBre
+ akpointAction.java
+SHA1-Digest: 0SGAOVTaYv7LmZ9XaDf4UEkNfns=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/ExceptionBreakpo
+ intTypeChange.java
+SHA1-Digest: ggRrXRvibE991kpIJx5P4AQHFmQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/LibraryLabelProvider.java
+SHA1-Digest: 7N8RNkmU0shrFzQD/ig+6fjxlmo=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaPrimitivesPreferencePage.j
+ ava
+SHA1-Digest: lqwPkmIyeaRpRJyCryfvDM5jLzw=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/TerminateEvaluationAct
+ ion.java
+SHA1-Digest: AyccDQYRBtzHaDUhZRbSmX4xwtI=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/AppletParametersTa
+ b.java
+SHA1-Digest: rRJUKgmrWICMr1LmEkSctOleFVM=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/TargetAdapterFact
+ ory.java
+SHA1-Digest: agRi3cPZfRU7oYPBHB6EScJQbbY=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaStepFilterPreferencePage.j
+ ava
+SHA1-Digest: ftzHvGUDBW8AO4uQVQ0qDHMu7+g=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ToggleBreakpointAdapte
+ r.java
+SHA1-Digest: R7/Ss5gDHspXcTZD0QZDM6jLr4s=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenVariableConcreteTy
+ peHierarchyAction.java
+SHA1-Digest: 0xj9Bg6ePgN+tjQP+DTVbKD+fq0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ObjectFilter.java
+SHA1-Digest: xM5MqlwhxaqK6weSiOFFVmRV5hw=
+
+Name: org/eclipse/jdt/internal/debug/ui/SuspendTimeoutStatusHandler.ja
+ va
+SHA1-Digest: 5K3VT6HIeIiM7GO0/hF0UxSPwVE=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SourceLookupBlock.jav
+ a
+SHA1-Digest: g/bCvzkykYsf5jCn7GfGN1rm1Ng=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/WatchpointDetailPa
+ ne.java
+SHA1-Digest: LdhINb96cLE1GHLHKgwQDugeh3g=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/ExceptionBreakpo
+ intChange.java
+SHA1-Digest: KHRyYq6kaGrO17sMPm4cnjYJ92k=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/VariableMessages.jav
+ a
+SHA1-Digest: LUa9XiOGCp+0Gyd/ZJC2Q7lszJk=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/VariableClasspathEnt
+ ryAdapterFactory.java
+SHA1-Digest: cs3YqmJi2PNTbDlQO3mhJCTPYPo=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/ClassPrepareBrea
+ kpointChange.java
+SHA1-Digest: FahMnSqn438GA+Zg36LnfiMq+1U=
+
+Name: org/eclipse/jdt/internal/debug/ui/BreakpointMarkerUpdater.java
+SHA1-Digest: Z0fg+H+9GZJ7JMRk1WVI9e8gt6E=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDIModelPresentation.java
+SHA1-Digest: 19/Hl9y6kcF7PCtZHXmW9hyv8X0=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LineBreakpointTy
+ peChange.java
+SHA1-Digest: 4mpfeR6qZuDSfnVf1kSOLlq2Uck=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/SourceLookupMessa
+ ges.java
+SHA1-Digest: T1CGuWvRaqQOnaCvzX35OML7udc=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DetailsViewerConfigura
+ tion.java
+SHA1-Digest: Disvnx2JvFe0K9F7vC42iqTo75Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/VMTypePage.java
+SHA1-Digest: cXld8Eo8uH3T40V24r986JluXyk=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/AppletArgumentsTab
+ .java
+SHA1-Digest: rKjmDCf4P2s454Lxx97KIyYwcow=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/MethodBreakpoint
+ Change.java
+SHA1-Digest: KLo6dwDuATyAGbzxLJ7eYcy1V3g=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathEntryAdapte
+ rFactory.java
+SHA1-Digest: mhBFT4mlSslLLylJrimGNJKt83s=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EvaluateAction.java
+SHA1-Digest: 9ISi6OMQmVn38AdXxTfx5HJuNts=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/SuspendOnUncaughtE
+ xceptionListener.java
+SHA1-Digest: HdaUDWx73V49YDiG9aM9l6DNPtg=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/RuntimeClasspathViewe
+ r.java
+SHA1-Digest: YiD0V/joEORIAbeiWSFX5w0bV7w=
+
+Name: org/eclipse/jdt/internal/debug/ui/ExceptionHandler.java
+SHA1-Digest: LvDd/SUszWJv7eSDGFnxgNlDS1o=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowStratumAction.java
+SHA1-Digest: 7hC6roj15MPB4Lxhm5N0BmX3mp8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaStackFrameActionFilter.jav
+ a
+SHA1-Digest: ceWzZvUmCr6qbHiEdTlQOibqFSk=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/RuntimeClasspathAdvan
+ cedDialog.java
+SHA1-Digest: tz+/hxuYRXbkeXwrYDPE+cdy8L0=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/JavaDebugShowInAd
+ apterFactory.java
+SHA1-Digest: OBPzLjiXlOkIUALh4Xwd2V85d/Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaExceptionHyperLink
+ .java
+SHA1-Digest: UU37dF52CgMUsmzaGrTGWZ6nth4=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaDebugTargetCo
+ ntentProvider.java
+SHA1-Digest: xiuNt1VhdoFJWMAlsTVRHBkLf5w=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/JavaSnippetViewe
+ rConfiguration.java
+SHA1-Digest: 9+YY14SGREka9yBPlCOiFb5jZJk=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/MethodBreakpointEd
+ itor.java
+SHA1-Digest: 22o2e8hceMwAeVOd3WYDnNSeE2w=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenReceivingTypeActio
+ n.java
+SHA1-Digest: SuTlHy5SihBl8Njy9KXfO3TASHk=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaApplicationLau
+ nchShortcut.java
+SHA1-Digest: R4lWcS6+kW4RIwuwTpawGrKU0AY=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/MainMethodSearchEngin
+ e.java
+SHA1-Digest: VPmpEuc96J/g4p1gPe7QbxbRCB8=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SourceElementLabelPro
+ vider.java
+SHA1-Digest: E0snA9KaC+utEc9TdJzmjQ51nFU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EditClasspathEntryActi
+ on.java
+SHA1-Digest: BeypOBs+mMCmDI/H3WkuH9e4JtE=
+
+Name: org/eclipse/jdt/internal/debug/ui/EvaluationContextStatusHandler
+ .java
+SHA1-Digest: edRFl67zZLbnS0RYVRu3YoIzEwo=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/IAddVMDialogRequestor.jav
+ a
+SHA1-Digest: q2pa8ueP5RBL7RexTcfF4Z7N028=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetOpenOnSel
+ ectionAction.java
+SHA1-Digest: 8HmaDvGpfAkABEWwSd47jt9CarQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/WorkbenchAdapter.
+ java
+SHA1-Digest: 1cruuYOhGj93FCyG9HQ3+VmkVTc=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/OwnedMonitorContentPr
+ ovider.java
+SHA1-Digest: r/SQdmIvZT+6sVGgsFz2sJqP4j0=
+
+Name: schema/vmInstallPages.exsd
+SHA1-Digest: rj+QEdg/lNkjkGxvbCQvwqcy/gA=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/ToggleClassPrepare
+ BreakpointAction.java
+SHA1-Digest: kc3Cnkgn8TH4fzqu3nETRsmI+wc=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/VariableOptionsActio
+ n.java
+SHA1-Digest: 7oqp7yG7fwCgkS6Td02lyOkdNTk=
+
+Name: plugin.properties
+SHA1-Digest: dFCnQrcrU7MrI2VucerDNBYtT10=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/BreakpointDetailPa
+ neFactory.java
+SHA1-Digest: UOVv1v3DLMcqj4dDEAcjAHYujUw=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/ThreadMonitorManager.
+ java
+SHA1-Digest: CTsH7X6geefocWcjyDhietp83cI=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/ArchiveFileFilter.jav
+ a
+SHA1-Digest: QC1PqZ53GZ/m2ejIAz7YxyNKELQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/CurrentFrameCont
+ ext.java
+SHA1-Digest: RevLL3HuoOlpmB8pnhQQBUEg6+Y=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/IJavaDebugConten
+ tAssistContext.java
+SHA1-Digest: yhJWh/ExVZ+kSu/v7AaJ0YaUWhA=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/WorkbenchAdapterF
+ actory.java
+SHA1-Digest: 6muex8nnTw4AZr7M3xSrMnVOkCM=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/MoveDownAction.java
+SHA1-Digest: GnDfOM8XHMmezVitN1isftSI90M=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ActionDelegateHelper.j
+ ava
+SHA1-Digest: bzJ/vjoxYVEa7zCBhiWf/vCa1DE=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsEnvironmentComparator
+ .java
+SHA1-Digest: /w8mw8fmmg/qO6PxfP59oms16rY=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsUpdater.java
+SHA1-Digest: T69UCizXumiIRlr+F6KzJMkMFro=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/NewSnippetFileWi
+ zardPage.java
+SHA1-Digest: zkfRi3VCgDQWqHMuzEl8IMJh5oI=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDISourceViewer.java
+SHA1-Digest: dJT6wNQw6ilta8NFYoLMw24Fqlg=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExecuteAction.java
+SHA1-Digest: V5SiyRns+Xj5+8MYfYBS2EasTr8=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/LibraryStandin.java
+SHA1-Digest: bvLHoMqfN8P3lv4s2CU//a/YkQ0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/InspectAction.java
+SHA1-Digest: W3jAXRzrvMbrZQrrFRwvEGUmwP8=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/AbstractJavaMainTab.j
+ ava
+SHA1-Digest: U9SGBvDYTYbG0gU0rirvmOPMLec=
+
+Name: org/eclipse/jdt/internal/debug/ui/MemberActionFilter.java
+SHA1-Digest: v3fwZH1+najzXwL+JRrLqGwCvOA=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaStackFrameConten
+ tProvider.java
+SHA1-Digest: noX7nQqhc0oDITRHpVbmyi2EZoY=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RetargettableActionAda
+ pterFactory.java
+SHA1-Digest: UxatNShU8uu1kL/NT8tdiTxkGUo=
+
+Name: org/eclipse/jdt/debug/ui/breakpoints/JavaBreakpointConditionEdit
+ or.java
+SHA1-Digest: H8mw+pCn3tDbxRShlun+f8VOTrM=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetMessages.
+ java
+SHA1-Digest: UKEuRzWaDgbU9iecvIBcCqjK0Fo=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExceptionCaughtToggleA
+ ction.java
+SHA1-Digest: G52Yzjm5wNHgRRkW2hC9Mpo/GRQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/NameValuePairDialog.j
+ ava
+SHA1-Digest: ZCyYG/KN2u7Jo+AIwvgI2nqXpwE=
+
+Name: org/eclipse/jdt/internal/debug/ui/Filter.java
+SHA1-Digest: DXjzNTEMD7tKyAQ+vooa+HBnCVM=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/LocalJavaApplicationT
+ abGroup.java
+SHA1-Digest: xxJn0RYcmCKCAxSMNZYvYBq+R6c=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenDeclaringTypeActio
+ n.java
+SHA1-Digest: rBjI3DPngXLvegrBAHFWth65BxQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/ShowInPackageVie
+ wAction.java
+SHA1-Digest: DptbPSVzlJYYY0dak4PaAyEr54A=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/DefineSystemLibraryQu
+ ickFix.java
+SHA1-Digest: v9qvSCNVdO79afZPRHjgoRYOkwU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/WatchAction.java
+SHA1-Digest: bbG7vFaFJ7VAwm15pccCRV6gZWE=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/AbstractClasspathEnt
+ ry.java
+SHA1-Digest: rShb7184UHzb5vrIjGV2tfMaXpg=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SelectSystemLibraryQu
+ ickFix.java
+SHA1-Digest: MFVwGhwotn4hN08+mWzmKf5G3Ro=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/JavaBreakpointAd
+ vancedPage.java
+SHA1-Digest: GiaqkNIR6AcGgHR1ATKmZ5MVvqE=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/RemoteJavaApplication
+ TabGroup.java
+SHA1-Digest: HvZkQ0Z+g28W+dWPOQ53pVUsWNI=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/AbstractJavaClasspath
+ Tab.java
+SHA1-Digest: igk+2wsLnfjcgfN+hqdfHgdvCRI=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaContendedMonitor.
+ java
+SHA1-Digest: hBumypActuHD9u5Q1SLgz1W0OGM=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetEditorPro
+ pertyPage.java
+SHA1-Digest: D6vjBgAspd1Sr0uhwit/lf99xvE=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDIImageDescriptor.java
+SHA1-Digest: 8SUmGzodmpSOB0W60fwtcWLoXW8=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenDialogAction.java
+SHA1-Digest: K+PzD2j0gQ+xlLGnr7Ff4YniuJk=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/LineBreakpointCh
+ ange.java
+SHA1-Digest: MMl0Rzx9HY+Te1T5+/G193uRPJ4=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ForceReturnAction.java
+SHA1-Digest: QZV1OkOzvk+OWcz5Lou7IeiChSY=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/BreakpointHitCountActi
+ on.java
+SHA1-Digest: e33hvGPbAhpPN7bApQIAVx3C1TA=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointRename
+ ProjectParticipant.java
+SHA1-Digest: QIKIr1gLv+KuvjBb6x7x/tjipOg=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaLikeExtensionsReso
+ lver.java
+SHA1-Digest: X26Y/fXXxjgZXqA+q5EZBrbaZ4g=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/MethodBreakpoint
+ MethodChange.java
+SHA1-Digest: pdwEEtFMHX57LFKXpmojS91N1RY=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenDeclaringTypeHiera
+ rchyAction.java
+SHA1-Digest: sI4sWyxcCmf7mytm7eZQ4l5QaHI=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/DynamicTypeConte
+ xt.java
+SHA1-Digest: 4w3HbVk7ZEP9DtK1YcI94E9h0I8=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaStackFrameMement
+ oProvider.java
+SHA1-Digest: vPt4nEjk9YP6IlJoifByfC62dYs=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathModel.java
+SHA1-Digest: D+WFK+KoJDlw9tFQMRDjU6dSaIA=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/LibraryContentProvider.ja
+ va
+SHA1-Digest: Ag2RnuYW/ttUr+p0yfPn8LMGyxQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/ZipEntryStorageEditorInput.jav
+ a
+SHA1-Digest: uyEN6y/qGOYJn7uHIDfsE4ZzCww=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/DefaultClasspathEntr
+ yEditor.java
+SHA1-Digest: jDuhjl8S8rZY13PB06oBRa9vVAQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/StorageEditorInput.java
+SHA1-Digest: deu4Y2SlVXEex0/ASvmZym9M/jY=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaWatchExpressionDelegate.ja
+ va
+SHA1-Digest: LSx/T9NoGJHdda8/voEBu3fxNLU=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ExpressionInputDialog.
+ java
+SHA1-Digest: 3eg3ETvcQCWM5gU+c7MXDOb6FbQ=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/RefactoringMessa
+ ges.java
+SHA1-Digest: YpEUQgJ/sDBRP/F0O6nkBjamjZY=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/ExecutionEnvironmentsLabe
+ lProvider.java
+SHA1-Digest: 5AyqKrrS8eXsAYXrFzApiScDVvk=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/WatchpointEditor.j
+ ava
+SHA1-Digest: 4efaDZLaeAw86TSuy5tmoiim4d0=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/WatchpointTypeCh
+ ange.java
+SHA1-Digest: PDsaKsYfSDbsDv2gQB7LVMAwO2o=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/ClassPrepareBrea
+ kpointTypeChange.java
+SHA1-Digest: g8sDF3NPugg9QPpjeAVi5yfibts=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/OpenReceivingTypeHiera
+ rchyAction.java
+SHA1-Digest: sAdUt77BlfBcGfIm/RPX0c2MtG8=
+
+Name: org/eclipse/jdt/internal/debug/ui/HotCodeReplaceErrorDialog.java
+SHA1-Digest: l/pXeSjy1r+wev+nbUob7Moy/mo=
+
+Name: org/eclipse/jdt/internal/debug/ui/heapwalking/InstanceCountActio
+ nDelegate.java
+SHA1-Digest: QQptACQKk8yW7P/T9BccK5e+yWk=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaLogicalStructuresPreferenc
+ ePage.java
+SHA1-Digest: E79tBi2DdNZ1/NjrtXWqr7ehovk=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/ProjectClasspathArgum
+ entSelector.java
+SHA1-Digest: DrBRGrSyq9JjaLgh+Ll2OuiULOU=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/AutoFormatSettingActio
+ n.java
+SHA1-Digest: Y0QKF0sysX/blbDUfgqJ4+9VH1U=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/DisplayAction.java
+SHA1-Digest: aAybq2/0TBFxWueIAH7wA9wxsc4=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/JDTDebugRefactor
+ ingUtil.java
+SHA1-Digest: q++KNTvoC7RElztJV42mX8fG9O8=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaThreadActionFilter.java
+SHA1-Digest: z6A7t2XNFId6vZ/ycCMxQ83ioNo=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/JavaSnippetEdito
+ r.java
+SHA1-Digest: SrRAKpCgSi+1O5CJ+FpB68cxzAA=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/EEVMPage.java
+SHA1-Digest: Se6ww7mY1JKZNlE72LBKuoG4yzo=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/PopupInspectAction.jav
+ a
+SHA1-Digest: oeIRkhQ3z7vor8E5tIB8ANhIncU=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/ISnippetStateCha
+ ngedListener.java
+SHA1-Digest: 8d5OKwy25VBRn8RWgRs5FqVfBWg=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/AbstractJavaBreakp
+ ointEditor.java
+SHA1-Digest: olJ29MuvxFH8ETNCSpjbh6R4Rs8=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/JREsPreferencePage.java
+SHA1-Digest: 0Kv80O7UUJUtlCeLOkqcX3v9kDQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EditDetailFormatterAct
+ ion.java
+SHA1-Digest: Sg5tRupqhgYEN6vMYBrd7Nak/Pk=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/ClasspathEntry.java
+SHA1-Digest: w9J0LBM+ntGjjE9AiVlATVVzd6k=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/SnippetAction.ja
+ va
+SHA1-Digest: vt5IN9+7m6Iqv55T7oRiNRxccRI=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/IClasspathEntry.java
+SHA1-Digest: EGnJlKgVTqLJ2sUWGF5vW6T8gZM=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaMonitor.java
+SHA1-Digest: RDPgIuFn8hWrL8ZySlbFW8KY40M=
+
+Name: org/eclipse/jdt/internal/debug/ui/sourcelookup/ClasspathVariable
+ SourceContainerBrowser.java
+SHA1-Digest: hTbArls9VyTfWBTZbiMUP9FZDjs=
+
+Name: org/eclipse/jdt/internal/debug/ui/contentassist/TypeContext.java
+SHA1-Digest: kFjkV3jp6UQpnpq6orjcTNr8vl0=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/WatchpointFieldC
+ hange.java
+SHA1-Digest: 4oZ9kPZpoZhUfdDGeYVkV5rlqgw=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddVariableAction.java
+SHA1-Digest: FZsnIq4EAmo3NvR8YBOOINCrHA4=
+
+Name: org/eclipse/jdt/internal/debug/ui/JavaDebugOptionsManager.java
+SHA1-Digest: YoiXZ9xVW3nhC95G49ouWrClQdg=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/ExceptionInspector
+ .java
+SHA1-Digest: rD2BGj4arcnLbM1vO29lTA5dkb8=
+
+Name: org/eclipse/jdt/internal/debug/ui/DetailFormatter.java
+SHA1-Digest: vKgoK4/fyCYF0bzmJ+zm3JNRG1I=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ProjectSelectionDialog
+ .java
+SHA1-Digest: xxvSBFMuWrYv7j1nwMtE/DL9uRM=
+
+Name: org/eclipse/jdt/internal/debug/ui/EvaluationStackFrameContextSta
+ tusHandler.java
+SHA1-Digest: 4NWRU6nn/vmyEj0XzsFmy9D3dB8=
+
+Name: org/eclipse/jdt/internal/debug/ui/launcher/SharedJavaMainTab.jav
+ a
+SHA1-Digest: CSEIbioEKKTAnEHQTQFqQDzvbUg=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DisplayViewAction.java
+SHA1-Digest: sZJaYmeEXmx97yzHTvlQrarpeIw=
+
+Name: org/eclipse/jdt/internal/debug/ui/JDIDebugUIPreferenceInitialize
+ r.java
+SHA1-Digest: cT36AE0zP1YO46yz7FN5iYbEmrI=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddExternalJarAction.j
+ ava
+SHA1-Digest: lQ+lTbwqD07LLHa/ofgk+AA1ZfA=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/ExceptionBreakpoin
+ tEditor.java
+SHA1-Digest: fEDpnle0zo6PfqJr3EH2RRB2UBI=
+
+Name: org/eclipse/jdt/internal/debug/ui/monitors/JavaOwningThread.java
+SHA1-Digest: dciO1Sy+HahDQPkmCjPG6b1succ=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaArgumentsTab.j
+ ava
+SHA1-Digest: IwReaPK+1Gbv00IiaSufg60cS74=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/VariableClasspathEnt
+ ryWorkbenchAdapter.java
+SHA1-Digest: +p2734aOL24tfVIIOtR5aT024+4=
+
+Name: org/eclipse/jdt/internal/debug/ui/threadgroups/JavaDebugTargetPr
+ oxy.java
+SHA1-Digest: LE7h3bh9LCCgXc4YncMAyXkDXyE=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RemoveDetailFormatterA
+ ction.java
+SHA1-Digest: JYN1hRFeIpXtPY4em3i1Ed8JcAk=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaNativeStackTraceHy
+ perlink.java
+SHA1-Digest: E4vZcv6PZE9Jqj0zq1J7aLzzh8I=
+
+Name: org/eclipse/jdt/debug/ui/launchConfigurations/JavaLaunchShortcut
+ .java
+SHA1-Digest: N639jyXCHaow4l4IdPvgH2T7I28=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/BreakpointSuspendPolic
+ yToggleAction.java
+SHA1-Digest: WlMwtITOxsLRb0PvsJtkZJAAaoQ=
+
+Name: org/eclipse/jdt/internal/debug/ui/breakpoints/BreakpointMessages
+ .java
+SHA1-Digest: M6lHRxLpvNgBYgs4DJIf+PiUxKI=
+
+Name: org/eclipse/jdt/internal/debug/ui/snippeteditor/NewSnippetFileCr
+ eationWizard.java
+SHA1-Digest: O/6DLY3ZvgcYzMN2cYN2pdiWmHI=
+
+Name: schema/vmInstallTypePage.exsd
+SHA1-Digest: po0QNHRIq+UdZ3cV9Nz6439ych8=
+
+Name: org/eclipse/jdt/internal/debug/ui/console/JavaStackTraceHyperlin
+ k.java
+SHA1-Digest: gQq+IEn9whXwIx0LL/EevvGuIZ4=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/EntryToggleAction.java
+SHA1-Digest: xQ5teK3jBqY+EWmTDj8kevTI4i0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionHyper
+ linkDetector.java
+SHA1-Digest: 1LCijjS/Nrho8a6eqHLiWBgHHY0=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaDebugElementAdap
+ terFactory.java
+SHA1-Digest: lMlxpfXf06JxM9IY7i0kWFFEtT0=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/RestoreDefaultEntriesA
+ ction.java
+SHA1-Digest: xs+JRIA8P4h3LSiSv786lZLdRCM=
+
+Name: org/eclipse/jdt/internal/debug/ui/classpath/IClasspathEditor.jav
+ a
+SHA1-Digest: McYopLAxsNtzuLcy0JQwKro60+I=
+
+Name: org/eclipse/jdt/internal/debug/ui/propertypages/ThreadFilterEdit
+ or.java
+SHA1-Digest: F1ORV+NJVmQBqauaLweCezQgZIc=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ShowThreadGroups.java
+SHA1-Digest: 9YWoZZSEYb+HwZ0dM5DCgMKGQi0=
+
+Name: org/eclipse/jdt/internal/debug/ui/jres/EditVMInstallWizard.java
+SHA1-Digest: VzWmRUU3W+/roL9hkopcRcnj+HY=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ObjectActionDelegate.j
+ ava
+SHA1-Digest: TF8iNv5qGOmqcks8U8C2smHmYpI=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableContentP
+ rovider.java
+SHA1-Digest: t38PZMeUDuaXOThc70i0g5++oTM=
+
+Name: org/eclipse/jdt/internal/debug/core/refactoring/BreakpointMoveTy
+ peParticipant.java
+SHA1-Digest: 9ihnJhN9Lf4s19ttv/Jg2XJVs8Q=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/AddFolderAction.java
+SHA1-Digest: nLOHwBAE8H3QWdBOV0MV/kHi5g8=
+
+Name: org/eclipse/jdt/internal/debug/ui/variables/JavaVariableColumnPr
+ esentation.java
+SHA1-Digest: kmetXj/q8Nz0RNBq+BOkKjuMl6w=
+
+Name: org/eclipse/jdt/internal/debug/ui/actions/ViewFilterAction.java
+SHA1-Digest: NfijFwtYOvy7Q6RRR+jus2rWpYE=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/DataDisplay.java
+SHA1-Digest: fVRgzyIUqph62L83J8TY2XoF/Dk=
+
+Name: org/eclipse/jdt/internal/debug/ui/display/IDataDisplay.java
+SHA1-Digest: +3Ya61Xpr6inMIt3YIcG//KRoyQ=
+

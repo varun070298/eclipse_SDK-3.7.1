@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.jarprocessor;version="1.0
+ .200.v20110502-1955";roots:=".,lib/jarprocessor-antsrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.jarprocessor.source
+Bundle-Version: 1.0.200.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/UnpackStep.java
+SHA1-Digest: I4afOuxBxrhUvG97Hh+E4B0zEVs=
+
+Name: lib/jarprocessor-antsrc/org/eclipse/equinox/internal/p2/jarproce
+ ssor/ant/JarProcessorTask.java
+SHA1-Digest: KeaAyYUFgrniUoTgZ8j/Oe9/UQA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/verifier/VerifyStep
+ .java
+SHA1-Digest: ZaCbbc7QdN8/hWTgHf7iLHh/fEQ=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/Main.java
+SHA1-Digest: e+w91dJsonB/DQfgdXBj4+ac7+4=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/PackUnpackStep.java
+SHA1-Digest: od62gf1wEwqroh1EbmTNqtRbjGI=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/JarProc
+ essor.java
+SHA1-Digest: AuBCAuyIdyBGaHnOjfnrIbQnqoc=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/SignCommandStep.jav
+ a
+SHA1-Digest: WDAGfAHKpr/VxDcg5W4lH/kJOo8=
+
+Name: lib/jarprocessor-antsrc/org/eclipse/equinox/internal/p2/jarproce
+ ssor/ant/AntBasedProcessorExecutor.java
+SHA1-Digest: /RzuyBAfRA32bqiNihL5eycAa7M=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/CommandStep.java
+SHA1-Digest: 5faYoccGOghbwdiX14vcicAJaos=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/IProces
+ sStep.java
+SHA1-Digest: fX3ZY/RhpMD/6S1s5TtZkJqK+kI=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/ZipProcessor.java
+SHA1-Digest: BdO86+OECx68U54dWZsi4fHMwZ0=
+
+Name: plugin.properties
+SHA1-Digest: GTHlyBoQWvhqyQOy+DfvWj1LIyw=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/StreamProcessor.jav
+ a
+SHA1-Digest: 0dFdzVP6zwTo2l8vlkaKkKmY3a0=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/Utils.java
+SHA1-Digest: Vsq0HHG7MEMTvKln8y2/h0Cc/WU=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/verifier/Verifier.j
+ ava
+SHA1-Digest: RgVzVszVHpmWoz1rp8pBYdcvCow=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/unsigner/Unsigner.j
+ ava
+SHA1-Digest: HAsWiraP6cDpySP99bylHbOTn28=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/StreamProcessorJob.
+ java
+SHA1-Digest: l7wSkXU/MbTin0KZS1qXfRtb390=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/JarProc
+ essorExecutor.java
+SHA1-Digest: dnXAda3K0y4+udrYTXe2iVcCnOs=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/unsigner/UnsignComm
+ and.java
+SHA1-Digest: Oc6FL3hqOJKrvT8GKq3nRvnVGFs=
+
+Name: lib/jarprocessor-antsrc/org/eclipse/equinox/internal/p2/jarproce
+ ssor/ant/AntSignCommand.java
+SHA1-Digest: f8I0LqLYN7T7cO4NtGf/9LVKRI0=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/PackStep.java
+SHA1-Digest: g1GY/ws0Oxfv7XxI55psEbdVPcw=
+

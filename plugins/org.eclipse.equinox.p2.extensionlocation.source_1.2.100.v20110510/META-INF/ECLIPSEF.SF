@@ -1,0 +1,47 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zmqdVaSh8XWozvElzzc5sxaHqqg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: eiDMu0NdhQH1wxCXdWm6GWaSUpw=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionArtifactRepository.java
+SHA1-Digest: RxxjPK7ky/vA50bdbvbISjkxIYU=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Constants.java
+SHA1-Digest: FHw32PZscLp9IQ9jupgfPxR+NpE=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionMetadataRepositoryFactory.java
+SHA1-Digest: lqdWC8FdmFCuS3K+jIGFYtQ4+JY=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Messages.java
+SHA1-Digest: T+O1rrbdiG4x8FkXddf2xy2oVq0=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionMetadataRepository.java
+SHA1-Digest: P23apu1dZ+aYKBwiRp23Cryky5E=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/SiteListener.j
+ ava
+SHA1-Digest: RZaA/9C7nuUra4eq99zITB8bilk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/ExtensionLocat
+ ionArtifactRepositoryFactory.java
+SHA1-Digest: OmNurJidQWUhjKOtqO4qRAoi4w4=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/BundlePoolFilt
+ eredListener.java
+SHA1-Digest: d0Uf9jslKsk3p2y6xue9CUjinko=
+
+Name: about.html
+SHA1-Digest: Vqzh+dmagGqBawo1GQHYMRaLD0g=
+
+Name: org/eclipse/equinox/internal/p2/extensionlocation/Activator.java
+SHA1-Digest: pxZeaV0HloJZo/kyLYQqDQWJGog=
+
+Name: plugin.properties
+SHA1-Digest: xv5uswD6yr61iqZqAMP/zZ1BjMM=
+

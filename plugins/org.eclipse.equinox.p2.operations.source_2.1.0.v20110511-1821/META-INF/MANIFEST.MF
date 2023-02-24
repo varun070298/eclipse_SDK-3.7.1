@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.operations;version="2.1.0
+ .v20110511-1821";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.operations.source
+Bundle-Version: 2.1.0.v20110511-1821
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/p2/operations/ProvisioningJob.java
+SHA1-Digest: YnQ0VAPc5+88o31eaU2A4OGl2KY=
+
+Name: org/eclipse/equinox/p2/operations/ProfileChangeOperation.java
+SHA1-Digest: VeufcoVJPGHdGai/DdoZvOPBKKY=
+
+Name: org/eclipse/equinox/p2/operations/RepositoryTracker.java
+SHA1-Digest: cBPSR1p5PGXCAYngQUx29Vs7RUM=
+
+Name: org/eclipse/equinox/p2/operations/InstallOperation.java
+SHA1-Digest: rt3679M5QlH2awRqa1jK4PACB0U=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/operations/PlanAnalyzer.java
+SHA1-Digest: zepMObV8yflswEwC3Ui9NAc8BkE=
+
+Name: org/eclipse/equinox/p2/operations/IProfileChangeJob.java
+SHA1-Digest: PKMpGtA1lBNEV6WR2RqEoUb2y0c=
+
+Name: org/eclipse/equinox/internal/p2/operations/SearchForUpdatesResol
+ utionJob.java
+SHA1-Digest: 2d+xayJI+pizToFD3Of1lWGJn9Y=
+
+Name: org/eclipse/equinox/p2/operations/Update.java
+SHA1-Digest: cSlTGk/XP6OR70Qv8iJmSyZW+BE=
+
+Name: org/eclipse/equinox/internal/p2/operations/Messages.java
+SHA1-Digest: TDDSrhtWCULOxcjtrT07vP1JApA=
+
+Name: org/eclipse/equinox/p2/operations/ProvisioningSession.java
+SHA1-Digest: gRaruYSEJLqpYmUkKsilrXLrScw=
+
+Name: org/eclipse/equinox/internal/p2/operations/IStatusCodes.java
+SHA1-Digest: yLpo42Lhfj+Slja6/wLHZa/D8OI=
+
+Name: org/eclipse/equinox/p2/operations/UninstallOperation.java
+SHA1-Digest: Rc3GuBMi3vmCrWmvvo4OYxx6QBg=
+
+Name: org/eclipse/equinox/internal/p2/operations/ResolutionResult.java
+SHA1-Digest: Q91OouvbJdpa8PR8VbPEDqIzUNA=
+
+Name: org/eclipse/equinox/p2/operations/OperationFactory.java
+SHA1-Digest: HO9lbkXXqHNWcWMIBY/JUVKkngg=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: tiK7xoeEACaHfekj2xswMue6drg=
+
+Name: org/eclipse/equinox/p2/operations/UpdateOperation.java
+SHA1-Digest: aPO1b9A5hPUo6jtpQ4APEs7f6lo=
+
+Name: org/eclipse/equinox/internal/p2/operations/PlannerResolutionJob.
+ java
+SHA1-Digest: j2/ZzhhbgwwQkctQhscGexOfb70=
+
+Name: org/eclipse/equinox/p2/operations/ProfileModificationJob.java
+SHA1-Digest: RINVusc0wjOjWqAC+XhI24OAtDc=
+
+Name: org/eclipse/equinox/p2/operations/SynchronizeOperation.java
+SHA1-Digest: ndKkHJgvyIe6WNdjjjcgu6vUPZM=
+
+Name: org/eclipse/equinox/internal/p2/operations/Activator.java
+SHA1-Digest: ASVsrcZI4d4b1d4ZwXxquj51t0Y=
+
+Name: org/eclipse/equinox/internal/p2/operations/IFailedStatusEvaluato
+ r.java
+SHA1-Digest: S40S+d48oPZmmIJxyL7mmAan/3Y=
+

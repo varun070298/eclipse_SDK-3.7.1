@@ -1,0 +1,157 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.filesystem;version="1.3.100.v20
+ 110423-0524";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.filesystem.source
+Bundle-Version: 1.3.100.v20110423-0524
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/filesystem/NullFileStore.java
+SHA1-Digest: kNEL9lQ3kbQElhNw+hMnltQ+6AI=
+
+Name: natives/unix/hpux/ia64_32.mak
+SHA1-Digest: sPSB0VAvRO7HgSzCOSMdKzvfSBY=
+
+Name: org/eclipse/core/filesystem/provider/FileStore.java
+SHA1-Digest: Nm4G47wiQgRHoj5WzIykFIEQNZc=
+
+Name: natives/unix/solaris/Makefile
+SHA1-Digest: Vu06LoGDKuaumiNgzd1Gbr4QDCA=
+
+Name: org/eclipse/core/filesystem/IFileInfo.java
+SHA1-Digest: cLKeDuslQ5Bd4vp54HTd8mZ0QiU=
+
+Name: org/eclipse/core/filesystem/EFS.java
+SHA1-Digest: SUtTftrtyEaNRVykdQpH+PuP2mU=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileNatives.java
+SHA1-Digest: KsC80RjYxOpbdxL8jVt5Oir+kgU=
+
+Name: org/eclipse/core/internal/filesystem/Activator.java
+SHA1-Digest: dryeyNSLPWTpUVoO1RubMGxe6S4=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/UnixFileNatives.
+ java
+SHA1-Digest: E/qtabT9FkXMJnqb0gdZEDe+2wg=
+
+Name: natives/win32/x64/make_x64.bat
+SHA1-Digest: M95Sm7mt1DY6GHohdRi0SSavP6w=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileSystem.java
+SHA1-Digest: zSf/30ro0WjEgGVKVOnG+99Qtgs=
+
+Name: natives/unix/unixfile.c
+SHA1-Digest: xA/wgVG+QbdF6kXIXW/Or0uP0XI=
+
+Name: natives/localfile.h
+SHA1-Digest: VPeAaSlY10BFuXd+1fCzMgieYfE=
+
+Name: plugin.properties
+SHA1-Digest: Q1ex8aA6ATt7/3AWQdZMwV2eTKo=
+
+Name: org/eclipse/core/internal/filesystem/Policy.java
+SHA1-Digest: nrPSihExpkpgYbromBBDvtsLREQ=
+
+Name: org/eclipse/core/internal/filesystem/NullFileSystem.java
+SHA1-Digest: kTB9BEwivgD1EkcuKZU6WAqus3E=
+
+Name: org/eclipse/core/filesystem/provider/FileInfo.java
+SHA1-Digest: dWhq475runH2EOTKDdN+XWlC4Kk=
+
+Name: org/eclipse/core/internal/filesystem/local/Convert.java
+SHA1-Digest: zzFA3adT+Ws3UujoYR1roNkNjE4=
+
+Name: natives/unix/unixfile.h
+SHA1-Digest: l95VJ8enSj+f49nYGrlTSDFN/Xw=
+
+Name: org/eclipse/core/filesystem/IFileTree.java
+SHA1-Digest: A/QS5ImNi+wQIC6d0ihk/qgMQwg=
+
+Name: natives/unix/qnx/include/os_custom.h
+SHA1-Digest: PXPPe9NTjKXWz1Ukcmi7aR6F4PU=
+
+Name: org/eclipse/core/internal/filesystem/FileCache.java
+SHA1-Digest: ENSmlzusmYAw8KVjCDk9Ou/JFL8=
+
+Name: natives/unix/linux/Makefile
+SHA1-Digest: VqiWbPe6hBh7Rc7B5S0gy0HJPzQ=
+
+Name: org/eclipse/core/internal/filesystem/local/InfiniteProgress.java
+SHA1-Digest: WopRaiwVQKwRl+BfT/G69zXTHb4=
+
+Name: natives/win32/make.bat
+SHA1-Digest: uc2HO2HWglYaGFhStPLan/xDghw=
+
+Name: org/eclipse/core/filesystem/provider/FileTree.java
+SHA1-Digest: Y4vHcrcxNuoSKkUq6AoK96NKBs0=
+
+Name: natives/unix/macosx/Makefile
+SHA1-Digest: DL29x/HouNG+F2OUJjzxNgQ9Fuw=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/UnixFileFlags.ja
+ va
+SHA1-Digest: TCCwsMv3t1e9bmzwHUS6sK1piCQ=
+
+Name: org/eclipse/core/filesystem/IFileSystem.java
+SHA1-Digest: 6hDlgMERAIs3vt2gkmbr62DOrY8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: natives/unix/README.TXT
+SHA1-Digest: 9ngUTbbCcnYS7yYO/FlPQstWO9A=
+
+Name: org/eclipse/core/filesystem/URIUtil.java
+SHA1-Digest: FjgMFpYttf9vGpfhyLqWcNZMjVo=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileNativesManag
+ er.java
+SHA1-Digest: 6c/o6gI2tt3IgR91Qb3b4kQwPiI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/filesystem/IFileStore.java
+SHA1-Digest: Y32+oCiNMXOuATxFfxiWRQG3pAY=
+
+Name: org/eclipse/core/filesystem/provider/FileSystem.java
+SHA1-Digest: Q19L/BfjaOb2WuOtkZk9dHyMSNA=
+
+Name: natives/unix/hpux/PA_RISC.mak
+SHA1-Digest: 8yra7KqLnf/tY8DjHs0E1Zd8i/k=
+
+Name: natives/unix/hpux/include/os_custom.h
+SHA1-Digest: oI0SzMymVA9auRHnVZ0ALUxT1hY=
+
+Name: natives/unix/qnx/Makefile
+SHA1-Digest: J1fNDhqP9KNl0/83uwFAbAh0Tgg=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/StructStat.java
+SHA1-Digest: pmX59htAMa57wrWoKXVhyPuj3oU=
+
+Name: org/eclipse/core/internal/filesystem/Messages.java
+SHA1-Digest: KC+ntNXtnpw4UjV6NRJahVpydGE=
+
+Name: natives/win32/localfile.c
+SHA1-Digest: Dq59GP1XWU1fFHXGeIvD/zGSPDQ=
+
+Name: schema/filesystems.exsd
+SHA1-Digest: +9/YfJ+WQvtQSDJ0mH/dYA2slQI=
+
+Name: org/eclipse/core/internal/filesystem/InternalFileSystemCore.java
+SHA1-Digest: Tr9f1gBInz9dqdkXQLTbe4kmzwk=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFile.java
+SHA1-Digest: eS3DCHDSFzlp97ZCZtCMc0UjA8E=
+
+Name: natives/win32/ia64/make_IA64.bat
+SHA1-Digest: ZvmiqifGTuiVYqXUoYb//yS06iQ=
+
+Name: natives/unix/aix/Makefile
+SHA1-Digest: f20jciHnFzPlMTzu/aWhXshNzhs=
+
+Name: natives/win32/setup.bat
+SHA1-Digest: gcNmYl8astpfP4DmkyWasLqhdRI=
+

@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: YnRwok05QOBDshfMVq5T4VRZD9g=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: i4kNe22P7k4Gq2RFwRx+x3V87zc=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Clean
+ upzipAction.java
+SHA1-Digest: wVR+5h3PP48eLenhKoq394lhtow=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/LinkA
+ ction.java
+SHA1-Digest: Y5hAuJXZ9u08x9I3Xm0DX4I00uQ=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/Util.java
+SHA1-Digest: eaGfRngNl90r1uFZxzqEjrvBAXU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Rmdir
+ Action.java
+SHA1-Digest: dQ6bNvU8t3QJ1m973o3NOSE0/uY=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/Activator.jav
+ a
+SHA1-Digest: f5/n+Jfr1QWB65G23TV4+e8GZ/Y=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Mkdir
+ Action.java
+SHA1-Digest: 0yQ6whxiWCUSYxDoZVUkLWnTddo=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/CopyA
+ ction.java
+SHA1-Digest: iBF/d3M3x/cb5zG1s1YWD9ba928=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/ClosedBackupS
+ toreException.java
+SHA1-Digest: QT8vy5s6SrOpOXWuc0NKoCSiTOE=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Colle
+ ctAction.java
+SHA1-Digest: I7gkE+avPMO37SLFyT9gwIzG408=
+
+Name: plugin.properties
+SHA1-Digest: I0dR07qC5QjeP3Kop4YI0rZVqqE=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/IBackupStore.
+ java
+SHA1-Digest: pHFb0vCCkJtmKNF5elt7r4JABq0=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Unzip
+ Action.java
+SHA1-Digest: 3zE4ZUizy50uit4tewBB6y9Ljqo=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/LazyBackupSto
+ re.java
+SHA1-Digest: AjFC6+wSh8RKl3tkQ7C+tZEAC/Q=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Actio
+ nConstants.java
+SHA1-Digest: g0OfbYYMKy9xyb1KBAw82/Bf/Pc=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/Messages.java
+SHA1-Digest: TmFSP8dPc+A01gpMLKhXCVnXFcs=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Remov
+ eAction.java
+SHA1-Digest: iV6K/1cNf0YogxO84ZfBwmW/HVo=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Chmod
+ Action.java
+SHA1-Digest: atJlM40PvZiqp8kZ7tNYNa1yxGk=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/BackupStore.j
+ ava
+SHA1-Digest: TVLJPJSkMqbJbaRIN2KLs9OemcE=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/NativeTouchpo
+ int.java
+SHA1-Digest: J1hmDpnqJ8XoH9QgfGB0x0Q6fhQ=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/natives/actions/Clean
+ upcopyAction.java
+SHA1-Digest: YPFnkI2v6+CmzrVUvQmgngQrRec=
+

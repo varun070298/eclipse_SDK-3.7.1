@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.jsp.jasper;version="1.0.300.
+ v20110502";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.jsp.jasper.source
+Bundle-Version: 1.0.300.v20110502
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/jsp/jasper/BundleProxyClassLoader.j
+ ava
+SHA1-Digest: TkXyWclOLpW2D5qaHQ1Rqoow9hE=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/JSPContextFinder.java
+SHA1-Digest: C4DlLV4XzIn0UbNYv8GzTZ7pdpk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/jsp/jasper/JspServlet.java
+SHA1-Digest: 4Jggs5iBCYJ+h2qeSokOZjXJMpE=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/Activator.java
+SHA1-Digest: Ga+l0YkMv+wKzv01M4dL17g2Nr8=
+
+Name: about.html
+SHA1-Digest: pFMxZIqhUX1ZnXwPxlDwu9Ch9F4=
+
+Name: org/eclipse/equinox/internal/jsp/jasper/JspClassLoader.java
+SHA1-Digest: YgIDjfa9zE2w3aL1cgc1lgVFzr4=
+
+Name: plugin.properties
+SHA1-Digest: 949iiNiTVg8OVMXLf0w8i/y9XDc=
+

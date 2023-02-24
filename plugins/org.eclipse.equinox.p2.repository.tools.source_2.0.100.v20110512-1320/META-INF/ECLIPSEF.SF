@@ -1,0 +1,363 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ME6vDuYB3K67IQxSfXQ2uUBrq/0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: o1FoMSYn9CRBaSkT4PQtBQbrM5U=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/TypeC
+ onstants.java
+SHA1-Digest: Q23qbK1WRjFK4gbCBTtiurnHjrY=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/CreateCompositeArtifactRepositoryTask.java
+SHA1-Digest: j/TszZrlrtvdbBJrpfgFbNd/aPA=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Const
+ antPool.java
+SHA1-Digest: Lm8pb0qfnx8HTKd7/AMVj8/UnLI=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/CompositeReposi
+ toryApplication.java
+SHA1-Digest: VErCJxO85byEIMf8D/eD7ilntxE=
+
+Name: org/eclipse/equinox/p2/internal/repository/mirroring/FileMirrorL
+ og.java
+SHA1-Digest: nrXd2dpuZm5OHjGz8gvXBRC12CM=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/CharO
+ peration.java
+SHA1-Digest: yzVJ4fTkPD7MnEDswVPUdU0VEaA=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/HostCh
+ eckAnalyzer.java
+SHA1-Digest: dFz3O1Nt9mASXTDaQO/ydLgb2uU=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Annot
+ ationComponent.java
+SHA1-Digest: QTDaLk6e23v9Jd8oUxDuL2D3EQo=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/ProcessRepoTask.java
+SHA1-Digest: iJJ6nJSV/OaasKjLW8uFZ1ZJHzg=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/IOpco
+ deMnemonics.java
+SHA1-Digest: z1CIYs68mOMq5DJKQ+QjSl261d4=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Inner
+ ClassesAttribute.java
+SHA1-Digest: cSLp4Pb6t0SJq4pg6snS24UvDbY=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/MD5Artifac
+ tComparator.java
+SHA1-Digest: jxtvyZHBE6iPVM1vcPkNsSaXC2c=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/RepositoryDescr
+ iptor.java
+SHA1-Digest: nJrjsftFb7G2U6T/n9WrX6DhNv0=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/SlicingOption.java
+SHA1-Digest: sjqaxmRZP6cm6e6S9Kl1YOsdrYs=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/Repo2RunnableTask.java
+SHA1-Digest: gMjbv9Y/riujx6BfZ58qMQY+2iM=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/IUCoun
+ ting.java
+SHA1-Digest: DLXOWr2DT5NpFfiOzVmxLOn2Q30=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Disas
+ sembler.java
+SHA1-Digest: i1DGSMH7KjsYKW43wetgM3y+xDs=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Attri
+ buteNamesConstants.java
+SHA1-Digest: GwCtte7Xc9w2I6L1yOgn4uQDYUI=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/RepositoryFileSet.java
+SHA1-Digest: VNJ5GKr1GCRPSV/DL8allyuxJXc=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Enclo
+ singMethodAttribute.java
+SHA1-Digest: bPtKclTGvm+H7mdnGMnPafftSGw=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Const
+ antValueAttribute.java
+SHA1-Digest: spRCo+Noz8g3kpK229vYA9Z7vUo=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/SlicingOptions.
+ java
+SHA1-Digest: UR0V/OIwAs/HSfqfep8jmyUi68w=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/RepositoryAnaly
+ zerApplication.java
+SHA1-Digest: BhrMrCJZ182Gyg35VNjK6zHGZJA=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/RepositoryUtili
+ ties.java
+SHA1-Digest: Mf8DbSvubQyatfi/boeoxIlp6e0=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/TaskHelper.java
+SHA1-Digest: R/ogumSRmuE7wajyK3VOZgE1aVs=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Messa
+ ges.java
+SHA1-Digest: xuMRnR1kyzE1O9M7Xhn06rcpbj0=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/Repo2Runnable.j
+ ava
+SHA1-Digest: JYRSa2hx43XbgiNf0HfDth/ImxY=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/UnzipF
+ eatureJarAnalyzer.java
+SHA1-Digest: UHTJe75h2yQUTj35sz821ZpFreg=
+
+Name: org/eclipse/equinox/p2/repository/tools/comparator/IArtifactComp
+ arator.java
+SHA1-Digest: vo7kdcHhFJO2JK+WgtHZr0msOX4=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Param
+ eterAnnotation.java
+SHA1-Digest: w1U6jh+sQRM7y2V1YDLsAuZ4748=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Inner
+ ClassesAttributeEntry.java
+SHA1-Digest: H17bqts7IuLH0hRvNwYtw7sC7I0=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/RecreateReposit
+ oryApplication.java
+SHA1-Digest: KNjjbqr5Wxa5kBkJz3kzAyMcLeo=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/JarCompara
+ tor.java
+SHA1-Digest: 9O45I/N2Ofh/3CXdfoTNUrdIBa4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/Licens
+ eAnalyzer.java
+SHA1-Digest: VR3VVb76zpmxHZtIl/NBSuYrCpg=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/Unique
+ IUAnalyzer.java
+SHA1-Digest: n8cvjD8VXPj5i+mLJE3YAplHeZM=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Runti
+ meInvisibleParameterAnnotationsAttribute.java
+SHA1-Digest: Dvf0Tx6YZjKG3LSvdZQY4XsPKTU=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/ComparatorDescription.java
+SHA1-Digest: xiEvxQgLx4Rx7R82PsOTP5PJK90=
+
+Name: org/eclipse/equinox/p2/repository/tools/comparator/ArtifactCompa
+ ratorFactory.java
+SHA1-Digest: SPASUtsgKow/oBy8n5pI3iqAYro=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/ValidateTask.java
+SHA1-Digest: J/Q9vHxRirwD7+RGl7Vn5SHpvdw=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/IModi
+ fierConstants.java
+SHA1-Digest: byWC8reSytT4Dd47VGIUFrNhB38=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Excep
+ tionAttribute.java
+SHA1-Digest: 1bLLpb6U64YhoPOv+kEK1TlaS44=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/DestinationRepository.java
+SHA1-Digest: scYI+Ex44r9UH+N1vQHLJW30MtM=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/AbstractRepositoryTask.java
+SHA1-Digest: lKax4VEdLH17XwUGJkrH0B+vM3Y=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Annot
+ ationDefaultAttribute.java
+SHA1-Digest: xsW+iKp0kQnPefWB4QU8xUUchtc=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Class
+ FileAttribute.java
+SHA1-Digest: 6T+hHFUPkSpRLJlO27LtFhw0Gog=
+
+Name: org/eclipse/equinox/p2/internal/repository/mirroring/XMLMirrorLo
+ g.java
+SHA1-Digest: MZAQYplr+01JjKwWuG0eExEuElQ=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Class
+ FileReader.java
+SHA1-Digest: 7mirZ+909SAkvDEYOdvzWui87XM=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Const
+ antPoolConstant.java
+SHA1-Digest: 2rLwsU8Q4hCHZLoX8OBu9HAdnQQ=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/ArtifactReposit
+ oryValidator.java
+SHA1-Digest: H+LrRqWqN6P/c5WydlUm5/cNkaE=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Annot
+ ationComponentValue.java
+SHA1-Digest: UQb63pcF8SWd99HIGOeMVH4RvyY=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/Activator.java
+SHA1-Digest: Sn5BD+M6qODqoYzBs7BgoIMUcS0=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/RepositoryList.java
+SHA1-Digest: UEL39wCY2gBZweXf+1G14kZJfJY=
+
+Name: org/eclipse/equinox/p2/internal/repository/mirroring/IArtifactMi
+ rrorLog.java
+SHA1-Digest: LDZgr51HRSXBmoN7Tw4f7hQpOdU=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Excep
+ tionTableEntry.java
+SHA1-Digest: Tw3YQsgg0ebRUu1LVS4prHlz92Y=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Opcod
+ eStringValues.java
+SHA1-Digest: ZzI6955bmQrQu84/yyeUzrmSmQE=
+
+Name: org/eclipse/equinox/p2/repository/tools/analyzer/IIUAnalyzer.jav
+ a
+SHA1-Digest: dghONwwtmlnrqAsJyBONOUD+duE=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/MirrorApplicati
+ on.java
+SHA1-Digest: Z510MRJ9C4Q4OA1blWHrGmWs9Jw=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/CodeA
+ ttribute.java
+SHA1-Digest: O2ZkdiypTOSy5Hfvlw6sykkx4/8=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/MirrorArtifactsTask.java
+SHA1-Digest: ScajjYjziCFPxkrM4tpAdabSP1A=
+
+Name: org/eclipse/equinox/p2/repository/tools/analyzer/IUAnalyzer.java
+SHA1-Digest: +ftzarNkoSpaT+ABptsjrEjX/ow=
+
+Name: plugin.properties
+SHA1-Digest: A8sffaMbiktvNWI14So39O/C5qU=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Field
+ Info.java
+SHA1-Digest: FT+wWJiUavlr5mlbgfBuUXngOPo=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Sourc
+ eFileAttribute.java
+SHA1-Digest: TlKYkoe/0YzA1pNEx6U8Cuk1n4o=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Annot
+ ation.java
+SHA1-Digest: FlStfDUAND/xRE4ISHxlA38oa7Y=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/RemoveIUTask.java
+SHA1-Digest: Hc9JpcXlSnjcQX7TbzI2RddUjZc=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Metho
+ dInfo.java
+SHA1-Digest: NEnXsZl32XlNK/E8ub5zxgWQdKI=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Runti
+ meInvisibleAnnotationsAttribute.java
+SHA1-Digest: 49su6fJZaUelObGGkYWl/mF231A=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/CompositeRepositoryTask.java
+SHA1-Digest: Dd5NCOwfzMH8hSsBKNyQ9FvzSM4=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Signa
+ ture.java
+SHA1-Digest: WhNYQUBmb/6Fq7/qUYGh86LX9I0=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/IUDescription.java
+SHA1-Digest: ow7OkqQrKcs6vzhaFiTAKYzPMDA=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Signa
+ tureAttribute.java
+SHA1-Digest: azyVPiz5UBQ/9u/g8Gck6KvqH8I=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/Copyri
+ ghtAnalyzer.java
+SHA1-Digest: 2HYa2XGnZ3MG6kgvH1YEiCWGldI=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Const
+ antPoolEntry.java
+SHA1-Digest: 0jeJNSTqvH/bGrU/8iW1PT3/8ew=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Class
+ FormatException.java
+SHA1-Digest: zaP7ucHn35SOHQvsrgabNtRKBeg=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/ArtifactDescription.java
+SHA1-Digest: v+rIGfvF+sWtYbIZ8LXPG/ojglg=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/MirrorTask.java
+SHA1-Digest: 1FKd1jA5PR5C4n1pwpNCfP2oFd8=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/AbstractApplica
+ tion.java
+SHA1-Digest: sgWTfacal8RQGEW4clPjVXPdl5s=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Utili
+ ty.java
+SHA1-Digest: yroP2q4hXOHFlnCbjuoSibn23oU=
+
+Name: org/eclipse/equinox/p2/internal/repository/mirroring/Mirroring.j
+ ava
+SHA1-Digest: cRPa8ywKHljZ90VUstJhkd3IhCU=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Defau
+ ltBytecodeVisitor.java
+SHA1-Digest: shkEUGopc26wXZnX+WT+ZOYf8/E=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/AntMirrorLog.java
+SHA1-Digest: 4JHwo+Qn2Gf1mQyvQPay2TAidvw=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Class
+ FileStruct.java
+SHA1-Digest: xHT1yYog1oarRCtJB3PlXmaRVM4=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Runti
+ meVisibleParameterAnnotationsAttribute.java
+SHA1-Digest: cJWJLYNumTdmB8QNTMwEjtB9n7U=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/analyzer/Versio
+ nAnalyzer.java
+SHA1-Digest: e204lf2dqSDMVQfDIrgf4HOnyMU=
+
+Name: org/eclipse/equinox/p2/internal/repository/comparator/java/Runti
+ meVisibleAnnotationsAttribute.java
+SHA1-Digest: rK+LTh3hTQUY1OuV9rdbtWtaOYI=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/RepositoryAnaly
+ zer.java
+SHA1-Digest: x1yIFPAAH5+GcVn7jwTIYAyE/5M=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/ElementList.java
+SHA1-Digest: acAftTNjkbXzw5IMLPSRn2e+3Zg=
+
+Name: lib/repository-tools-antsrc/org/eclipse/equinox/p2/internal/repo
+ sitory/tools/tasks/MirrorMetadataTask.java
+SHA1-Digest: eYRPxjWyfoKJXGhMQLrykEO3T5s=
+
+Name: org/eclipse/equinox/p2/internal/repository/tools/Messages.java
+SHA1-Digest: y8kLBVN1qO/NGgqLbBlAUnC2KXg=
+

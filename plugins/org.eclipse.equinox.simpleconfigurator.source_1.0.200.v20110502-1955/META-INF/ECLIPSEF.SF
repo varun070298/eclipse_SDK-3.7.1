@@ -1,0 +1,68 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: rOYk5Lb0eZYCT9PL/T6U9J7Pl6Q=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: BQDQKZo66k+VIsOVc9axm+nxD8I=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/URIUtil.ja
+ va
+SHA1-Digest: SnZbAZ7GKfYAuBy7Ocd55fqXx5Q=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/BundleInfo
+ .java
+SHA1-Digest: 7cTItVhqL9FBrYxDf2kzMIpjjDg=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/console/Configur
+ atorCommandProvider.java
+SHA1-Digest: wW8dfpEfap3s4Nfh9eWFUH5Csm0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/SimpleConf
+ iguratorUtils.java
+SHA1-Digest: oU2/TEXlhQQFvD63+DUCbJllnTQ=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/SimpleConf
+ iguratorConstants.java
+SHA1-Digest: P8zYeuQ0A+F3+YExkLOlvd/EFsU=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/ConfigApplier.ja
+ va
+SHA1-Digest: +YaFtXdn7t8VI4SNk7QIT2uRIoI=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/SimpleConfigurat
+ orImpl.java
+SHA1-Digest: HdCrYbfTUr3hho9GWwtGkRJ82og=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: MBukFmMFXIGeYYte6DDGNS2sTNg=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/SimpleConfigurat
+ orFactory.java
+SHA1-Digest: OCKQXAO4nBLC00/w1kWO/RbjiNc=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/EquinoxUti
+ ls.java
+SHA1-Digest: 4UFCnh4TnnLqBtM+8CzdCMkEPOI=
+
+Name: org/eclipse/equinox/internal/provisional/configurator/Configurat
+ or.java
+SHA1-Digest: a1DnYkhoICSTrX4bd1Rb7o1DlpE=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/StateResol
+ verUtils.java
+SHA1-Digest: 2lh79x2DsT5UrwuQv/VuIElEIRY=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/console/ApplyCom
+ mand.java
+SHA1-Digest: J0O98t+SiN3kq8Oeb1Kmcwgducg=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/Activator.java
+SHA1-Digest: kPtBd/8qFgaY3RiM45MfXNFYm5o=
+
+Name: org/eclipse/equinox/internal/simpleconfigurator/utils/Utils.java
+SHA1-Digest: /044nTbxGieqhSWRbXYgKRWu7WY=
+

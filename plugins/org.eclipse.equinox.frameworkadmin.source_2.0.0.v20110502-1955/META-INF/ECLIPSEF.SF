@@ -1,0 +1,63 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: WLtcwsGuV4+rMv+bAJS6FDjOJsU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: +mAy6hcL5JnYGPUIMJj/xgatKiU=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdminRuntimeException.java
+SHA1-Digest: hH76QDvfNPOsC9fuuY8wd+7cPjk=
+
+Name: org/eclipse/equinox/internal/provisional/configuratormanipulator
+ /ConfiguratorManipulator.java
+SHA1-Digest: gVszy28ERFsfJpgtMar/iEhCYE4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/BundlesS
+ tate.java
+SHA1-Digest: RY0goT/c/5N4ypUdeU3zDqfVdVA=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/SimpleBundlesS
+ tate.java
+SHA1-Digest: 96OM3ySua4V8Imi8xwPjWLQ5s9Y=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Manipula
+ tor.java
+SHA1-Digest: z206hqnGnOEsFnieFCodg389eQM=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/frameworkadmin/BundleInfo.java
+SHA1-Digest: XDNZLle16WfcfPNgOgIZD7zUxjU=
+
+Name: plugin.properties
+SHA1-Digest: o2lHpdMJGe1cA/tqD4Ovi72L2EA=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/Activator.java
+SHA1-Digest: hQkjQ8t3q8gs9DcdhFV9i0B/v80=
+
+Name: org/eclipse/equinox/internal/provisional/configuratormanipulator
+ /ConfiguratorManipulatorFactory.java
+SHA1-Digest: oACP7Z0Gpfzt2i0X/zv+FS4TP7o=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/utils/Utils.java
+SHA1-Digest: vUhIsVtXaQgCNc4IP2SDqSmU4DM=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdmin.java
+SHA1-Digest: hJR/mwJno/sB4dnjBReDH7ygJzU=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/ConfigDa
+ ta.java
+SHA1-Digest: 4x6J6EbdXjPkTiTjCnuX+yQAM48=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Launcher
+ Data.java
+SHA1-Digest: YSEEJ4aC3D/Kv7GDs/vG5avjJUM=
+
+Name: org/eclipse/equinox/internal/provisional/frameworkadmin/Framewor
+ kAdminFactory.java
+SHA1-Digest: ukoCVDF8it9dD4cqfSzDiaig40c=
+

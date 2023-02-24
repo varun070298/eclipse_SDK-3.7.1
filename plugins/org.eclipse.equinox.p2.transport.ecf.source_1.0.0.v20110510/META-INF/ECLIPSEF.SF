@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: IxQttOwCLUTDjhW9v1bmUND5HXM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: wKxDURi2rvRXRLRskl50KxQUyXA=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/FileInfoReader.jav
+ a
+SHA1-Digest: XKCbetthBaOOlxIZwmsVlZBUxcw=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/Messages.java
+SHA1-Digest: HgN5McBR7RJo57Rk9M7EfT7roqQ=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryStatus.j
+ ava
+SHA1-Digest: zh/huS755B0qhJE11Iuumfr/cLU=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryStatusHe
+ lper.java
+SHA1-Digest: gImPe+MZ6FDW0Lfrzeeuuyde1mg=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/RepositoryTranspor
+ t.java
+SHA1-Digest: +uic6KhLbFxjvyfN/nRg10l6awg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/ECFTransportCompon
+ ent.java
+SHA1-Digest: EP23LzgzKZT9NVDtIWjTDGzfCrQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: ryRd5A7HaqDbx3fCx+oVmIUC9ek=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/Activator.java
+SHA1-Digest: 5cBVVtX2/ch9eZKNiRHaKzizjRA=
+
+Name: org/eclipse/equinox/internal/p2/transport/ecf/FileReader.java
+SHA1-Digest: Xx1naOZCdu0UNpGZjenLRSEmdOE=
+

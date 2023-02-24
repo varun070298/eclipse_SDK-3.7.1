@@ -1,0 +1,132 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.util;version="1.0.300.v20110
+ 502";roots:="."
+Bundle-Vendor: %bundleVendor
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.util.source
+Bundle-Version: 1.0.300.v20110502
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/util/ref/TimerRef.java
+SHA1-Digest: NYDsj+l3OPVYrSlDQuAaHhMUpcc=
+
+Name: org/eclipse/equinox/internal/util/hash/HashObjLongNS.java
+SHA1-Digest: azGKlZIy1hw4AXiwucuB2YPju60=
+
+Name: org/eclipse/equinox/internal/util/UtilActivator.java
+SHA1-Digest: MJungYBNFEl/6IkH/2WdhSCzEvI=
+
+Name: org/eclipse/equinox/internal/util/security/PrivilegedRunner.java
+SHA1-Digest: bmQiiMfkPyG5DfYpGBPyayPvzBE=
+
+Name: org/eclipse/equinox/internal/util/hash/HashObjLongS.java
+SHA1-Digest: rG9nYAPJOFKbw0N95a42zCPODC0=
+
+Name: org/eclipse/equinox/internal/util/pool/ObjectPool.java
+SHA1-Digest: vvrSmtRoiRs27tSmCi7uI4g4Bh4=
+
+Name: org/eclipse/equinox/internal/util/hash/HashObjIntNS.java
+SHA1-Digest: RQY7A+JXhB3keXX5+4omn9nFyFY=
+
+Name: org/eclipse/equinox/internal/util/ref/Log.java
+SHA1-Digest: 4KkxmGXryKnkt+vA4Y6dJtvwmsg=
+
+Name: plugin.properties
+SHA1-Digest: f7TkwTEOwwG61FJHc1BR4cTquu4=
+
+Name: org/eclipse/equinox/internal/util/hash/HashLongObjS.java
+SHA1-Digest: di9USTZnBsBtK8u5JR4upjjnu9g=
+
+Name: org/eclipse/equinox/internal/util/pool/ObjectCreator.java
+SHA1-Digest: KR35rET8uEFkK8pou5ot6/2tNuo=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/timer/TimerQueueNode.
+ java
+SHA1-Digest: ZEkpzIsqqVSAcbY+FbHaGLFivW8=
+
+Name: org/eclipse/equinox/internal/util/ref/LogInterface.java
+SHA1-Digest: xo06uIRcN6NgxV+mALuBr28XkGg=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/ServiceFactoryImpl.ja
+ va
+SHA1-Digest: nEZiNuwUdxhgs7mDlf6lmugZCJU=
+
+Name: org/eclipse/equinox/internal/util/hash/HashObjIntS.java
+SHA1-Digest: kziWe7rQfSFZII0rDzi4DbANR6c=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/timer/TimerFactory.ja
+ va
+SHA1-Digest: AWPxhU6xlbdkrcOSvowPjUrUE/Q=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/util/security/SecurityUtil.java
+SHA1-Digest: 2H6Hkpye4rlt4/XZsDJtU8Qbvus=
+
+Name: org/eclipse/equinox/internal/util/timer/TimerListener.java
+SHA1-Digest: 9dSmRE53DomRAxwo+Gs9HVb/IdQ=
+
+Name: org/eclipse/equinox/internal/util/event/EventThread.java
+SHA1-Digest: 0U3Mm0qJ5AtZKTI2e8QCp8M0pmQ=
+
+Name: org/eclipse/equinox/internal/util/TracerMap.java
+SHA1-Digest: K0mhbpjeUHGUZhmaCH1DpeicNmI=
+
+Name: org/eclipse/equinox/internal/util/threadpool/ThreadPoolManager.j
+ ava
+SHA1-Digest: 8eqeYWAhjjWCXacDVQcfsS8Bksg=
+
+Name: about.html
+SHA1-Digest: YnP82kSTHY3RTh9cDrcPE/+3+Pk=
+
+Name: org/eclipse/equinox/internal/util/threadpool/ThreadContext.java
+SHA1-Digest: jQcaVj08qu7HEbRKRe/wwfHZKCE=
+
+Name: org/eclipse/equinox/internal/util/hash/HashIntObjS.java
+SHA1-Digest: +6WgVgCTNnRV90ZBamHvTE2RbfI=
+
+Name: org/eclipse/equinox/internal/util/threadpool/ThreadPoolFactory.j
+ ava
+SHA1-Digest: gHdYEwlw9dtOVxzLAiHYWW/lvO4=
+
+Name: org/eclipse/equinox/internal/util/event/SystemListener.java
+SHA1-Digest: 7Lvig5ntxCYpNkZn3E8uLdZ3cGA=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/threadpool/ThreadPool
+ ManagerImpl.java
+SHA1-Digest: TgfrbYeXD1z5RqaaXkorSavjw+k=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/threadpool/Executor.j
+ ava
+SHA1-Digest: dfpzo5XcLZz0yjoQi+jiF2uxaFs=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/threadpool/ThreadPool
+ FactoryImpl.java
+SHA1-Digest: clADXVrMuT21V3j24W6+UUHHGe4=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/timer/TimerImpl.java
+SHA1-Digest: 9K3gnvkGLlorZu8O/FCmRt8wjco=
+
+Name: org/eclipse/equinox/internal/util/hash/HashLongObjNS.java
+SHA1-Digest: /FJk8eCqmdIiUKhTN54dl7agnqA=
+
+Name: org/eclipse/equinox/internal/util/hash/HashIntObjNS.java
+SHA1-Digest: 8ExJpHFIPrq57paqaxgW2Wdi8s4=
+
+Name: org/eclipse/equinox/internal/util/event/Queue.java
+SHA1-Digest: Y9MU/5XAHrefBsbs4NGV0XAzJME=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/timer/TimerQueue.java
+SHA1-Digest: yobFI0IRHHTEaxwVMWcGTSk9eao=
+
+Name: org/eclipse/equinox/internal/util/timer/Timer.java
+SHA1-Digest: q2UewVEf35GotrI+Ut9x2xMesOM=
+
+Name: org/eclipse/equinox/internal/util/impl/tpt/threadpool/Job.java
+SHA1-Digest: WMFIvtDJRzNsWojc0MubL984rUY=
+
+Name: org/eclipse/equinox/internal/util/security/PrivilegedAction.java
+SHA1-Digest: SXtFJcHg0vAgpNV8SiBE3MO4Pdo=
+

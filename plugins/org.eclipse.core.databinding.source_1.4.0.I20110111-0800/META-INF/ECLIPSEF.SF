@@ -1,0 +1,330 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: sSwwmE4ewQdylTngnwcUsh7ikAM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: RP5GNn5C8CLM61zTPbsiUEpJCDk=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToLongCon
+ verter.java
+SHA1-Digest: c8wb/BWlrpZ41geHlRKwkCGeX0E=
+
+Name: org/eclipse/core/databinding/ObservablesManager.java
+SHA1-Digest: y6PRRldhEpMJaQ/nalbNj3Jwm+g=
+
+Name: org/eclipse/core/internal/databinding/validation/ValidatedObserv
+ ableValue.java
+SHA1-Digest: C7unEXsEfYsdLx57eMWGxRCnrUI=
+
+Name: org/eclipse/core/databinding/UpdateStrategy.java
+SHA1-Digest: y+h5g9bnTtXgL841KaApD9yUs08=
+
+Name: org/eclipse/core/internal/databinding/IdentityWrapper.java
+SHA1-Digest: +D9r/b1NFcVxM3Umq+5fQ0Y2vWA=
+
+Name: org/eclipse/core/databinding/UpdateListStrategy.java
+SHA1-Digest: iv/5xhpe9rQathUpQ99ToBjDXrM=
+
+Name: org/eclipse/core/internal/databinding/BindingMessages.java
+SHA1-Digest: ly1Px7FxsNe+035qc2sc2eroWn0=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToShortVa
+ lidator.java
+SHA1-Digest: bjUtO8bvhRMw/aY1unHeLldySQU=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToInteger
+ Validator.java
+SHA1-Digest: udapVANfeIe85+S//Tb+Bc9fk0I=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToNumberP
+ arser.java
+SHA1-Digest: fQLoqrUZoU5tHH9DFDxyJ9mWUBI=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToByteCon
+ verter.java
+SHA1-Digest: tr5L0Yal3MCK7RWRQ7ONGMbJdrA=
+
+Name: org/eclipse/core/databinding/conversion/NumberToStringConverter.
+ java
+SHA1-Digest: 3Sm/AvgaqqXGipYg5mag+o6Sefw=
+
+Name: org/eclipse/core/databinding/conversion/StringToNumberConverter.
+ java
+SHA1-Digest: JKYbddpNQm5tJTsj8BNhvHNrKcs=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToNumberC
+ onverter.java
+SHA1-Digest: URgFTO18eCkiS3RwswqD9hHP7EE=
+
+Name: org/eclipse/core/internal/databinding/BindingTargetProperty.java
+SHA1-Digest: kL07VXeHpXEOoGKpnhUdVAEBp38=
+
+Name: org/eclipse/core/databinding/validation/MultiValidator.java
+SHA1-Digest: nPLxIFhTRal4veRIgzxj0z36/k0=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToLongVal
+ idator.java
+SHA1-Digest: Ppf1KGGfYnZgtytOykhScFxuCek=
+
+Name: org/eclipse/core/internal/databinding/IdentitySet.java
+SHA1-Digest: gr4pPATK6Rg76+X1fVxMlsTW6aw=
+
+Name: org/eclipse/core/databinding/BindingException.java
+SHA1-Digest: rewWZNn4RvtOg4HgrCvo7JrESVw=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToDoubleC
+ onverter.java
+SHA1-Digest: I3mzcEr29DOam0EpJDIAkD8WQig=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToShortCo
+ nverter.java
+SHA1-Digest: 3bLZaePyauuEysph/zm1BPvAEPo=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToNumberV
+ alidator.java
+SHA1-Digest: 0nyij89mByX2XfsgblqPvDw9pRA=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberFormatCon
+ verter.java
+SHA1-Digest: 5YWwRfU0q37+ESgsPbhZea4a0B8=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToByteVal
+ idator.java
+SHA1-Digest: vbpvrleAg/pR6AI4MYP+VKblc74=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToDoubleV
+ alidator.java
+SHA1-Digest: BHCxLnhK3QxrXWdrwAbWrdzITdQ=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToFloatVa
+ lidator.java
+SHA1-Digest: qC2mxgIuH8cwv0214pBQZRjCpTw=
+
+Name: org/eclipse/core/internal/databinding/DataBindingContextValidati
+ onStatusProvidersProperty.java
+SHA1-Digest: oUJpZgm1tdYcsMtXWXbpJMtoPHI=
+
+Name: org/eclipse/core/internal/databinding/validation/AbstractStringT
+ oNumberValidator.java
+SHA1-Digest: mi9AwiOCJy92812X6IvPWmnSahI=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToBigInte
+ gerConverter.java
+SHA1-Digest: 4CvpHedbit3VaSlBIPFrVGvxx1U=
+
+Name: org/eclipse/core/internal/databinding/BindingStatus.java
+SHA1-Digest: Zml3g0B3+EmundamgwJwjOidZ+k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/databinding/Activator.java
+SHA1-Digest: iIjv3+dgntJVQQGexey5dSPD81Q=
+
+Name: org/eclipse/core/internal/databinding/Util.java
+SHA1-Digest: 56Kaz99U10EPyRGHtHTe8dYeclM=
+
+Name: org/eclipse/core/internal/databinding/Queue.java
+SHA1-Digest: M3QM4awskPYCCpW0D4hdl5gYzkg=
+
+Name: org/eclipse/core/internal/databinding/conversion/IntegerToString
+ Converter.java
+SHA1-Digest: 5rpp79Oz2BOBgNH6kKFtrIU1O9s=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToBoolean
+ PrimitiveConverter.java
+SHA1-Digest: pIyrn1t/UGSoyVbsa/OXX7lsTAU=
+
+Name: org/eclipse/core/databinding/DataBindingContext.java
+SHA1-Digest: k71zZ4j8xt8n22bRAy756MOyLMk=
+
+Name: org/eclipse/core/internal/databinding/ValidationStatusProviderVa
+ lidationStatusProperty.java
+SHA1-Digest: oK1VGUA1SRPZGQSGgrhxtE2nRts=
+
+Name: org/eclipse/core/internal/databinding/ValidationStatusProviderMo
+ delsProperty.java
+SHA1-Digest: QsIv3CajOrUg8wgQk3pa0HdDY78=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToCharact
+ erValidator.java
+SHA1-Digest: gd7qsAivzd7fwU2fzMha8wkV3DA=
+
+Name: org/eclipse/core/internal/databinding/DataBindingContextBindings
+ Property.java
+SHA1-Digest: a9Y1E1s8rNCoC9kuuUThdy3bw7Q=
+
+Name: org/eclipse/core/internal/databinding/validation/ValidatedObserv
+ ableSet.java
+SHA1-Digest: f7ytgO7qdN5I3AdM36v3phgWPZ4=
+
+Name: org/eclipse/core/databinding/Binding.java
+SHA1-Digest: ZQg43yQkcdiDl7QciATqe9MPxn4=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToCharact
+ erConverter.java
+SHA1-Digest: WM4tqJT3cpvsXUqjGoCX8eIz1a8=
+
+Name: org/eclipse/core/internal/databinding/conversion/StatusToStringC
+ onverter.java
+SHA1-Digest: cjAbP+jAQ90VY/ap8EefzFVZ5zw=
+
+Name: org/eclipse/core/internal/databinding/ValidationStatusProviderTa
+ rgetsProperty.java
+SHA1-Digest: HJ6sD39lbrmRWpapKulUUJBCtWQ=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToShortVa
+ lidator.java
+SHA1-Digest: gOfSlIjuYhcaagkcAcvohBJB2Oc=
+
+Name: org/eclipse/core/internal/databinding/ConverterValueProperty.jav
+ a
+SHA1-Digest: G5UqkrtY6eOsshxrNsY7rme7Nuw=
+
+Name: org/eclipse/core/databinding/validation/IValidator.java
+SHA1-Digest: iQ7WGQWBg1uRa9FQPmK9X+7IDsI=
+
+Name: org/eclipse/core/databinding/ValidationStatusProvider.java
+SHA1-Digest: q+0M76uHe9KzKjxbzDkl+9aACGQ=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToInteger
+ Validator.java
+SHA1-Digest: ajtgN33ZE89u0PZLHbBKDNzwUp8=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToDateVal
+ idator.java
+SHA1-Digest: iQDRVSNyRMgCzilYGpmYXEMyt6Y=
+
+Name: org/eclipse/core/databinding/UpdateValueStrategy.java
+SHA1-Digest: DJbsuz58MXXUGWPBpF8ntR2eXPQ=
+
+Name: org/eclipse/core/databinding/BindingProperties.java
+SHA1-Digest: sW9A3JL9Bf4SLkEheCqWREi0hUI=
+
+Name: org/eclipse/core/databinding/ValueBinding.java
+SHA1-Digest: HZIH7R0hRoknSDExQMMdf/CDlJU=
+
+Name: org/eclipse/core/internal/databinding/conversion/ObjectToStringC
+ onverter.java
+SHA1-Digest: eKdfgrv4VEEX2w0h0Jv8emXNJQ4=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToLongVal
+ idator.java
+SHA1-Digest: cD0j1gCmUJLCbK+i4CqWdh6dVE0=
+
+Name: org/eclipse/core/internal/databinding/Pair.java
+SHA1-Digest: jC1EhLAJWeHjqN3e4GFW89XI9KE=
+
+Name: plugin.properties
+SHA1-Digest: lyj8J7PtAX2yutd9XRNVYaC3snI=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToShortCo
+ nverter.java
+SHA1-Digest: a3KOAZ5jrawLA/ULsXLn3WTVhUo=
+
+Name: org/eclipse/core/databinding/conversion/IConverter.java
+SHA1-Digest: EeAiyMr+w4dmzoH1nZ32pTkM74M=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToByteCon
+ verter.java
+SHA1-Digest: BflZe6jHftdm02NsM4SHF/CLfKs=
+
+Name: org/eclipse/core/internal/databinding/conversion/DateConversionS
+ upport.java
+SHA1-Digest: Ymo8xy3Dx14JOfaetIeiJjHE2uI=
+
+Name: org/eclipse/core/internal/databinding/conversion/CharacterToStri
+ ngConverter.java
+SHA1-Digest: jZQj3kM/1S4NTc6M6kAyQlFHmxY=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToByteVal
+ idator.java
+SHA1-Digest: SGlCegopFf2sSrnoSjjjEaiI+9U=
+
+Name: org/eclipse/core/databinding/conversion/Converter.java
+SHA1-Digest: NhPMrgtVzfwBAKASksTc/rW22+s=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToInteger
+ Converter.java
+SHA1-Digest: IYNIGivEvDMOp/CwdZHdQ8cyk8M=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToUnbound
+ edNumberValidator.java
+SHA1-Digest: 4ZB++iCr7vZeIaaQGIOVXVoD5j0=
+
+Name: org/eclipse/core/internal/databinding/IdentityMap.java
+SHA1-Digest: 9c8BTfXhuuG5Ne/dUKKW3xhXu3E=
+
+Name: org/eclipse/core/databinding/validation/ValidationStatus.java
+SHA1-Digest: 9A9iSpSfL5IlAOWyk7uQZM6BRp4=
+
+Name: org/eclipse/core/internal/databinding/ValidationStatusMap.java
+SHA1-Digest: tUmJhiuf+oDqCj+LY3gqqAW0Dt0=
+
+Name: org/eclipse/core/internal/databinding/validation/StringToDoubleV
+ alidator.java
+SHA1-Digest: aCsvjG/+vNM1ZGbDNeDPwapv6N4=
+
+Name: org/eclipse/core/internal/databinding/validation/NumberToFloatVa
+ lidator.java
+SHA1-Digest: xLkTAneWHVZ4u5Ohn7p5eMgDXqU=
+
+Name: org/eclipse/core/internal/databinding/ClassLookupSupport.java
+SHA1-Digest: MMUwebF2Ckpme1fPb9ch3rtUv5s=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/internal/databinding/validation/ReadOnlyValidat
+ or.java
+SHA1-Digest: HpHC1hT3DR+eDX+wV4lAWn5vFWo=
+
+Name: org/eclipse/core/internal/databinding/BindingModelProperty.java
+SHA1-Digest: 9jnmURI+SzyzQHBpdGLkDiSroO4=
+
+Name: org/eclipse/core/internal/databinding/validation/ValidatedObserv
+ ableList.java
+SHA1-Digest: yPK/tpOoO8M3Fdp0k6HNmfz7qf0=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToBigDeci
+ malConverter.java
+SHA1-Digest: m2tcxwQVGcZLan+92b0kz73ZFHk=
+
+Name: org/eclipse/core/databinding/UpdateSetStrategy.java
+SHA1-Digest: Btp6asqqRmmt64aQyoDeEAs6iRU=
+
+Name: org/eclipse/core/databinding/AggregateValidationStatus.java
+SHA1-Digest: J2KCIOIufzkNdufoQHlYz2hX8dA=
+
+Name: org/eclipse/core/internal/databinding/conversion/NumberToFloatCo
+ nverter.java
+SHA1-Digest: qNZNr8DN3nYAW9PNBZy5OwEVKHU=
+
+Name: org/eclipse/core/internal/databinding/validation/ValidatedObserv
+ ableMap.java
+SHA1-Digest: IZl/61Be+/2OUUicu/IZ57PzgiQ=
+
+Name: org/eclipse/core/internal/databinding/conversion/DateToStringCon
+ verter.java
+SHA1-Digest: JUG6/XupvYCJy1K80pztfyQUQDM=
+
+Name: org/eclipse/core/databinding/ListBinding.java
+SHA1-Digest: rUXxrEYZjBeU/0lbAY4vjEK+jdY=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToDateCon
+ verter.java
+SHA1-Digest: mNZ3S+ddaPCQJlDSSSj3L6L5kcs=
+
+Name: org/eclipse/core/databinding/SetBinding.java
+SHA1-Digest: hlcnoPmlPRDbHt0b9VwU8B5uS1Y=
+
+Name: org/eclipse/core/internal/databinding/conversion/StringToBoolean
+ Converter.java
+SHA1-Digest: KwjaoEXDYjhdZCNMx57ehmPRNQA=
+
+Name: org/eclipse/core/internal/databinding/conversion/IdentityConvert
+ er.java
+SHA1-Digest: xMXi8629S5LOfWwCRvoluivjick=
+
+Name: org/eclipse/core/internal/databinding/validation/ObjectToPrimiti
+ veValidator.java
+SHA1-Digest: aN0QAEuW2k+tV2ooSAQdpGR7Qf0=
+

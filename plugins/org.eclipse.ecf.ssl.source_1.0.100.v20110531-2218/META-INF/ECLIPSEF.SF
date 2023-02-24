@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: AaSOaV0r2LpVyHlWNya6Edo3fbk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 8nyjC+z6EoZBSjjMvSsmgYohL1U=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ecf/internal/ssl/ECFSSLSocketFactory.java
+SHA1-Digest: GsxMn5DKg+wsuWD8J6kgF1uS6eA=
+
+Name: org/eclipse/ecf/internal/ssl/ECFCertificateException.java
+SHA1-Digest: D37+moaAgAbu3Y0He6dha7pGr0c=
+
+Name: about.html
+SHA1-Digest: iNWxM6jy8QeiF5+ti/F31diQ6JI=
+
+Name: org/eclipse/ecf/internal/ssl/ECFTrustManager.java
+SHA1-Digest: cW1lLndKlOKJQfGf2N2V0EDLNQM=
+

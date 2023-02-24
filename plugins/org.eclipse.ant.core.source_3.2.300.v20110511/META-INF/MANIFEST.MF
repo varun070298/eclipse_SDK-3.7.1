@@ -1,0 +1,160 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ant.core;version="3.2.300.v20110511"
+ ;roots:="lib/antsupportlibsrc,."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ant.core.source
+Bundle-Version: 3.2.300.v20110511
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ant/internal/core/AntCoreUtil.java
+SHA1-Digest: 49HTIEy46EA6gLxLtjHeVyGnOCY=
+
+Name: org/eclipse/ant/core/Type.java
+SHA1-Digest: F83v6kb8B+cuGY1cuBh40zCFyds=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/EclipseMa
+ inHelper.java
+SHA1-Digest: A7U6LG/Lo/9KY9fjS9e5vBRZYQc=
+
+Name: org/eclipse/ant/internal/core/AntObject.java
+SHA1-Digest: uKpA7JgVAm6DvkVESzyOBCicBG8=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/EclipseDe
+ faultExecutor.java
+SHA1-Digest: lCRw5TzwR2rY+fX2aDw7DGLuI/k=
+
+Name: org/eclipse/ant/internal/core/contentDescriber/AntHandler.java
+SHA1-Digest: AEnxUowpqzJtizgB/chkt5FsYJY=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/EclipseSi
+ ngleCheckExecutor.java
+SHA1-Digest: HE3VeZ6g0VLSCQF6xQyyZ8vcOTs=
+
+Name: org/eclipse/ant/core/Property.java
+SHA1-Digest: FPg5W1BLqRJ2U3wRpg1Zxqpg8yw=
+
+Name: org/eclipse/ant/core/AntCorePreferences.java
+SHA1-Digest: Uzb4rNhztBZJU6wATm7e7HNSBZ0=
+
+Name: plugin.properties
+SHA1-Digest: 5rzHbGa2nWglr0no+Bm4B0PdtM8=
+
+Name: org/eclipse/ant/internal/core/AntSecurityManager.java
+SHA1-Digest: n5YGF3/6VDpIaybEiRdYpP1jylI=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/InternalP
+ roject.java
+SHA1-Digest: aQbBviFii7fAL7fdBzrzC4gyOeY=
+
+Name: org/eclipse/ant/core/Task.java
+SHA1-Digest: UHWOoqgT3WLPp6h9/d6S6ZRowGk=
+
+Name: org/eclipse/ant/core/IAntPropertyValueProvider.java
+SHA1-Digest: kB169omVOR0WoAgb/ARZ8wXfgP4=
+
+Name: about_files/asl-v20.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/InternalA
+ ntMessages.java
+SHA1-Digest: sfIng6F/IyKQzklOwJFqzsn7Wac=
+
+Name: schema/extraClasspathEntries.exsd
+SHA1-Digest: s6n/OxvLrmwKPnnTuG5sObMhESw=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/ExecutorS
+ etter.java
+SHA1-Digest: x8H37HGBHrVVq8QCqL2FZoXI6rs=
+
+Name: about_files/NOTICE
+SHA1-Digest: Mu3gQHJl963VZJ+BCE906ZAhmXY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: schema/antProperties.exsd
+SHA1-Digest: 0K2rVjHrAMQy6BwvD6Wkf5NOxlA=
+
+Name: org/eclipse/ant/core/IAntClasspathEntry.java
+SHA1-Digest: u2L3iYGQM/qEDl5bky937wBonMw=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/NullInput
+ Handler.java
+SHA1-Digest: X602wm/kdsSk+AwEybybJRuFDTc=
+
+Name: about.html
+SHA1-Digest: 8nxkYrx9seiqKIHp1ZRRxT/YjOI=
+
+Name: org/eclipse/ant/core/AntCorePlugin.java
+SHA1-Digest: 0Ob5IzXFj60HLRBMrl1z7dolTuI=
+
+Name: org/eclipse/ant/internal/core/AntClasspathEntry.java
+SHA1-Digest: 5UkUuLbNyuk8zFr8oQ0fCgh0MJc=
+
+Name: org/eclipse/ant/core/AntRunner.java
+SHA1-Digest: kTmfuGuvLooFU3ebB5zuKCcFe4k=
+
+Name: org/eclipse/ant/internal/core/AntPropertyValueProvider.java
+SHA1-Digest: 3kWHEXF8HiHJUKgd7zkP4K8AlQw=
+
+Name: schema/antTypes.exsd
+SHA1-Digest: t99AmqMimsL4SpQqiOgevAUSqFY=
+
+Name: org/eclipse/ant/internal/core/InternalCoreAntMessages.java
+SHA1-Digest: avBItE9Hpgg2sXnsWijICO9mGwQ=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/InputHand
+ lerSetter.java
+SHA1-Digest: pnAk80Ytt6GDRDQF4ycoeGKY1bA=
+
+Name: org/eclipse/ant/internal/core/AntClassLoader.java
+SHA1-Digest: U1S+uqWlS7gxDWw3gQeUKPVJWps=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/FailInput
+ Handler.java
+SHA1-Digest: YPoqjekEoPlG04H+WX4ngK5Rl1w=
+
+Name: org/eclipse/ant/core/AntSecurityException.java
+SHA1-Digest: qHk80fUrxaGo2poumqgKKS2rdGs=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/InternalA
+ ntRunner.java
+SHA1-Digest: x9U8BzXFfLU6hxlJSRFkEMr/xZQ=
+
+Name: org/eclipse/ant/internal/core/contentDescriber/AntBuildfileConte
+ ntDescriber.java
+SHA1-Digest: xs8gvdSYuAmTcaM6HAqnjUsfqF8=
+
+Name: org/eclipse/ant/internal/core/IAntCoreConstants.java
+SHA1-Digest: P2jmT70ZUrprthqJarFxkE3imTs=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/DemuxInpu
+ tStreamSetter.java
+SHA1-Digest: NOmtp+u6Lwqw0JGLrfJPDdyEFNw=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/EclipseAn
+ tMain.java
+SHA1-Digest: /oMgdVF2KFFVhdNeqSeAFoMSqFg=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/ProgressB
+ uildListener.java
+SHA1-Digest: G/5r1q6hEeogAjSEZOaAwD6S/fs=
+
+Name: lib/antsupportlibsrc/org/eclipse/ant/internal/core/ant/InternalP
+ roject2.java
+SHA1-Digest: DE9qJdGAGG4eAnIO/SW/sihbKqk=
+
+Name: org/eclipse/ant/core/TargetInfo.java
+SHA1-Digest: tXx2drTccm/rhFZoSGGwbix8unI=
+
+Name: schema/antTasks.exsd
+SHA1-Digest: 5V81kbSewQKagrAvsyNVivFPliY=
+
+Name: org/eclipse/ant/internal/core/AbstractEclipseBuildLogger.java
+SHA1-Digest: YGAg6X44G18fHVu/KcwVN1mt/4Y=
+
+Name: org/eclipse/ant/core/ProjectInfo.java
+SHA1-Digest: s3nJK7m81EOO7jpeCeXugS4Kzfs=
+

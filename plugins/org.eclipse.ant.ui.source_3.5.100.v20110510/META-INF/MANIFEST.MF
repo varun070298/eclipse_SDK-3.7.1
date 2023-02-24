@@ -1,0 +1,939 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ant.ui;version="3.5.100.v20110510";r
+ oots:="lib/remoteAntsrc,lib/antrunnersrc,."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ant.ui.source
+Bundle-Version: 3.5.100.v20110510
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/AntDTDSchemaMessages.java
+SHA1-Digest: z4aVWWaygQMOTqPf+qsNm3WSTaQ=
+
+Name: org/eclipse/ant/internal/ui/ColumnSorter.java
+SHA1-Digest: GB07c5XZHkfTXTv2Gzs16+PCKec=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/SetTargetsDialo
+ g.java
+SHA1-Digest: g2n7HV6SE9tTjSww5pUBBvstzRw=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/Factory.java
+SHA1-Digest: szVRON/s8FB55f/DmUwkwFTwa5E=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/SortedSet.java
+SHA1-Digest: LKllVGcx4sBH0xu2jiMDIAo3nXc=
+
+Name: org/eclipse/ant/internal/ui/model/IAntModelListener.java
+SHA1-Digest: upCJFbDwVwsk6ltJMVqY6jdH4w0=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorTagScanner.java
+SHA1-Digest: iro0khKHWghfixu82ZVY/v3tJfw=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplateInformat
+ ionControlCreator.java
+SHA1-Digest: LoRHiKNOaseMRUqZTh/YC0N+Yqs=
+
+Name: org/eclipse/ant/internal/ui/refactoring/LaunchConfigurationBuild
+ fileChange.java
+SHA1-Digest: AFExJYjlelEtcFNyKMyMNDibshI=
+
+Name: org/eclipse/ant/internal/ui/editor/AntSourceViewerInformationCon
+ trol.java
+SHA1-Digest: 6FqlQXy6B/hdsVvyuNdDMA1Tb0U=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/TargetContextType.j
+ ava
+SHA1-Digest: Tnh6kwLGDA8RWyYFRAMpeAOvNq4=
+
+Name: org/eclipse/ant/internal/ui/preferences/AddPropertyDialog.java
+SHA1-Digest: bw6pVIw0CMVU1KFvzJ8VtuqmK34=
+
+Name: org/eclipse/ant/internal/ui/dtd/IModel.java
+SHA1-Digest: v+8LF5PzCb6yGwa9/bK4ehqMeCg=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelChangeEvent.java
+SHA1-Digest: VwkEbiiFKVJK3KPMKmxEMHIoxMk=
+
+Name: org/eclipse/ant/internal/ui/WorkbenchAntRunner.java
+SHA1-Digest: stqJFMZxvE+7Fg3R+Z+KDEhmRTg=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntCodeFormatterPreferen
+ cePage.java
+SHA1-Digest: P7gBKK8o77+TwFEcVTK1F+ZOj0k=
+
+Name: org/eclipse/ant/internal/ui/editor/text/IAntEditorColorConstants
+ .java
+SHA1-Digest: W46M3Y2JnTqDnorToQ3rcVdaZF4=
+
+Name: org/eclipse/ant/internal/ui/editor/text/XMLProblemAnnotation.jav
+ a
+SHA1-Digest: kocQ0adOW/qr78uwytRSW3zm9mM=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/MapHolder.java
+SHA1-Digest: cFlNL3KL3xwwZ+h8uQ3H5rXdPz8=
+
+Name: org/eclipse/ant/internal/ui/editor/text/XMLAnnotationHover.java
+SHA1-Digest: Ga4zgfKdUwvjVhCZhwZV2puaOKs=
+
+Name: org/eclipse/ant/internal/ui/editor/DecayCodeCompletionDataStruct
+ uresThread.java
+SHA1-Digest: tua2ZKS4tOU6NUe8yPvoBiY+9XI=
+
+Name: org/eclipse/ant/internal/ui/dtd/AntDTDMessages.java
+SHA1-Digest: rYH5DLFE5sZlwa8x5HmRLnypP9U=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntAnnotationModel.java
+SHA1-Digest: l3AHmUJYtFaqo08NX/0hdV6Vqiw=
+
+Name: org/eclipse/ant/internal/ui/editor/utils/ProjectHelperMessages.j
+ ava
+SHA1-Digest: qPpbCGEhv4WXUssSmRWzWp/a6x0=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/OpenDeclarationAction
+ .java
+SHA1-Digest: QNzMiAwGvFp08AdmX+bh7twoNeU=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AnnotationModelFactory.j
+ ava
+SHA1-Digest: mCV1VYtLixNRFxuR713MwDV8MA8=
+
+Name: org/eclipse/ant/internal/ui/model/IAntModelConstants.java
+SHA1-Digest: nJaaSIK0ysCYolEy9NshgON6Pao=
+
+Name: org/eclipse/ant/internal/ui/editor/EditorSynchronizer.java
+SHA1-Digest: 4TwZRD7Txug1TGCd52CrUFVIAFk=
+
+Name: org/eclipse/ant/internal/ui/views/actions/AddBuildFilesAction.ja
+ va
+SHA1-Digest: BQiulJzR1x0/e89GmetuLem/3IQ=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AddVariableStri
+ ngAction.java
+SHA1-Digest: GPwmXG2KMozqDVcB5P9AfVLwm8Y=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/FilterTopLevelAction.
+ java
+SHA1-Digest: njBuee/lXLubbL426NDfXxgcKuM=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Nfm.java
+SHA1-Digest: /O8X/ElJ4NDnOVEEIE5KDASbMHI=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/AntEditorMarkerUpdate
+ r.java
+SHA1-Digest: +HIoDh4WPur//v9M3/sqDw1bvtY=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntJavaLaunchDe
+ legate.java
+SHA1-Digest: SiwMHHi9favQgHBRjopbd0WRxUE=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/RunAntStatusHan
+ dler.java
+SHA1-Digest: ItkrwUJwNCCNeP8A9Tuledz1lVI=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPage.java
+SHA1-Digest: ETqZ2Ohv91KSyQvweKuoBoz0vAM=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntObjectLabelProvider.j
+ ava
+SHA1-Digest: BAa8FBzDAId6OCMkGB4hSau4vV0=
+
+Name: org/eclipse/ant/internal/ui/model/AntRefTable.java
+SHA1-Digest: qTp9Lv3okxqtlSOjmVYn0TfJshg=
+
+Name: org/eclipse/ant/internal/ui/console/EclipseJavacPatternMatcher.j
+ ava
+SHA1-Digest: RT9yg2rVMVXpZqjHEnrqIWYXoOk=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/AntBuildfileExportWizar
+ d.java
+SHA1-Digest: v/yWAYsnDy+bInt2Qia9A+rs22Y=
+
+Name: org/eclipse/ant/internal/ui/views/actions/AntViewActionMessages.
+ java
+SHA1-Digest: 7nMGt2hWmNVXuHvJOAK8nQmX0u8=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntVariableResolver
+ .java
+SHA1-Digest: rs5rrW8RUgNo94wyGplKikosn2Y=
+
+Name: org/eclipse/ant/internal/ui/views/AntViewMessages.java
+SHA1-Digest: n0S9ReNbrZQ+YsjDuqiaxwykYUU=
+
+Name: org/eclipse/ant/internal/ui/preferences/AbstractClasspathEntry.j
+ ava
+SHA1-Digest: Nh/QzNQ56Mvm0HiZWV+EheGGN5o=
+
+Name: org/eclipse/ant/internal/ui/model/AntTargetNode.java
+SHA1-Digest: /5q8fwvbbSL/A/cxjA/smmOfmcU=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Schema.java
+SHA1-Digest: ErKektU/YWwMMrpnqTLQjHdv3jo=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntMainTab.java
+SHA1-Digest: g22emuFrsbmoswxR5bbFoyAnCZA=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/EclipseClasspath.java
+SHA1-Digest: EAQTqgv5eSfgEnbXPw56qlrd8m4=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/OpenExternalDocAction
+ .java
+SHA1-Digest: odW6KFDi1/E9CIZ/FPX+L4tZ2Vo=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/NfmNode.java
+SHA1-Digest: GDBvVhvz674dFK9IcGLnKmfL/P0=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/AntEditorActionMessag
+ es.java
+SHA1-Digest: MUjlPCKQMTvPXBA0bj88SZik7hY=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntFoldingStructureProvi
+ der.java
+SHA1-Digest: JeO1XUvMfQ9iXBfZn3GvTaMTG6g=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntClasspathTab
+ .java
+SHA1-Digest: ASsJD/bs4es7blV6HVpxdcV2WQk=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/JavacTableLabelProvider
+ .java
+SHA1-Digest: HgXMAsnKbXNqvhOSbg69MsBGQAA=
+
+Name: org/eclipse/ant/internal/ui/preferences/MessageLine.java
+SHA1-Digest: camR2vCzn4i22Pak/b8oAv4mH2I=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/AntBuildfileExportPage.
+ java
+SHA1-Digest: 7ioYRPdqFG+g/Q5ZIK9+9WJgvEI=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/XmlDocumentFormatte
+ r.java
+SHA1-Digest: XuPbnONTnfxL9YSQ5GGE9/ph5X8=
+
+Name: org/eclipse/ant/internal/ui/views/AntViewDropAdapter.java
+SHA1-Digest: +4DarxhB5q2IYQFvG9HMsLqQ4uc=
+
+Name: org/eclipse/ant/internal/ui/refactoring/RefactoringMessages.java
+SHA1-Digest: ZiNEta3/dIYAXfHZqd933vu1m7k=
+
+Name: org/eclipse/ant/internal/ui/IAntUIConstants.java
+SHA1-Digest: kGbaj9Fkn6k3Xv05upqC+itzY20=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntBuilderTabGr
+ oup.java
+SHA1-Digest: 9CJLwQyQvvGJwXymlHLqjNufOWU=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/XmlFormatter.java
+SHA1-Digest: 8hQpOngNRP8uyWCSfln0btHi+wY=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntTabGroup.jav
+ a
+SHA1-Digest: ZDtV2TC/Rzoa0/T+zrfFfidQYk4=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/TaskLinkManager
+ .java
+SHA1-Digest: c0BV60GjT0Y+/c4OKZ/JMP31UPE=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntTasksPage.java
+SHA1-Digest: HvmdrqlrxZT8HmGHZZ26fsYT1xY=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/ToggleSortAntOutlineA
+ ction.java
+SHA1-Digest: qIzHvDlAGeq4dy1lXH4ITJcZ0SQ=
+
+Name: org/eclipse/ant/internal/ui/preferences/IAntBlockContainer.java
+SHA1-Digest: Mw6R66x7vihTSMi4Us58Z+OByLo=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Attribute.java
+SHA1-Digest: k93IEMbfiu08gdP+j6psA+VMdbc=
+
+Name: org/eclipse/ant/internal/ui/console/JavacMarkerCreator.java
+SHA1-Digest: fz/+CIeLuPT9t+1hBOHzMy+gugQ=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/FilterPropertiesActio
+ n.java
+SHA1-Digest: wDAdiw6W/mDoFh2Kv40d2XylS0E=
+
+Name: org/eclipse/ant/internal/ui/editor/TaskDescriptionProvider.java
+SHA1-Digest: Iorth+fasuDi1JCa25pvjRp2yMg=
+
+Name: org/eclipse/ant/internal/ui/preferences/ClasspathModel.java
+SHA1-Digest: ttSFmnJ7N91Qyrdq/s0oTUkCYCk=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/IAntLaunchConfi
+ gurationConstants.java
+SHA1-Digest: YrRjW//LxNuSqaPSNFrNSjF8htk=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntBuilderTarge
+ tsTab.java
+SHA1-Digest: zYAI2+d0mzUZ5KPhisCXHuWW0bc=
+
+Name: lib/remoteAntsrc/org/eclipse/ant/internal/ui/antsupport/inputhan
+ dler/RemoteAntMessages.java
+SHA1-Digest: TupfiaAy/EYbobiqPLNV83Br1UU=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntInformationProvider.j
+ ava
+SHA1-Digest: HFwnDN50L8uq2aw6TnNWQJ2QqQ4=
+
+Name: org/eclipse/ant/internal/ui/model/AntElementAdapterFactory.java
+SHA1-Digest: sOFSJyKdnH2LbSAP9r7xQk/WT3s=
+
+Name: about_files/asl-v20.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: org/eclipse/ant/internal/ui/editor/AntEditor.java
+SHA1-Digest: YSuspOI8Y9lbSxSLW7e+sXJLcJU=
+
+Name: org/eclipse/ant/internal/ui/editor/AntElementHyperlink.java
+SHA1-Digest: GOkBYOWvqaCo+VJ3ZjQXYkj4BUk=
+
+Name: org/eclipse/ant/internal/ui/AntUIPreferenceInitializer.java
+SHA1-Digest: yHiB+k1EoNc4faIDHu59M86iSQc=
+
+Name: org/eclipse/ant/internal/ui/ColorManager.java
+SHA1-Digest: CofAgJodZN3juqigrre/KewGy1I=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/IMapHolder.java
+SHA1-Digest: dqRLwxYUdoqrJDWhUOTvFOgvt/U=
+
+Name: org/eclipse/ant/internal/ui/editor/text/IReconcilingParticipant.
+ java
+SHA1-Digest: EQRtX5KR1s4JtIm3FhOHF0VzEOE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ant/internal/ui/views/actions/FilterInternalTargetsA
+ ction.java
+SHA1-Digest: Z94RTrs3+FvLO1/D8CNhfEnTg3Y=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorTextMessages.ja
+ va
+SHA1-Digest: WiNi01ukCAWPT97OLP1Tl5WjMP0=
+
+Name: org/eclipse/ant/internal/ui/AntDoubleClickStrategy.java
+SHA1-Digest: wqTWLC+8DTyXmRdgvVSj1T+WFM4=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/ToggleMarkOccurrences
+ Action.java
+SHA1-Digest: mmtPCutHurQuxVr3PknzQFRFGnM=
+
+Name: org/eclipse/ant/internal/ui/AntSourceViewerConfiguration.java
+SHA1-Digest: KxQV9N3MRNxSIEwRhGUHZn9w520=
+
+Name: org/eclipse/ant/internal/ui/editor/AntEditorMessages.java
+SHA1-Digest: r+4Qj3kb7h/BtRaevDzcXYYVJoI=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/IValueHolder.java
+SHA1-Digest: nR5Ap39vXG373Yug0bOlEFx6ZBc=
+
+Name: org/eclipse/ant/internal/ui/IAntUIPreferenceConstants.java
+SHA1-Digest: Ogu28thKvZgvcHIEyP0aN/dvNwI=
+
+Name: org/eclipse/ant/internal/ui/views/actions/RunTargetAction.java
+SHA1-Digest: Ri2kbqZibF2f8mNN8SLOXnscj3g=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPreferencesMessages.j
+ ava
+SHA1-Digest: +9Z079nyl1nqUyA2AVLhx1g19jc=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPreferencePage.java
+SHA1-Digest: 9oNTVhYNk5fx3VmuYVT33I02sxU=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/ToggleAutoReconcileAc
+ tion.java
+SHA1-Digest: /kcxQIIEh+UDkOAkMXkFDadeTtM=
+
+Name: org/eclipse/ant/internal/ui/model/LocationProvider.java
+SHA1-Digest: zcGH8hTXZxcl34qrXW8kGXTZcQ4=
+
+Name: org/eclipse/ant/internal/ui/model/InternalTargetFilter.java
+SHA1-Digest: LNjGbVZuKAAqr55oow4LBzahmwE=
+
+Name: org/eclipse/ant/internal/ui/AntUIImages.java
+SHA1-Digest: 9ulFQdbdmou2tOCBeBK48BCcUw4=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/FoldingToggleRulerAct
+ ion.java
+SHA1-Digest: JMF58wM9uR4GlKcnfFoECwoWyfk=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/EditAntHomeEntr
+ yAction.java
+SHA1-Digest: h4/qrlAGMUnT/atMstgzINkt9QM=
+
+Name: org/eclipse/ant/internal/ui/console/JikesJavacPatternMatcher.jav
+ a
+SHA1-Digest: Jm6rjfEYvyW7rGWsDuXwcjOjDKM=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/XmlTagFormatter.jav
+ a
+SHA1-Digest: uzyONOATBSoUYAr+iuQfS1X/p1c=
+
+Name: org/eclipse/ant/internal/ui/model/AntImportNode.java
+SHA1-Digest: 3qhwTTQkMSQe582nKdsWWtOEkYc=
+
+Name: org/eclipse/ant/internal/ui/views/actions/RefreshBuildFilesActio
+ n.java
+SHA1-Digest: 5kqZ48niX3yX34iqlt0t74Qi8oo=
+
+Name: org/eclipse/ant/internal/ui/ImageDescriptorRegistry.java
+SHA1-Digest: /rBG18YqKJksEd1z3QWLp3tpTr0=
+
+Name: plugin.properties
+SHA1-Digest: qtAm4g0Dq+t4mAa+ALVAAz4NIuc=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntRuntimePreferencePage
+ .java
+SHA1-Digest: t1iukdEpofgkRgKRcA9lK7azN+M=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntPropertiesTa
+ b.java
+SHA1-Digest: jb68wcDM/YdgvnnxyFXK3nVTX40=
+
+Name: org/eclipse/ant/internal/ui/AntRunnerWorkbenchAdvisor.java
+SHA1-Digest: YRn+UTWPq+l72qooxKSZwEdhFD0=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/FilterImportedElement
+ sAction.java
+SHA1-Digest: +9etr7kK1KAr7ze+tL0ghmrO5Go=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntLaunchShortc
+ utWithDialog.java
+SHA1-Digest: RAxJLDKG//gW/SbSay7nl1P6E2c=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/AntOutlineMessages.ja
+ va
+SHA1-Digest: yxwvPnvCfTukF1+Hv1R25byMt00=
+
+Name: org/eclipse/ant/internal/ui/preferences/ClasspathEntry.java
+SHA1-Digest: fvkHJUHuId1aJVi6lYwVBcvHnLA=
+
+Name: org/eclipse/ant/internal/ui/model/AntProjectNodeProxy.java
+SHA1-Digest: DTfeS/KCIqzKsj4RVL1zv4V3sZ0=
+
+Name: about_files/NOTICE
+SHA1-Digest: Mu3gQHJl963VZJ+BCE906ZAhmXY=
+
+Name: org/eclipse/ant/internal/ui/model/AntAntNode.java
+SHA1-Digest: BC1vJvQHiRphHio7rRwUgy0ZPXQ=
+
+Name: org/eclipse/ant/internal/ui/AntUIPlugin.java
+SHA1-Digest: lcIrIBcv1VHPczb8XB3Sbc6X4RU=
+
+Name: org/eclipse/ant/internal/ui/model/AntCommentNode.java
+SHA1-Digest: I057Hfbe3/TI8TshiAy8laGaGyI=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntLaunchConfig
+ urationMessages.java
+SHA1-Digest: abnl1WCPB3cvw4qJIWSxdPNh0Y4=
+
+Name: org/eclipse/ant/internal/ui/dtd/IDfm.java
+SHA1-Digest: eOR6t/WXmZXFGv0Uzsqvf7RMt7Q=
+
+Name: org/eclipse/ant/internal/ui/model/AntElementNode.java
+SHA1-Digest: A4ODZDShRY+UYJyszMHZRNqubKo=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Atom.java
+SHA1-Digest: Bj9MY5WCUPxsg54QCHNNQIKRLTc=
+
+Name: org/eclipse/ant/internal/ui/editor/text/XMLTextHover.java
+SHA1-Digest: GRdtwMy6uVNC+LUARAYZYL+z67M=
+
+Name: org/eclipse/ant/internal/ui/dtd/IAtom.java
+SHA1-Digest: 4GI+r55/8C+waBetr06tijRYMC0=
+
+Name: org/eclipse/ant/internal/ui/ExternalHyperlink.java
+SHA1-Digest: 7mVDNwN9xD7stTJYdqI6rkexRvg=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/AntNewJavaProjectPage.j
+ ava
+SHA1-Digest: VdXNjIkfrVPoC6WjkBYrpscc5fk=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/SourceAnalyzer.java
+SHA1-Digest: zp1e2iiZpWsCbZGxtrjN/odgkcQ=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/BuildFileContextTyp
+ e.java
+SHA1-Digest: q+Gl/V9gWJSMw/JdHgAQ4fmgVPE=
+
+Name: org/eclipse/ant/internal/ui/preferences/OverlayPreferenceStore.j
+ ava
+SHA1-Digest: U6uLc9AzyH+ZpeU7B0NGW7hLBtI=
+
+Name: org/eclipse/ant/internal/ui/AntUtil.java
+SHA1-Digest: ZorxIEevMBPyu8CXrjZVjmA5DdU=
+
+Name: org/eclipse/ant/internal/ui/views/AntViewContentProvider.java
+SHA1-Digest: Pvo8f2ao0kjTtbyp/eLE4OyInpQ=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntEditorPreferencePage.
+ java
+SHA1-Digest: 4nlWWHDW2KDTekbaM0KFjYIr2kg=
+
+Name: org/eclipse/ant/internal/ui/refactoring/LaunchConfigurationBuild
+ fileRenameParticipant.java
+SHA1-Digest: sy8gAL6CLNFFMaZU2wWhWbw37cY=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/FactoryObject.java
+SHA1-Digest: uU2Lzf227C229klCVR+3C3Q1fOw=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/FoldingActionGroup.ja
+ va
+SHA1-Digest: TkBXUsxzlhp6qmAj6QTERArqQ0Y=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntClasspathLabelProvide
+ r.java
+SHA1-Digest: fpfVRlQ/hSk63OTxPkPtqBqBXJg=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/TogglePresentationAct
+ ion.java
+SHA1-Digest: 5fCQ1TsWGen6APPYK5oE/GBi154=
+
+Name: org/eclipse/ant/internal/ui/editor/text/MultilineDamagerRepairer
+ .java
+SHA1-Digest: jD0Ma7qHEhfXlUVygSWjhG8w53A=
+
+Name: org/eclipse/ant/internal/ui/editor/AntEditorSourceViewerConfigur
+ ation.java
+SHA1-Digest: bWn3SP5b8WHHxUprgX0R2lnEKro=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorWhitespaceDetec
+ tor.java
+SHA1-Digest: SoFNSnGy457Y6SX6AD1Sf3ttNTg=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/TaskContextType.jav
+ a
+SHA1-Digest: 5Z1SGaar2/lWxf4bpYCrOPy5+zE=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntCodeAssistPreferenceP
+ age.java
+SHA1-Digest: HDKbMKkcFr6VT5rK59EFu81/aZ0=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/ExportUtil.java
+SHA1-Digest: qGVOgwz2FVSeyrRDgpNvc3fcV8U=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelCore.java
+SHA1-Digest: 5T/NR0CRrFX+avLgYYuQ1y8kw0s=
+
+Name: org/eclipse/ant/internal/ui/dtd/ISchema.java
+SHA1-Digest: mkKae7zimbVWaipQyDI6DKfmSoc=
+
+Name: org/eclipse/ant/internal/ui/editor/utils/ProjectHelper.java
+SHA1-Digest: e2UP0++DzvnyVZuzmY9drgaFeb8=
+
+Name: org/eclipse/ant/internal/ui/console/JavacPatternMatcher.java
+SHA1-Digest: um2m6kmIfkX3SVGqsdwG5xkBFug=
+
+Name: org/eclipse/ant/internal/ui/preferences/MinimizedFileSystemEleme
+ nt.java
+SHA1-Digest: sCozG0OWp93XB1W0lqqNpXmI/yE=
+
+Name: org/eclipse/ant/internal/ui/console/TaskLineTracker.java
+SHA1-Digest: LVSypAkCxeVQjB1cnx5zDOy/5Ow=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/ToggleLinkWithEditorA
+ ction.java
+SHA1-Digest: 6IEVXmk/I/J2CYJ9bxXGCykxOBU=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/BuildFileCreator.java
+SHA1-Digest: HOu1BmND2J856kmlwO9vfsLep9I=
+
+Name: org/eclipse/ant/internal/ui/editor/AntCompletionProposal.java
+SHA1-Digest: vNyr5TqUwKQfG6Sq1zrtMkMtW4Q=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/DataTransferMessages.ja
+ va
+SHA1-Digest: TKjnbyQUQsQVO5EyEy8nnxleUxg=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/AppletUtil.java
+SHA1-Digest: EEpXbB19p4yoeQqrXDTQUaxuDZA=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplateAccess.j
+ ava
+SHA1-Digest: qLF7Zsbyq6QZnALyFwT8lhUkIhk=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelProject.java
+SHA1-Digest: 9MdJ0oaZKf6qp3T4K3X/S01IWSs=
+
+Name: org/eclipse/ant/ui/launching/IAntLaunchConfigurationConstants.ja
+ va
+SHA1-Digest: lZMjoPz3xE1vHv6enBuKRIUvMkU=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/ProjectCreator.java
+SHA1-Digest: zMCKn7o8raekCFg+SWjf9yuvKcU=
+
+Name: org/eclipse/ant/internal/ui/console/AntConsoleColorProvider.java
+SHA1-Digest: Hxg4ReEjzVRkC7gM1ey8Fc0XeKA=
+
+Name: org/eclipse/ant/internal/ui/views/AntView.java
+SHA1-Digest: wSUYnKNAmGa9yTZkgJOx6GTJ32Y=
+
+Name: lib/remoteAntsrc/org/eclipse/ant/internal/ui/antsupport/inputhan
+ dler/SWTInputHandler.java
+SHA1-Digest: lYxnLaTk1G1LHB6g0tLiRSa6PuM=
+
+Name: org/eclipse/ant/internal/ui/preferences/AbstractAntEditorPrefere
+ ncePage.java
+SHA1-Digest: AtMvTfJnH1hfkR7YMoQo66ru/ow=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntClasspathPage.java
+SHA1-Digest: Vaa2y6x09+i+WPTw4NeRJ0IM7Lc=
+
+Name: org/eclipse/ant/internal/ui/views/actions/AntOpenWithMenu.java
+SHA1-Digest: UMDbp7wMstAry9ALV0aQwCmIims=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/ToggleLineBreakpointA
+ ction.java
+SHA1-Digest: F3FPZxflj8k/43Ujetm5/GoJ0Bs=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntContentProvider.java
+SHA1-Digest: 8jsldNkJod7vrQ9fmC5zZ1wz/IM=
+
+Name: org/eclipse/ant/internal/ui/preferences/FileSelectionDialog.java
+SHA1-Digest: 8aWb5M1hCpHvm5AJdHoRNZscHdI=
+
+Name: org/eclipse/ant/internal/ui/preferences/StatusInfo.java
+SHA1-Digest: 2gZkw0WmWKt0sUvhwqsKcY+Gh+o=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/FilterInternalTargets
+ Action.java
+SHA1-Digest: LMsWTctk9x5FEEjwrJnO91izD4U=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplatePreferen
+ cePage.java
+SHA1-Digest: aQK6Ri2zJ+2S3FGp1mxmOvJGWOk=
+
+Name: org/eclipse/ant/internal/ui/preferences/TabFolderLayout.java
+SHA1-Digest: +v569vd3inbARmwiA5stmJakCRU=
+
+Name: org/eclipse/ant/internal/ui/preferences/GlobalClasspathEntries.j
+ ava
+SHA1-Digest: mdJAF6r5eDNShX6HzpO6fqvQjQU=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/SortedMap.java
+SHA1-Digest: n59MhLgYnhF4QuwC3OUw2ANzZgI=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPropertiesPage.java
+SHA1-Digest: 1GsNOB3WfpC/tGdaSJMvGkH7ZgM=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/AntDTDUtilMessages.java
+SHA1-Digest: G+XpDXhd6Uf8qO6lwIucwa5vcNg=
+
+Name: org/eclipse/ant/internal/ui/console/AbstractJavacPatternMatcher.
+ java
+SHA1-Digest: KRA/6Kem07xQKyufgwieMbbkqZw=
+
+Name: about.html
+SHA1-Digest: h6KXW5eXZDYh3KV6deE5o1TvY6w=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorPartitionScanne
+ r.java
+SHA1-Digest: xtWN4jaFVnp6iCX0J+vUU/LAO+E=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/TargetTableLabe
+ lProvider.java
+SHA1-Digest: XFAwdU1SmxdPpSUZPFgMrVTEqMI=
+
+Name: org/eclipse/ant/internal/ui/model/IAntModel.java
+SHA1-Digest: QXOZPWYMUWNz61fJpNp/C92eXCM=
+
+Name: org/eclipse/ant/internal/ui/editor/outline/AntEditorContentOutli
+ nePage.java
+SHA1-Digest: wGoN2RgJU2LqIGxXG5ZMFozqDGc=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPreviewerUpdater.java
+SHA1-Digest: KXJ3SMcGHbznjBMjR0xcGzTvNd4=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/XmlElementFormattin
+ gStrategy.java
+SHA1-Digest: A6BUJ/O8yxkIesC9zPjT1svkQ68=
+
+Name: org/eclipse/ant/internal/ui/model/AntProjectNode.java
+SHA1-Digest: 5ep5yVDkccFRfHXKNd5SwK8WnVA=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelContentProvider.java
+SHA1-Digest: TvJ8SnEk/OWsK35tcgwQ1V+dH9I=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntClasspathContentProvi
+ der.java
+SHA1-Digest: WbvBlPFMqXTrxuNSwFwTNMvR/Lw=
+
+Name: org/eclipse/ant/internal/ui/editor/AntElementHyperlinkDetector.j
+ ava
+SHA1-Digest: BNWw+Mga7hEhs/QJr3N8sxVXHeU=
+
+Name: org/eclipse/ant/internal/ui/preferences/ColorEditor.java
+SHA1-Digest: 3czrC/OTH2E7YY+zZQrv7blc0kw=
+
+Name: org/eclipse/ant/internal/ui/model/IAntElement.java
+SHA1-Digest: /yYKbShnTZdQiE/MHIBG6CrhP40=
+
+Name: org/eclipse/ant/internal/ui/preferences/URLFieldEditor.java
+SHA1-Digest: vD9FyEXDe/Yk62Utaac2ZnMNQbE=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelProblem.java
+SHA1-Digest: 0SKQAqwVPIiCA+VLVgPMsxwIou8=
+
+Name: org/eclipse/ant/internal/ui/editor/text/TagRule.java
+SHA1-Digest: ZzirZ5JGqLARHSSSn2c/OOEkVQE=
+
+Name: org/eclipse/ant/internal/ui/preferences/FileFilter.java
+SHA1-Digest: FIPsaPvryhpi38xRbcLmBrKmIro=
+
+Name: org/eclipse/ant/internal/ui/model/AntModel.java
+SHA1-Digest: frh97PBU7LBPBImVvovBWrgPXcU=
+
+Name: org/eclipse/ant/internal/ui/editor/text/XMLReconcilingStrategy.j
+ ava
+SHA1-Digest: 37Qv45g+KXO3yIfE0dwOjS4MosQ=
+
+Name: org/eclipse/ant/internal/ui/editor/text/DocTypeRule.java
+SHA1-Digest: P86/681oTZF+u2j70mlJ9f5npiQ=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/XmlDocumentFormatti
+ ngStrategy.java
+SHA1-Digest: lm178gm34clMmeB4RpO/kKOSJpQ=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplateVariable
+ TextHover.java
+SHA1-Digest: g9I8STC3BlYvrzM9FacuM1+9//E=
+
+Name: org/eclipse/ant/internal/ui/model/IProblem.java
+SHA1-Digest: UwGxOTWhawLfT9ALwXHSH8qkiFM=
+
+Name: org/eclipse/ant/internal/ui/editor/AntEditorCompletionProcessor.
+ java
+SHA1-Digest: iOBThPYV00Gjagp7N8P17a4Bw9U=
+
+Name: org/eclipse/ant/internal/ui/IAntUIHelpContextIds.java
+SHA1-Digest: xCYe/dQX6D7DpoDlE5rNSzSAHvo=
+
+Name: org/eclipse/ant/internal/ui/preferences/AddCustomDialog.java
+SHA1-Digest: L9/s2fEjLdlVl6plvd7rlo1cCbo=
+
+Name: org/eclipse/ant/internal/ui/views/actions/RemoveAllAction.java
+SHA1-Digest: 9R+xMHYktadm8kZeQhIRYM+EP0E=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntClasspathBlock.java
+SHA1-Digest: u7DmjCmUO/pYj/7DljpFHb2l2TU=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Dfm.java
+SHA1-Digest: hufDKVHVJ4O583AIx9vRUfNJBqs=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/SchemaFactory.java
+SHA1-Digest: SdJz/GXObnl7eo/xI7H4dqR8wdA=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Model.java
+SHA1-Digest: flXYN4GLS4CNB5UEJTgkfNmtmrU=
+
+Name: org/eclipse/ant/internal/ui/model/AntDTDNode.java
+SHA1-Digest: 990weX3anwIpe7+5RX0sEV6akJo=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelMessages.java
+SHA1-Digest: ruJzdmK7k09O2Rri+8hgOBDOL+I=
+
+Name: org/eclipse/ant/internal/ui/views/actions/RemoveProjectAction.ja
+ va
+SHA1-Digest: 1kj6q3hP7cQcZeJ9V5hfMGsL2RU=
+
+Name: org/eclipse/ant/internal/ui/datatransfer/AntNewJavaProjectWizard
+ .java
+SHA1-Digest: cfIvvWAsNfSUiPN0maf5rF+JkQ0=
+
+Name: org/eclipse/ant/internal/ui/dtd/IAttribute.java
+SHA1-Digest: r7rHMz//NpdTufWgaH/iqKwDumM=
+
+Name: org/eclipse/ant/internal/ui/debug/model/AntDebugModelPresentatio
+ n.java
+SHA1-Digest: ++P4zLP1dANKCdZ6XP9bw7/wUdw=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntExternalAnnotationMod
+ el.java
+SHA1-Digest: bHeUzax3yVymjSPd0torAvkU7tk=
+
+Name: org/eclipse/ant/internal/ui/views/actions/SearchForBuildFilesAct
+ ion.java
+SHA1-Digest: tpdyE/8ZAlEADr2PJBR2pNT1WW4=
+
+Name: org/eclipse/ant/internal/ui/views/actions/EditorImageDescriptor.
+ java
+SHA1-Digest: F7cZVUYvdbeNqCdrpy+ASCs5SdI=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/RunToLineAdapter.java
+SHA1-Digest: A3YMuBUHdXur5S5SofcUt9HuHXM=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntLaunchShortc
+ ut.java
+SHA1-Digest: Pxs+iOvwoeYPAyBN1IiUQ/Mh4gE=
+
+Name: org/eclipse/ant/internal/ui/model/AntTaskNode.java
+SHA1-Digest: +BPjpWR924e/dOEOA6uyUqTAIIU=
+
+Name: lib/remoteAntsrc/org/eclipse/ant/internal/ui/antsupport/inputhan
+ dler/ProxyInputHandler.java
+SHA1-Digest: Rejdl184qpMelKVMkjNsH7ihTd0=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplateProposal
+ .java
+SHA1-Digest: Ra3mJn42piNPIwXlVw7G6E7xVX0=
+
+Name: org/eclipse/ant/internal/ui/dtd/Parser.java
+SHA1-Digest: 0CoSXAGe1Qd+lgLvXSTv4STNG5s=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/SortedMapFactory.java
+SHA1-Digest: Wvy5fmt5Metuvde3O01ivP9v1O0=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorProcInstrScanne
+ r.java
+SHA1-Digest: WoqN24oyt6eFkbTAXv1Jm80lwUw=
+
+Name: org/eclipse/ant/internal/ui/refactoring/LaunchConfigurationIProj
+ ectRenameParticipant.java
+SHA1-Digest: 7zdv2NJEvk+o3T8BI3bbbhyVCzA=
+
+Name: org/eclipse/ant/internal/ui/editor/AntAutoEditStrategy.java
+SHA1-Digest: 7ZePQLgSkMP1wJ1YAlMgbTfjb5c=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntDocumentSetupParticip
+ ant.java
+SHA1-Digest: M4F3fZCjs1Gq/S7EFBGrUW/S9BQ=
+
+Name: org/eclipse/ant/internal/ui/model/IProblemRequestor.java
+SHA1-Digest: 7cClOKbFDRFzkTdrDqWZhbmBUD8=
+
+Name: org/eclipse/ant/internal/ui/dtd/IElement.java
+SHA1-Digest: sI/NfaUFG1W9wIX9viSqIVC+Y8c=
+
+Name: org/eclipse/ant/internal/ui/dtd/util/IKeyHolder.java
+SHA1-Digest: LXPPMtgT+gtyagINgttKhuRX0FE=
+
+Name: org/eclipse/ant/internal/ui/editor/formatter/FormattingPreferenc
+ es.java
+SHA1-Digest: JBNrawJSjmYLB75ZyywmWgVUIL4=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AbstractAntEditorScanner
+ .java
+SHA1-Digest: yeCBUcUK50uSK0XCKOmv/n6+VWY=
+
+Name: org/eclipse/ant/internal/ui/editor/AntEditorActionContributor.ja
+ va
+SHA1-Digest: bYMpJTz+aBLCUBwSpTZDGqkWuAk=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntPropertiesBlock.java
+SHA1-Digest: 90sgIxBfcFS8IrkVUoXhte7IZTU=
+
+Name: org/eclipse/ant/internal/ui/editor/OccurrencesFinder.java
+SHA1-Digest: wjTUNFcaADxl7jH0LIg/5Vejfbs=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/TargetOrderDial
+ og.java
+SHA1-Digest: 5PB2MQWN6xHu7RyGSkmtAIqDaF8=
+
+Name: org/eclipse/ant/internal/ui/debug/model/DebugModelMessages.java
+SHA1-Digest: q0QQMgA29xfUK0kxc1UqYwnO/ms=
+
+Name: org/eclipse/ant/internal/ui/AntImageDescriptor.java
+SHA1-Digest: RGD/FLYeYpJ1fj+OCgtX8isBpNE=
+
+Name: org/eclipse/ant/internal/ui/console/ConsoleMessages.java
+SHA1-Digest: ubWo8d20XJEje4q4qJg2Szh1V3Y=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntStorageDocumentProvid
+ er.java
+SHA1-Digest: 26FGMTmbR7HcFQbwCBcRXg4+c0k=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntLaunchDelega
+ te.java
+SHA1-Digest: k2nDnkezqSy86tfJ4jkNWYMd4Oc=
+
+Name: org/eclipse/ant/internal/ui/preferences/IClasspathEntry.java
+SHA1-Digest: T9UFpVYGI/6ROiqBP829IAhef6g=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntTargetsTab.j
+ ava
+SHA1-Digest: VbkHaHa5x554GIrDaXvJkksjbi0=
+
+Name: org/eclipse/ant/internal/ui/AntUIModelMessages.java
+SHA1-Digest: CigfKy/5ih6WyHnVdJcR0wcf8kI=
+
+Name: org/eclipse/ant/internal/ui/editor/text/FileScanner.java
+SHA1-Digest: dg0a+J728NPFRgtK7yVmK5CRbUM=
+
+Name: org/eclipse/ant/internal/ui/model/AntDefiningTaskNode.java
+SHA1-Digest: x4o26580upz/L1qyxsYPmRCpYUk=
+
+Name: org/eclipse/ant/internal/ui/views/actions/SearchForBuildFilesDia
+ log.java
+SHA1-Digest: OA4DDjKRiJx2wvwIj4zpS2MqT3I=
+
+Name: org/eclipse/ant/internal/ui/model/AntModelLabelProvider.java
+SHA1-Digest: eB6ycmIJT8CvhQftOaT65GsZhHs=
+
+Name: org/eclipse/ant/internal/ui/editor/text/NotifyingReconciler.java
+SHA1-Digest: soKOMzEvF0B7XGQiKSjs/Bzmrjc=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntTemplateViewerCo
+ nfiguration.java
+SHA1-Digest: oSQ1JBWxuzQE3TKyLwXCYGoZGBc=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/FoldingExpandAllRuler
+ Action.java
+SHA1-Digest: 3SzDZGsKXo7jXfBXJIewiyV9n7o=
+
+Name: org/eclipse/ant/internal/ui/model/AntPropertyNode.java
+SHA1-Digest: gvUxVe/jQ/E0M5Nz+lvD+g8HfkQ=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntEnvironmentT
+ ab.java
+SHA1-Digest: Tqgdx1vB36c451A3guItOy4fBS4=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/Element.java
+SHA1-Digest: azdMS5ssjBzBnNVbKXLtLvXhTFg=
+
+Name: org/eclipse/ant/internal/ui/AntPropertyValueProvider.java
+SHA1-Digest: 2/X6mi2gJ9cDMV8XXEpKrYc2Se0=
+
+Name: org/eclipse/ant/internal/ui/dtd/schema/NfmParser.java
+SHA1-Digest: Kh/QWUdXVz7pO35UPKLcYswsFkc=
+
+Name: org/eclipse/ant/internal/ui/editor/actions/RenameInFileAction.ja
+ va
+SHA1-Digest: rsBYyu9rZSgNMU35jI9MMRR+TPo=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntWorkingDirec
+ toryBlock.java
+SHA1-Digest: PdzQyjbJuiLSuFq1R8FGM3Ouo8U=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/AntJRETab.java
+SHA1-Digest: YNS0cP4Kr5fbUblG6SdRft4Mrmc=
+
+Name: lib/antrunnersrc/org/eclipse/ant/internal/ui/antsupport/inputhan
+ dler/AntInputHandler.java
+SHA1-Digest: Nf50eUB1RYP5F24HiYOovl1DVko=
+
+Name: lib/antrunnersrc/org/eclipse/ant/internal/ui/antsupport/AntSuppo
+ rtMessages.java
+SHA1-Digest: mMMYCzF3b7aZkINONdCN4x3SGYc=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntTypesPage.java
+SHA1-Digest: HflkNQ/ucS0Zl7Nr1Kg8/j09ho4=
+
+Name: org/eclipse/ant/internal/ui/editor/templates/AntContext.java
+SHA1-Digest: wN7cq63FE7/RW/o62M3tFrLxsk0=
+
+Name: org/eclipse/ant/internal/ui/editor/text/AntEditorDocumentProvide
+ r.java
+SHA1-Digest: TGdrrH5UWGJ79tdUhOszBzW4Df0=
+
+Name: org/eclipse/ant/internal/ui/preferences/AntEditorPreferenceConst
+ ants.java
+SHA1-Digest: /A35HAvX67lAo1hFWjyPeknvGyE=
+
+Name: org/eclipse/ant/internal/ui/launchConfigurations/VariableInputDi
+ alog.java
+SHA1-Digest: KLCkEq1WLGQOUzhv0LiOz7Tb/2U=
+
+Name: org/eclipse/ant/internal/ui/dtd/ParseError.java
+SHA1-Digest: eg/fYyilyTKa+74ijjs0sVkk/Bg=
+

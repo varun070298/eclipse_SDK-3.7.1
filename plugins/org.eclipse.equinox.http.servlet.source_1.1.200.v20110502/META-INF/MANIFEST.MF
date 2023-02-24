@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.http.servlet;version="1.1.20
+ 0.v20110502";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.http.servlet.source
+Bundle-Version: 1.1.200.v20110502
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/http/servlet/internal/ServletContextAdaptor.
+ java
+SHA1-Digest: RYfYvRoaVKJja9FRJXaxZM806bQ=
+
+Name: org/eclipse/equinox/http/servlet/ExtendedHttpService.java
+SHA1-Digest: 3A4aa0CT7jukRhzJjRnj8rf1XDc=
+
+Name: org/eclipse/equinox/http/servlet/internal/ProxyContext.java
+SHA1-Digest: Yxwgac1fExm9Sj38Ccgvu5RJjb8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/http/servlet/internal/ResourceServlet.java
+SHA1-Digest: VcfIA4UmWfMNAFMvhr74YuRBSuw=
+
+Name: org/eclipse/equinox/http/servlet/internal/Activator.java
+SHA1-Digest: sBAnkQvMatcyI2i92xH93QYK0es=
+
+Name: org/eclipse/equinox/http/servlet/internal/HttpServiceFactory.jav
+ a
+SHA1-Digest: WXS/bVEzhnrcEblh60bkF7ohN/c=
+
+Name: org/eclipse/equinox/http/servlet/internal/HttpServletRequestAdap
+ tor.java
+SHA1-Digest: FecyHCtkWOU+4c3so543YaKxC6U=
+
+Name: org/eclipse/equinox/http/servlet/internal/FilterConfigImpl.java
+SHA1-Digest: 5A1dbEyCzIpIbceb0LpIyYFwAf4=
+
+Name: org/eclipse/equinox/http/servlet/internal/Registration.java
+SHA1-Digest: 4SlCXND/VkwZgJRvi3FHSEUcePc=
+
+Name: about.html
+SHA1-Digest: pFMxZIqhUX1ZnXwPxlDwu9Ch9F4=
+
+Name: org/eclipse/equinox/http/servlet/internal/ProxyServlet.java
+SHA1-Digest: tucxC3b/hSkkbxrwEcA7n9Qwb+U=
+
+Name: org/eclipse/equinox/http/servlet/internal/HttpSessionAdaptor.jav
+ a
+SHA1-Digest: sEyrSdfGs8f5KAj6vc2spMUwGzQ=
+
+Name: plugin.properties
+SHA1-Digest: lzwGUQVRGCI3g9OutRS+ZtsfNY0=
+
+Name: org/eclipse/equinox/http/servlet/internal/HttpServiceImpl.java
+SHA1-Digest: SHXL4TMT4p3kGnkWbGPGWFl10gU=
+
+Name: org/eclipse/equinox/http/servlet/HttpServiceServlet.java
+SHA1-Digest: kvpUj4vxDo1C7J4a7UeFVTai8Ts=
+
+Name: org/eclipse/equinox/http/servlet/internal/FilterChainImpl.java
+SHA1-Digest: MVat6ZIJhqOB+Kr9YBf/M0x1xTo=
+
+Name: org/eclipse/equinox/http/servlet/internal/FilterRegistration.jav
+ a
+SHA1-Digest: oizcecjUOuMKNkcj6mS32sOTVhM=
+
+Name: org/eclipse/equinox/http/servlet/internal/ServletConfigImpl.java
+SHA1-Digest: rAsoDTrPbOYFkU37SZHE52yYUJA=
+
+Name: org/eclipse/equinox/http/servlet/internal/RequestDispatcherAdapt
+ or.java
+SHA1-Digest: xMVmLUO12Dfx8AFwlYAW6UL3s8I=
+
+Name: org/eclipse/equinox/http/servlet/internal/ServletRegistration.ja
+ va
+SHA1-Digest: QVTfE1/C7/b9exNAjavVxdsrLWQ=
+
+Name: org/eclipse/equinox/http/servlet/internal/DefaultHttpContext.jav
+ a
+SHA1-Digest: lcm2W+ukCKQC/EE8ssCtxiE61v8=
+

@@ -1,0 +1,203 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.databinding.property;version="1
+ .4.0.I20110222-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.databinding.property.source
+Bundle-Version: 1.4.0.I20110222-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/databinding/property/map/SimplePropert
+ yObservableMap.java
+SHA1-Digest: BlW9d1vBpaI1a8tx0oy5xpvE7Os=
+
+Name: org/eclipse/core/internal/databinding/property/PropertyObservabl
+ eUtil.java
+SHA1-Digest: zT32yNI03NQqb6gCvxA5Fmo/tQU=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDeta
+ ilValue.java
+SHA1-Digest: Qv1jFOJoPTKVRu5UWA7BRr+j5a0=
+
+Name: org/eclipse/core/databinding/property/SimplePropertyEvent.java
+SHA1-Digest: P09j5Xwq4k856Rn16XBybGy92E8=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleVa
+ lueObservableMap.java
+SHA1-Digest: OuPZKk8FYqu//pn1HiizOQpLGwI=
+
+Name: org/eclipse/core/databinding/property/set/ISetProperty.java
+SHA1-Digest: Sf65vxaLzvrrplbp5Gb5ruswZrI=
+
+Name: org/eclipse/core/databinding/property/list/MultiListProperty.jav
+ a
+SHA1-Digest: VvwVN0XJFIicbLvyQHHmKBkdyhY=
+
+Name: org/eclipse/core/databinding/property/set/DelegatingSetProperty.
+ java
+SHA1-Digest: UuxttPYxZUpdKpPO02ufxIc+4ak=
+
+Name: org/eclipse/core/databinding/property/value/ValueProperty.java
+SHA1-Digest: aWPWx/PEt9ffMAILQnXoVCAz1oA=
+
+Name: org/eclipse/core/databinding/property/list/DelegatingListPropert
+ y.java
+SHA1-Digest: nb5V6OHJL+uPsgSO97r1XTaw0Dc=
+
+Name: org/eclipse/core/databinding/property/ISimplePropertyListener.ja
+ va
+SHA1-Digest: oESLV0WeZOysl6nRWXjVAy2yiwg=
+
+Name: org/eclipse/core/internal/databinding/property/value/SimplePrope
+ rtyObservableValue.java
+SHA1-Digest: Qi1cpxJ6w9aHacUvMWj83Kk4quY=
+
+Name: org/eclipse/core/databinding/property/map/DelegatingMapProperty.
+ java
+SHA1-Digest: cH6VMmKdtoz0tZPBdx1p+/l/sVw=
+
+Name: org/eclipse/core/internal/databinding/property/value/DelegatingC
+ ache.java
+SHA1-Digest: EKQd0bkDbdFXueSOi1CBRYBae0I=
+
+Name: org/eclipse/core/databinding/property/value/SimpleValueProperty.
+ java
+SHA1-Digest: h6tQZwgsflz7qQxucEiO/dTl3N8=
+
+Name: org/eclipse/core/internal/databinding/property/set/SelfSetProper
+ ty.java
+SHA1-Digest: L6XAp2AFPo2rX5/azkxCvq8CWNA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDeta
+ ilList.java
+SHA1-Digest: 4nrdD6YLxyfbfzu1q8V8aan6xvE=
+
+Name: org/eclipse/core/internal/databinding/property/map/SelfMapProper
+ ty.java
+SHA1-Digest: QYxAVdGMyHOez4Eha/xtWZehfnA=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDeta
+ ilSet.java
+SHA1-Digest: ht/SJZ18EnOELFxaeJl4Db6EpI8=
+
+Name: org/eclipse/core/databinding/property/IPropertyObservable.java
+SHA1-Digest: RlC3Fi0Jb+31mSqQhlgcTcQOTZY=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegati
+ ngValueObservableMap.java
+SHA1-Digest: dlAU7XP0TYMJmkr/aN25SJm8kbY=
+
+Name: org/eclipse/core/internal/databinding/property/value/ObservableV
+ alueProperty.java
+SHA1-Digest: pyDZ4H3DrfPQdyiogBCtUNaLHQI=
+
+Name: org/eclipse/core/databinding/property/set/SimpleSetProperty.java
+SHA1-Digest: 6JGZ2UUj6/Jz46yMV7+ToZtv3qE=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetSimpleVa
+ lueObservableMap.java
+SHA1-Digest: YeEUR8wSQEsnUlr7ARSpKK3KCZY=
+
+Name: org/eclipse/core/internal/databinding/property/value/SelfValuePr
+ operty.java
+SHA1-Digest: 4OxOqehE3+Qm5cG1Ahb7QeTGN2Q=
+
+Name: org/eclipse/core/databinding/property/NativePropertyListener.jav
+ a
+SHA1-Digest: K2AknPDO9y56nun8V5UY8AeJnEk=
+
+Name: org/eclipse/core/databinding/property/map/IMapProperty.java
+SHA1-Digest: AKqhckW3aJuOSszUPjjWFjKhl6c=
+
+Name: org/eclipse/core/databinding/property/map/SimpleMapProperty.java
+SHA1-Digest: isjRc/XjxmXqQ2ABww7XHHcNkq8=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegat
+ ingValueObservableList.java
+SHA1-Digest: C0duSNB7XmiGgZ5s2c0+DkGoaWI=
+
+Name: plugin.properties
+SHA1-Digest: t9XDG0lrKe9x7xIUzlbtd18ZZmA=
+
+Name: org/eclipse/core/databinding/property/INativePropertyListener.ja
+ va
+SHA1-Digest: vTLB3JxJraLIlg413rQHiAz1psc=
+
+Name: org/eclipse/core/internal/databinding/property/list/SelfListProp
+ erty.java
+SHA1-Digest: kQFNBLd2Z6akpPW8lQNmiqK+By0=
+
+Name: org/eclipse/core/databinding/property/Properties.java
+SHA1-Digest: KgLTuqAuSBY7GPzDkUJK3KIYjL4=
+
+Name: org/eclipse/core/internal/databinding/property/ListPropertyDetai
+ lValuesList.java
+SHA1-Digest: OWnAY5nx90/BM6N/xVOeglCTQsk=
+
+Name: org/eclipse/core/databinding/property/list/IListProperty.java
+SHA1-Digest: mUvXeNv0kbllo2aSC3Wiw8YSgAM=
+
+Name: org/eclipse/core/internal/databinding/property/Util.java
+SHA1-Digest: cfnbaU0OVxS7b0BE6wbFqgwGOIQ=
+
+Name: org/eclipse/core/databinding/property/list/SimpleListProperty.ja
+ va
+SHA1-Digest: PBlCn2zcHE96trRmJOYvzuZQrRM=
+
+Name: org/eclipse/core/internal/databinding/property/MapPropertyDetail
+ ValuesMap.java
+SHA1-Digest: xV7LG5SnJmhS5rBrP6ZBOlEQ7rc=
+
+Name: org/eclipse/core/internal/databinding/property/list/SimpleProper
+ tyObservableList.java
+SHA1-Digest: PyahDtIuWGLMoaz3FvDdO8y+65U=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/databinding/property/value/IValueProperty.java
+SHA1-Digest: ljj1ztPDxiFrjTib/z3gqLGdgME=
+
+Name: org/eclipse/core/internal/databinding/property/SetPropertyDetail
+ ValuesMap.java
+SHA1-Digest: N1HNkq396pZ1Ki1KvC5+y1lNx+E=
+
+Name: org/eclipse/core/databinding/property/set/SetProperty.java
+SHA1-Digest: cMbABVLsLPlBI7IM6eij7LPW8Iw=
+
+Name: org/eclipse/core/databinding/property/set/UnionSetProperty.java
+SHA1-Digest: JgjAZO4v5r5GGFCk3MF45BDzt/g=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegati
+ ngValueObservableMap.java
+SHA1-Digest: JtwGjDacRjpxw5pxsxNeH+H09So=
+
+Name: org/eclipse/core/databinding/property/value/DelegatingValuePrope
+ rty.java
+SHA1-Digest: JLVGLGnX/arkQs3l2XSiulCbKCI=
+
+Name: org/eclipse/core/databinding/property/list/ListProperty.java
+SHA1-Digest: DyJ/+OdgeezzOhX806zCBVI1NYU=
+
+Name: org/eclipse/core/internal/databinding/property/set/SimplePropert
+ yObservableSet.java
+SHA1-Digest: 0bDs9VkhHDn39voZrSteZX763RM=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDeta
+ ilMap.java
+SHA1-Digest: gkYZBgVoE6Rjpkgfksq2Sa/s63I=
+
+Name: org/eclipse/core/databinding/property/map/MapProperty.java
+SHA1-Digest: PDtTAvcz8D7yt0u+8mYqJBrf/5M=
+
+Name: org/eclipse/core/databinding/property/IProperty.java
+SHA1-Digest: vkvYBQGbEhyhwgmFKNu8JGJ3fZ4=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListSimpleV
+ alueObservableList.java
+SHA1-Digest: v4IaSkQ/psP48bOLGIHgNsIaMVQ=
+

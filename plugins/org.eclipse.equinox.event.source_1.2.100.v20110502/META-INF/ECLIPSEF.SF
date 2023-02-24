@@ -1,0 +1,59 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: LchsAq07PCtmHsZRGIlOVdkObT4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: CLeQ+GXdzDhO0MqZyw/gJHAuBDk=
+
+Name: org/eclipse/equinox/internal/event/EventAdminMsg.java
+SHA1-Digest: d4Lfk6np1IhKaIIVZxDdCvNyP/c=
+
+Name: org/eclipse/equinox/internal/event/LogTracker.java
+SHA1-Digest: squ0pZxMeyomECouXeCmzJH+q18=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/event/EventHandlerTracker.java
+SHA1-Digest: pyV34wzIqOFuw4pUmvXeQUt1RO4=
+
+Name: org/eclipse/equinox/internal/event/mapper/BundleEventAdapter.jav
+ a
+SHA1-Digest: rwztog+InMZfFzU2YlhttcixOvI=
+
+Name: org/eclipse/equinox/internal/event/mapper/EventAdapter.java
+SHA1-Digest: 68QSONKOs/1Ht5HUA6CTGtm+G7Y=
+
+Name: org/eclipse/equinox/internal/event/EventHandlerWrapper.java
+SHA1-Digest: IIQ/yLUe2FhS8r1ia8KdruvZhyA=
+
+Name: about.html
+SHA1-Digest: xr2qKGgMP52ylX6t87VPIBmazXM=
+
+Name: plugin.properties
+SHA1-Digest: NSyEGAlgn+Ov94GtCCCvGusNloY=
+
+Name: org/eclipse/equinox/internal/event/mapper/FrameworkEventAdapter.
+ java
+SHA1-Digest: Y9PpC9Lub0uDYFB4leTYh1k4KLk=
+
+Name: org/eclipse/equinox/internal/event/EventComponent.java
+SHA1-Digest: 2X2nWIpYewtQ3z2eVSlr02teghI=
+
+Name: org/eclipse/equinox/internal/event/mapper/Constants.java
+SHA1-Digest: D5HMt0V4bSKXJBGH5vBiHQcNpCY=
+
+Name: org/eclipse/equinox/internal/event/Activator.java
+SHA1-Digest: jgX6VgVfwsBjdMHXfZ9KDhZMGJQ=
+
+Name: org/eclipse/equinox/internal/event/mapper/ServiceEventAdapter.ja
+ va
+SHA1-Digest: C7CWJ1JK2l93elm9s6CUvsnUKOU=
+
+Name: org/eclipse/equinox/internal/event/mapper/EventRedeliverer.java
+SHA1-Digest: T92ybz2IlAgmOr2YwX1HMR6wacA=
+
+Name: org/eclipse/equinox/internal/event/LogTrackerMsg.java
+SHA1-Digest: Xqn0tCME5GamOiSmVzb2dpQSLxs=
+
+Name: org/eclipse/equinox/internal/event/EventAdminImpl.java
+SHA1-Digest: pem7wnF/LWIFhroIMt4NHOb/Rzk=
+

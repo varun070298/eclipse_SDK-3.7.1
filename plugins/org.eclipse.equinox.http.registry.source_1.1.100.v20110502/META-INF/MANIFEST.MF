@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.http.registry;version="1.1.1
+ 00.v20110502";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.http.registry.source
+Bundle-Version: 1.1.100.v20110502
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpRegistryManager.j
+ ava
+SHA1-Digest: PP04J2/y8oFM/qXOPe371xCoS/Q=
+
+Name: schema/filters.exsd
+SHA1-Digest: 3MIRFmOw2QpDdcXdZLzEnojttSY=
+
+Name: org/eclipse/equinox/http/registry/internal/ExtensionPointTracker
+ .java
+SHA1-Digest: lzUSaspICzITNAbPoj5T3gcsrE8=
+
+Name: org/eclipse/equinox/http/registry/HttpContextExtensionService.ja
+ va
+SHA1-Digest: 3q+w/wI2qnRMarCfPRHq/7hFEuM=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpServiceTracker.ja
+ va
+SHA1-Digest: XC+nL+qQk951yvyLEwh5AqaSmfc=
+
+Name: org/eclipse/equinox/http/registry/internal/DefaultRegistryHttpCo
+ ntext.java
+SHA1-Digest: SCEldJ/HtbFt5m1TFOe75siSG88=
+
+Name: about.html
+SHA1-Digest: pFMxZIqhUX1ZnXwPxlDwu9Ch9F4=
+
+Name: org/eclipse/equinox/http/registry/internal/ServletManager.java
+SHA1-Digest: FS2ujFBvTNhRtkVii+qOY6bSSzA=
+
+Name: org/eclipse/equinox/http/registry/internal/ResourceManager.java
+SHA1-Digest: 0uz5NKX0lnUfK3qGpn0Jyxv6Wx8=
+
+Name: plugin.properties
+SHA1-Digest: LsCpHgjfKlU4hr44lj11AIaGZE0=
+
+Name: org/eclipse/equinox/http/registry/internal/HttpContextManager.ja
+ va
+SHA1-Digest: mxQBIJopfB775YGwQ/jJvx8xlEk=
+
+Name: schema/servlets.exsd
+SHA1-Digest: pIPPZEap6tXAcAov5B2NZ9JN/yA=
+
+Name: org/eclipse/equinox/http/registry/internal/Activator.java
+SHA1-Digest: t+q9/klwBX2jNcR9YyO1SCZZBbg=
+
+Name: org/eclipse/equinox/http/registry/internal/FilterManager.java
+SHA1-Digest: ynfu06cieaAtfyzHeOUJaF2P3ck=
+
+Name: schema/httpcontexts.exsd
+SHA1-Digest: X/Rc0PCAMeyebX7bFIJXKdVoXmU=
+
+Name: schema/resources.exsd
+SHA1-Digest: a/vnU0jYtmCUQ2b+ZcJAEWKmXH0=
+

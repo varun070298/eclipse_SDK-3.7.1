@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.console;version="1.0.300.
+ v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.console.source
+Bundle-Version: 1.0.300.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/console/Messages.java
+SHA1-Digest: wpDhw9SyzHPZBJt6RahmrOkN9Xk=
+
+Name: org/eclipse/equinox/internal/p2/console/ProvisioningHelper.java
+SHA1-Digest: TsF6nXF48ORMITLIV0m65EpWwWA=
+
+Name: org/eclipse/equinox/internal/p2/console/Activator.java
+SHA1-Digest: sA6OrtkrBuQPoYM5wpc/iM+5ISI=
+
+Name: org/eclipse/equinox/internal/p2/console/ProvCommandProvider.java
+SHA1-Digest: 9H1NEaOGTgtlhok7aVqUT2fpqNc=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: LeT36s8aZsPN+XdaWFdvHbT/bvE=
+

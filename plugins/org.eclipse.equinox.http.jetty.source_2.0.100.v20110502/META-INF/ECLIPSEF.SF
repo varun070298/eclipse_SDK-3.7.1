@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Q0cF+B5VtACkdUDGGMhFoo0q4QM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ljHdNT4NHb483reuf5D8J1EAwlk=
+
+Name: org/eclipse/equinox/http/jetty/JettyCustomizer.java
+SHA1-Digest: KYXCac1umcix10VbBbe1NKS8avU=
+
+Name: org/eclipse/equinox/http/jetty/internal/Activator.java
+SHA1-Digest: R0AdrWSSNRibUpXCn1i8N/FQV3g=
+
+Name: org/eclipse/equinox/http/jetty/JettyConstants.java
+SHA1-Digest: hAd+acT7KsNZ793Pz3PilY+UtW4=
+
+Name: org/eclipse/equinox/http/jetty/internal/HttpServerManager.java
+SHA1-Digest: TNuouXeWrvwe1d3xA9s6MRvsBBc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/slf4j/Logger.java
+SHA1-Digest: mZz0nTOqBA1qLh1/rerAezGvGUE=
+
+Name: org/eclipse/equinox/http/jetty/JettyConfigurator.java
+SHA1-Digest: ziCS5YZy/gmPcReS0LJj1DfVhPs=
+
+Name: about.html
+SHA1-Digest: IMJKsR3Vi9xFUgMu+9YZDYhzI7I=
+
+Name: org/slf4j/LoggerFactory.java
+SHA1-Digest: nowGQDnWuOpivfzui3Zunnrflu4=
+
+Name: plugin.properties
+SHA1-Digest: s2TtqkHYEHzp5efQoBvlZrvhl0k=
+

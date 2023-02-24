@@ -1,0 +1,943 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.resources;version="3.7.100.v201
+ 10510-0712";roots:=".,ant_tasks/resources-antsrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.resources.source
+Bundle-Version: 3.7.100.v20110510-0712
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/localstore/FileSystemResourceManager.j
+ ava
+SHA1-Digest: 5BQCqwlD2aBqPY1vE/SDzMYzduo=
+
+Name: org/eclipse/core/internal/resources/MarkerReader_3.java
+SHA1-Digest: iVWlEN44NZmVu2hGr+fKguq8Bt4=
+
+Name: org/eclipse/core/resources/ICommand.java
+SHA1-Digest: OSV7ufB1av/DV/IoJsxZ41hr+9A=
+
+Name: org/eclipse/core/internal/resources/ModelObject.java
+SHA1-Digest: GI2a5wk3XXq+o0ZPKXKmYdWfa1o=
+
+Name: org/eclipse/core/internal/resources/refresh/win32/Win32Natives.j
+ ava
+SHA1-Digest: 7WsMuhZx+HhLL+Y7Y4lRXTIoEGk=
+
+Name: org/eclipse/core/internal/localstore/IUnifiedTreeVisitor.java
+SHA1-Digest: IOA35ynabVmO31zu9un0o1J8w9w=
+
+Name: org/eclipse/core/internal/localstore/FileStoreRoot.java
+SHA1-Digest: gVrrAWZLpStT5CLtSxnsZwAs+cM=
+
+Name: org/eclipse/core/internal/resources/ResourceProxy.java
+SHA1-Digest: Ekw/ScXbGOrYAAUo6WbPeJQosmQ=
+
+Name: org/eclipse/core/resources/IContainer.java
+SHA1-Digest: +O3W6eFXwMOGk+QXrGhnb2HmlPg=
+
+Name: org/eclipse/core/internal/watson/IElementInfoFlattener.java
+SHA1-Digest: tbhTffKvMrAQolCwaFfEQYYqWts=
+
+Name: org/eclipse/core/internal/utils/Queue.java
+SHA1-Digest: XFlqXnvRXlFcNOcZ9F3Zjv5F5Qs=
+
+Name: org/eclipse/core/internal/resources/projectvariables/ParentVaria
+ bleResolver.java
+SHA1-Digest: sAzUc0KenjNWced5JZIb2NBo6sk=
+
+Name: org/eclipse/core/internal/resources/ModelObjectWriter.java
+SHA1-Digest: BE99yfbTI6yYb6sTTEx+ppqxMoM=
+
+Name: org/eclipse/core/internal/localstore/HistoryBucket.java
+SHA1-Digest: yJD24Q1heEyEv7nae6Qp20XBQbE=
+
+Name: org/eclipse/core/internal/watson/IPathRequestor.java
+SHA1-Digest: A4WsDMibt2GwxLuYrbCAtzbGr0A=
+
+Name: org/eclipse/core/resources/team/FileModificationValidator.java
+SHA1-Digest: xQITcSYdjLZ9fvuuQ9uFrOStVd8=
+
+Name: org/eclipse/core/internal/resources/MarkerDeltaManager.java
+SHA1-Digest: EkVDgTC9SZV9mJTd8/QS5nj3YTQ=
+
+Name: org/eclipse/core/internal/watson/ElementTreeReader.java
+SHA1-Digest: fV9306cvwb4UnweJ/FO3TqpdefY=
+
+Name: schema/modelProviders.exsd
+SHA1-Digest: kX9uZR7w4pZ5tRimIlMKIFmaapQ=
+
+Name: org/eclipse/core/internal/resources/ProjectDescriptionReader.jav
+ a
+SHA1-Digest: 9EuFggTfqOcc9YAwW5Dl3MIRuHQ=
+
+Name: org/eclipse/core/internal/watson/DefaultElementComparator.java
+SHA1-Digest: 76Qtd962RpQUvPlW77iRRp+5DT0=
+
+Name: schema/variableResolvers.exsd
+SHA1-Digest: DSTwoSWmO3aJy0e48NddSur16b4=
+
+Name: org/eclipse/core/internal/refresh/PollingMonitor.java
+SHA1-Digest: RSZnngP4El5c4FG/CQNbJ0y+WlY=
+
+Name: org/eclipse/core/internal/localstore/BlobStore.java
+SHA1-Digest: XsL3nHBuVxRcKqtWtPuK9QgUsMA=
+
+Name: org/eclipse/core/internal/resources/ProjectPreferences.java
+SHA1-Digest: 1YabufoA43LPJ+UxOuuL3H1fyFo=
+
+Name: org/eclipse/core/internal/dtree/DataTreeWriter.java
+SHA1-Digest: TCsCtJJLkppuKCfmxCoxmbWaqAg=
+
+Name: org/eclipse/core/internal/resources/MarkerReader.java
+SHA1-Digest: 80lt+19A1b6q3Zd6W7+gGCjO6+4=
+
+Name: org/eclipse/core/internal/resources/ProjectContentTypes.java
+SHA1-Digest: M2uZdGFrb7YgO1O3r1P3jsE72Co=
+
+Name: org/eclipse/core/internal/dtree/DeletedNode.java
+SHA1-Digest: izN0xH3D2lYPezHewfzVyu/sVTw=
+
+Name: org/eclipse/core/resources/IWorkspaceRoot.java
+SHA1-Digest: P5el5n0s0Sxtt2MO0r5uigLCKYI=
+
+Name: org/eclipse/core/resources/IFolder.java
+SHA1-Digest: Lybg5qjTNFp0YsXX8H1lvrku5uY=
+
+Name: org/eclipse/core/internal/events/ResourceStats.java
+SHA1-Digest: xKFgRPmazkpmNmyVe/ig2HzSdwE=
+
+Name: org/eclipse/core/internal/utils/Cache.java
+SHA1-Digest: 4cDuu8aADzHxFR7tYbEuVhzqu5A=
+
+Name: org/eclipse/core/internal/localstore/SafeFileOutputStream.java
+SHA1-Digest: pTQ57HzgTYeMqrW6yX3oCHdB34k=
+
+Name: org/eclipse/core/internal/resources/mapping/ChangeDescription.ja
+ va
+SHA1-Digest: XF8aKsPjiUf1ufYmj1qmmT5ObIg=
+
+Name: org/eclipse/core/internal/resources/refresh/win32/Convert.java
+SHA1-Digest: Tl1Byz0sTbEQBBNq/6rvxGx0M68=
+
+Name: org/eclipse/core/resources/IPathVariableManager.java
+SHA1-Digest: /znpbcNUX5EngCBXCkJdgWpUOUQ=
+
+Name: org/eclipse/core/resources/mapping/IModelProviderDescriptor.java
+SHA1-Digest: xEatxCf+raIjHdMt4LnkD+vyJAE=
+
+Name: schema/builders.exsd
+SHA1-Digest: EQHrpC83GPwYDGTbWZb/z3dgSaI=
+
+Name: org/eclipse/core/resources/IResourceStatus.java
+SHA1-Digest: cQ9hTx3Vmrh1jKmSXmde8trNL8g=
+
+Name: org/eclipse/core/internal/resources/ResourceException.java
+SHA1-Digest: +gef9yRL29lvGDeHg53q2TUz8pk=
+
+Name: org/eclipse/core/internal/resources/projectvariables/EclipseHome
+ ProjectVariable.java
+SHA1-Digest: TkcGnYeCXE2iHoR8z+nvQFzlhAw=
+
+Name: org/eclipse/core/internal/utils/StringPool.java
+SHA1-Digest: UZfqd72yygdQJdGemIobg24kjdI=
+
+Name: org/eclipse/core/internal/localstore/SafeChunkyOutputStream.java
+SHA1-Digest: Aa+LBEoudt6bEP85o7u+q1TqVu4=
+
+Name: org/eclipse/core/internal/dtree/DeltaDataTree.java
+SHA1-Digest: APDDzelZEBm0X2xj4EqWC/HqEtA=
+
+Name: org/eclipse/core/internal/dtree/IComparator.java
+SHA1-Digest: xxNL/z57rR25IZicvHHbcPeGVug=
+
+Name: org/eclipse/core/internal/resources/InternalTeamHook.java
+SHA1-Digest: Yym3ZQ5YFirPu7QktQpmMzbRZvc=
+
+Name: org/eclipse/core/resources/FileInfoMatcherDescription.java
+SHA1-Digest: Jlxj9xFV6gh4SmWdLxN9FtBGaCo=
+
+Name: org/eclipse/core/internal/localstore/CollectSyncStatusVisitor.ja
+ va
+SHA1-Digest: M8cGpZU0U9TQ950MgNOJGOSmfIY=
+
+Name: org/eclipse/core/internal/resources/WorkspaceRoot.java
+SHA1-Digest: nTV3pSVSib+/B/+azmvQ7vOy/KU=
+
+Name: org/eclipse/core/internal/localstore/CopyVisitor.java
+SHA1-Digest: C7vzEHWj7uTX0/wKGHKqsVLDsFI=
+
+Name: ant_tasks/resources-antsrc/org/eclipse/core/resources/ant/Refres
+ hLocalTask.java
+SHA1-Digest: IkbhHm+c059FtDddpdWTK7+4law=
+
+Name: org/eclipse/core/internal/utils/UniversalUniqueIdentifier.java
+SHA1-Digest: h6l0Wk5Nq788Q5IlNU3ZXA+DgUo=
+
+Name: org/eclipse/core/internal/resources/MarkerSnapshotReader_1.java
+SHA1-Digest: Fi4c3byS5f9AmXnnBuYAm98ZxnU=
+
+Name: org/eclipse/core/resources/refresh/RefreshProvider.java
+SHA1-Digest: gKc8AHmNEi7sVpZXBq/g1e1/acg=
+
+Name: org/eclipse/core/resources/ResourcesPlugin.java
+SHA1-Digest: yJ15kwb+VpszJf0/OLKd6rZ4pzQ=
+
+Name: org/eclipse/core/internal/utils/FileUtil.java
+SHA1-Digest: 6yAy+cLcsY7r+jUD5NcmmsoTaPg=
+
+Name: org/eclipse/core/resources/IWorkspaceRunnable.java
+SHA1-Digest: OKhhfCscznqHuaVwLniACac8T3s=
+
+Name: org/eclipse/core/internal/utils/IStringPoolParticipant.java
+SHA1-Digest: L6GyKOV97uixTyUjT8mXDyI8uPM=
+
+Name: org/eclipse/core/internal/dtree/NoDataDeltaNode.java
+SHA1-Digest: xvrMjeD1zaHhbRF8TDL3I+621+8=
+
+Name: schema/teamHook.exsd
+SHA1-Digest: uejIcQZi3Mv3FrMLCc4jA19Q7ZU=
+
+Name: org/eclipse/core/internal/dtree/AbstractDataTree.java
+SHA1-Digest: 66khJqfL0MguJMyETd4TlUB/m2s=
+
+Name: org/eclipse/core/internal/resources/ContentDescriptionManager.ja
+ va
+SHA1-Digest: bAryzJ1zukwh1EASG7HkBd+xGLc=
+
+Name: org/eclipse/core/internal/resources/ResourceTree.java
+SHA1-Digest: pxhIoQIIVTMY29ZeQCkBXFo7VTY=
+
+Name: org/eclipse/core/internal/resources/WorkspaceDescriptionReader.j
+ ava
+SHA1-Digest: kH2R6hOckCLm2bvedBu0q5x6Y3E=
+
+Name: org/eclipse/core/internal/resources/WorkspaceTreeReader_1.java
+SHA1-Digest: V+Ueg93jrtxvN4Rp6Yx30o4CVyM=
+
+Name: org/eclipse/core/resources/mapping/ResourceTraversal.java
+SHA1-Digest: eNuXNZaFHoMzJeoeAuWjhQOfkeg=
+
+Name: org/eclipse/core/resources/IFilterMatcherDescriptor.java
+SHA1-Digest: RBgfWXhME9xdo+iUq/U14Mfni34=
+
+Name: org/eclipse/core/internal/dtree/TestHelper.java
+SHA1-Digest: i9YUKuym3Insqjgaxpj/tnQt0UI=
+
+Name: org/eclipse/core/internal/resources/SyncInfoReader_3.java
+SHA1-Digest: 0CaOw5hXAPudTltP86XnKpSyuDo=
+
+Name: org/eclipse/core/internal/resources/LocalMetaArea.java
+SHA1-Digest: DyFlTRAqf9vmMFnbWMEMnby1oAQ=
+
+Name: org/eclipse/core/internal/watson/ElementTreeWriter.java
+SHA1-Digest: 7rtrE/gN8TA6H7Mvi+p+DtLphi8=
+
+Name: org/eclipse/core/internal/resources/Marker.java
+SHA1-Digest: yIAwFbchQ2jZ1KR/Bj9NqiD5W9A=
+
+Name: org/eclipse/core/internal/resources/ResourcesCompatibilityHelper
+ .java
+SHA1-Digest: 3z5lP0Y24m1MQIQBLmN+aBSyCfw=
+
+Name: org/eclipse/core/resources/IWorkspace.java
+SHA1-Digest: 0yOYArUk1BW3s9+qhug67LFKpcg=
+
+Name: org/eclipse/core/internal/localstore/RefreshLocalAliasVisitor.ja
+ va
+SHA1-Digest: hUqJ15l6VQXrfXCKSYDyN6g6Gw4=
+
+Name: org/eclipse/core/resources/IEncodedStorage.java
+SHA1-Digest: Va8giKU6nfqHNkOkok0N513nyfg=
+
+Name: org/eclipse/core/internal/localstore/Bucket.java
+SHA1-Digest: ToY7jYmusJsonl/dRQiN+jBBkYw=
+
+Name: org/eclipse/core/internal/localstore/BucketTree.java
+SHA1-Digest: GPcSexYWdpi5qRiNLmD/8gbp3Ic=
+
+Name: org/eclipse/core/internal/resources/MarkerWriter.java
+SHA1-Digest: sbPN6PNigQ+mFLtodMmJhZ+t1Ro=
+
+Name: org/eclipse/core/internal/resources/FilterDescriptor.java
+SHA1-Digest: vLgRx/YK3gm+UccxMwFFUgsQIhw=
+
+Name: org/eclipse/core/internal/refresh/InternalRefreshProvider.java
+SHA1-Digest: mri8QVMqjKR2Kt5wd8KzX7WtoWg=
+
+Name: schema/filterMatchers.exsd
+SHA1-Digest: CLI0V94INNh2UF36uC9JNwFfC0U=
+
+Name: org/eclipse/core/internal/utils/Policy.java
+SHA1-Digest: hzdyMUaNrPiHf9UwmIpAWyiePjE=
+
+Name: org/eclipse/core/internal/localstore/DeleteVisitor.java
+SHA1-Digest: Bzblbrc2d1kEmGkdyvhBXNxkKJI=
+
+Name: org/eclipse/core/internal/resources/LocationValidator.java
+SHA1-Digest: MS0kXjx/BleQHzUh2FG6aFFQXog=
+
+Name: org/eclipse/core/resources/IMarkerDelta.java
+SHA1-Digest: 4ZsNz0kVTKUYAB2cralcQJbbNJI=
+
+Name: org/eclipse/core/internal/resources/AliasManager.java
+SHA1-Digest: /XdZikkj0Z77fjR8GkPHB/R9qVU=
+
+Name: org/eclipse/core/internal/propertytester/FilePropertyTester.java
+SHA1-Digest: begmFP6dajVVlQqX9Z0WtUtniXc=
+
+Name: org/eclipse/core/internal/localstore/ILocalStoreConstants.java
+SHA1-Digest: jnZU6g97BI3cim+ThyUSnXOss4g=
+
+Name: org/eclipse/core/resources/IFileState.java
+SHA1-Digest: DocchMi5Mnr50EHRHkexouPYCjw=
+
+Name: org/eclipse/core/internal/resources/SaveContext.java
+SHA1-Digest: WGHm9HjoHYGAb5EIffiHU+TEZbI=
+
+Name: org/eclipse/core/internal/events/LifecycleEvent.java
+SHA1-Digest: yi+fRPxuSwE2vPE3i1Y+lc5VgDk=
+
+Name: org/eclipse/core/internal/resources/PathVariableManager.java
+SHA1-Digest: teQ1Yre1Z3C3GAJ4PKeSiphBTks=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/resources/team/IResourceTree.java
+SHA1-Digest: 21M/UI9GSAc/3PI6zwyj8cmbJDc=
+
+Name: org/eclipse/core/internal/resources/refresh/win32/Win32Monitor.j
+ ava
+SHA1-Digest: sVoVyLWUTT7tGwE/jqPVyQkzAgY=
+
+Name: org/eclipse/core/internal/resources/FilterDescription.java
+SHA1-Digest: y/Dqgd7+ckX6s8SUWmKVWJWH0+4=
+
+Name: org/eclipse/core/resources/IBuildContext.java
+SHA1-Digest: wZ/EAuxVxCgqVgK7Y4Gnj2XscmA=
+
+Name: org/eclipse/core/internal/resources/Container.java
+SHA1-Digest: PLvvMZrsV908ZV8MHx98aAejHAE=
+
+Name: org/eclipse/core/internal/resources/MoveDeleteHook.java
+SHA1-Digest: Dg2Esgz7WV+ktKwOofqoICQi+OU=
+
+Name: org/eclipse/core/resources/team/IMoveDeleteHook.java
+SHA1-Digest: 5fGIImrCSrpSQnndRdO35BclHVk=
+
+Name: org/eclipse/core/internal/resources/MarkerTypeDefinitionCache.ja
+ va
+SHA1-Digest: wxhZSvKctYmIlr/7FXvMErHMbQI=
+
+Name: org/eclipse/core/internal/resources/File.java
+SHA1-Digest: SA/SS5Q9l0zaI5dL9quuZVv07Zk=
+
+Name: org/eclipse/core/internal/resources/MarkerAttributeMap.java
+SHA1-Digest: qHx8EtYV216gXZC2Zw5y75cCu4M=
+
+Name: org/eclipse/core/internal/resources/DelayedSnapshotJob.java
+SHA1-Digest: yeVSkZG8pYrfNQ1/FhV46iqHUS4=
+
+Name: org/eclipse/core/internal/events/ILifecycleListener.java
+SHA1-Digest: ZxeBXHRIdXX/t7Deips02+nt0jA=
+
+Name: org/eclipse/core/internal/resources/SyncInfoSnapReader.java
+SHA1-Digest: NQlN2/t8ju4D72k6F6bt3JbW6wE=
+
+Name: org/eclipse/core/resources/ISaveParticipant.java
+SHA1-Digest: h6eQ9RurLEt3ArvE1OisFV0mNWo=
+
+Name: org/eclipse/core/resources/IResourceFilterDescription.java
+SHA1-Digest: GBctw2KA7FWsVTqqkwbrq2Q5idU=
+
+Name: org/eclipse/core/resources/mapping/ModelProvider.java
+SHA1-Digest: lN6GBc5s3LQcuQlBz2BRBxtl7j4=
+
+Name: ant_tasks/resources-antsrc/org/eclipse/core/resources/ant/Policy
+ .java
+SHA1-Digest: crtJWJ6BsMDLF9EhOOZ8VREqqqw=
+
+Name: org/eclipse/core/internal/propertytester/ResourceMappingProperty
+ Tester.java
+SHA1-Digest: dg1MHNJUSnLQgjqtPYYR5q8Ld2g=
+
+Name: org/eclipse/core/internal/localstore/UnifiedTreeNode.java
+SHA1-Digest: 7aYD1Lu1wpIL62WO30BpmNrqOyU=
+
+Name: org/eclipse/core/internal/resources/MarkerReader_1.java
+SHA1-Digest: /xanY8c+u70OB6zX48RNY8eb36M=
+
+Name: org/eclipse/core/internal/resources/Folder.java
+SHA1-Digest: qRZ0nF9t4w0IMg5wvndP6QDNGPQ=
+
+Name: org/eclipse/core/resources/variableresolvers/PathVariableResolve
+ r.java
+SHA1-Digest: nSKftuOD7ZreCbcEvRwh8ozjyyg=
+
+Name: org/eclipse/core/resources/IBuildConfiguration.java
+SHA1-Digest: fo7elXtHdhGJyjtVroqnpgCX22g=
+
+Name: org/eclipse/core/internal/events/ResourceDelta.java
+SHA1-Digest: sQOgfEIyLrfIRo6mF9xhjdqQ+zw=
+
+Name: org/eclipse/core/internal/resources/SyncInfoSnapReader_3.java
+SHA1-Digest: rHxRbf9NRiayNshWEgDxsnxPF+s=
+
+Name: org/eclipse/core/internal/resources/BuildConfiguration.java
+SHA1-Digest: 2nDRA0Sx8q0+b60eVURNN79Rkdo=
+
+Name: org/eclipse/core/internal/resources/ProjectVariableProviderManag
+ er.java
+SHA1-Digest: AzN0RsbOAvAVjar1aTDUekGwWzY=
+
+Name: plugin.properties
+SHA1-Digest: LC3tZmlWbboYVGaayEnUIWgWKkE=
+
+Name: org/eclipse/core/internal/resources/MarkerSnapshotReader.java
+SHA1-Digest: w4NqdieoHZ5Vnfbhw0NbTO2PFU0=
+
+Name: org/eclipse/core/internal/events/BuildCommand.java
+SHA1-Digest: bLioZgxsmikusULSzMOKjmZjKkQ=
+
+Name: org/eclipse/core/internal/utils/StringPoolJob.java
+SHA1-Digest: gBtb3gaI+LVbX+bdcAgW0nRRW8I=
+
+Name: org/eclipse/core/internal/refresh/MonitorManager.java
+SHA1-Digest: RPJfG75Of02tsksEQAcvFiqlVGU=
+
+Name: org/eclipse/core/internal/watson/IElementComparator.java
+SHA1-Digest: pMEq/92tkMhxpkiEF394gq3VZM8=
+
+Name: org/eclipse/core/internal/refresh/RefreshManager.java
+SHA1-Digest: TR4DJQIB8VvkkMB4W7jkNQLw8Wg=
+
+Name: org/eclipse/core/internal/resources/Project.java
+SHA1-Digest: G95bzJ7vBRo8kFWFY1+dVFJijuQ=
+
+Name: org/eclipse/core/resources/IStorage.java
+SHA1-Digest: 8NFS0viLGg2Z1lyK4WUifB2ZW+o=
+
+Name: org/eclipse/core/internal/resources/MarkerManager.java
+SHA1-Digest: JJVavTF1mthyEM2uBbxB6oxcjVE=
+
+Name: org/eclipse/core/resources/IResourceProxyVisitor.java
+SHA1-Digest: IOBABLAhJNJOCn9bQxcdxdSBUfA=
+
+Name: org/eclipse/core/internal/resources/mapping/SimpleResourceMappin
+ g.java
+SHA1-Digest: 4yf7C2JPeJOcozMk4QUV9JcLuhg=
+
+Name: natives/readme.txt
+SHA1-Digest: FqPTt+9JrNCI29YHKG6gi3KCmv4=
+
+Name: org/eclipse/core/internal/resources/Resource.java
+SHA1-Digest: 0fBMhHH2OFdLQmQvq3k9ks8fI9k=
+
+Name: org/eclipse/core/resources/ISavedState.java
+SHA1-Digest: dbIF1FR7+2bUaf8siU47v8bEVCs=
+
+Name: org/eclipse/core/internal/resources/SyncInfoReader.java
+SHA1-Digest: sMVPnXXs2skIjrn0Oo9Cayxuw8w=
+
+Name: schema/fileModificationValidator.exsd
+SHA1-Digest: eeS7m7Wxamsz21vYlQ8YTEtJTKE=
+
+Name: org/eclipse/core/resources/refresh/IRefreshResult.java
+SHA1-Digest: LJfoxfMZioGwP28ZJ2bOurdx0cQ=
+
+Name: org/eclipse/core/internal/resources/mapping/ResourceAdapterFacto
+ ry.java
+SHA1-Digest: yC+Ziw+mrUCEVXK9YoycUMgqhf8=
+
+Name: org/eclipse/core/resources/IResourceDelta.java
+SHA1-Digest: oOpUgmfKYwwU6Hk1C8sb6qtu4Z4=
+
+Name: org/eclipse/core/internal/events/PathVariableChangeEvent.java
+SHA1-Digest: 7PJXSY8Lpgb1rAZCF4z80XLK85M=
+
+Name: org/eclipse/core/internal/resources/MarkerInfo.java
+SHA1-Digest: 9aUPRujIlBcDcNbVxlgDPi69LRs=
+
+Name: org/eclipse/core/internal/resources/WorkspaceDescription.java
+SHA1-Digest: 6ILGdyQgbP7gpW5+qqdu9G3JSZQ=
+
+Name: org/eclipse/core/internal/resources/mapping/ProposedResourceDelt
+ a.java
+SHA1-Digest: Yb+Vy2v0zTSCCCjjIOfxp4l8qbI=
+
+Name: org/eclipse/core/internal/resources/projectvariables/WorkspacePa
+ rentLocationVariableResolver.java
+SHA1-Digest: T2r4nErXICUr1/2+/fwJlIWZMSc=
+
+Name: org/eclipse/core/internal/resources/LinkDescription.java
+SHA1-Digest: k8XcQ/3aVFgriwT8pZK+UDn8vII=
+
+Name: org/eclipse/core/internal/events/BuildContext.java
+SHA1-Digest: tWaF9Yr5syTxl9szAf69KaF/8MY=
+
+Name: org/eclipse/core/internal/localstore/HistoryStore2.java
+SHA1-Digest: 4fGzY8an1XlLn/52Ww8LBpYkFvM=
+
+Name: org/eclipse/core/internal/resources/WorkManager.java
+SHA1-Digest: eus9jwU3iaK1E3vehFaVmbQ1ejw=
+
+Name: org/eclipse/core/internal/propertytester/StringMatcher.java
+SHA1-Digest: ru10WGZIQ7i+R+pGyt6Fa7wSga8=
+
+Name: org/eclipse/core/resources/IProject.java
+SHA1-Digest: gmbbEXtgorbvjp7+Rr5KVwVA90E=
+
+Name: org/eclipse/core/resources/IResourceChangeListener.java
+SHA1-Digest: /irxXn93rS0T4YxdVYKDuXLg3Xw=
+
+Name: org/eclipse/core/internal/resources/MarkerSnapshotReader_2.java
+SHA1-Digest: QyEDHU4B2+PAon6+umMwAR5j7MY=
+
+Name: org/eclipse/core/internal/localstore/IHistoryStore.java
+SHA1-Digest: DCKpJVlhk7durAnk8KDWTEp8ve4=
+
+Name: org/eclipse/core/internal/resources/ProjectPathVariableManager.j
+ ava
+SHA1-Digest: wi0OSwWweDQ6kVjU/LRsv2I8MWo=
+
+Name: org/eclipse/core/internal/resources/ProjectNatureDescriptor.java
+SHA1-Digest: 7mBg5TCzta50zFGv+tmTbhJcQYI=
+
+Name: org/eclipse/core/resources/WorkspaceJob.java
+SHA1-Digest: 4wMOm62V7QTCFbG+CyTG3cwn+1w=
+
+Name: org/eclipse/core/resources/filtermatchers/CompoundFileInfoMatche
+ r.java
+SHA1-Digest: jTPh2jSmE+DP9Zu/Eqx79ah3czU=
+
+Name: org/eclipse/core/resources/refresh/IRefreshMonitor.java
+SHA1-Digest: x13SpmfkI2yX2DkNVcBNlC5obho=
+
+Name: org/eclipse/core/internal/localstore/SafeChunkyInputStream.java
+SHA1-Digest: yFi4baoeGpyFp0KJEUjUD/ZIG+k=
+
+Name: org/eclipse/core/internal/resources/mapping/ShallowContainer.jav
+ a
+SHA1-Digest: mBiDZ3jeW9JvKTKiW4PUrDwTmo8=
+
+Name: org/eclipse/core/internal/resources/mapping/ShallowResourceMappi
+ ng.java
+SHA1-Digest: ZUZPmjoyvpG6AX+fQcmOAksoHcU=
+
+Name: org/eclipse/core/internal/resources/WorkspaceTreeReader_2.java
+SHA1-Digest: q0Kp1K0yEJnYzth31Nw9e/NVUrk=
+
+Name: org/eclipse/core/resources/ProjectScope.java
+SHA1-Digest: PybB5yDcSj6HNCYUClxU6euuBw0=
+
+Name: org/eclipse/core/internal/events/NotificationManager.java
+SHA1-Digest: RCzS72pavB6pY0pWKm9od3sr1HI=
+
+Name: org/eclipse/core/internal/resources/RegexFileInfoMatcher.java
+SHA1-Digest: juHrbIwLTvG42X94D3qKnmadrSs=
+
+Name: org/eclipse/core/internal/resources/IMarkerSetElement.java
+SHA1-Digest: 8O3db+DZy5jZQNt9chwS1Nq+Eao=
+
+Name: org/eclipse/core/internal/localstore/SafeFileInputStream.java
+SHA1-Digest: 0RbAQZ2M8qltU+V1bsQX5XLjTYg=
+
+Name: org/eclipse/core/resources/IResourceChangeEvent.java
+SHA1-Digest: RLzoyTfx/4evjwDAFTUJ2jrX9Zo=
+
+Name: org/eclipse/core/internal/resources/VirtualFileSystem.java
+SHA1-Digest: vg8PKxtdZavMDEc4gWdQIs7jBLY=
+
+Name: org/eclipse/core/internal/resources/WorkspaceTreeReader.java
+SHA1-Digest: MUDnLRktwoP4OVCdeHxtjb7XSJw=
+
+Name: org/eclipse/core/internal/resources/Workspace.java
+SHA1-Digest: sAdD9Wlkz9GYTlV04XOIzIW96/Y=
+
+Name: org/eclipse/core/resources/IncrementalProjectBuilder.java
+SHA1-Digest: 7fRdrv9MH4h7ol7Yt+jlvgng+LQ=
+
+Name: org/eclipse/core/resources/mapping/ModelStatus.java
+SHA1-Digest: BLhv5/I2yYpFYq0oIO55vHuXRRc=
+
+Name: org/eclipse/core/internal/localstore/PrefixPool.java
+SHA1-Digest: g8dhTmtQrDZu3ajw8O5DjKbi888=
+
+Name: org/eclipse/core/resources/IResource.java
+SHA1-Digest: HV6ho7pbZ7VugssJ508HjsCABgY=
+
+Name: org/eclipse/core/resources/IProjectNatureDescriptor.java
+SHA1-Digest: n4P0HVP+z7LhIXf3cx8p0a6FWwo=
+
+Name: org/eclipse/core/internal/utils/KeyedHashSet.java
+SHA1-Digest: yYMIhg/ckYjpCE8F8XvNU8FzIV0=
+
+Name: org/eclipse/core/internal/watson/ElementTree.java
+SHA1-Digest: 9qwXhZjOZOJTuVEmq9rF6fuoaZA=
+
+Name: org/eclipse/core/resources/IResourceDeltaVisitor.java
+SHA1-Digest: Nu7U/kWppkC/i9HGwQBzvTwAzko=
+
+Name: org/eclipse/core/resources/mapping/CompositeResourceMapping.java
+SHA1-Digest: +Yqg3iooBgMuncTwORsamCKN7oE=
+
+Name: org/eclipse/core/internal/events/AutoBuildJob.java
+SHA1-Digest: ccu2+bKM0SUF9yLPhjRSS9+EGtw=
+
+Name: org/eclipse/core/internal/events/NodeIDMap.java
+SHA1-Digest: 5rwukFVgs1Len7AY0U8XazGQfGs=
+
+Name: org/eclipse/core/internal/resources/TestingSupport.java
+SHA1-Digest: TsYKwY1rjKcvvlLvSzsyj3HqtLk=
+
+Name: org/eclipse/core/internal/events/InternalBuilder.java
+SHA1-Digest: eiwcm3Ebe4slSVbGtruG+5oPZuc=
+
+Name: natives/ref.c
+SHA1-Digest: mPsQdiVhwWBd+mhAbDSZ+kcgIgg=
+
+Name: org/eclipse/core/internal/resources/SyncInfoWriter.java
+SHA1-Digest: j/tckA+ATihfDsNCCTHFjhFLLxI=
+
+Name: org/eclipse/core/internal/resources/projectvariables/WorkspaceLo
+ cationVariableResolver.java
+SHA1-Digest: aTIdkGvITGuGq5/M/lY6+l0U9bo=
+
+Name: org/eclipse/core/resources/IFileModificationValidator.java
+SHA1-Digest: dFhxm6m1phf08W5PFe2nxh6XfCQ=
+
+Name: org/eclipse/core/internal/events/ResourceDeltaInfo.java
+SHA1-Digest: ZSMkYTn7mM9VJ/wlPd8VxCN0Pog=
+
+Name: org/eclipse/core/internal/resources/FileState.java
+SHA1-Digest: DrL/2aYrCxDcIqoiMsYSAQlssc0=
+
+Name: org/eclipse/core/internal/properties/IPropertyManager.java
+SHA1-Digest: ejJgVGdDZlzFkq+dVSP1v0wc19s=
+
+Name: natives/ref.h
+SHA1-Digest: X6NZRTnUNXHVibep89jZF9WvkNw=
+
+Name: org/eclipse/core/resources/ISaveContext.java
+SHA1-Digest: V6ThXsCnfZPi7yXcLcPOG152TNY=
+
+Name: org/eclipse/core/internal/dtree/DataDeltaNode.java
+SHA1-Digest: Wv5z9daB6RPl9LtV+htWezmKBe0=
+
+Name: org/eclipse/core/internal/watson/IElementTreeData.java
+SHA1-Digest: 7+yluNKbkiBrMmZdfI7KapuUxaE=
+
+Name: org/eclipse/core/resources/ResourceAttributes.java
+SHA1-Digest: XxpWUYTTJHgI122qWX9YGcntBJw=
+
+Name: schema/moveDeleteHook.exsd
+SHA1-Digest: xAFFo2GAWPQv7ljRcKxwgUh0UEs=
+
+Name: org/eclipse/core/resources/team/TeamHook.java
+SHA1-Digest: bZAifmjyY3ik+AnVoFTsIA3m7nQ=
+
+Name: schema/markers.exsd
+SHA1-Digest: ojvaaEaXl5MginJLV4lDszFT/gw=
+
+Name: org/eclipse/core/internal/utils/WrappedRuntimeException.java
+SHA1-Digest: BbfN1psqj69LzAUreiyMBbXAEY0=
+
+Name: org/eclipse/core/internal/resources/mapping/ModelProviderDescrip
+ tor.java
+SHA1-Digest: KU85zAacxsA9SEAqAVB+D1q+80I=
+
+Name: org/eclipse/core/internal/resources/ICoreConstants.java
+SHA1-Digest: IXp92lSOz7QG4OtMgw20R67rVFQ=
+
+Name: org/eclipse/core/internal/events/ResourceDeltaFactory.java
+SHA1-Digest: l1gmYSjjPChaD4VSR2bLnvqSc4k=
+
+Name: org/eclipse/core/internal/resources/CharsetManager.java
+SHA1-Digest: 9vfq2HfdZMGTYXBLdZvBSnDZyg8=
+
+Name: org/eclipse/core/internal/resources/ResourceInfo.java
+SHA1-Digest: T9k44dD3IRZiVrakGnYoQ2rjRW0=
+
+Name: org/eclipse/core/internal/resources/refresh/win32/Win32RefreshPr
+ ovider.java
+SHA1-Digest: aI+zfVySdHz5i91d6B8HDIYwd8E=
+
+Name: org/eclipse/core/internal/watson/ElementTreeIterator.java
+SHA1-Digest: snE/AW9K85MtzJuVjCIQKHzUKBg=
+
+Name: org/eclipse/core/internal/resources/SaveManager.java
+SHA1-Digest: K6GINJxRsGUGwE0/TWmEtM2WwyI=
+
+Name: org/eclipse/core/internal/resources/MarkerReader_2.java
+SHA1-Digest: eBJgGQIn3jPfJFuwtZ7xKi+pEy4=
+
+Name: org/eclipse/core/internal/resources/XMLWriter.java
+SHA1-Digest: c07z0oxdAFAP9EkuyyJWqqrXbic=
+
+Name: org/eclipse/core/internal/dtree/DataTree.java
+SHA1-Digest: WNcwIMipCHkZkdNRWEPjimBYS3w=
+
+Name: org/eclipse/core/internal/resources/PlatformURLResourceConnectio
+ n.java
+SHA1-Digest: +35s8+le1+orpP6xa6PMKdcJk8Q=
+
+Name: org/eclipse/core/internal/resources/PreferenceInitializer.java
+SHA1-Digest: fpyEjJI8ZaNBX+mf6Zv5+kkVReQ=
+
+Name: org/eclipse/core/resources/IPathVariableChangeListener.java
+SHA1-Digest: 0tOg1xulVpFhqMuE1fil85QCkCc=
+
+Name: org/eclipse/core/internal/events/ResourceComparator.java
+SHA1-Digest: uC6DODqFWUg3HSI5b6HfkD+6oBM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/internal/resources/WorkspacePreferences.java
+SHA1-Digest: HI8yIl2u1Jeg04H2CvvIaD6nNRo=
+
+Name: org/eclipse/core/internal/properties/PropertyManager2.java
+SHA1-Digest: u2elsk0A15AWaVKl6XoCy0sXsjw=
+
+Name: org/eclipse/core/internal/utils/Messages.java
+SHA1-Digest: LWhShirX8vQC/+wKRA6QgYO3jlU=
+
+Name: org/eclipse/core/internal/events/BuilderPersistentInfo.java
+SHA1-Digest: OEnQzjv1XA4wkhmYIGjTqWgl+m4=
+
+Name: org/eclipse/core/resources/IFile.java
+SHA1-Digest: NO24JtmHwEAi91m6rDOH5h7ZpsU=
+
+Name: org/eclipse/core/resources/mapping/RemoteResourceMappingContext.
+ java
+SHA1-Digest: TAi2othYunDmAF+BgjA3HeZDRkU=
+
+Name: org/eclipse/core/resources/WorkspaceLock.java
+SHA1-Digest: GSy0qjYcDzoWG2kOz4teYcTBIL8=
+
+Name: org/eclipse/core/internal/resources/VirtualFileStore.java
+SHA1-Digest: GOKQwJjYazcg2s62Z/U3iSqG5WU=
+
+Name: org/eclipse/core/internal/resources/Rules.java
+SHA1-Digest: pRvhQgXjUj5VYm2xbJoYqZJIrIE=
+
+Name: org/eclipse/core/internal/resources/mapping/ModelProviderManager
+ .java
+SHA1-Digest: aIkRURrrdKvRSbJPHGb3ZToFhAA=
+
+Name: org/eclipse/core/internal/events/ResourceChangeListenerList.java
+SHA1-Digest: IcOEdrVDtJJmCdVpwhOneETfPLE=
+
+Name: org/eclipse/core/internal/resources/RootInfo.java
+SHA1-Digest: EFhGyR50uTjjKLRy33gaIjJa6aQ=
+
+Name: org/eclipse/core/internal/dtree/AbstractDataTreeNode.java
+SHA1-Digest: HmDyQ7baHcWDwNFm4zye3HRTxpw=
+
+Name: org/eclipse/core/internal/dtree/NodeComparison.java
+SHA1-Digest: p/4oRMhbKBeHYK7ZWXf+oTUnm90=
+
+Name: org/eclipse/core/internal/dtree/DataTreeNode.java
+SHA1-Digest: /WdsRYTQ01/B58NuIXAE65n5nao=
+
+Name: org/eclipse/core/internal/utils/ObjectMap.java
+SHA1-Digest: XwFJ0YZ2TV+EGVaUpLpA3KizwFA=
+
+Name: natives/make.bat
+SHA1-Digest: qGQxzSemmZfGii+qma2ahauVlCQ=
+
+Name: org/eclipse/core/internal/resources/SafeFileTable.java
+SHA1-Digest: /gmfZope9ky/UxAH2uuAbij7QkM=
+
+Name: org/eclipse/core/resources/ISynchronizer.java
+SHA1-Digest: uceYsqTULkyc61CuD02dnaHqAyw=
+
+Name: org/eclipse/core/internal/dtree/DataTreeLookup.java
+SHA1-Digest: /Wcuvem20cr6Oyw7QgHr5692b9w=
+
+Name: org/eclipse/core/internal/resources/InternalWorkspaceJob.java
+SHA1-Digest: N8dca2kQVd0IYDM/4B95nXuU4gs=
+
+Name: org/eclipse/core/internal/dtree/ObjectNotFoundException.java
+SHA1-Digest: QGeY++3WjTbjGi2cdI5Y3/W/PB0=
+
+Name: org/eclipse/core/resources/mapping/ResourceMappingContext.java
+SHA1-Digest: xOEHabuK6+A1VhcT3Ubb6JNvnxQ=
+
+Name: org/eclipse/core/resources/team/ResourceRuleFactory.java
+SHA1-Digest: 6nfU7LGq2K3sbjgt1DO4Tm1voV4=
+
+Name: org/eclipse/core/internal/resources/CharsetDeltaJob.java
+SHA1-Digest: PJwjYVmDDY7BIeRbmP7DdWpRmRc=
+
+Name: org/eclipse/core/internal/resources/IModelObjectConstants.java
+SHA1-Digest: UN6iFtSMA7mDz8KwLCOeWj+WecM=
+
+Name: org/eclipse/core/resources/mapping/ResourceChangeValidator.java
+SHA1-Digest: 8MDMwow21rUAsCXEaUcuFduGXHQ=
+
+Name: org/eclipse/core/internal/localstore/UnifiedTree.java
+SHA1-Digest: oZmWcX5bcFWrCAoKuP6dr56I6vw=
+
+Name: org/eclipse/core/internal/resources/mapping/ResourceModelProvide
+ r.java
+SHA1-Digest: R88XJdEmwwFu/5ajbWy9Mr4Sek0=
+
+Name: org/eclipse/core/resources/IWorkspaceDescription.java
+SHA1-Digest: CwpsIbsj1NyCYPcWbOKioOBWDYo=
+
+Name: org/eclipse/core/resources/IProjectDescription.java
+SHA1-Digest: T04Cx1dQPBrYxWwNn8SyYBYtdPs=
+
+Name: org/eclipse/core/internal/resources/IManager.java
+SHA1-Digest: GimWxFJGNUeuKNi+6iusRh/rq3Q=
+
+Name: org/eclipse/core/internal/resources/OS.java
+SHA1-Digest: umfQE1AtfHL6tuEkTp3H6JBUOrY=
+
+Name: org/eclipse/core/internal/resources/PathVariableUtil.java
+SHA1-Digest: FTY9F3iOWtg+LvQxAyyxGiNwSr4=
+
+Name: org/eclipse/core/internal/resources/ProjectDescription.java
+SHA1-Digest: xkjWw88ty9Tw/oW0u5hltjE6rs4=
+
+Name: org/eclipse/core/internal/events/BuildManager.java
+SHA1-Digest: XFM04udgNyUF/VDEUsavBf52uFs=
+
+Name: org/eclipse/core/internal/resources/projectvariables/ProjectLoca
+ tionVariableResolver.java
+SHA1-Digest: suJFGXw3vtxH9uxDHKID9Ll0qO8=
+
+Name: org/eclipse/core/internal/watson/ElementTreeReaderImpl_1.java
+SHA1-Digest: Lj8gsXQmPlKMmpgJi87nl5xFp9Q=
+
+Name: org/eclipse/core/internal/events/ResourceChangeEvent.java
+SHA1-Digest: 6pdthmyKV9fiIL80P5ajTXOR32k=
+
+Name: org/eclipse/core/internal/localstore/RefreshLocalVisitor.java
+SHA1-Digest: C26Kj7HQ4P6gYOgIbEJinxTIV2A=
+
+Name: ant_tasks/resources-antsrc/org/eclipse/core/resources/ant/Conver
+ tPath.java
+SHA1-Digest: z766TbdJW5eCeoCRniCO8ZOuhlo=
+
+Name: org/eclipse/core/internal/resources/ComputeProjectOrder.java
+SHA1-Digest: z1U9kU7FTrWAN8iBH250+05Ow/o=
+
+Name: org/eclipse/core/internal/localstore/IsSynchronizedVisitor.java
+SHA1-Digest: B3gvLNhy6HnDi4ipNMI5cgUtAFE=
+
+Name: org/eclipse/core/internal/resources/mapping/ResourceChangeDescri
+ ptionFactory.java
+SHA1-Digest: dR1+FzwM+Ze55RIvzcGhARZSLF0=
+
+Name: org/eclipse/core/internal/refresh/RefreshJob.java
+SHA1-Digest: UlAM1PwYsB2/TkaKiNU/MBa+mUo=
+
+Name: org/eclipse/core/internal/resources/MarkerSet.java
+SHA1-Digest: jL1b4RV+p0IRLXSz3uNtD3yKF3Q=
+
+Name: org/eclipse/core/internal/propertytester/ResourcePropertyTester.
+ java
+SHA1-Digest: fxYiU6ERl400k08AZ5WMo0XqmNg=
+
+Name: org/eclipse/core/internal/resources/ProjectInfo.java
+SHA1-Digest: My8V0mXFYjkrhlA7Oodm55ewiKc=
+
+Name: org/eclipse/core/resources/IPathVariableChangeEvent.java
+SHA1-Digest: qoLhOXLsd/TsRVmmyRJZ+OVidig=
+
+Name: org/eclipse/core/internal/resources/NatureManager.java
+SHA1-Digest: V99soulkfDRiIJ39pHOaSEY9Exk=
+
+Name: org/eclipse/core/internal/utils/BitMask.java
+SHA1-Digest: Okv9Q8E4AB6dzC7zzlNIjoJI3Dg=
+
+Name: org/eclipse/core/internal/properties/PropertyBucket.java
+SHA1-Digest: 3S+QvdNiSoeuLvz2xyBQ1oyAa/I=
+
+Name: org/eclipse/core/internal/resources/Synchronizer.java
+SHA1-Digest: cecTExW+Z4Hx2YIo55J3Cd6+II4=
+
+Name: org/eclipse/core/internal/dtree/IDataFlattener.java
+SHA1-Digest: KCkQPM1vVD/kvJQBvuA/ciQFYpM=
+
+Name: org/eclipse/core/internal/resources/ResourceStatus.java
+SHA1-Digest: NgAC/n1LTm8F0GoNSBCdXTGJAQk=
+
+Name: org/eclipse/core/resources/IProjectNature.java
+SHA1-Digest: FGmQUJ4do8Iur/xlWgZQbev2BSs=
+
+Name: org/eclipse/core/internal/resources/SyncInfoReader_2.java
+SHA1-Digest: M7XAMAJUTutd62DbE94AF8nAavA=
+
+Name: org/eclipse/core/internal/watson/IElementContentVisitor.java
+SHA1-Digest: QjhpZVt+MRP+O4ku/iUXRjBNWcM=
+
+Name: org/eclipse/core/resources/mapping/ResourceMapping.java
+SHA1-Digest: 4h8k4n/RKsytnAJ3BaIhDOxW1c8=
+
+Name: schema/refreshProviders.exsd
+SHA1-Digest: ZfAZzg+yiuyeBks5GhDfoRW8eh4=
+
+Name: org/eclipse/core/resources/mapping/IResourceChangeDescriptionFac
+ tory.java
+SHA1-Digest: UDKtg2kEVyD4BdsJq2td/mmjR68=
+
+Name: org/eclipse/core/internal/dtree/DataTreeReader.java
+SHA1-Digest: rO9mCAc4V6YGYod4C04nEcdfV5A=
+
+Name: org/eclipse/core/internal/resources/SavedState.java
+SHA1-Digest: 2HKWViNjSdNpn+pUI1EHfN4eP88=
+
+Name: org/eclipse/core/internal/propertytester/ProjectPropertyTester.j
+ ava
+SHA1-Digest: 1Kv9OD2gNtJghelTiMu6UM8RDsQ=
+
+Name: org/eclipse/core/internal/resources/VariableDescription.java
+SHA1-Digest: tbVBklPpS0k0r+e7KnhdFgVn58c=
+
+Name: org/eclipse/core/internal/utils/Convert.java
+SHA1-Digest: xEqJrHwXaSMLymuF2zNRQvoKNa0=
+
+Name: org/eclipse/core/internal/resources/MarkerDelta.java
+SHA1-Digest: THttjSxIVlFYhguAJPXe7hzimsY=
+
+Name: org/eclipse/core/resources/IResourceVisitor.java
+SHA1-Digest: fU9mlNkieBKtaHvS1iCszFi3S4k=
+
+Name: org/eclipse/core/resources/IResourceRuleFactory.java
+SHA1-Digest: FI7hKc5anDnQJQKsbISpWE5TV7Q=
+
+Name: org/eclipse/core/resources/IResourceProxy.java
+SHA1-Digest: qonpao2iNikaeja0SdaT0Nih8y0=
+
+Name: schema/natures.exsd
+SHA1-Digest: tNPxaKFx0Dbamth3DzEJpqfEm1M=
+
+Name: org/eclipse/core/resources/IMarker.java
+SHA1-Digest: 5SDL7CDa8UV6Bg8EOkTg1xXJZUo=
+
+Name: org/eclipse/core/internal/resources/FilterTypeManager.java
+SHA1-Digest: lzokdyp5lyNJ59CsgZ7/P+7dmP0=
+
+Name: org/eclipse/core/resources/filtermatchers/AbstractFileInfoMatche
+ r.java
+SHA1-Digest: aXsakn02EUIbM5TSD2LKfOZWQ58=
+
+Name: org/eclipse/core/internal/resources/Filter.java
+SHA1-Digest: H3SEc+Ty7fEXrKOTIxsKJRrTPqo=
+
+Name: org/eclipse/core/internal/utils/ArrayIterator.java
+SHA1-Digest: 1wzWN56Y2/fSpXaPX+fqb0ozlyk=
+
+Name: org/eclipse/core/resources/team/FileModificationValidationContex
+ t.java
+SHA1-Digest: 3AByoWbCXBahhhOCoC2zJRFSMyU=
+
+Name: ant_tasks/resources-antsrc/org/eclipse/core/resources/ant/Increm
+ entalBuild.java
+SHA1-Digest: XWr1VoPqyH+jcWlLyrE5gme6QuQ=
+

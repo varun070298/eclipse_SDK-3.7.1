@@ -1,0 +1,64 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 6RkOUS63/tkZLa4/zrXeQr+yTms=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: +e+38DcdWDN+1cirf6duyGGUN/Y=
+
+Name: org/eclipse/jdt/apt/ui/internal/util/Messages.java
+SHA1-Digest: gi48aAOgpOtGN1ZboZ5cwbMG1JE=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AptPreferencePage.ja
+ va
+SHA1-Digest: cedD36eACUlOpoyCIzlF7IGQ1lI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/Messages.java
+SHA1-Digest: r8K6vQ+xzWoz0bilbRLna2i9TRU=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/ProcessorOptionInput
+ Dialog.java
+SHA1-Digest: OFl8DmZ1XAvVkLQE9O0sl0jiV6s=
+
+Name: org/eclipse/jdt/apt/ui/internal/util/IAptHelpContextIds.java
+SHA1-Digest: jZOSSA4KE9G6LqkEnAcF8VuEWXE=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/BaseConfigurationBlo
+ ck.java
+SHA1-Digest: fW6gFc9CU/fjtUAjj32wfYtlCEc=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/FactoryPathConfigura
+ tionBlock.java
+SHA1-Digest: DQBsyciiFEp+iRMv5i5HR1gXxGM=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/apt/ui/internal/AptUIPlugin.java
+SHA1-Digest: m7VmZtcCfKcmnX6b2B3UpkTB+Cs=
+
+Name: plugin.properties
+SHA1-Digest: paWLVnwr3SK/O2L2UQEqw8333/8=
+
+Name: org/eclipse/jdt/apt/ui/internal/util/ExceptionHandler.java
+SHA1-Digest: imVzonIFf4eANg1CD/xWNV7eyWQ=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AptConfigurationBloc
+ k.java
+SHA1-Digest: A2zS2Kj129VFjHk4qVMUQ1R/7wc=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/BasePreferencePage.j
+ ava
+SHA1-Digest: cobhqVrHq8zkQWoTPrp7P1Yz/og=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/FactoryPathPreferenc
+ ePage.java
+SHA1-Digest: L4Q6howwfWzqtSEsl1io53rFYLA=
+
+Name: org/eclipse/jdt/apt/ui/internal/preferences/AdvancedFactoryPathO
+ ptionsDialog.java
+SHA1-Digest: bNRvDnjFhlKTIwGugmw+Puu3Pk8=
+
+Name: org/eclipse/jdt/apt/ui/internal/Messages.java
+SHA1-Digest: jCssMbsUAEqK0KPoETPUFL6w1Gk=
+

@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.runtime.compatibility.auth;vers
+ ion="3.2.200.v20110110";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.runtime.compatibility.auth.sourc
+ e
+Bundle-Version: 3.2.200.v20110110
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/internal/runtime/auth/URLTool.java
+SHA1-Digest: kwHXFsi8VMZGCuevmANyezW2X4o=
+
+Name: org/eclipse/core/internal/runtime/auth/AuthorizationHandler.java
+SHA1-Digest: rB0l75ZRcBc0oQlsG2pTDwQa3bY=
+
+Name: org/eclipse/core/internal/runtime/auth/Activator.java
+SHA1-Digest: Za4KXPXZtF99C22HnzJreUzAwdg=
+
+Name: org/eclipse/core/internal/runtime/auth/AuthorizationDatabase.jav
+ a
+SHA1-Digest: Ncltgug7AIUbIJwxx9DXnlebSdA=
+
+Name: org/eclipse/core/internal/runtime/auth/Messages.java
+SHA1-Digest: VzrgcP0SWdROB6qWzI+gjUxhe3U=
+
+Name: org/eclipse/core/internal/runtime/auth/CipherOutputStream.java
+SHA1-Digest: LRjUgmW9L/z/e3brrPgSJA9dr+g=
+
+Name: org/eclipse/core/internal/runtime/auth/Cipher.java
+SHA1-Digest: s75AxRSP3kqNzOPkyaF+isANVEo=
+
+Name: org/eclipse/core/internal/runtime/auth/CipherInputStream.java
+SHA1-Digest: dXDp4O2JH37PcoF6EyiXLp6/2M8=
+
+Name: about.html
+SHA1-Digest: majDfHR7wa8FvwM5tFX43NplqJo=
+
+Name: plugin.properties
+SHA1-Digest: o0tgNFRSsyZ29ju9mJzOTum9fHs=
+

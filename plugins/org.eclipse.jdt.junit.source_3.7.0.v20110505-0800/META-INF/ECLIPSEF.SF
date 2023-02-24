@@ -1,0 +1,247 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zyrL0YK9CWzMg6Y9x+GvwMiAYHU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: yRM1fk0bSHg8ukRNwUax33B8ziI=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestSessionTableContentProvide
+ r.java
+SHA1-Digest: 6VsrR/ph0hQ772lPHuWE5zlLDI0=
+
+Name: org/eclipse/jdt/internal/junit/ui/FailureTrace.java
+SHA1-Digest: u1T8f4HiQ203WcdriZGBU7D547Q=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestRunnerViewPart.java
+SHA1-Digest: 5ykpvrPlSLAQFPXLs+gd2WGMYs0=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitCopyAction.java
+SHA1-Digest: YnchHrm93HvPQO676CNFKakP29c=
+
+Name: org/eclipse/jdt/internal/junit/wizards/NewTestSuiteCreationWizar
+ d.java
+SHA1-Digest: WLUvu43LemytjvH+l9kk50nAjLc=
+
+Name: org/eclipse/jdt/internal/junit/launcher/AssertionVMArg.java
+SHA1-Digest: iML9tn/LIGykse6SsXkfl63Qfvs=
+
+Name: org/eclipse/jdt/junit/wizards/NewTestCaseWizardPageTwo.java
+SHA1-Digest: QzX30kGhNriCp+JELpXmJofbACY=
+
+Name: org/eclipse/jdt/internal/junit/util/JUnitStatus.java
+SHA1-Digest: 7LpJFQG3atkFMGWL5Evfd37vXCY=
+
+Name: org/eclipse/jdt/internal/junit/launcher/TestSelectionDialog.java
+SHA1-Digest: evWG/vJuVXjdHDxkTJn8z43xeFQ=
+
+Name: org/eclipse/jdt/internal/junit/ui/RerunAction.java
+SHA1-Digest: gbosA2g9Ag7F6NBhHdFAZtlZcVo=
+
+Name: org/eclipse/jdt/internal/junit/util/ExceptionHandler.java
+SHA1-Digest: jrdKMQYxB7Johd1FBe8arMGzzYE=
+
+Name: schema/junitLaunchConfigs.exsd
+SHA1-Digest: 47pepzqTQtCSCZwlVLF8emZGu80=
+
+Name: org/eclipse/jdt/internal/junit/wizards/TestSuiteClassListRange.j
+ ava
+SHA1-Digest: NCNrgrADsrFFLWx475DjxgpDBTY=
+
+Name: org/eclipse/jdt/internal/junit/ui/CompareResultDialog.java
+SHA1-Digest: 4tl7CtToyDhpFAmmCLnKWEVEyuQ=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/LaunchConfigSetAttrib
+ uteChange.java
+SHA1-Digest: +aa9oYV8K8l2BxxHHi3wYeTqW3A=
+
+Name: org/eclipse/jdt/internal/junit/ui/CopyFailureListAction.java
+SHA1-Digest: lMgMqXKa1m+7TYbMvIGyEi6T6Ug=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/LaunchConfigurationCo
+ ntainer.java
+SHA1-Digest: b4+yLXDUh3cYuL8BXp+P/EqBynA=
+
+Name: org/eclipse/jdt/internal/junit/ui/CounterPanel.java
+SHA1-Digest: u6P+XKWR8WHTgTftgSVp4FlEjaY=
+
+Name: org/eclipse/jdt/internal/junit/ui/ITraceDisplay.java
+SHA1-Digest: M7lP6A0wflhNIAQGCttAKpU+ksU=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/ProjectRenameParticip
+ ant.java
+SHA1-Digest: Un/DgIAFvJAtKwaEmOMQm8Z5OIk=
+
+Name: org/eclipse/jdt/internal/junit/ui/ProgressImages.java
+SHA1-Digest: bcOcXZ+v+/wZzWxHSJaQrNN6RU0=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/IChangeAdder.java
+SHA1-Digest: y7VdDKsh2Ha92ZvtFzZXqVHIjF0=
+
+Name: org/eclipse/jdt/internal/junit/ui/FailureTableDisplay.java
+SHA1-Digest: 8YbaQ/bBDT5Wmnnm25vuIR3p0LA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/internal/junit/wizards/UpdateTestSuite.java
+SHA1-Digest: vm1rfrZ+JagPe4edZ3fswILSHHk=
+
+Name: org/eclipse/jdt/internal/junit/wizards/SuiteClassesContentProvid
+ er.java
+SHA1-Digest: D9nx4H6n9frI5pOFwiiusdYxmY0=
+
+Name: org/eclipse/jdt/internal/junit/wizards/WizardMessages.java
+SHA1-Digest: 3TGY2BeE4upjWbbyXPePNpQTtJU=
+
+Name: org/eclipse/jdt/internal/junit/ui/OpenEditorAtLineAction.java
+SHA1-Digest: XeCx37tynh1/9V+KnJmiONzXH+U=
+
+Name: org/eclipse/jdt/internal/junit/util/Resources.java
+SHA1-Digest: k8d/m8P8oDZ6YtNL+wg8yqIljsY=
+
+Name: org/eclipse/jdt/junit/launcher/JUnitLaunchShortcut.java
+SHA1-Digest: Aj/Uu7rOm/zpAJsR3y6WaJ9CW5s=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/TypeRenameParticipant
+ .java
+SHA1-Digest: PSiyvQEl/a28cabaApzkVxLDrRY=
+
+Name: org/eclipse/jdt/internal/junit/ui/IJUnitHelpContextIds.java
+SHA1-Digest: ayxQ0pkLaLDKs2MARh8u8WAC7m0=
+
+Name: org/eclipse/jdt/internal/junit/ui/OpenEditorAction.java
+SHA1-Digest: SY4HxBMntwcJKmZ9JArDFsjcdqE=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitClasspathFixProcessor.jav
+ a
+SHA1-Digest: 5DvbTiG47licNrkVwFEIxRlOq8Y=
+
+Name: org/eclipse/jdt/junit/wizards/NewTestCaseWizardPageOne.java
+SHA1-Digest: 5pk2dF0yINMnmUuEulWBMKpxOwI=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestSessionTreeContentProvider
+ .java
+SHA1-Digest: 2I9AMtmb09rkE1jFy+PQ5CQdwSc=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestViewer.java
+SHA1-Digest: 6BQ/D/2yl9wOUT9Knw+vbuJ6Z4w=
+
+Name: org/eclipse/jdt/internal/junit/ui/GotoReferencedTestAction.java
+SHA1-Digest: Inx4gWJE8EOFJ4ZGLjivsASOSfM=
+
+Name: org/eclipse/jdt/internal/junit/launcher/JUnitTabGroup.java
+SHA1-Digest: qnYRzu0EurBu4mR/Y7t7TnIFDzw=
+
+Name: org/eclipse/jdt/internal/junit/util/JUnitStubUtility.java
+SHA1-Digest: 1wn3Qnxz3yLMOSAM9v3WLbZIVow=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitViewEditorLauncher.java
+SHA1-Digest: NQOZw1j5YQSL2NcCNJpYXVBUquQ=
+
+Name: org/eclipse/jdt/internal/junit/util/CheckedTableSelectionDialog.
+ java
+SHA1-Digest: +AeMSYK0AzdA4Ba5LVBddpWP2SI=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitAddLibraryProposal.java
+SHA1-Digest: dok0JC6QNaMuhilvZsNq39muyJA=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitUIPreferencesConstants.ja
+ va
+SHA1-Digest: D/QXJspAP3fIrvGbW28bK2KD2PI=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitProgressBar.java
+SHA1-Digest: qG3FswHioALukE08P2oalyi9oTI=
+
+Name: org/eclipse/jdt/internal/junit/wizards/JUnitWizard.java
+SHA1-Digest: JrkgZceTsHKaj6XH2+ZMtngGh3I=
+
+Name: org/eclipse/jdt/internal/junit/launcher/LaunchErrorStatusHandler
+ .java
+SHA1-Digest: Cx9A+0Kj4K10nZjErLPXFbGRSvA=
+
+Name: org/eclipse/jdt/internal/junit/ui/EnableStackFilterAction.java
+SHA1-Digest: e5fRCmzgoUDqbK2g67eu0NWIXms=
+
+Name: plugin.properties
+SHA1-Digest: YOqNhtAehrWcmmu1SckjDIZTXGE=
+
+Name: org/eclipse/jdt/internal/junit/ui/TextualTrace.java
+SHA1-Digest: VhOR6gptOhnctNpOvzwcVADGnk4=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/JUnitRenameParticipan
+ t.java
+SHA1-Digest: mq4QSdFAnWOAm9Q63ZgXiXbcD8k=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/LaunchConfigChange.ja
+ va
+SHA1-Digest: O/54pEn1HcjnIiwdXiOs1Ka9OAg=
+
+Name: org/eclipse/jdt/internal/junit/ui/ScrollLockAction.java
+SHA1-Digest: RHR7ujiX6Ob9MErUwdOtxoZIuI0=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/ClasspathVariableMarker
+ ResolutionGenerator.java
+SHA1-Digest: Gz9ZklK2ZXH+LEXUA5vR2Tyc3G0=
+
+Name: org/eclipse/jdt/internal/junit/wizards/NewTestCaseCreationWizard
+ .java
+SHA1-Digest: gXGrso8QvYQ3ERaMlSwO6bJPsL4=
+
+Name: org/eclipse/jdt/junit/launcher/JUnitLaunchConfigurationTab.java
+SHA1-Digest: WpHXunym3ox7dqi8O9v8wIRjYu8=
+
+Name: org/eclipse/jdt/internal/junit/buildpath/JUnitContainerWizardPag
+ e.java
+SHA1-Digest: b/8FYE0hvCPsdKCrM2J/LAJBmjw=
+
+Name: org/eclipse/jdt/internal/junit/wizards/MethodStubsSelectionButto
+ nGroup.java
+SHA1-Digest: clgXPgfu8IyvRsZoU47tW+Gaevs=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestSessionLabelProvider.java
+SHA1-Digest: ZIhYYrfKUl3cILYtaCd91/eUO9A=
+
+Name: org/eclipse/jdt/internal/junit/ui/TestMethodSelectionDialog.java
+SHA1-Digest: ZlwhyXlxRQEku+QvqL+lbbakxAU=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitPlugin.java
+SHA1-Digest: A1fzZUqf5IIJcE9DcuPRozQOtoI=
+
+Name: org/eclipse/jdt/junit/wizards/NewTestSuiteWizardPage.java
+SHA1-Digest: eP1jfQwwKAyrwMobjJoO3iONfT4=
+
+Name: org/eclipse/jdt/internal/junit/util/LayoutUtil.java
+SHA1-Digest: 7JcFAgoyWjnw0U3KIGBBbD9hgiE=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitQuickFixProcessor.java
+SHA1-Digest: +Ol01T3U1DSyneh/19TItZBsnDI=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitMessages.java
+SHA1-Digest: ysT4BCK4NYa89+G6qIjMEv+Htec=
+
+Name: org/eclipse/jdt/internal/junit/ui/UITestRunListener.java
+SHA1-Digest: 3BVYnikBGvpn8mtz+Px+vCEplEk=
+
+Name: org/eclipse/jdt/internal/junit/ui/JUnitPreferencePage.java
+SHA1-Digest: sdy0LD/Yb87LfQi6uMe5mWbcDQY=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/internal/junit/ui/OpenTestAction.java
+SHA1-Digest: LJeAFGKm9yWWx6cvvRpLpeR9jF0=
+
+Name: org/eclipse/jdt/internal/junit/ui/ShowNextFailureAction.java
+SHA1-Digest: HUdQNYW4CxQLqgoJYzzUV/VDlLo=
+
+Name: org/eclipse/jdt/internal/junit/util/TestSearchEngine.java
+SHA1-Digest: jA+43tHeD+PIqpyeFh95fppH2KA=
+
+Name: org/eclipse/jdt/internal/junit/refactoring/LaunchConfigRenameCha
+ nge.java
+SHA1-Digest: n/sGLFqfbQ1cgJpvf45ofErE1Ks=
+
+Name: org/eclipse/jdt/internal/junit/ui/ShowPreviousFailureAction.java
+SHA1-Digest: eQHCPkdYzOWZ9LknaomN8uSfqac=
+
+Name: org/eclipse/jdt/internal/junit/ui/CompareResultsAction.java
+SHA1-Digest: SA9qgX7wNGU8ImWctIUuQYgGs8U=
+

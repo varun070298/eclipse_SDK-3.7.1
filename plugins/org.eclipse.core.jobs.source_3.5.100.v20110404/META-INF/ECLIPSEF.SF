@@ -1,0 +1,113 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: mWsMojqCB1WSP9EELKqhJnEgrrk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: hENBCycgRB9kFDpcQStQOI02lgk=
+
+Name: org/eclipse/core/runtime/jobs/MultiRule.java
+SHA1-Digest: 2x94NSdcCZL1JpQ+Dox0/B3Ozks=
+
+Name: org/eclipse/core/internal/jobs/ThreadJob.java
+SHA1-Digest: W5BnzOvv172uw31+mFvp5KPAgeM=
+
+Name: org/eclipse/core/runtime/jobs/ILock.java
+SHA1-Digest: V+QYxLrbkCGdREkr25OqziiMQf4=
+
+Name: org/eclipse/core/internal/jobs/Queue.java
+SHA1-Digest: 6STpAFrtx4VW3xrYXG+vhT7GE8Y=
+
+Name: org/eclipse/core/internal/jobs/JobStatus.java
+SHA1-Digest: 9n/+FpSkObPDRBWt8vrioDaZ+PQ=
+
+Name: org/eclipse/core/runtime/jobs/JobChangeAdapter.java
+SHA1-Digest: 6mByhQFGMmI+mjY/JrXNypaSgag=
+
+Name: org/eclipse/core/runtime/jobs/ProgressProvider.java
+SHA1-Digest: WSsZqKvsM9NZVEXygP/4gCxkg5k=
+
+Name: plugin.properties
+SHA1-Digest: 85sHC9004mOlrz1IDCm2v6RLrko=
+
+Name: org/eclipse/core/runtime/jobs/IJobChangeListener.java
+SHA1-Digest: 0+jxIJRCEopcsr6bXyhY8M5OtnA=
+
+Name: org/eclipse/core/internal/jobs/JobActivator.java
+SHA1-Digest: jusYgEHqfl29hODAf2qjk3usMtY=
+
+Name: org/eclipse/core/internal/jobs/DeadlockDetector.java
+SHA1-Digest: bPZktB1pI6O0cz5sJ5fXZ0cLK5Q=
+
+Name: org/eclipse/core/runtime/jobs/Job.java
+SHA1-Digest: w/qush7TkRkZ0R36Wr//e4Djl5s=
+
+Name: org/eclipse/core/internal/jobs/JobQueue.java
+SHA1-Digest: hxUXIyqhSQzOEvWpoyHCxSQHFDM=
+
+Name: org/eclipse/core/runtime/jobs/ISchedulingRule.java
+SHA1-Digest: 8L4mbYO6NtS5JCBmBNWXhE0W+As=
+
+Name: org/eclipse/core/runtime/jobs/IJobManager.java
+SHA1-Digest: ylu38VkvfwtXQ7oh7fpGcQGbd3U=
+
+Name: org/eclipse/core/internal/jobs/JobOSGiUtils.java
+SHA1-Digest: eRMRk8v7OCxf3abh7sSsJi+7MJk=
+
+Name: org/eclipse/core/runtime/jobs/IJobChangeEvent.java
+SHA1-Digest: yyz99UKwgFDl93hndOU7mo1eZ6A=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/runtime/jobs/IJobStatus.java
+SHA1-Digest: SMcH4YtiEiBxgrD7pd+C59Tkzo4=
+
+Name: org/eclipse/core/internal/jobs/JobListeners.java
+SHA1-Digest: q4ZSmC+qP9QKFteH0bWOjp2TS6o=
+
+Name: org/eclipse/core/internal/jobs/JobMessages.java
+SHA1-Digest: hG7xXYYv9yGjDVnSFmEG8SpuwfY=
+
+Name: org/eclipse/core/runtime/jobs/LockListener.java
+SHA1-Digest: +lektkdcnIRHDH40Sj6XZ6OlkKI=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/internal/jobs/Worker.java
+SHA1-Digest: /K3eXvKLzYLsT9wrPTceMyQtAAI=
+
+Name: org/eclipse/core/internal/jobs/Semaphore.java
+SHA1-Digest: pFz0JDDpffe4pv/WrcpkGlgaLew=
+
+Name: org/eclipse/core/internal/jobs/ImplicitJobs.java
+SHA1-Digest: WawcI0UWTczhT3av/dI2EBnhB0g=
+
+Name: org/eclipse/core/internal/jobs/InternalWorker.java
+SHA1-Digest: xXCeE0PmQ7iaxSXomuVGQZEZ5/E=
+
+Name: org/eclipse/core/internal/jobs/WorkerPool.java
+SHA1-Digest: P9V2VnwAxKIwceTay3VTrfFTSTY=
+
+Name: org/eclipse/core/internal/jobs/LockManager.java
+SHA1-Digest: 4DwroLic84p/vDto/ml7LvEHCr8=
+
+Name: org/eclipse/core/internal/jobs/InternalJob.java
+SHA1-Digest: 0Hx9bdA5pKB4/oauDzG6XiKBFG4=
+
+Name: org/eclipse/core/internal/jobs/ObjectMap.java
+SHA1-Digest: g6cmJ8ozzHyKXP02xEDa2BDa7i4=
+
+Name: org/eclipse/core/internal/jobs/Counter.java
+SHA1-Digest: vmFdB9lfPG6I9oup4+B8UY7FOco=
+
+Name: org/eclipse/core/internal/jobs/OrderedLock.java
+SHA1-Digest: BPIu4yNXnYg01WdJUUPSN+3e+KY=
+
+Name: org/eclipse/core/internal/jobs/JobManager.java
+SHA1-Digest: haaPTNQBXxxtg96NQcGDYAWH2fA=
+
+Name: org/eclipse/core/internal/jobs/Deadlock.java
+SHA1-Digest: dpTdh6I25Jpl3K2LRDy89Wed5H8=
+
+Name: org/eclipse/core/internal/jobs/JobChangeEvent.java
+SHA1-Digest: fRRN1lyene+YARMXUIva3WACewA=
+

@@ -1,0 +1,519 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.ui;version="2.1.0.v201106
+ 01";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.p2.ui.source
+Bundle-Version: 2.1.0.v20110601
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/RepositoryDetailsLabe
+ lProvider.java
+SHA1-Digest: k3OMJUltcJ5EerQk2Awwj0GHcbg=
+
+Name: org/eclipse/equinox/internal/p2/ui/ElementWrapper.java
+SHA1-Digest: 3WxEkQgaWSb4OcDhVJ5B+m+mdcs=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/MetadataRepositoryEleme
+ nt.java
+SHA1-Digest: MdVVZ3TB8FDQbdRX53okK4XEXJM=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/RemoteQueriedElement.ja
+ va
+SHA1-Digest: 9r6SHHhjsQpUi6EGMFkGGaqauQQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/AvailableIUsPage.java
+SHA1-Digest: fGpXNHfIYd7EPOjYBlKulXPRc7A=
+
+Name: org/eclipse/equinox/internal/p2/ui/RepositoryOperationBeginningE
+ vent.java
+SHA1-Digest: YtI9N9s7Sg8BaM/txeD6jAgH7lw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IViewMenuProvider.jav
+ a
+SHA1-Digest: bLcSMueF2ot/hfMI6PvcX7Af4HI=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/AvailableUpdateElement.
+ java
+SHA1-Digest: 9+5vQjBhJucWTd8NOkOBOx1yTEQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUIMessages.java
+SHA1-Digest: l5x25b6wYAPt219oXjBkZB3EcKY=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/InstallWizardPage.jav
+ a
+SHA1-Digest: NU+aVO34GPNk2VtouANvygagGCY=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IRepositoryManipulati
+ onHook.java
+SHA1-Digest: Ku4i0RpnAm1lDcEMqFgqeJYrNKw=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/MetadataRepositoryEle
+ mentComparator.java
+SHA1-Digest: YMOHdmNs02VBykKf+XwABVwfW3M=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IDeferredQueryTreeLis
+ tener.java
+SHA1-Digest: u/9b2mPYglEFIAlL5qN6us2Z1LQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IUGeneralInfoProperty
+ Page.java
+SHA1-Digest: /O+45Lz8pAq4gJ/rvVFglZ1EAHA=
+
+Name: org/eclipse/equinox/internal/p2/ui/RepositoryLocationQuery.java
+SHA1-Digest: pHUdkx/z261sh1CK4MnKxK9KvSw=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/QueriedElementWrapper.j
+ ava
+SHA1-Digest: DAyxrjLYRNhhlmxFChiI/yRMEbE=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/CategoryElementWrapper.
+ java
+SHA1-Digest: iRvPYKzO4aIde6446D2HTZZhsV8=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ISelectableIUsPage.ja
+ va
+SHA1-Digest: BBT3SPT7vdQmDv+f0XRrUjzOg/U=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ContainerCheckedTreeV
+ iewer.java
+SHA1-Digest: lqaWZ0UUc6p0MHE8hyUsW7s1NG8=
+
+Name: org/eclipse/equinox/internal/p2/ui/RepositoryOperationEndingEven
+ t.java
+SHA1-Digest: UZV5uKlZpqyY9wgxnVq6E1jVez4=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ResolutionStatusPage.
+ java
+SHA1-Digest: G3GeW0c3Di+OvUncMZf9vhmIMKw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UpdateSingleIUPage.ja
+ va
+SHA1-Digest: 5Goo+BUXG3bfUNB+Bn+tWD5TjMc=
+
+Name: org/eclipse/equinox/internal/p2/ui/QueryableArtifactRepositoryMa
+ nager.java
+SHA1-Digest: paqTVgHc6w3DGMdD1nzLULuvYcQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/ExistingIUInProfileAc
+ tion.java
+SHA1-Digest: 4+4WTIoj7bNygT06d9hOVrX4XBA=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/AvailableIUWrapper.java
+SHA1-Digest: 5nGef/1mKtgYS0rm/SF4CMCe6Gw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/AddRepositoryDialog.j
+ ava
+SHA1-Digest: WTmOGAKTp9Tx1ma+nSVXq8o+PKk=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ApplyProfileChangesDi
+ alog.java
+SHA1-Digest: Ph5UC0hhK8pMc9BDiQrIwyaVFkA=
+
+Name: org/eclipse/equinox/internal/p2/ui/ValidationDialogServiceUI.jav
+ a
+SHA1-Digest: gPG8ERaBul6+153z8qhqo8bEPcI=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/Updates.java
+SHA1-Digest: a0AGu2uBPuiyzGDGl23FdI9v/YQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ArtifactElement.java
+SHA1-Digest: SHhk9JExISF9LGJCSyKDuI3stmM=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ProfileElement.java
+SHA1-Digest: bIOrLUK9DOw+twfpePH8HoPkKJ0=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IUColumnConfig.java
+SHA1-Digest: pNU7eT5zC4F4LUKlqKZGHRWhSGE=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/QueryableUpdates.java
+SHA1-Digest: tjdHrtjVCHsZ9Wsgsd//Pevdtnc=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UpdateSingleIUWizard.
+ java
+SHA1-Digest: xaU28hKJ6fCm9RCASrxjdCIpFMg=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ComboAutoCompleteFiel
+ d.java
+SHA1-Digest: qqwiMVNVY6IMTPzl/e/1z+dljaI=
+
+Name: org/eclipse/equinox/internal/p2/ui/ColocatedRepositoryTracker.ja
+ va
+SHA1-Digest: qt7w+vAonaTiv6uWTCV/FILkT9o=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/CopyHandler.java
+SHA1-Digest: czbrz7HBGfgo7+SuGd3QaW6oyz0=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/ProvElementContentPro
+ vider.java
+SHA1-Digest: uAfZyIFlUCtM3njTwnl/t3iS2r4=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvisioningOperationRunner.j
+ ava
+SHA1-Digest: S57nFAVYXlAgP2kvQ6zn9ScKB1o=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/IUViewQueryContext.java
+SHA1-Digest: sVPNjm3kijzFxGs3rk1tvSvTAwU=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/EmptyElementExplanation
+ .java
+SHA1-Digest: /R+3scBogjD9K0HqtTBNWG2+tZk=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UpdateWizard.java
+SHA1-Digest: RlcWNTNy5QLyNLXYsJzEY2NAvao=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IUDragAdapter.java
+SHA1-Digest: oQMhKKVkLEE2kdL7k+Un2Pn87j8=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/MetadataRepositoryEleme
+ ntWrapper.java
+SHA1-Digest: SNUcbHRr9HV2WD7Y475vH8K+IrU=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/AvailableIUPatternFil
+ ter.java
+SHA1-Digest: OvtCwSXkjYhonoSNXCHhXNm52F4=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ProvisioningOperation
+ Wizard.java
+SHA1-Digest: hJIwLgyA5DKUh7u+96YfvdwLbzU=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/ProvisioningAction.ja
+ va
+SHA1-Digest: 31LQjg+wmtmC4wkkvN3MuucmEEI=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IUCopyrightPropertyPa
+ ge.java
+SHA1-Digest: +g4ZYwZcKgfMNbpPda2YmaA/dFQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ArtifactRepositoryEleme
+ nt.java
+SHA1-Digest: 5Fx7V/jIoAiLOVvg3ncnXnDZCTY=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/p2/ui/QueryProvider.java
+SHA1-Digest: AzXJVi4V0Vwwtdrc0Pgw7yjFv9A=
+
+Name: org/eclipse/equinox/internal/p2/ui/RepositoryTrackerComponent.ja
+ va
+SHA1-Digest: hqYXXsf9p3ULhofoEP1gNOpDwpw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/AvailableIUGroup.java
+SHA1-Digest: N4vfSRNxZ8Fl6ZdqYB6C9DG1kv8=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/CategoryElement.java
+SHA1-Digest: 7lHPpo4/JLpo4BGeDk5p9VeC/D8=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/IIUElement.java
+SHA1-Digest: upVif9zfAVTwNX0X2R/UC5NkBLU=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ProfileSnapshots.java
+SHA1-Digest: tUCBJ/snToRElcSDLsCr+x7FLeA=
+
+Name: org/eclipse/equinox/internal/p2/ui/UpdateManagerCompatibility.ja
+ va
+SHA1-Digest: W39m4wXMyffjky5bYInXUMV2k7w=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IULicensePropertyPage
+ .java
+SHA1-Digest: 8Dp2wZoB4AzbTGpyeOf5UIw/8os=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/RepositoryContentProv
+ ider.java
+SHA1-Digest: DlomQ7mGkuhxo2JMXk6Fy7dKr+8=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IUDetailsLabelProvide
+ r.java
+SHA1-Digest: YfK2ozxBdK+b3Opt7G9zHSGQevM=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/UninstallAction.java
+SHA1-Digest: LjC44lOF1lIrgOFVD03PQjgJpZU=
+
+Name: org/eclipse/equinox/p2/ui/RepositoryManipulationPage.java
+SHA1-Digest: 1ShjYMIPWfT8FeernIKSSW7zv+k=
+
+Name: org/eclipse/equinox/p2/ui/AcceptLicensesWizardPage.java
+SHA1-Digest: anZfelI1unK1qDtAeLtsn9IKjMQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUIAdapterFactory.java
+SHA1-Digest: SFx8WRaJVNCeWtqMJdol1L+3n4g=
+
+Name: org/eclipse/equinox/p2/ui/Policy.java
+SHA1-Digest: +DYw5fXTSL027rMTOfXGVF2G9rI=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IUPropertyPage.java
+SHA1-Digest: n6Bg9HX6DPFX9qf6x07Pah2bHis=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/StructuredIUGroup.jav
+ a
+SHA1-Digest: KzmEKkkCqBfNAG3PSq+WjwQK3jg=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IRepositorySelectionL
+ istener.java
+SHA1-Digest: DVZkWfXKcvJ0E6jW53twQb7vGAo=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/RepositoryNameAndLoca
+ tionDialog.java
+SHA1-Digest: RMa1V7ChTbdgRWs1nKN5u6KDK48=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/Profiles.java
+SHA1-Digest: wqbkfODoPjM01F5U9c9WUWQgzvU=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/ProfileElementWrapper.j
+ ava
+SHA1-Digest: QW4knumGtcl/0LHdI+Ml4MsI+lo=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUIActivator.java
+SHA1-Digest: ZNeLmWlQUYmplW1R8WZWdmSylMY=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/QueryableProfileRegistr
+ y.java
+SHA1-Digest: 5JfOr9aMKXZLkDQNGf1UFn3yNMg=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/ColocatedRepositoryAc
+ tion.java
+SHA1-Digest: BRNp1Po/YmkpV2088AFU6V3Fuio=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UpdateWizardPage.java
+SHA1-Digest: PeGRgKGSwQsRS2PohphsdQaQxCw=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/PropertyDialogAction.
+ java
+SHA1-Digest: gfy2HD+DabhAymtzhcgBerl/x7Y=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/PreselectedIUInstallW
+ izard.java
+SHA1-Digest: 3eaj5KbZDUqSjdmkZe5VuD1F+7U=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ArtifactRepositories.ja
+ va
+SHA1-Digest: mBzdY/WI81BX6dgldtbklV90YL8=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/InstalledIUGroup.java
+SHA1-Digest: y0YnNo5PvVWCQV7i5FQBqXwZCsA=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/ArtifactRepositoryEleme
+ ntWrapper.java
+SHA1-Digest: ze8VY2O5JhflS8ljiWsRpv8wNkI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/RefreshAction.java
+SHA1-Digest: eUPk+wpr2pi6alq/aBO4i12ZIi4=
+
+Name: org/eclipse/equinox/internal/p2/ui/ServiceUIComponent.java
+SHA1-Digest: fbgwo1JgOpaeb8NgKrT1euPfyG8=
+
+Name: org/eclipse/equinox/internal/p2/ui/IProvHelpContextIds.java
+SHA1-Digest: k81YPjnz8/maMs1v+Klbj6tFfjY=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/SelectableIUsPage.jav
+ a
+SHA1-Digest: F/OpvWPgJgcrABLVE9spXdt8IPI=
+
+Name: org/eclipse/equinox/p2/ui/LoadMetadataRepositoryJob.java
+SHA1-Digest: 6lXXewgDPPhG/4t2QqeqgLTWB2w=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IUComparator.java
+SHA1-Digest: 5SdutVJ0O3sCmzFpiZzCV75XeBM=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/IRepositoryElement.java
+SHA1-Digest: ATwcsKBcRtrGTMxkWwmjLPxhExw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IPreFilterJobProvider
+ .java
+SHA1-Digest: hfuAmv98DguSPJyJssDJ/CZa/zs=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UninstallWizardPage.j
+ ava
+SHA1-Digest: ADvyFaGNir34D+SndEv2dMY+9KU=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/ArtifactKeyWrapper.java
+SHA1-Digest: WvBhqnt1olPmLAyAVKdZqrwgtYY=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ProvisioningWizardPag
+ e.java
+SHA1-Digest: oVQLYTUuyEPZC6v/vHmJSNlVCIU=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/CopyPopup.java
+SHA1-Digest: VQMe+oVE+3y0sKgOJTtdFnfHr54=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/RequiredIUsQuery.java
+SHA1-Digest: Z+k3xyMYtnH489rIkET++JDhtJ4=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/DeferredQueryTreeCont
+ entManager.java
+SHA1-Digest: VGcWc+qbNL743uKg3tVGGOcak2U=
+
+Name: org/eclipse/equinox/internal/p2/ui/QueryableRepositoryManager.ja
+ va
+SHA1-Digest: 9tOdA7KwfmMpEFwAWcs940aw19Y=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/ProvElementLabelProvi
+ der.java
+SHA1-Digest: RfFIJsLrvdXGUeR9coRkidLfQAk=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/SizeComputingWizardPa
+ ge.java
+SHA1-Digest: Hw4gMw3M2F6xjW6LrG8BWvt1+Yk=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUIProvisioningListener.ja
+ va
+SHA1-Digest: vfz5SsM8bZUcD6EXxizUfR62VpI=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/RollbackProfileElement.
+ java
+SHA1-Digest: xq8efOb8DRAcq8xsLG0c0Sa1wKI=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IResolutionErrorRepor
+ tingPage.java
+SHA1-Digest: 6pKiRjVR12NAK8EPBp9CgVgURJI=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/InstalledIUElement.java
+SHA1-Digest: dlVN2ub23P0rBWWhaqQtyRj1ykM=
+
+Name: org/eclipse/equinox/internal/p2/ui/ElementQueryDescriptor.java
+SHA1-Digest: B1AHUKCquUhFNIXs8YF4h3Irs0w=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ElementUtils.java
+SHA1-Digest: jfG2cd5jAA3jHBvZrki5T1ddzeU=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/RepositoryManipulator
+ DropTarget.java
+SHA1-Digest: tgv4G88s84mp80iAfdFKLGcO+wQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/IInputChangeListener.
+ java
+SHA1-Digest: hAAWCgDlQqXOI0PqjGusxDkiTBY=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/StructuredViewerProvi
+ sioningListener.java
+SHA1-Digest: ZNTOCRFcGxaVNFKU0eCmtd0an/c=
+
+Name: org/eclipse/equinox/internal/p2/ui/QueryableMetadataRepositoryMa
+ nager.java
+SHA1-Digest: NQt4xDR92X2jv+irXpFfYmTnrBU=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/UpdateAction.java
+SHA1-Digest: zmUow+T2zQTX7nQ5Gta8R4xRcG8=
+
+Name: org/eclipse/equinox/p2/ui/LicenseManager.java
+SHA1-Digest: zlsJdLeIfZJuJuKuHOhSMDbotz0=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/CopyUtils.java
+SHA1-Digest: 3IIxjxv/V3d+Z0vqC3QRz0gNHCc=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/DelayedFilterCheckbox
+ Tree.java
+SHA1-Digest: tnliZhHSdMc7QJ2FIBRjZKqJbJg=
+
+Name: plugin.properties
+SHA1-Digest: amnrHh+ueOR6DeAFsZmdKQkYyzY=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/IUDetailsGroup.java
+SHA1-Digest: TuBASDWuwGMf6KDS58pgxZAqZZQ=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/AvailableIUElement.java
+SHA1-Digest: XeQ7eF51DaKdYizqR1+/9P5c170=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/TrustCertificateDialo
+ g.java
+SHA1-Digest: 5B9W/OvPqSXKHQT05F4DADbiJlI=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/RootElement.java
+SHA1-Digest: Xw5ZYPqyOp7LlW8L5+lH7Sjk0pg=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/WizardWithLicenses.ja
+ va
+SHA1-Digest: 2DSLaKXdxjpID1W5q1qQFWtPjeE=
+
+Name: org/eclipse/equinox/p2/ui/ProvisioningUI.java
+SHA1-Digest: cuGoKGytNvGH8yKD8rCAF4fT19E=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ProvisioningWizardDia
+ log.java
+SHA1-Digest: T5b0Lqk2cXnHJuvT3yaJGW6yNZY=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/ProvElement.java
+SHA1-Digest: Dh+ztjL1UfOLJuCnwmPqOsx4KPA=
+
+Name: org/eclipse/equinox/p2/ui/InstalledSoftwarePage.java
+SHA1-Digest: quYh7SZ+piUTOd02RvQFQMHVSlw=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/RepositorySelectionGr
+ oup.java
+SHA1-Digest: 35HEidhrAQWnK38gONblzUjJMc0=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ILayoutConstants.java
+SHA1-Digest: z4ewSZurSgT0yIGFy/FTedLViiI=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/ProfileModificationAc
+ tion.java
+SHA1-Digest: QK5JDmUMRJzmjf+7hSBm0wh+C/M=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/MetadataRepositories.ja
+ va
+SHA1-Digest: qPeRRFK/RgxuKmrtsCVJYoFPMzA=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/InstallWizard.java
+SHA1-Digest: tmFDEjX5Pmag6iFYw5s3cmNl9/8=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/ResolutionResultsWiza
+ rdPage.java
+SHA1-Digest: MIxOHS3Z4ya/VxNW7VBzMJo55M0=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUIImages.java
+SHA1-Digest: bjWBYDQSLlEFBBUlhQnXhz407xk=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/URLDropAdapter.java
+SHA1-Digest: 7yBdud1T8HejrtC1kVVfwcP4944=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UserValidationDialog.
+ java
+SHA1-Digest: 4ITQIqCNVhvW8gYyeHTKtTv8FuE=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/DeferredQueryContentP
+ rovider.java
+SHA1-Digest: qlKEcbNnTKnny9MukLpKxlndH/s=
+
+Name: org/eclipse/equinox/internal/p2/ui/query/InstalledIUElementWrapp
+ er.java
+SHA1-Digest: BSUr48cN58+S8lEdjQ7mKjlYfh0=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/QueriedElement.java
+SHA1-Digest: brzPv5X4ilJh5jNKYVsSahOQ/Y0=
+
+Name: org/eclipse/equinox/p2/ui/ICopyable.java
+SHA1-Digest: /z1YvUurxGyqehUa5MuUKeVsqgM=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/ProvElementComparer.j
+ ava
+SHA1-Digest: KaITeQHPHbvikzAoQt0EZZI6xB4=
+
+Name: org/eclipse/equinox/p2/ui/RevertProfilePage.java
+SHA1-Digest: o6hK+VSoCfR+4mmUMbKoTjSu4Q8=
+
+Name: org/eclipse/equinox/internal/p2/ui/actions/RemoveColocatedReposi
+ toryAction.java
+SHA1-Digest: pKQ+QQlPImzbhoeEvWAwvEjVI6Y=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/TextURLDropAdapter.ja
+ va
+SHA1-Digest: siXNutN1kvDBynyvVrWker990GY=
+
+Name: org/eclipse/equinox/internal/p2/ui/model/IUElementListRoot.java
+SHA1-Digest: kCHYZIWrx30rXQOUXAQMUcJTftc=
+
+Name: org/eclipse/equinox/internal/p2/ui/dialogs/UninstallWizard.java
+SHA1-Digest: rRjqe7psA/tARFJqY+nGQeofnik=
+
+Name: org/eclipse/equinox/internal/p2/ui/ProvUI.java
+SHA1-Digest: nXNnYNNzw2vwq4N0KwRQvO9iGm8=
+
+Name: org/eclipse/equinox/internal/p2/ui/viewers/CertificateLabelProvi
+ der.java
+SHA1-Digest: H9puYEpEIhx/U+i97nkwiF0goqI=
+

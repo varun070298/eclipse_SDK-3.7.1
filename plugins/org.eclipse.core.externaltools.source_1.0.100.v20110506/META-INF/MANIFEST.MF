@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.externaltools;version="1.0.100.
+ v20110506";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.externaltools.source
+Bundle-Version: 1.0.100.v20110506
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/externaltools/internal/registry/ExternalToolMig
+ ration.java
+SHA1-Digest: IgJwsEOU557zijRoTUzc5QasGTM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Ext
+ ernalToolsProgramMessages.java
+SHA1-Digest: HwFOweOh6qZdfID7qp1g+hjB2tI=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Ext
+ ernalToolsCoreUtil.java
+SHA1-Digest: msLE4pxrtf1AF54tT4Pt+ejPi2U=
+
+Name: org/eclipse/core/externaltools/internal/registry/ExternalToolsMi
+ grationMessages.java
+SHA1-Digest: x5aCJmDr5PWKJPvtzEAlhPt58W0=
+
+Name: about.html
+SHA1-Digest: opUwR4wC5LdQCOTdd+zpwM+5LnM=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Bac
+ kgroundResourceRefresher.java
+SHA1-Digest: sv40600R/wumIGGJeOgyckumGp0=
+
+Name: plugin.properties
+SHA1-Digest: K1miyl8zFmfOz0z6QH1dI3y8poE=
+
+Name: org/eclipse/core/externaltools/internal/model/ExternalToolsModel
+ Messages.java
+SHA1-Digest: r2RgwSr2Du+o9niP/UGUj1NfQGU=
+
+Name: org/eclipse/core/externaltools/internal/model/ExternalToolBuilde
+ r.java
+SHA1-Digest: O/GdhlzOfwT73mPLbG13K0lClEA=
+
+Name: org/eclipse/core/externaltools/internal/ExternalToolsCore.java
+SHA1-Digest: w+KWaeWEWMy14wRo2RsjgszcEak=
+
+Name: org/eclipse/core/externaltools/internal/IExternalToolConstants.j
+ ava
+SHA1-Digest: OT3F0kPqTtjRhh3UHfQ9SXCVQlU=
+
+Name: org/eclipse/core/externaltools/internal/launchConfigurations/Pro
+ gramLaunchDelegate.java
+SHA1-Digest: AwOZHJpBUzxc0TAMttvZD4uazfU=
+
+Name: org/eclipse/core/externaltools/internal/model/BuilderCoreUtils.j
+ ava
+SHA1-Digest: Yp6QIAj1Ks3TDTcfYRjMkbtfJsk=
+

@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.ql;version="2.0.100.v2011
+ 0510";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.ql.source
+Bundle-Version: 2.0.100.v20110510
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/p2/ql/IQLExpression.java
+SHA1-Digest: KePRarTLB9v30vcnBRXCIszYL9o=
+
+Name: org/eclipse/equinox/p2/ql/IQLFactory.java
+SHA1-Digest: KQQCGgyLttSW9Xbtqfejx2qO2b0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: Ljqly02YSsrhZWxylcxYV2W43S8=
+
+Name: model/p2ql.bnf
+SHA1-Digest: +1HawV6CSk6PvFcx9g5q6t+KkOQ=
+

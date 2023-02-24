@@ -1,0 +1,42 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: EvCHOwkbrFagncRpnFuzRpzx6ac=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 7njlgjWesxEsPCt/UdgYr5JxIPw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Act
+ ivator.java
+SHA1-Digest: CQxHtlCKXI9nvs+XWzdi2/Mt0D8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Dir
+ ectoryChangeListener.java
+SHA1-Digest: PJ0F7vW+B8HBgF0tCWHlsPzvA+w=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Dir
+ ectoryWatcher.java
+SHA1-Digest: ATL1DItkP6SyTgXd8Fv/gsyy/gs=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Rep
+ ositoryListener.java
+SHA1-Digest: X6FNAAa5RAJxVVVbT/XNIBDCw6U=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Mes
+ sages.java
+SHA1-Digest: IaZAq/0Rxn8Sr5KnjjnDmhzrMNE=
+
+Name: about.html
+SHA1-Digest: eujd3AqZ5wPHk7ipaPatuG94PCs=
+
+Name: plugin.properties
+SHA1-Digest: qefHAw6nhCpdDAjiKumpqaAKDwo=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Cac
+ hingArtifactRepository.java
+SHA1-Digest: upPm1uzH0z2NKbTFrZdwS2ZCAHg=
+
+Name: org/eclipse/equinox/internal/provisional/p2/directorywatcher/Ent
+ ryAdvice.java
+SHA1-Digest: ioB/e4yR9domigdbhdsQ3LBvSVc=
+

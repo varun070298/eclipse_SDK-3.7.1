@@ -1,0 +1,54 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: jVdLENsJO4s0lcixmJfISEMe44s=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: BL3nE0RhjcPm9PgW9OHWuXq/rdY=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ sPopup.java
+SHA1-Digest: hZFwwx1Bo5CA5x7vSu1bS/UYCQM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Plugin.java
+SHA1-Digest: VxFH/F7E3T6Acvq0CwFI7eHOxls=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/PreferenceIniti
+ alizer.java
+SHA1-Digest: 3N+7fv6WHh6RQqS4PgAwn9wfTl0=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ sPreferencePage.java
+SHA1-Digest: 2dWvxDffBctUpiB5sDBkOEatEKg=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Scheduler.java
+SHA1-Digest: IKEmMHHh5oQICdTxgcX52xMmd2o=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/StatusLineCLabe
+ lContribution.java
+SHA1-Digest: f1BzymIQ+n9bY8BAQGJpAjuHlpw=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: gwYg5+uj489j7NAfa0tgscqmSnI=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ Messages.java
+SHA1-Digest: ikf/zcjtvWJifX0PQ25Jz4GpqWo=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/AutomaticUpdate
+ r.java
+SHA1-Digest: 2Ws7fHT7xSshgOCezHDzWz69xUI=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/PreferenceConst
+ ants.java
+SHA1-Digest: DeHogcUbplvz8oEH+BwIyUfJrnY=
+
+Name: org/eclipse/equinox/internal/p2/ui/sdk/scheduler/IAutomaticUpdat
+ erHelpContextIds.java
+SHA1-Digest: r6Kkt9XNbPtQNjbm9qNpn3zGt0g=
+

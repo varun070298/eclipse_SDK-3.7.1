@@ -1,0 +1,536 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zvu04ovVbVYqb4mtpIigRtTgurM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: IwIOHEw5pg8SwUfLfzcpSXaj7K0=
+
+Name: org/eclipse/help/internal/search/SearchQuery.java
+SHA1-Digest: e2p370qCdjKo1dxK7KJc+qLH3I0=
+
+Name: org/eclipse/help/internal/search/PluginIndex.java
+SHA1-Digest: LaXA0gcFWd4zwZD9uSxZV4ZMQhU=
+
+Name: org/eclipse/help/internal/workingset/WorkingSetComparator.java
+SHA1-Digest: Y5mArQ2K6Dlx/Q6ZKPzkbn4FT4A=
+
+Name: org/eclipse/help/search/ISearchEngineResult2.java
+SHA1-Digest: awI9iGBvs0NovKkjXgYaguadnFo=
+
+Name: org/eclipse/help/internal/search/QueryWordsPhrase.java
+SHA1-Digest: i7nVd0I/aXflfTnTAm+0pxvTIJ4=
+
+Name: org/eclipse/help/internal/validation/TocValidator.java
+SHA1-Digest: 1cG1YvJIafo8dMXZR6F6w21/CLA=
+
+Name: org/apache/lucene/demo/html/Tags.java
+SHA1-Digest: y/h2TAVd7OpUvY6zeHaaNyPC4nQ=
+
+Name: org/eclipse/help/internal/base/remote/RemoteExtensionProvider.ja
+ va
+SHA1-Digest: ubDVvSjNJmT+er8n3i3sAXIrbCA=
+
+Name: org/eclipse/help/search/ISearchEngine.java
+SHA1-Digest: BnunQ3UIGJXRX39WuPfC2FTGX30=
+
+Name: org/eclipse/help/internal/search/AnalyzerDescriptor.java
+SHA1-Digest: dnj15Fo+anQvga+E6rouvCF11ao=
+
+Name: org/eclipse/help/internal/search/ASCIIReader.java
+SHA1-Digest: Kv7f5EJcTrAPtEb8mTcGLHxPrc4=
+
+Name: org/eclipse/help/internal/base/remote/RemoteStatusData.java
+SHA1-Digest: ee/mqxTc0YWHl4yq4xdePxowgJg=
+
+Name: org/eclipse/help/internal/base/remote/HttpsUtility.java
+SHA1-Digest: 04GRMTaHKBurD+BdX2YycaN7GRA=
+
+Name: org/eclipse/help/internal/browser/BrowserManager.java
+SHA1-Digest: /q0VlA5YlJaYLvh86FZcvu1M9ZI=
+
+Name: org/eclipse/help/search/ISearchResult.java
+SHA1-Digest: mHZzPQ2r8WwRyd2/7LR+cYNgIHw=
+
+Name: org/eclipse/help/internal/search/federated/FederatedSearchEntry.
+ java
+SHA1-Digest: 2wBP2K0m6CqbqgeJoz4g5RTeEVQ=
+
+Name: org/eclipse/help/internal/base/remote/RemoteHelpInputStream.java
+SHA1-Digest: lWWvaDUw5KuloEg5Hc6bISNv1v4=
+
+Name: org/eclipse/help/search/ISearchDocument.java
+SHA1-Digest: PS/QR7XMhtvlxtsRBykk/Du7ydI=
+
+Name: org/eclipse/help/base/AbstractHelpDisplay.java
+SHA1-Digest: ktSQzRtOboaouXUtyCFATvxXUgc=
+
+Name: schema/searchParticipant.exsd
+SHA1-Digest: VIbeQ0FSsFRg5zfVYquf+9zRp8s=
+
+Name: org/eclipse/help/internal/search/SearchHit.java
+SHA1-Digest: J6Op0LD89ZNPe5dAzv9kRYkGQAg=
+
+Name: org/eclipse/help/internal/base/scope/FilterScope.java
+SHA1-Digest: NkuD3D5oLz5PqL6pyCb18aUavMk=
+
+Name: org/eclipse/help/internal/search/federated/IndexerJob.java
+SHA1-Digest: 6ATISrYsHHYgKvKpXKHAVZ5MEgw=
+
+Name: org/eclipse/help/internal/search/XHTMLSearchParticipant.java
+SHA1-Digest: S0WocrP6evGZ1XmtipPo5StDIS8=
+
+Name: schema/luceneSearchParticipants.exsd
+SHA1-Digest: x0N2Y/M7WeuKkl5YdIrT9MMuK6s=
+
+Name: org/eclipse/help/server/HelpServer.java
+SHA1-Digest: ERGJEH9W0pJlEWEpBwrHHB3Vloc=
+
+Name: org/eclipse/help/internal/base/remote/DefaultPreferenceFileHandl
+ er.java
+SHA1-Digest: 4NPS0N8ZqNjjqNEiHWBNU/kbaOc=
+
+Name: org/eclipse/help/internal/standalone/Eclipse.java
+SHA1-Digest: LOSSJ+XlpstpVgVyCJTn8Z3uxNw=
+
+Name: org/eclipse/help/internal/workingset/AdaptableToc.java
+SHA1-Digest: CejG2Pg5yzwK8WhS5Y4vSQzZug4=
+
+Name: org/eclipse/help/internal/browser/CustomBrowserFactory.java
+SHA1-Digest: MRQwQx7f7F2tJ801CyOjYhVIBqc=
+
+Name: org/eclipse/help/standalone/Help.java
+SHA1-Digest: uPCW8p7xRI/HwOJwihg6uj6fAEY=
+
+Name: org/eclipse/help/internal/base/HelpBasePreferenceInitializer.jav
+ a
+SHA1-Digest: SO1ep8v/SnJH0kjs+6eeQPE9EKs=
+
+Name: org/eclipse/help/internal/server/JettyHelpServer.java
+SHA1-Digest: SGlbPtqI+zuyx5VJcarPu1j2tlY=
+
+Name: org/eclipse/help/internal/base/HelpEvaluationContext.java
+SHA1-Digest: lMj5zDylD5q4DHIjIkyKT1Qe7Io=
+
+Name: org/eclipse/help/internal/standalone/Options.java
+SHA1-Digest: iBi/MQnultxUJfH+F1uzev0d3EI=
+
+Name: org/eclipse/help/browser/IBrowserFactory.java
+SHA1-Digest: tq4isqHLedweqLuFqwEXHxV8kmg=
+
+Name: org/eclipse/help/internal/base/BaseHelpSystem.java
+SHA1-Digest: UpZsuavfTeFV+Dqw5TRbvJUhyXQ=
+
+Name: org/eclipse/help/internal/search/ISearchQuery.java
+SHA1-Digest: GT2YQazleVeXIU8oaA7tj5gnyvQ=
+
+Name: org/eclipse/help/internal/protocols/HelpURLStreamHandler.java
+SHA1-Digest: 8qvtW1aBZDaQ413bVV+uyWpBem4=
+
+Name: org/eclipse/help/search/ISearchEngineResult.java
+SHA1-Digest: pV98nnXytkk7b9zHMwPDovRXGhE=
+
+Name: org/eclipse/help/internal/base/remote/RemoteTocParser.java
+SHA1-Digest: uyOnVCuk9bfK8epijfybF58k7Qc=
+
+Name: org/eclipse/help/internal/search/LowerCaseAndDigitsTokenizer.jav
+ a
+SHA1-Digest: aidN+FUkpUtZuTgCnd/5Ss2WfnY=
+
+Name: org/eclipse/help/internal/base/scope/ScopeHandle.java
+SHA1-Digest: Lrt95gZoKb9fg/We/WUBvFgFi+g=
+
+Name: org/eclipse/help/internal/search/SearchIndex.java
+SHA1-Digest: MpuuJme1rBW6JSGYVacppiMDn8g=
+
+Name: org/eclipse/help/internal/base/HelpProvider.java
+SHA1-Digest: A/EljVNIycGzh6LjuPX9gsa1IFQ=
+
+Name: org/eclipse/help/internal/workingset/WorkingSet.java
+SHA1-Digest: ni3ZFduYalAPxS33W0aqO81+ZKc=
+
+Name: org/apache/lucene/demo/html/SimpleCharStream.java
+SHA1-Digest: LOvHf9nuhnDZxBNjQ/WJa9G26Tc=
+
+Name: org/apache/lucene/demo/html/HTMLParserConstants.java
+SHA1-Digest: Kym3SUu1PIZWpy9X53vE+MJzsN8=
+
+Name: org/eclipse/help/internal/base/util/TestConnectionUtility.java
+SHA1-Digest: pzDgPtSly5h38AkykzjQbIsp+e0=
+
+Name: org/eclipse/help/internal/search/LuceneSearchParticipantAdapter.
+ java
+SHA1-Digest: 07FpAxh0JVCxlEBJ/aCC86ywzeo=
+
+Name: org/eclipse/help/internal/search/SearchManager.java
+SHA1-Digest: FQGphtoz8XERVdnGZ7sAy4DiZKk=
+
+Name: org/eclipse/help/base/AbstractHelpScope.java
+SHA1-Digest: FK0FAbv7Ovp5MmOU55EjhzYCo30=
+
+Name: org/eclipse/help/internal/browser/CurrentBrowser.java
+SHA1-Digest: Yxu7od0PJDCi+tDGorjlfyr+1FI=
+
+Name: org/eclipse/help/internal/base/HelpBaseResources.java
+SHA1-Digest: T+QilCzcrn6oY9IClEytvIq9ziI=
+
+Name: org/eclipse/help/internal/search/LazyProgressMonitor.java
+SHA1-Digest: /ypLaD+f+7oSUiJODOTodwMuBcM=
+
+Name: org/eclipse/help/internal/search/QueryWordsToken.java
+SHA1-Digest: aGhEEsapmYKQIyDGxVFBgwI7LLU=
+
+Name: org/eclipse/help/internal/search/QueryWordsExactPhrase.java
+SHA1-Digest: VHgqgsMjQdndMxapc9v4ezXO5ig=
+
+Name: org/eclipse/help/internal/base/util/IErrorUtil.java
+SHA1-Digest: xE2+wTyBgOXl2JJ6iLkAhnbTIlU=
+
+Name: org/eclipse/help/internal/base/util/LinkUtil.java
+SHA1-Digest: pQt407CpjZ8/BfR52Y2IKg5bGLg=
+
+Name: org/eclipse/help/search/XMLSearchParticipant.java
+SHA1-Digest: rVvKjX+tlxJfNshursQ0WIiv/Yk=
+
+Name: org/eclipse/help/internal/workingset/AdaptableSelectedTopic.java
+SHA1-Digest: wkKAvu9uY3mMZ+zTQUMkuKaWpIY=
+
+Name: org/eclipse/help/internal/browser/macosx/DefaultBrowserAdapter.j
+ ava
+SHA1-Digest: JrEIbKE4M12N9+j6Bbw4dzKZozE=
+
+Name: org/eclipse/help/internal/search/HTMLDocParser.java
+SHA1-Digest: QYx4HII7EUznI5j9e0PQUgcdSWg=
+
+Name: org/eclipse/help/internal/base/remote/RemoteIndexProvider.java
+SHA1-Digest: hibWNRwiTN/fb4VqcDeTj/V97eA=
+
+Name: org/eclipse/help/internal/workingset/AdaptableTopic.java
+SHA1-Digest: 6mlrT6GOApKRu++56NaAElzuXlc=
+
+Name: org/eclipse/help/internal/browser/MozillaBrowserAdapter.java
+SHA1-Digest: /R/qrHVJvXfb3qoyqO9WGz4U05A=
+
+Name: org/eclipse/help/internal/search/DefaultAnalyzer.java
+SHA1-Digest: dMkpcA3p7Yu8dIhDdn2U1/FXsnM=
+
+Name: org/eclipse/help/internal/search/PrebuiltIndexes.java
+SHA1-Digest: yAvoWuvZ55K2ZtfZG+L8r58zId8=
+
+Name: org/eclipse/help/standalone/Infocenter.java
+SHA1-Digest: FpAv1Xe2FRc3N8W3eVVyEl0qCnI=
+
+Name: org/eclipse/help/internal/base/scope/CriteriaHelpScope.java
+SHA1-Digest: v7rWYjACHKHIuLAb73GQGqsMTGw=
+
+Name: org/eclipse/help/internal/search/Analyzer_en.java
+SHA1-Digest: FLeQEwLM3a2nVVB3QdBxTU1nruw=
+
+Name: schema/activitySupport.exsd
+SHA1-Digest: 0186o/zTH6EWYTKBLDv6GYL3n5Y=
+
+Name: org/eclipse/help/search/ISearchScope.java
+SHA1-Digest: GtPnLrHIO2HhuS0xf5b/qZNkdws=
+
+Name: org/eclipse/help/internal/search/WebSearch.java
+SHA1-Digest: amcZ5o8p53UkDfcavUuaIxNZOfY=
+
+Name: org/eclipse/help/internal/base/scope/SearchScopeScope.java
+SHA1-Digest: MK9rkPJMVP1fcFmm4U6W+Y3a4L8=
+
+Name: org/eclipse/help/internal/base/remote/RemoteIndexParser.java
+SHA1-Digest: R7lSAKN5LB2SRgFET/naauqDUL4=
+
+Name: org/eclipse/help/internal/base/scope/IntersectionScope.java
+SHA1-Digest: NKIMOz9H8WEmoLj9yGwifQ3Zroc=
+
+Name: org/eclipse/help/internal/base/scope/UnionScope.java
+SHA1-Digest: z0dhE0LAfdTvN8diXoqS3KfRKcU=
+
+Name: org/eclipse/help/internal/base/util/CriteriaUtilities.java
+SHA1-Digest: nt8bdvgG7PuSUzgM9b+N2Dhksxw=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/help/internal/search/PluginVersionInfo.java
+SHA1-Digest: tN1HV5wdB6AyTMi1xWQjsWanqO4=
+
+Name: org/eclipse/help/base/IHelpScopeProducer.java
+SHA1-Digest: Pqg0seFhmx44VNgNpRx+I6y/U2E=
+
+Name: org/eclipse/help/internal/base/scope/ScopeUtils.java
+SHA1-Digest: 56eCyGgEhpNkJQ9W9WR2J5k4axw=
+
+Name: org/eclipse/help/internal/search/QueryTooComplexException.java
+SHA1-Digest: Z8nfSkxiJzj+r2+7lcTPW9Omhdw=
+
+Name: org/eclipse/help/internal/workingset/AdaptableTocsArray.java
+SHA1-Digest: 7TpIggmGeXnUYjZc4xOuUWl698o=
+
+Name: org/apache/lucene/demo/html/HTMLParser.java
+SHA1-Digest: StJUB0OMVX/qydXCdn0YpCg+/EA=
+
+Name: org/eclipse/help/internal/browser/macosx/DefaultBrowserFactory.j
+ ava
+SHA1-Digest: 4j+rXd7EPpHWR0cWxE8Z5+Bh9ec=
+
+Name: org/eclipse/help/internal/search/SearchProgressMonitor.java
+SHA1-Digest: sYJHqkS63IR3QkmcNkx6/uXlgIc=
+
+Name: org/eclipse/help/internal/browser/StreamConsumer.java
+SHA1-Digest: 6bGus7h19O31fPZHPPS7PN8CUag=
+
+Name: org/eclipse/help/internal/base/remote/PreferenceFileHandler.java
+SHA1-Digest: 1QAhYuP8WafNXY3SS5YpTMvzetE=
+
+Name: org/eclipse/help/internal/base/BookmarkManager.java
+SHA1-Digest: m15/YF5I3EPFDjwfQJLteZPin/I=
+
+Name: org/eclipse/help/search/IHelpSearchIndex.java
+SHA1-Digest: lpX/OpQpPt0BhF4/BdGABKd6njI=
+
+Name: org/eclipse/help/internal/base/remote/RemoteContentLocator.java
+SHA1-Digest: fR6gIF4CjeraMMOx/ikoM80voy0=
+
+Name: org/eclipse/help/internal/base/remote/RemoteIC.java
+SHA1-Digest: byZT+/sHBtfYuvdoagTr594U55U=
+
+Name: org/eclipse/help/internal/search/SearchResults.java
+SHA1-Digest: szWiswanDBW1LdSlHRxwMmeP4dk=
+
+Name: org/eclipse/help/internal/base/remote/RemoteSearchManager.java
+SHA1-Digest: 7tJRypaLcpxreCr7NaomWaPpqr0=
+
+Name: org/eclipse/help/internal/search/ISearchHitCollector.java
+SHA1-Digest: 9WzstxMmOIXRtmexdDYieruCwt0=
+
+Name: org/eclipse/help/internal/base/util/HelpProperties.java
+SHA1-Digest: nWfbhKCiVp8Gc6zz7CRj/Y0TeWk=
+
+Name: org/eclipse/help/internal/base/HelpDisplay.java
+SHA1-Digest: hOZfvI1hnszyU0f2LmRkdfQ60b4=
+
+Name: schema/searchProcessor.exsd
+SHA1-Digest: LE6N+9MvVvIE1DWLh4NBGCF9KBQ=
+
+Name: org/eclipse/help/internal/browser/MozillaFactory.java
+SHA1-Digest: 4uYDApJFx/SGO0cAf8btanK1yOo=
+
+Name: org/eclipse/help/internal/base/remote/RemoteContextProvider.java
+SHA1-Digest: 8WLJYrGBHHyV8KWVhSmKFQJoejk=
+
+Name: org/eclipse/help/internal/base/DisplayUtils.java
+SHA1-Digest: ZrYq+wOdInxx9dwlZZueS5+nyLc=
+
+Name: org/eclipse/help/internal/search/LuceneSearchDocument.java
+SHA1-Digest: J85Z42vOqwWQ2h4QEKJJWIXATQw=
+
+Name: schema/luceneAnalyzer.exsd
+SHA1-Digest: YrA+6PR7Y+7s4A7Wbj2uer2/0qM=
+
+Name: schema/display.exsd
+SHA1-Digest: Tlj4ZbmuhuKPWiBWrlqQGsoKXdU=
+
+Name: org/eclipse/help/internal/base/remote/RemoteTocProvider.java
+SHA1-Digest: yLlQ2/XyHCIYbzoS/nMNSX/q2dM=
+
+Name: org/eclipse/help/internal/search/federated/LocalHelp.java
+SHA1-Digest: TFyTocvVxnQtdx/Y+rEkRHUj0aY=
+
+Name: schema/server.exsd
+SHA1-Digest: d+QGWjnLrDB/CcmFnKygHfB0rR8=
+
+Name: org/eclipse/help/internal/base/IndexToolApplication.java
+SHA1-Digest: MlN9HAmd2vbQamJ+QOjm2R/go+k=
+
+Name: org/eclipse/help/search/ISearchIndex.java
+SHA1-Digest: tNcgW/4pxQWvCAZ14/zsYjTdM0I=
+
+Name: org/eclipse/help/internal/base/HelpBasePlugin.java
+SHA1-Digest: /vHwGM0tsw3HcXAEsmlQuZDqAl4=
+
+Name: org/eclipse/help/search/SearchProcessorInfo.java
+SHA1-Digest: vb3WNa3fDZpj/MF8bTjG6h+nbww=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/help/internal/search/LocalSearchManager.java
+SHA1-Digest: RS5bzNbqLNUQPd08E6xBHGlXVl4=
+
+Name: org/eclipse/help/internal/base/remote/RemoteHelp.java
+SHA1-Digest: nHa3QTEkXv0Ff5cDZl+RtITxcaY=
+
+Name: org/eclipse/help/search/ISearchEngineResultCollector.java
+SHA1-Digest: Vky1lPPwlFP6RYNryij47rgyc8o=
+
+Name: org/eclipse/help/internal/search/federated/LocalHelpScope.java
+SHA1-Digest: WAGM3mpZnZDVImPi0z4ZPDun/KM=
+
+Name: ant_tasks/helpbase-antsrc/org/eclipse/help/internal/base/ant/Bui
+ ldHelpIndex.java
+SHA1-Digest: KDQEjvbdkRslWgDeMiGqZQ4B6xs=
+
+Name: org/eclipse/help/search/SearchParticipant.java
+SHA1-Digest: BSdWMiGhFHufBAH2YMYhxPwNYG8=
+
+Name: org/eclipse/help/internal/base/IHelpBaseConstants.java
+SHA1-Digest: mkJntui8Ku5R3irWwkVQnbOwl5o=
+
+Name: org/eclipse/help/internal/browser/BrowserDescriptor.java
+SHA1-Digest: jyoqFwetpVotkyiiWxqE2QEC0Ic=
+
+Name: org/eclipse/help/search/SearchParticipantXML.java
+SHA1-Digest: AhrajnO7Sq5yLiFNUk5KI36/HwE=
+
+Name: org/eclipse/help/internal/base/scope/EnablementScope.java
+SHA1-Digest: XiGf0yPKaN5+uJSiFfA8uYTAh7I=
+
+Name: org/eclipse/help/internal/base/scope/ScopeRegistry.java
+SHA1-Digest: nOzYLm+gAX5muaPVExSnLvaz8xk=
+
+Name: org/eclipse/help/internal/base/remote/RemoteSearchParser.java
+SHA1-Digest: xb3u75IhMLSt7+VLN6jrMCezRpw=
+
+Name: org/eclipse/help/internal/xhtml/XHTMLContentDescriber.java
+SHA1-Digest: oS5zneGjNfHWPWEbbEQpJELbb0k=
+
+Name: org/eclipse/help/internal/search/LimitedSizeCharArrayWriter.java
+SHA1-Digest: G+AmwIPq7jUd5UMOLiA6PcwLKsY=
+
+Name: org/eclipse/help/search/ISearchEngine2.java
+SHA1-Digest: VanZDgYxRS67KFxXF9VvQoh/IOw=
+
+Name: org/eclipse/help/internal/search/ProgressDistributor.java
+SHA1-Digest: f/PA4IHx/a9yLu4Eeoodj+1ifCs=
+
+Name: org/eclipse/help/internal/standalone/EclipseLifeCycleListener.ja
+ va
+SHA1-Digest: DcGjY4713onor2OeFqAq+nCmHCk=
+
+Name: org/eclipse/help/internal/base/HelpApplication.java
+SHA1-Digest: ttsSiNJeqyDIClzOmfERKJlAaQY=
+
+Name: org/eclipse/help/internal/base/util/IndexUtils.java
+SHA1-Digest: wwNB9t3ULi/m/7+Nak33u6qdJsM=
+
+Name: org/eclipse/help/internal/workingset/AdaptableHelpResource.java
+SHA1-Digest: lJoZUvYngmy91xKLMuHFDRJ89cs=
+
+Name: schema/scope.exsd
+SHA1-Digest: G4hYR+P4rMNPd6f/yjP7XzlkkbE=
+
+Name: org/eclipse/help/internal/search/QueryBuilder.java
+SHA1-Digest: TMWoMaGdtISL040+ItgF2Z1fFwY=
+
+Name: plugin.properties
+SHA1-Digest: uQK7ScmUbeqYpx7XxV6cfvOJG0k=
+
+Name: org/eclipse/help/internal/protocols/HelpURLConnection.java
+SHA1-Digest: xCvNwyioosEmsiQHzdTyujUAE3U=
+
+Name: org/eclipse/help/internal/base/scope/WorkingSetScope.java
+SHA1-Digest: zaurc1hibXVh23uXZQHonqyP7+M=
+
+Name: org/eclipse/help/internal/search/SmartAnalyzer.java
+SHA1-Digest: x3mdYThi5Ble4SxMXiT8NFCIaX8=
+
+Name: org/eclipse/help/internal/standalone/StandaloneInfocenter.java
+SHA1-Digest: CVFRCDAbhfEc8i7WnU7P3tHNArI=
+
+Name: org/eclipse/help/internal/browser/BrowserLog.java
+SHA1-Digest: OYoTbyexDDMBehOK8m0uL3GDpc4=
+
+Name: org/eclipse/help/internal/standalone/StandaloneHelp.java
+SHA1-Digest: W5jM0AdNsvjCFsFb4ui7qytpOQw=
+
+Name: org/eclipse/help/internal/workingset/AdaptableSelectedToc.java
+SHA1-Digest: WbG/0mMesJYnfYM6jOuiuA2C4N0=
+
+Name: org/eclipse/help/search/HelpIndexBuilder.java
+SHA1-Digest: luJNmoPkHlublwIxDeilPp4Ergo=
+
+Name: org/eclipse/help/internal/search/SearchResult.java
+SHA1-Digest: AZZETD1M1PSZs8nTFItTFVMNwDc=
+
+Name: org/eclipse/help/internal/search/InfoCenter.java
+SHA1-Digest: Js+YBPMrak6QLgZhNm1S94UViQY=
+
+Name: org/eclipse/help/internal/standalone/EclipseConnection.java
+SHA1-Digest: WhApHyogMNPcwTIO/9zn+6euuek=
+
+Name: org/eclipse/help/internal/search/HTMLSearchParticipant.java
+SHA1-Digest: 8SH80+UkOVTZ/cknF1nTetxyQoU=
+
+Name: org/apache/lucene/demo/html/Entities.java
+SHA1-Digest: w/isINXCJsP39r0hWWwDQkVtewM=
+
+Name: org/eclipse/help/internal/standalone/EclipseController.java
+SHA1-Digest: z/hUGk6AtyZsqSyogbwofx6kCF8=
+
+Name: org/apache/lucene/demo/html/HTMLParserTokenManager.java
+SHA1-Digest: IMS5eyYLyNtfWU0szQxDwx3Gq7s=
+
+Name: org/eclipse/help/internal/search/federated/FederatedSearchJob.ja
+ va
+SHA1-Digest: LiE0he6n1d1qqRAvpfYjCHZf1E4=
+
+Name: org/eclipse/help/internal/base/scope/UniversalScope.java
+SHA1-Digest: iBlZcaZRItWoMb/CGqXauEx76bc=
+
+Name: org/apache/lucene/demo/html/ParseException.java
+SHA1-Digest: QtN71YW5iwdy93DLdqsBHAtd+hc=
+
+Name: org/eclipse/help/internal/server/WebappManager.java
+SHA1-Digest: xuqL2hAosqH/PikUI39vXdcJyDY=
+
+Name: org/eclipse/help/internal/xhtml/DynamicXHTMLProcessor.java
+SHA1-Digest: c5YDTzGemP0imp3TXNJ/u38GTTY=
+
+Name: org/apache/lucene/demo/html/Token.java
+SHA1-Digest: 9QltPE4QdfX3s7Xh1z2sYYu9F9I=
+
+Name: org/eclipse/help/internal/search/IndexingOperation.java
+SHA1-Digest: MMeoId+2JWP9WAh2Z2tC/Dqnfug=
+
+Name: org/eclipse/help/browser/IBrowser.java
+SHA1-Digest: Vc9aawV2g6Feoa5LRm4xgZrmKWE=
+
+Name: org/eclipse/help/internal/base/util/TString.java
+SHA1-Digest: FBXSvuQzXRX60ytW82Yk6bE0ONo=
+
+Name: org/eclipse/help/internal/search/WordTokenStream.java
+SHA1-Digest: s0WqpYL1vvrY46heDUWdSNi9Ook=
+
+Name: org/eclipse/help/internal/xhtml/XHTMLCharsetHandler.java
+SHA1-Digest: 3mH6zO2A/nfLBN0DyUGxsNGMmlo=
+
+Name: org/eclipse/help/internal/base/IHelpActivitySupport.java
+SHA1-Digest: 2c7A9alhVOhX72TAN1itYp/+WwI=
+
+Name: org/eclipse/help/internal/search/SearchIndexWithIndexingProgress
+ .java
+SHA1-Digest: QlHEHHTu2Os07f01anq2+2QFO80=
+
+Name: org/eclipse/help/search/LuceneSearchParticipant.java
+SHA1-Digest: GtNwZefoDr7PH5Vaf2vNFWyQEIo=
+
+Name: org/eclipse/help/search/AbstractSearchProcessor.java
+SHA1-Digest: H1HP9IsvKosBIxsBSbKL+kyH1S8=
+
+Name: org/apache/lucene/demo/html/TokenMgrError.java
+SHA1-Digest: ZEWFaCDFSpjyqeTk5BRitsg0NsE=
+
+Name: org/eclipse/help/internal/browser/CustomBrowser.java
+SHA1-Digest: +S0W0MBcANk2ClgnV0nXa8D8NSw=
+
+Name: org/eclipse/help/internal/workingset/IHelpWorkingSetManager.java
+SHA1-Digest: lb9x5WqesnTEX4PbEjSSR1dYxlI=
+
+Name: schema/browser.exsd
+SHA1-Digest: 4Sc8w3glbam4eYPdu6NFEjBCRKU=
+
+Name: org/eclipse/help/base/IScopeHandle.java
+SHA1-Digest: vZ873WLRuHEX8qD0UZ9drVBwGgg=
+
+Name: org/eclipse/help/internal/workingset/WorkingSetManager.java
+SHA1-Digest: wUFQGsBYjeaZLaNHgwke4qWTdyY=
+

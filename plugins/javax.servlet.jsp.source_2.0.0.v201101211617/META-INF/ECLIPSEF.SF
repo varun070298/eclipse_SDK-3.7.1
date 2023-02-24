@@ -1,0 +1,164 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 1u0uV2ubMlYKi3WQLGN3glEYiao=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Xw5WL+eaCji91shCJpfbWGeoVjU=
+
+Name: javax/servlet/jsp/JspWriter.java
+SHA1-Digest: 9B/UDixB+iG5WeQhGr+FdBB/HDw=
+
+Name: javax/servlet/jsp/JspEngineInfo.java
+SHA1-Digest: PBSFRG6+Si0tcuM4XHFyzzkYjn4=
+
+Name: javax/servlet/jsp/tagext/VariableInfo.java
+SHA1-Digest: EPpPCYsUazfv9vlErEg+HiU3EUc=
+
+Name: javax/servlet/jsp/HttpJspPage.java
+SHA1-Digest: MWivk78dygXTj6gjrByLz8v9VRs=
+
+Name: javax/servlet/jsp/tagext/package.html
+SHA1-Digest: tR7OjvVPoEga1koT1qb0Dsxc9vs=
+
+Name: javax/servlet/jsp/el/ELParseException.java
+SHA1-Digest: Xln+dl7PAead0avzR7HyciwMhag=
+
+Name: javax/servlet/jsp/el/VariableResolver.java
+SHA1-Digest: aQkxR3Nq90crCLAYbBP4FYWgrW4=
+
+Name: javax/servlet/jsp/tagext/BodyTag.java
+SHA1-Digest: z2CkWcpTTO9ooT2qrT9QN6FRXic=
+
+Name: javax/servlet/jsp/tagext/BodyContent.java
+SHA1-Digest: GYNA0WnIzYrIuOBP6Yjj/285i2Y=
+
+Name: javax/servlet/jsp/el/FunctionMapper.java
+SHA1-Digest: QSwuX0z0jUcVvbFg/zePPQAFTgk=
+
+Name: javax/servlet/jsp/el/Expression.java
+SHA1-Digest: y22cWTdlHyCNnx/4HohZI/2lT14=
+
+Name: javax/servlet/jsp/tagext/BodyTagSupport.java
+SHA1-Digest: VtEbu7T9wlzsXa7jo8POTa9DkFs=
+
+Name: javax/servlet/jsp/JspException.java
+SHA1-Digest: 97AXqt5DzpZu/1l0VL8qqNf/8AQ=
+
+Name: javax/servlet/jsp/tagext/TagSupport.java
+SHA1-Digest: V38NyEMDYqBkybj7pM1boUz/pfE=
+
+Name: javax/servlet/jsp/tagext/TagAdapter.java
+SHA1-Digest: isZ5sJ6zYtcNb3ktEdtLRKkNLKU=
+
+Name: javax/servlet/jsp/tagext/TagAttributeInfo.java
+SHA1-Digest: r3/NkV8CJi1PhtWLhXbybWKyvdg=
+
+Name: javax/servlet/jsp/tagext/TagLibraryInfo.java
+SHA1-Digest: ToReiiBjbgxWfXGN0WshmBnqSuE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/servlet/jsp/tagext/TagVariableInfo.java
+SHA1-Digest: s8YIVBx27ZYXfOvIXpCukSZcLZU=
+
+Name: javax/servlet/jsp/tagext/TagFileInfo.java
+SHA1-Digest: 8aw5McM6HqhFdcHv37U+QsD4upo=
+
+Name: javax/servlet/jsp/tagext/FunctionInfo.java
+SHA1-Digest: FvfCmD9EgRZRhZWcVCQhidFX4c8=
+
+Name: javax/servlet/jsp/tagext/doc-files/VariableInfo-1.gif
+SHA1-Digest: Sm17tip3/WLnTo75WtwQh/dr+cY=
+
+Name: javax/servlet/jsp/tagext/TagExtraInfo.java
+SHA1-Digest: UyQwldX80dO69443tvanryv/ubg=
+
+Name: javax/servlet/jsp/el/package.html
+SHA1-Digest: lz/ZRW1AyK/F/W/I7c8t1KCr8o8=
+
+Name: javax/servlet/jsp/el/ExpressionEvaluator.java
+SHA1-Digest: 7UkAxP/ZAe3K81tKcKQ6dXaKEz0=
+
+Name: javax/servlet/jsp/tagext/IterationTag.java
+SHA1-Digest: pSLLeQiz+cRLdCabJ2wi0hUh4E8=
+
+Name: javax/servlet/jsp/tagext/DynamicAttributes.java
+SHA1-Digest: vECoKo6pCK/qQHm4J765NF2Qazg=
+
+Name: javax/servlet/jsp/SkipPageException.java
+SHA1-Digest: Qq36bWE9Etj01Zf/KEeImlOn7mA=
+
+Name: javax/servlet/jsp/tagext/TagLibraryValidator.java
+SHA1-Digest: yY0AVQa31x+xD4dP+wvjF+PtJFw=
+
+Name: javax/servlet/jsp/JspContext.java
+SHA1-Digest: 7Ub53ZM4kt3TBmttXPssI614tL8=
+
+Name: javax/servlet/jsp/JspFactory.java
+SHA1-Digest: 7uIny9t+GB39DCDnfvZZfFCBPwc=
+
+Name: javax/servlet/jsp/el/ELException.java
+SHA1-Digest: a6u1/hP/Av1tWl4kw+TsBWpPu7w=
+
+Name: javax/servlet/jsp/tagext/TagInfo.java
+SHA1-Digest: IbUi+w7L+VqLUcAQ9sbWC2/XKPI=
+
+Name: javax/servlet/jsp/ErrorData.java
+SHA1-Digest: W4JOebKQdmIQbDFy0KubroImAlQ=
+
+Name: javax/servlet/jsp/tagext/TagData.java
+SHA1-Digest: kZKUHVkx5H7XNDp4MLIFU6lreyc=
+
+Name: javax/servlet/jsp/tagext/SimpleTagSupport.java
+SHA1-Digest: WAvbBAWB9R39arBA/vbS8JZmMIk=
+
+Name: plugin.properties
+SHA1-Digest: mA0aO+VO/dDEsTOoYpGWi12DtJo=
+
+Name: javax/servlet/jsp/tagext/Tag.java
+SHA1-Digest: ZKNJb1hGbcNc07VboCzzEzvM16s=
+
+Name: javax/servlet/jsp/tagext/JspFragment.java
+SHA1-Digest: 9hagAU3lYpLTfk7EGQWnwJcwIz0=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: AZ1Gz6XJJe7p5KHLgXjkErkNZ+A=
+
+Name: javax/servlet/jsp/tagext/PageData.java
+SHA1-Digest: LwT3c5t/qKvMjZ0R5joTfd3z3TI=
+
+Name: javax/servlet/jsp/JspTagException.java
+SHA1-Digest: 5vpt4Gvqa4e5mplhOXnrMvG8d1o=
+
+Name: javax/servlet/jsp/tagext/ValidationMessage.java
+SHA1-Digest: TRFUfwTlb4NZZWKe9WgXeljtYIA=
+
+Name: javax/servlet/jsp/tagext/JspTag.java
+SHA1-Digest: Tp4z4x1z/HhtD9Qo0uoICk4wKpw=
+
+Name: javax/servlet/jsp/JspPage.java
+SHA1-Digest: gCKElT9J/s5m/US+wWkSWlSjnLc=
+
+Name: javax/servlet/jsp/tagext/SimpleTag.java
+SHA1-Digest: BlQKLiJajzfVF49BRzp68CuXevQ=
+
+Name: javax/servlet/jsp/tagext/TryCatchFinally.java
+SHA1-Digest: nAjs5BBukeo/NOWe6jIxSUo79qI=
+
+Name: about.html
+SHA1-Digest: DGvO59CE1Q7m1CxgkcAXWjEgrq8=
+
+Name: javax/servlet/jsp/tagext/doc-files/IterationTagProtocol.gif
+SHA1-Digest: chbZQEDM5JmHqCHpln0R7Tun9Eo=
+
+Name: javax/servlet/jsp/PageContext.java
+SHA1-Digest: wyPoIAhfEQ2ED4vI/WBcA2hhs04=
+
+Name: javax/servlet/jsp/tagext/doc-files/BodyTagProtocol.gif
+SHA1-Digest: Hl6w/7Vg8bNVwnlp7s4HjvCgz2o=
+
+Name: javax/servlet/jsp/package.html
+SHA1-Digest: Uf8sZFBygftvFQSskZ7kiHfT8zs=
+
+Name: javax/servlet/jsp/tagext/doc-files/TagProtocol.gif
+SHA1-Digest: ek1aPxCYLJtrLAqFMyem38WJFJ4=
+

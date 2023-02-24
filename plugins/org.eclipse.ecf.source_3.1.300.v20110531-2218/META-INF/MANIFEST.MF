@@ -1,0 +1,226 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Eclipse-SourceBundle: org.eclipse.ecf;version="3.1.300.v20110531-2218"
+ ;roots="."
+Bundle-Vendor: Eclipse.org - ECF
+Bundle-Name: ECF Core API Source
+Bundle-SymbolicName: org.eclipse.ecf.source;singleton:=true
+Created-By: 1.5.0_22-b03 (Sun Microsystems Inc.)
+Bundle-Version: 3.1.300.v20110531-2218
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ecf/core/ContainerConnectException.java
+SHA1-Digest: 9FL54spVYtCwksWIys2Riu/Ngbc=
+
+Name: about.ini
+SHA1-Digest: jRIBs2QDL9so09fS7/CDOlP0yYQ=
+
+Name: org/eclipse/ecf/core/events/IContainerDisconnectingEvent.java
+SHA1-Digest: ymOZVvewoV0ASGKHaEXi+O+ZCME=
+
+Name: org/eclipse/ecf/core/jobs/JobsExecutor.java
+SHA1-Digest: j6PxYT68R1ka9UM+b7do8RRWBXE=
+
+Name: org/eclipse/ecf/core/security/CallbackHandler.java
+SHA1-Digest: ZQYbTxMNOt7bdt5dnLOev2Slqzg=
+
+Name: org/eclipse/ecf/core/events/IContainerConnectedEvent.java
+SHA1-Digest: n6kJiPMHXm8EB/FWfHhZBA272UQ=
+
+Name: org/eclipse/ecf/core/provider/BaseContainerInstantiator.java
+SHA1-Digest: x/3zXMQa283v9OSJO9Gm/A6U7J8=
+
+Name: org/eclipse/ecf/core/AbstractContainerAdapterFactory.java
+SHA1-Digest: LinWI2j4Tl22qQWgnDdl62PknAc=
+
+Name: org/eclipse/ecf/core/util/Event.java
+SHA1-Digest: nGM1CuXThNbvAnzLkjUAKlnZPjo=
+
+Name: org/eclipse/ecf/core/IContainerListener.java
+SHA1-Digest: TppatxrSj1zCbEJoa4eIYuytY38=
+
+Name: org/eclipse/ecf/core/IContainerManager.java
+SHA1-Digest: VIqUCq18aOsk10/GZbnYbRPcLaw=
+
+Name: org/eclipse/ecf/core/provider/IContainerInstantiator.java
+SHA1-Digest: Re0Y2lw0JCk13KYNt3IrFNEabrw=
+
+Name: org/eclipse/ecf/core/events/ContainerDisposeEvent.java
+SHA1-Digest: TVv/bkwAjVvPeK9uBUreG5ggh6Q=
+
+Name: org/eclipse/ecf/core/security/PasswordCallback.java
+SHA1-Digest: tV9vnQa7SNQd3eCHcsFrxLuyDUA=
+
+Name: org/eclipse/ecf/core/events/IContainerDisposeEvent.java
+SHA1-Digest: AAKF0RGzyuv86cOXZC1aS7yux2s=
+
+Name: org/eclipse/ecf/core/provider/IRemoteServiceContainerInstantiato
+ r.java
+SHA1-Digest: cfKgSKtoVh8tWsYTw5r/Ewewnak=
+
+Name: org/eclipse/ecf/core/security/ConnectContextFactory.java
+SHA1-Digest: n2cV/1UBpSoGTf2al5H7xoaN19c=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ecf/core/events/IContainerConnectingEvent.java
+SHA1-Digest: EsVVplgn/8sRzKMbUSce8J5+qvM=
+
+Name: org/eclipse/ecf/core/security/NameCallback.java
+SHA1-Digest: GOLHO1mprLqNXJj6ywHEMCIozIg=
+
+Name: org/eclipse/ecf/core/provider/BaseRemoteServiceContainerInstanti
+ ator.java
+SHA1-Digest: jPe56s49+Fd/djlw+qihvKu5UIY=
+
+Name: org/eclipse/ecf/core/util/IContainerFilter.java
+SHA1-Digest: 2qm0ASOmEebKyBuXkFaYSqiO5Kw=
+
+Name: org/eclipse/ecf/core/user/IUser.java
+SHA1-Digest: JLTNFEkkEc1JBKwMAr9WS5yVU0U=
+
+Name: org/eclipse/ecf/core/status/SerializableMultiStatus.java
+SHA1-Digest: muCwVGRvQkAVlyD/O1cU88ihXAw=
+
+Name: org/eclipse/ecf/core/start/ECFStartJob.java
+SHA1-Digest: LbEitPjcREtK4wchXsjZmYZaetg=
+
+Name: org/eclipse/ecf/core/security/ObjectCallback.java
+SHA1-Digest: 8dbp8lR3SMmZlZuVnpbhamJw/fE=
+
+Name: about.properties
+SHA1-Digest: XbDulBBK9z3NvVpgaGRkTfcXYUk=
+
+Name: org/eclipse/ecf/internal/core/ECFDebugOptions.java
+SHA1-Digest: D9dEprSciqBfVpgc+I1yMKzX/fw=
+
+Name: org/eclipse/ecf/core/BaseContainer.java
+SHA1-Digest: 5CFASsqPdFSrrWe8wUcbbg/dUKw=
+
+Name: org/eclipse/ecf/core/util/Proxy.java
+SHA1-Digest: YQXG4r6r/CrZEJSnSNyUQNt8EKU=
+
+Name: org/eclipse/ecf/core/events/ContainerDisconnectingEvent.java
+SHA1-Digest: edTlQWB8BmonYpHCkbJ7arTs5Zk=
+
+Name: org/eclipse/ecf/core/security/IConnectContext.java
+SHA1-Digest: gNklPitXqjklBDU4NC3KUYWT6Kg=
+
+Name: org/eclipse/ecf/core/security/BooleanCallback.java
+SHA1-Digest: 6QLstSx64+9Iim4CEp30DU2uydY=
+
+Name: org/eclipse/ecf/core/IContainerManagerListener.java
+SHA1-Digest: s+qPUveEiI8uRj7IS/+eFbhT4CU=
+
+Name: org/eclipse/ecf/core/events/ContainerConnectedEvent.java
+SHA1-Digest: FvGl3Nt6Jkjb7I8ddh2P4qg3JiM=
+
+Name: schema/container.exsd
+SHA1-Digest: +g8hkrHcLsUwdbhQTUCr8wq4NYc=
+
+Name: org/eclipse/ecf/internal/core/IDisposable.java
+SHA1-Digest: 4K7q5vstLUUBhs687+0ATAPc+G0=
+
+Name: org/eclipse/ecf/core/ContainerAuthenticationException.java
+SHA1-Digest: 2v+HbfFYZBIo0Cqjfd0NGmwC8L0=
+
+Name: org/eclipse/ecf/core/AbstractContainer.java
+SHA1-Digest: v0EyzRf1wRpU05VJga/NtfDUOpY=
+
+Name: org/eclipse/ecf/core/ContainerCreateException.java
+SHA1-Digest: fyHi8m6YouhW5O4Xk5lCuJlQuqw=
+
+Name: org/eclipse/ecf/core/security/PassphraseCallback.java
+SHA1-Digest: 4rP7iNwXIcv3ZMdTZ/BhLUTlr6o=
+
+Name: org/eclipse/ecf/core/util/ConnectedContainerFilter.java
+SHA1-Digest: 022+8m1CyVQV2ZF1bvliNT8v+1g=
+
+Name: org/eclipse/ecf/core/IReliableContainer.java
+SHA1-Digest: VhrQBF7K8S0gfNoWEDvItMwHO6I=
+
+Name: org/eclipse/ecf/internal/core/ECFPlugin.java
+SHA1-Digest: 3O8fqXzF04/KowSrbgF2WKw/jPI=
+
+Name: org/eclipse/ecf/core/events/IContainerEvent.java
+SHA1-Digest: t/FPFfRi7RWvUiZGtzfc4ryV6qQ=
+
+Name: org/eclipse/ecf/core/util/AdapterContainerFilter.java
+SHA1-Digest: 1mBbzr9IHF+MqtDMbPb6479FJAc=
+
+Name: org/eclipse/ecf/core/events/ContainerConnectingEvent.java
+SHA1-Digest: cWB9ThXyt7Kdb5YwYtyN7N/ZY0s=
+
+Name: org/eclipse/ecf/core/start/IECFStart.java
+SHA1-Digest: JyyiKm4t66lqx9211dPkQVGDMoI=
+
+Name: org/eclipse/ecf/core/ContainerFactory.java
+SHA1-Digest: p47x5Ze7diYUsuCjAGetxDAEYBw=
+
+Name: org/eclipse/ecf/core/events/ContainerDisconnectedEvent.java
+SHA1-Digest: wiVHKyHTR86Lw+YhHBadn/vt6zA=
+
+Name: org/eclipse/ecf/core/IContainerFactory.java
+SHA1-Digest: OvgGaI8pc3g+gxap4IXutsIil8M=
+
+Name: org/eclipse/ecf/core/status/SerializableStatus.java
+SHA1-Digest: Vd2X17p4q9HbORulfpjslOugL3E=
+
+Name: org/eclipse/ecf/core/util/ContainerFactoryTracker.java
+SHA1-Digest: dr7VuAPEp8HgyFgrMT9WEEigBzM=
+
+Name: schema/containerFactory.exsd
+SHA1-Digest: vvXMp94HGYFZ6z4rJ78Bly01jqQ=
+
+Name: org/eclipse/ecf/core/security/UnsupportedCallbackException.java
+SHA1-Digest: Xqk6nfLD5I08S3QF0hRMH7ArPmw=
+
+Name: org/eclipse/ecf/core/IContainer.java
+SHA1-Digest: fGZopGHp5567bZ6sP70f1JDCMVQ=
+
+Name: org/eclipse/ecf/core/util/IExceptionHandler.java
+SHA1-Digest: 61QAiYjHhoXZqNlcBfKAAYg+GbM=
+
+Name: org/eclipse/ecf/core/events/ContainerEjectedEvent.java
+SHA1-Digest: 5FqCToqMdC5UfpAbdjJAzLuEub8=
+
+Name: org/eclipse/ecf/core/util/IEventProcessor.java
+SHA1-Digest: HjjpSiRJ9195g2nZgi8/wFjIlOs=
+
+Name: org/eclipse/ecf/core/security/IConnectInitiatorPolicy.java
+SHA1-Digest: zodHj17H2qG14zvlJwyedlBbQb8=
+
+Name: org/eclipse/ecf/core/events/IContainerDisconnectedEvent.java
+SHA1-Digest: hwXRC7YnAWWuGYsmQR63YH2ct58=
+
+Name: about.html
+SHA1-Digest: IQUr+Vpivv+x5SKEmMJMFXmH/q4=
+
+Name: org/eclipse/ecf/core/security/IContainerPolicy.java
+SHA1-Digest: CTiDVSeGMS38qyO7z/aKkczmh+I=
+
+Name: org/eclipse/ecf/core/security/IConnectHandlerPolicy.java
+SHA1-Digest: DriOtO2KdU/6wneaWHNj00d+fIE=
+
+Name: org/eclipse/ecf/core/events/IContainerEjectedEvent.java
+SHA1-Digest: SxKnMdfdVEoRlWuEqUUPfkMVKJE=
+
+Name: org/eclipse/ecf/core/security/Callback.java
+SHA1-Digest: T6NujgldgsK3EbS8xWy8go3RQZU=
+
+Name: org/eclipse/ecf/core/util/ProxyAddress.java
+SHA1-Digest: 3I9BSDWq87LL0br//Zl2dK4LwCk=
+
+Name: org/eclipse/ecf/core/user/User.java
+SHA1-Digest: 6glDnsjNcK37NTbiRCzpLd6eJcQ=
+
+Name: org/eclipse/ecf/core/ContainerTypeDescription.java
+SHA1-Digest: serIvsRhhEX2uWzNNKjLTyO79A0=
+
+Name: org/eclipse/ecf/core/util/ContainerManagerTracker.java
+SHA1-Digest: Y9eohrvAF5sfKPCtLxJd8mybFOM=
+
+Name: schema/start.exsd
+SHA1-Digest: 7ki4T3nbU1Zd9NqFpyjFlvyrFpk=
+

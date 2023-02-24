@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.updatechecker;version="1.
+ 1.200.v20110502-1955";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.updatechecker.source
+Bundle-Version: 1.1.200.v20110502-1955
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/IUpdat
+ eChecker.java
+SHA1-Digest: tKL3V5G9h/+gSW1zE4gR1KlRJBE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/IUpdat
+ eListener.java
+SHA1-Digest: yAUccIdspK+7JArhcom1zfcd55Q=
+
+Name: org/eclipse/equinox/internal/p2/updatechecker/UpdateCheckerCompo
+ nent.java
+SHA1-Digest: g2O4UkL+6dWFnoqU2P/CwMJmK4E=
+
+Name: org/eclipse/equinox/internal/provisional/p2/updatechecker/Update
+ Event.java
+SHA1-Digest: mc2XtxnGdj7Un6ulsdyzVzM4u3c=
+
+Name: about.html
+SHA1-Digest: qoDJAVvjGcPsIOfHP9YS+8+fFhw=
+
+Name: org/eclipse/equinox/internal/p2/updatechecker/UpdateChecker.java
+SHA1-Digest: fgr9P1xVKUfz9uRhWUAjUkd57dw=
+
+Name: plugin.properties
+SHA1-Digest: sVIfs2j17uWHQt7aDLE0M++Uhuo=
+

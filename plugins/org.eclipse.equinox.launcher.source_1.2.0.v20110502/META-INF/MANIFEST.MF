@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.launcher;version="1.2.0.v201
+ 10502";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: launcher
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.launcher.source
+Bundle-Version: 1.2.0.v20110502
+Bundle-ManifestVersion: 2
+
+Name: launcher.properties
+SHA1-Digest: 9vN5X+U6MDQYeSx4TtJPFPe/maY=
+
+Name: org/eclipse/equinox/launcher/Main.java
+SHA1-Digest: fjG/ERAVtUINmbty9jdp2emm25U=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/launcher/WebStartMain.java
+SHA1-Digest: bXqWj4kxUDP/nb54z53um4THLEg=
+
+Name: org/eclipse/core/launcher/Main.java
+SHA1-Digest: CqIk5GEhUPYBFW4JQy3M1QSIgWk=
+
+Name: org/eclipse/equinox/launcher/JNIBridge.java
+SHA1-Digest: CIQRLkkNZWurjYDBuGl35M5iOuU=
+
+Name: org/eclipse/equinox/internal/launcher/Constants.java
+SHA1-Digest: jWcYipf2x1rPpCU6V5dQYXN7L7c=
+
+Name: about.html
+SHA1-Digest: a9lDHrGuLPkvHBUhsqWU+V2mhPw=
+

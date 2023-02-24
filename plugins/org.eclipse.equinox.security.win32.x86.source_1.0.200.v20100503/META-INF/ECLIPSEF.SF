@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: wqQo9t6E0B73P0gyNZSuNBSZW8c=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: x4QoFPEXSnHsoZICB5lHZy+j/bQ=
+
+Name: fragment.properties
+SHA1-Digest: xE/Uxub8KTgtVUzeskGvzyg94yE=
+
+Name: cpp/jnicrypt.vcproj
+SHA1-Digest: 6gV2i8ZgWdN9E58yK1z2ca55j90=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: cpp/jnicrypt.cpp
+SHA1-Digest: Dusa76fMC+KgnxvqRKsOXG+9B00=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: cpp/ReadMe.txt
+SHA1-Digest: 7iMoFZ++Rpd5or/o8P+dS/SDI1E=
+
+Name: org/eclipse/equinox/internal/security/win32/nls/WinCryptoMessage
+ s.java
+SHA1-Digest: 5RLhv9lmnHmadYIzVLqcJTNa9cU=
+
+Name: cpp/jnicrypt.h
+SHA1-Digest: NyQn0fQqb0n6QUHvWI3P32he2DQ=
+
+Name: org/eclipse/equinox/internal/security/win32/WinCrypto.java
+SHA1-Digest: pRpx4llZ5Gjek9C8G5OfgiHs0n4=
+

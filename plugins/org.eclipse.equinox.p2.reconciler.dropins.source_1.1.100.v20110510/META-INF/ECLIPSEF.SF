@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Sh0f5EFrcu5N+CcGxCUoDeWybbg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Y4kgYyuNjG7jX2j3yg0UfXQBGMk=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Activator.jav
+ a
+SHA1-Digest: rf4bKmEkKGDAmK4GRqyIk5jlTx0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Application.j
+ ava
+SHA1-Digest: zPN1gaacCShr0TcJGf0TQ5qR8CY=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/DropinsReposi
+ toryListener.java
+SHA1-Digest: 3TM7GYrGMBFPVTm0CkV+W8letKI=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/ProfileSynchr
+ onizer.java
+SHA1-Digest: 3NXlJcyGzaEU3bl4iSJB7vx1lvI=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/PlatformXmlLi
+ stener.java
+SHA1-Digest: EPgTFEINesZgUa7jPMk9KFVZ6po=
+
+Name: plugin.properties
+SHA1-Digest: 8g26uSIdMyV//xkW84XHGygYDy0=
+
+Name: org/eclipse/equinox/internal/p2/reconciler/dropins/Messages.java
+SHA1-Digest: GD8gSVMLUw4rYQncxZV3lDDXxl4=
+

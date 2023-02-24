@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.runtime.compatibility.registry;
+ version="3.5.0.v20110505";roots:="runtime_registry_compatibilitysrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: fragment
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.core.runtime.compatibility.registry.s
+ ource
+Bundle-Version: 3.5.0.v20110505
+Bundle-ManifestVersion: 2
+
+Name: fragment.properties
+SHA1-Digest: 0mx4f+OV4gP8tZe5kfLA4iQeEHw=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/BundleHelper.java
+SHA1-Digest: +qpr1mM/2yojRmWPLES00co9p9k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/runtime/IExte
+ nsion.java
+SHA1-Digest: opUFYtYv5XNQQSIK+DAt5hzUvvo=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/ExtensionHandle.java
+SHA1-Digest: 3sX2RQnuPPTdrxOpTATuq9zx83E=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/runtime/IExte
+ nsionPoint.java
+SHA1-Digest: nLPiuBI/EhB0G5NOzR2mrPzgOSU=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/ExtensionPointHandle.java
+SHA1-Digest: nCpgMCOmZ/0s7TYqzSlk7XAIXPk=
+
+Name: runtime_registry_compatibilitysrc/org/eclipse/core/internal/regi
+ stry/RegistryCompatibilityHelper.java
+SHA1-Digest: e6z+bWWj/uPk0rJgOKWwghrgPvM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+

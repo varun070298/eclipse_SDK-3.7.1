@@ -1,0 +1,195 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ppyg/O1xgXDSPMwQ5uDxvfmDNpU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: VZ4jGDWNIkEZuvmo0ZGt+UzsOsw=
+
+Name: org/eclipse/equinox/internal/p2/persistence/CompositeParser.java
+SHA1-Digest: 9Lec7eZFxhAI7hcmLaQrFAN/mCs=
+
+Name: org/eclipse/equinox/internal/p2/repository/FileInfo.java
+SHA1-Digest: OVlfM7rvColD3Y97j/GYOixF3nw=
+
+Name: org/eclipse/equinox/internal/p2/persistence/CompositeRepositoryI
+ O.java
+SHA1-Digest: fOeebfSdZwHr/uuspIpaqJx+2+I=
+
+Name: org/eclipse/equinox/p2/repository/spi/RepositoryReference.java
+SHA1-Digest: 92whuLxYaA9AvnAyCQZugvcn6R4=
+
+Name: org/eclipse/equinox/internal/p2/repository/RepositoryTracing.jav
+ a
+SHA1-Digest: BrfbaXwf1i5omVx3WSbZDF4o6Rs=
+
+Name: org/eclipse/equinox/internal/p2/repository/helpers/AbstractRepos
+ itoryManager.java
+SHA1-Digest: MGW3XeIJi2bQ3HTLQcyk04LAFh4=
+
+Name: org/eclipse/equinox/p2/repository/IRunnableWithProgress.java
+SHA1-Digest: fZys0xKo3lzYV/kY8ES7mMS67FQ=
+
+Name: org/eclipse/equinox/internal/p2/persistence/XMLWriter.java
+SHA1-Digest: XU2LUT2u3lV8XgB19LR1CiayjWQ=
+
+Name: org/eclipse/equinox/p2/repository/artifact/spi/ArtifactRepositor
+ yFactory.java
+SHA1-Digest: wCihir8V7GqNOUHjUBVtZnTA/+8=
+
+Name: org/eclipse/equinox/internal/p2/repository/RepositoryPreferences
+ .java
+SHA1-Digest: Y22cR8Eo7+Uv1qdEBfbjCGq2Geg=
+
+Name: org/eclipse/equinox/internal/p2/repository/ProgressStatistics.ja
+ va
+SHA1-Digest: WSFi4dCRLw0q2gUwTM5lu6ijlGA=
+
+Name: org/eclipse/equinox/internal/p2/persistence/XMLConstants.java
+SHA1-Digest: xddgtuJIXk5PHbiqyK1t93YVN6o=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/repository/CacheManager.java
+SHA1-Digest: hR/W+8+BoLGhffncSHShftKsvBI=
+
+Name: org/eclipse/equinox/internal/p2/repository/Transport.java
+SHA1-Digest: +6tsYSJuhmXP85dREvu+GsWh34U=
+
+Name: org/eclipse/equinox/p2/repository/metadata/IMetadataRepositoryMa
+ nager.java
+SHA1-Digest: k1ag1ZuZlrywGCrXfGsuOdUe7c0=
+
+Name: org/eclipse/equinox/p2/repository/metadata/IMetadataRepository.j
+ ava
+SHA1-Digest: OHVv9ENSGBS+fUutJiTdDffQwE8=
+
+Name: org/eclipse/equinox/internal/p2/persistence/CompositeWriter.java
+SHA1-Digest: HQ4LfSpVb+jcyuekja0hw3dDvE8=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IArtifactRepositoryMa
+ nager.java
+SHA1-Digest: otLPKHDLQ9uiegAHp/oJ7eBMKHI=
+
+Name: org/eclipse/equinox/internal/provisional/p2/repository/Repositor
+ yEvent.java
+SHA1-Digest: 9tLYk9jv/cs/Aa4Xi+LGYaV9VTM=
+
+Name: org/eclipse/equinox/internal/p2/repository/Activator.java
+SHA1-Digest: +P6+CtTuQhsK+lE6ztL8Cmv4Zaw=
+
+Name: org/eclipse/equinox/internal/p2/persistence/CompositeRepositoryS
+ tate.java
+SHA1-Digest: MFqGIZkiAwAIryf9cOTEY3dF1u0=
+
+Name: org/eclipse/equinox/internal/p2/repository/helpers/Messages.java
+SHA1-Digest: jlYYSpmsI7jwxCYG2tro+8YVq18=
+
+Name: org/eclipse/equinox/p2/repository/spi/AbstractRepository.java
+SHA1-Digest: asdlmyXu+1BWz3a5jA4Xi+TfRnM=
+
+Name: org/eclipse/equinox/p2/repository/metadata/spi/MetadataRepositor
+ yFactory.java
+SHA1-Digest: KqyOqN9J8Ddkjs+efhLZ1qTgAes=
+
+Name: org/eclipse/equinox/p2/repository/artifact/ArtifactDescriptorQue
+ ry.java
+SHA1-Digest: mR84URfDPWZ6vQwIz+hzmZgcePA=
+
+Name: org/eclipse/equinox/internal/p2/repository/Messages.java
+SHA1-Digest: Q350WLrF6bKYdE+ZBctB8WjPWCs=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IFileArtifactReposito
+ ry.java
+SHA1-Digest: N0lsra91gylYaiiRveKnlSGgou0=
+
+Name: plugin.properties
+SHA1-Digest: 11vPL4WrkZ77uY7V+cA3CGyvQtQ=
+
+Name: org/eclipse/equinox/internal/p2/persistence/Messages.java
+SHA1-Digest: HoDXfadcz1UxSUWeDHocTcIOFx0=
+
+Name: org/eclipse/equinox/p2/repository/IRepositoryManager.java
+SHA1-Digest: GKDwzxS8H63wO+tMD0avMOoQm8o=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IProcessingStepDescri
+ ptor.java
+SHA1-Digest: Snc2KDZFgHI5LZkAYWfrPxivYvc=
+
+Name: org/eclipse/equinox/p2/repository/metadata/spi/AbstractMetadataR
+ epository.java
+SHA1-Digest: zmGif7Dv0HKp5BrZP2XzUHNmA7I=
+
+Name: org/eclipse/equinox/p2/repository/artifact/ArtifactKeyQuery.java
+SHA1-Digest: OjSRq3ituO+D0jr1MYuf65TNcnE=
+
+Name: org/eclipse/equinox/p2/repository/IRepository.java
+SHA1-Digest: mocdf0IZAwBibaSo5HmIkXNE4Tc=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IArtifactDescriptor.j
+ ava
+SHA1-Digest: IvGjbaUO0dcK+MQJ0ooJQ5vWxU8=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IArtifactRequest.java
+SHA1-Digest: DayXPy1tUl2Xu+7KfhY2OukjkS8=
+
+Name: org/eclipse/equinox/p2/repository/ICompositeRepository.java
+SHA1-Digest: zTF+kRlN1629wSSpd1OnKzOH87Q=
+
+Name: org/eclipse/equinox/p2/repository/artifact/IArtifactRepository.j
+ ava
+SHA1-Digest: 3qJcVvS+b70asKoaXEUsQZZiX5k=
+
+Name: org/eclipse/equinox/p2/repository/artifact/spi/ProcessingStepDes
+ criptor.java
+SHA1-Digest: N784upZHMFgd+LVYhsPrtntvtNw=
+
+Name: org/eclipse/equinox/internal/provisional/p2/repository/IStateful
+ .java
+SHA1-Digest: I1gzdnJKiGbHe9PbI5ZMLsTjHrE=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/repository/helpers/RepositoryHel
+ per.java
+SHA1-Digest: 6MzdI398nFSfLYtKe35zC5AmHi8=
+
+Name: org/eclipse/equinox/internal/p2/persistence/XMLParser.java
+SHA1-Digest: lrjzJvHF7yntE04kcUOkpZKasHI=
+
+Name: org/eclipse/equinox/internal/p2/repository/JREHttpClientRequired
+ Exception.java
+SHA1-Digest: Bm1NeLuO/AYYXeAJRMck+fphxJY=
+
+Name: org/eclipse/equinox/p2/repository/artifact/spi/ArtifactDescripto
+ r.java
+SHA1-Digest: FYhZ4W65u8VOD13bCHrCGSoUq0A=
+
+Name: org/eclipse/equinox/internal/p2/repository/Credentials.java
+SHA1-Digest: 56KZvlrpBpVGCow5lQfn8yV4lKU=
+
+Name: org/eclipse/equinox/p2/repository/artifact/spi/AbstractArtifactR
+ epository.java
+SHA1-Digest: lx1NGViMJnE7z0J+iFakLntUXbk=
+
+Name: org/eclipse/equinox/p2/repository/IRepositoryReference.java
+SHA1-Digest: 7vcjckE/7rh6+4X1rnJaHecS5OY=
+
+Name: org/eclipse/equinox/internal/p2/repository/AuthenticationFailedE
+ xception.java
+SHA1-Digest: nsOKUlmVJThUId89HQ8WBmRy2pg=
+
+Name: org/eclipse/equinox/internal/p2/repository/DownloadStatus.java
+SHA1-Digest: K9WGLOGCtWwNJQMuwChwyh+HMsA=
+
+Name: org/eclipse/equinox/internal/p2/repository/helpers/DebugHelper.j
+ ava
+SHA1-Digest: ql3FBV/VB8WGlKvJCSRqpOyD+Uc=
+
+Name: org/eclipse/equinox/internal/p2/repository/CacheManagerComponent
+ .java
+SHA1-Digest: EenLSK54TFitgMvi4RRNt6zDDng=
+
+Name: org/eclipse/equinox/internal/p2/repository/helpers/LocationPrope
+ rties.java
+SHA1-Digest: vv00PmVrQtWwYxCaizklnfXyuL4=
+

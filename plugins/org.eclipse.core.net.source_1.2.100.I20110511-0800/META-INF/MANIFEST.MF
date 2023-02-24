@@ -1,0 +1,114 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.core.net;version="1.2.100.I20110511-
+ 0800";roots:="."
+Bundle-Vendor: %PLUGIN_PROVIDER
+Bundle-Localization: plugin
+Bundle-Name: %PLUGIN_NAME
+Bundle-SymbolicName: org.eclipse.core.net.source
+Bundle-Version: 1.2.100.I20110511-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/internal/net/PreferenceModifyListener.java
+SHA1-Digest: OB+XgQ7WCBaFHlExc9F1ZCoKfgA=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/ProxyBypass.ja
+ va
+SHA1-Digest: y7UJsQel+scK0On75A90wSs+RpY=
+
+Name: org/eclipse/core/internal/net/PreferenceManager.java
+SHA1-Digest: vuw0DPUp28Lqkc5lYEtZZLK19tc=
+
+Name: org/eclipse/core/internal/net/ProxySelector.java
+SHA1-Digest: YUNw6uR6IYE1MpOodxbDqXz3IUk=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/AutoProxyHolde
+ r.java
+SHA1-Digest: 6EG84KVNXrtQDS6x3fn2jqRmMqU=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/WinHttpProxyPr
+ ovider.java
+SHA1-Digest: fmWSt0BWLivi62mQNIjJtorZpEk=
+
+Name: plugin.properties
+SHA1-Digest: SzaGsV25FzD43hIiazcmZ/lDUSw=
+
+Name: org/eclipse/core/internal/net/ProxyType.java
+SHA1-Digest: 7WEnzoWU792d1RjR/rKwSdoOMKo=
+
+Name: org/eclipse/core/net/proxy/IProxyData.java
+SHA1-Digest: zhgtBYdq8u0fGci8NYjcnX3osRs=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/WinHttpAutoPro
+ xyOptions.java
+SHA1-Digest: DfDaQMIxpuQlinAqTLfyqzgR6e8=
+
+Name: org/eclipse/core/internal/net/StringMatcher.java
+SHA1-Digest: FIRxsGUQDiCTZg556r+FRV/BbwE=
+
+Name: org/eclipse/core/internal/net/StringUtil.java
+SHA1-Digest: vZeIo7adCiD2LzflIYQQXvsxkQY=
+
+Name: org/eclipse/core/internal/net/Messages.java
+SHA1-Digest: S6jtGTxUpaR6cmWdzbFCUtXzl0s=
+
+Name: org/eclipse/core/internal/net/ProxyData.java
+SHA1-Digest: ySQybrm2wAwgXvY5wTNaLFJEDoA=
+
+Name: org/eclipse/core/internal/net/Activator.java
+SHA1-Digest: vFuXKaGleNx3UjMtm7vBepMdU/s=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/WinHttpCurrent
+ UserIEProxyConfig.java
+SHA1-Digest: C7JQgQ1F0dllL+69AwkKWDLfEGY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/core/internal/net/ProxyManager.java
+SHA1-Digest: FszpW/ic22OgDXEDcL0n+dZPKcE=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/internal/net/ProxyChangeEvent.java
+SHA1-Digest: IFFtxIQvLqLRmEg0Vv8rlP0zEhM=
+
+Name: org/eclipse/core/internal/net/WindowsProxyProvider.java
+SHA1-Digest: qTFmufy7UxUVJLMnIIj5aUTyOEk=
+
+Name: org/eclipse/core/net/proxy/IProxyService.java
+SHA1-Digest: jYPTxY/wjk+gt8RNcYMN7MehHeg=
+
+Name: org/eclipse/core/internal/net/PreferenceInitializer.java
+SHA1-Digest: oHXz17mc5Uu2sMuOnaN1STDGKhg=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/WinHttpProxyIn
+ fo.java
+SHA1-Digest: 6211NXqrAAUqE6x5z5x3Tc4F7N8=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/WinHttp.java
+SHA1-Digest: sZQZvDRCOHv0bqhqJ/OGEBWiG6U=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/StaticProxyCon
+ fig.java
+SHA1-Digest: pALnDJ44QRf1s0pTcatua4/XZu4=
+
+Name: org/eclipse/core/internal/net/proxy/win32/winhttp/ProxyProviderU
+ til.java
+SHA1-Digest: 2NQ9FqjJ8kU1alSxxXfKdHOOaeQ=
+
+Name: org/eclipse/core/net/proxy/IProxyChangeListener.java
+SHA1-Digest: MaC2DpW5kApwZcil8UJTC8lEpl4=
+
+Name: org/eclipse/core/internal/net/Policy.java
+SHA1-Digest: O5CtMks7NC/PRpHi8ppS5A0VCFQ=
+
+Name: org/eclipse/core/internal/net/proxy/unix/UnixProxyProvider.java
+SHA1-Digest: rp8Wvs4mjUJhkOOj0em+83DDRfo=
+
+Name: org/eclipse/core/internal/net/AbstractProxyProvider.java
+SHA1-Digest: kRhXDvMfQnVPYDYNZ1oz+ODbhnU=
+
+Name: org/eclipse/core/net/proxy/IProxyChangeEvent.java
+SHA1-Digest: rosKr0w6e3YfRcX7tH3VOT6cCO4=
+

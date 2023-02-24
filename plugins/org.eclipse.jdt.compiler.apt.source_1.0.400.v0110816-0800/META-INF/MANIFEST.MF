@@ -1,0 +1,190 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.compiler.apt;version="1.0.400.v0
+ 110816-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: compiler_apt_fragment
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.jdt.compiler.apt.source
+Bundle-Version: 1.0.400.v0110816-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ErrorTypeElement.jav
+ a
+SHA1-Digest: tKwYMzYafOTCY3NsdIR3c/vtKyA=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ErrorTypeImpl.java
+SHA1-Digest: i6c4E8Gjs9BnpH0zPYImLRO2VEY=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/TypeElementImpl.java
+SHA1-Digest: 5URc+u/TYJSZ+XUjc6fXlkV0j6Y=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/PrimitiveTypeImpl.ja
+ va
+SHA1-Digest: vVWUJP1cfBfe9K8xW0xtCg35pbQ=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/WildcardTypeImpl.jav
+ a
+SHA1-Digest: 3Mxzn5x8O7XUNHPkrKs7pnCTsjQ=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/Archive.java
+SHA1-Digest: UtsKW2OtGkyASE2UOxKsEFdsck8=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/EclipseFileObject.jav
+ a
+SHA1-Digest: Z1IdoK0p9Q31o0LCIzTt0tCxhKI=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/NameImpl.java
+SHA1-Digest: o2Dkly76lYh3mixC/aapsf7kjMM=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BaseAnnotationPro
+ cessorManager.java
+SHA1-Digest: MwGAF8X5q6dmJHdmryiIgwePJd4=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BatchMessagerImpl
+ .java
+SHA1-Digest: Te48NenQbA5aQtfWx5QWnU5BdkU=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ExecutableElementImp
+ l.java
+SHA1-Digest: GQbbWGaJf+OBjbH8eTu2kIIEta8=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ExecutableTypeImpl.j
+ ava
+SHA1-Digest: iVcVjAbmbWKDKvCH2P0B/zMkyR0=
+
+Name: org/eclipse/jdt/internal/compiler/lookup/AptBinaryLocalVariableB
+ inding.java
+SHA1-Digest: aUYlTR96DcUIoj1C9uJ7ZmPosko=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/Factory.java
+SHA1-Digest: ROg06c02CnxrRswQCoB+zOZT9G4=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/AnnotationMemberValu
+ e.java
+SHA1-Digest: 1kmzad4gRgzjMiH9SuDALCfiVWM=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/AnnotationDiscove
+ ryVisitor.java
+SHA1-Digest: K4TqBWWj/ZIQI9gLXsbbagii7HI=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ElementsImpl.java
+SHA1-Digest: BUoX7oWzFb4F/uTLj183ngiC2Rs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/PackageElementImpl.j
+ ava
+SHA1-Digest: CHkaCRlAmzUq3UgIJazyNK6QWtQ=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/TypeVariableImpl.jav
+ a
+SHA1-Digest: Izg5XGdPdXMub/vNAk/NpeLswx8=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/DeclaredTypeImpl.jav
+ a
+SHA1-Digest: DGf4bB+nwXfg9jBae0rTHiV5wfE=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ElementImpl.java
+SHA1-Digest: GDYAopRzodeHIUvI0CyY6DBk8QY=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/AnnotationMirrorImpl
+ .java
+SHA1-Digest: ph9uipEHpE8hoyil/mplkpt+ss4=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BaseProcessingEnv
+ Impl.java
+SHA1-Digest: yelbaFaoBDtZvEORi9MpTQNrX3U=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BaseMessagerImpl.
+ java
+SHA1-Digest: LoMqH2UI4F3hKbrhjr5a/fmhwOs=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/Options.java
+SHA1-Digest: a7wW34guXi0MJxOZr3ulEyr/svw=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/ArchiveFileObject.jav
+ a
+SHA1-Digest: 4LYDtmsihqrwGgM1p23f2+snYD4=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BatchAnnotationPr
+ ocessorManager.java
+SHA1-Digest: rZ/yO5X4dCkjKWceK9Jtfpc9uWY=
+
+Name: org/eclipse/jdt/internal/compiler/lookup/AptSourceLocalVariableB
+ inding.java
+SHA1-Digest: Mx8KP3QrvipRnjmqg2R2spzTpAE=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/TypeMirrorImpl.java
+SHA1-Digest: qQmUa7Q/1ycfeHrS/mEDRh3H8bM=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/VariableElementImpl.
+ java
+SHA1-Digest: eQuMJ4pLqEpnE1zEdYU3jUEaO+Y=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/RoundEnvImpl.java
+SHA1-Digest: laQlIQrvgJqUiV8lMcqKTAU+sE8=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/HookedJavaFileObj
+ ect.java
+SHA1-Digest: lx0kIcH7hOtfLP/G4OEnpfbfd3U=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/TypesImpl.java
+SHA1-Digest: p+tYqnyK2vNFHqTVgXopO7ptDrg=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BatchFilerImpl.ja
+ va
+SHA1-Digest: oELkAdeUThkgqlhYlKl2UbuFJzI=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/ArrayTypeImpl.java
+SHA1-Digest: IUM6PHHfyyskpKSqFEU+HGVf7es=
+
+Name: compiler_apt_fragment.properties
+SHA1-Digest: eylrcWRY3SAn7ymAgX1k6qHtkhM=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/ManyToMany.java
+SHA1-Digest: nU2L1KclMXGy+/EYTyCaHV0d0kQ=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/RoundDispatcher.j
+ ava
+SHA1-Digest: Dcu0bsR9NT8kWdUYD1wexJzo81k=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/AnnotationValueImpl.
+ java
+SHA1-Digest: JtgAZHr+M3yStYZ7LnzdIA1hYYY=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/EclipseFileManager.ja
+ va
+SHA1-Digest: F2RKS0Hy97KOEEDHPStKrvWjuzw=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/BatchProcessingEn
+ vImpl.java
+SHA1-Digest: R0tIpvL0r2zpWfw82JMlfWjt9TE=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/TypeParameterElement
+ Impl.java
+SHA1-Digest: fX86lD74TT5P8T6cqiL+fsZceSI=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/IProcessorProvide
+ r.java
+SHA1-Digest: k7MF4sy+nlQ03V4+k2d2yPcCFd0=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/AptProblem.java
+SHA1-Digest: VKM2Y2C8pbo+kt/xSeYM39XSmfQ=
+
+Name: org/eclipse/jdt/internal/compiler/apt/util/Util.java
+SHA1-Digest: IRmn2Klmlt777d9blJHaOgBb2M8=
+
+Name: org/eclipse/jdt/internal/compiler/apt/dispatch/ProcessorInfo.jav
+ a
+SHA1-Digest: EFac6kg0UUxlcpxctTKN6SuLO/E=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/IElementInfo.java
+SHA1-Digest: 8mFXqBJRLMzGYHqShRLTh1+tjnU=
+
+Name: org/eclipse/jdt/internal/compiler/apt/model/NoTypeImpl.java
+SHA1-Digest: Vd+S2+DynDWS7f2fSGSsID8vaqY=
+

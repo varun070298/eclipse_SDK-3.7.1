@@ -1,0 +1,144 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.artifact.repository;versi
+ on="1.1.101.R37x_v20110714";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.p2.artifact.repository.source
+Bundle-Version: 1.1.101.R37x_v20110714
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Mappe
+ r.java
+SHA1-Digest: JBN1KaSokKJRr03zSOhiy88A+8M=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactRequ
+ est.java
+SHA1-Digest: stIKhzMYCwEw3iP4zV2f9K4D7To=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Simpl
+ eArtifactRepositoryFactory.java
+SHA1-Digest: EDGerY+QAASKzD9eHtfaoxINhkE=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/Activator.ja
+ va
+SHA1-Digest: GGNV6sp0QpE2PIf7lU/pPOkhX/I=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processing/AbstractBuff
+ eringStep.java
+SHA1-Digest: 9mW5qA7LpuscrCkCXaJbfPhdvZo=
+
+Name: schema/processingSteps.exsd
+SHA1-Digest: BWW4to7OB9wCUiKUWap9Y0aisgw=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactRepo
+ sitoryManager.java
+SHA1-Digest: 8jYTERTOTClAW2EBOauKxN86UbU=
+
+Name: plugin.properties
+SHA1-Digest: GYDb9k93WlypP2MhnLyzy3dGQEk=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/KeyIn
+ dex.java
+SHA1-Digest: 9k5S97xfVB3sWBsQJe3s3ATy4Q4=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Simpl
+ eArtifactDescriptor.java
+SHA1-Digest: T0nY0DVVTtSKBvO0F0BfPXmFsTs=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/SignatureVer
+ ifier.java
+SHA1-Digest: 7uZuopGGtOlfJKcIQIvYYBleYww=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Simpl
+ eArtifactRepository.java
+SHA1-Digest: Qzr05oxeNLreLz9pXKLf6mUCy8U=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/
+ processing/ProcessingStep.java
+SHA1-Digest: Vh+lhdO02DCGydY0cQD9UJ1s7O8=
+
+Name: schema/artifactComparators.exsd
+SHA1-Digest: zI1xIGRA24bKKCiyFVWiOXHTAns=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/Messages.jav
+ a
+SHA1-Digest: DcTvBDvFwmlhuQbF6JYGoQoF2Y8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/RawMirrorReq
+ uest.java
+SHA1-Digest: 8cML+OBXR2+Y4YIqkEcWGsrPe1I=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/CompositeArt
+ ifactRepositoryFactory.java
+SHA1-Digest: KuOsbMl9SMIQKIlceGQOuRwDu64=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/BlobS
+ tore.java
+SHA1-Digest: uRvnGQernrH2D8285tHZfpAd3m0=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/md5/Messages
+ .java
+SHA1-Digest: L4UhlR9nGtWmInnDyRVyvrj+B8A=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processing/Messages.jav
+ a
+SHA1-Digest: 8Bj3D2r3pWL067AOv5FhaVaiLg4=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/
+ processing/ProcessingStepHandler.java
+SHA1-Digest: epHPRQ1UtQ0PamLorq/cirOctFI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/md5/MD5Verif
+ ier.java
+SHA1-Digest: cZk9c1/fACNSXp7TF6k6BeUGyF0=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorSelect
+ or.java
+SHA1-Digest: jnRjbbnaQkZJO9tdS2zFFdvbgR8=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/
+ processing/Messages.java
+SHA1-Digest: UkvUiFIGYrjj3h4ZxQlKnelRJ/E=
+
+Name: schema/artifactRepositories.exsd
+SHA1-Digest: bI5MAxdQeaUfJLjdyeMc2j33cyQ=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/
+ processing/ZipVerifierStep.java
+SHA1-Digest: 1IXsaTDG2F3bTcalyi/yorcE4kY=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Downl
+ oadJob.java
+SHA1-Digest: aY7a1eh/qw8vrHOcJr2pMfsWCao=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Simpl
+ eArtifactRepositoryIO.java
+SHA1-Digest: D9BmxQ16USps7/Y+fR9YeUU9zWI=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorReques
+ t.java
+SHA1-Digest: 3GWQro7N2LA8sY6uyp+5PTD8fYo=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Unive
+ rsalUniqueIdentifier.java
+SHA1-Digest: E8oDVDO9+sLWCnajLoqjVbaTVi8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/CompositeArt
+ ifactRepository.java
+SHA1-Digest: PVsCmOy4bEtLzRi4orJfTt0hVKc=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactRepo
+ sitoryComponent.java
+SHA1-Digest: n6JSrLNCIybxpuzR9+DCVBkJOnA=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pack200/Pack
+ 200ProcessorStep.java
+SHA1-Digest: 4yDT2EBYa4CZtKle7NdoalUc9Ng=
+

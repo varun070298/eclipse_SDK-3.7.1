@@ -1,0 +1,138 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.p2.publisher;version="1.2.0.
+ v20110511";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.p2.publisher.source
+Bundle-Version: 1.2.0.v20110511
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/p2/publisher/actions/IPropertyAdvice.java
+SHA1-Digest: XaveI+3/ssxp+KJlzLIcOLoMxHU=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IFeatureRootAdvice.java
+SHA1-Digest: yrXxqv+fubGukyOMG2bNzOoYlLg=
+
+Name: org/eclipse/equinox/p2/publisher/actions/VersionAdvice.java
+SHA1-Digest: lkJJFuNZxKbb7CdsjbjfMffU2+Q=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IAdditionalInstallableU
+ nitAdvice.java
+SHA1-Digest: cKdXhQAQg1k+N0ZyKVQAHEP0PDQ=
+
+Name: org/eclipse/equinox/p2/publisher/actions/RootFilesAdvice.java
+SHA1-Digest: kfQ5Dl5I4xDRa+cLoEcWtbANCF8=
+
+Name: org/eclipse/equinox/p2/publisher/IPublisherResult.java
+SHA1-Digest: lW770TeC08FEY8n1l0jJYzF/54I=
+
+Name: org/eclipse/equinox/p2/publisher/actions/RootFilesAction.java
+SHA1-Digest: 4kcaR+NBfTTk7CgoHZ0p7gf7x4U=
+
+Name: org/eclipse/equinox/p2/publisher/PublisherResult.java
+SHA1-Digest: zfjQj4+Ne01/fWp68jc6/t8WdFY=
+
+Name: plugin.properties
+SHA1-Digest: 3fQUrjJKkFxTCPn8bqwrSW1ieS0=
+
+Name: org/eclipse/equinox/p2/publisher/IPublisherAdvice.java
+SHA1-Digest: I2kusSiMf2IRH3ckZ42GhogtEmw=
+
+Name: org/eclipse/equinox/p2/publisher/IPublisherAction.java
+SHA1-Digest: 7Q4y7XgsvBaNzHB/D9G6C8Ms0q0=
+
+Name: org/eclipse/equinox/internal/p2/publisher/FileSetDescriptor.java
+SHA1-Digest: Vblz1OvcoOPwLpDr9/rQEtRidUQ=
+
+Name: org/eclipse/equinox/internal/p2/publisher/Activator.java
+SHA1-Digest: Zn9jgRAZ5ZPUfIxWQeVXiIRHPEo=
+
+Name: org/eclipse/equinox/p2/publisher/actions/MergeResultsAction.java
+SHA1-Digest: aftp4i4Lsrff09Qisk+Dj0+4EtA=
+
+Name: org/eclipse/equinox/p2/publisher/AbstractPublisherAction.java
+SHA1-Digest: 6SrkqsHZTiAtnw3Pul7L1bOhN4s=
+
+Name: org/eclipse/equinox/spi/p2/publisher/LocalizationHelper.java
+SHA1-Digest: /MVzFWnHTe8cBzWX1ZJmZ4LX/4c=
+
+Name: org/eclipse/equinox/p2/publisher/actions/ILicenseAdvice.java
+SHA1-Digest: oTGvd3ZhIj3+O/QxivoDJKhTIk0=
+
+Name: org/eclipse/equinox/internal/p2/publisher/QuotedTokenizer.java
+SHA1-Digest: PkqWDDGy+Cssl0/tI+MOpPcW0hU=
+
+Name: org/eclipse/equinox/p2/publisher/IPublisherInfo.java
+SHA1-Digest: gcE18rmaWcl5O1jDWteWi70Blrs=
+
+Name: org/eclipse/equinox/p2/publisher/PublisherInfo.java
+SHA1-Digest: Us7bjay7FAHojNxUmrt79d56qVs=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IUpdateDescriptorAdvice
+ .java
+SHA1-Digest: +MqkzYirTKI47fTLW+6VZu5sl3c=
+
+Name: org/eclipse/equinox/p2/publisher/actions/ICapabilityAdvice.java
+SHA1-Digest: vd4De8haEVXkt77r+74ynBHKJ/o=
+
+Name: org/eclipse/equinox/p2/publisher/AbstractAdvice.java
+SHA1-Digest: e8IJRTJnwoetUBYztL1QpHuKoVE=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IVersionAdvice.java
+SHA1-Digest: J+NOWNmWMsMQhBgUZyGzadFKHoY=
+
+Name: org/eclipse/equinox/p2/publisher/actions/RootIUAdvice.java
+SHA1-Digest: QyrxWoZbVaLvV2+oaKbcEhpofpE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/p2/publisher/actions/JREAction.java
+SHA1-Digest: /iCj0MPpBlCP7dD/gVyUn8WMsEo=
+
+Name: org/eclipse/equinox/p2/publisher/actions/RootIUAction.java
+SHA1-Digest: 3i88omxbXIUuPHCHz2VthnqqDaY=
+
+Name: org/eclipse/equinox/p2/publisher/actions/QueryableFilterAdvice.j
+ ava
+SHA1-Digest: rq2AmRQAilQpPqUFoXoaxEg3RwE=
+
+Name: org/eclipse/equinox/p2/publisher/actions/ITouchpointAdvice.java
+SHA1-Digest: obzvLsxVzeMgZNQz2ez18Zxk7gE=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IRootFilesAdvice.java
+SHA1-Digest: BPofy1+ttsoIqzMkJbRWX7PLpDg=
+
+Name: org/eclipse/equinox/p2/publisher/AbstractPublisherApplication.ja
+ va
+SHA1-Digest: zmiFlntTtaHy+VqaOF2rLh/4zbM=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IRootIUAdvice.java
+SHA1-Digest: GtDeiY8OrhoHgF5HDOHgmMqm89E=
+
+Name: org/eclipse/equinox/p2/publisher/AdviceFileParser.java
+SHA1-Digest: Hyw0rxk7d2xXeHP4ZrziTbcAyJ0=
+
+Name: org/eclipse/equinox/p2/publisher/Publisher.java
+SHA1-Digest: GKDLCgHZv/IRIeZigYBkVUhWshs=
+
+Name: org/eclipse/equinox/internal/p2/publisher/Messages.java
+SHA1-Digest: O5XRl73y/hf75DNdA/G3GhmS+JI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/p2/publisher/actions/RootIUResultFilterAdvic
+ e.java
+SHA1-Digest: ROUYJMvtg5HnzEwp4mIEYVh5eNk=
+
+Name: org/eclipse/equinox/p2/publisher/AdviceFileAdvice.java
+SHA1-Digest: rGdcqJWZvjObsUZ9nZ71IVMV07M=
+
+Name: org/eclipse/equinox/spi/p2/publisher/PublisherHelper.java
+SHA1-Digest: b4/l8BpDiT3V03MKMjN4exU0KFE=
+
+Name: org/eclipse/equinox/p2/publisher/actions/IFilterAdvice.java
+SHA1-Digest: 7EpQg9myiMaHpVMVj+3dWWmq/BE=
+

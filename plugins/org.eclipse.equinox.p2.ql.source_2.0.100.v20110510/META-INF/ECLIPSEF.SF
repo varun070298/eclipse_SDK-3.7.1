@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: nfwogFDoaAKbzoDoM+wPNnrmHaE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Sjm2szIGA6mYuiE3k1ieUUeNkg0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/p2/ql/IQLExpression.java
+SHA1-Digest: P8+BGtiH1rMuZYasj2+pQzZMLnI=
+
+Name: org/eclipse/equinox/p2/ql/IQLFactory.java
+SHA1-Digest: hqlGhYHlKOAOzMsosz78JmXJlvs=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: v8jVD0T6pjB49dOvGYXV2lxlLTU=
+
+Name: model/p2ql.bnf
+SHA1-Digest: QvTNrwFwvS0w62Gf4rw8+S65kSg=
+

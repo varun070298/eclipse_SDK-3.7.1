@@ -1,0 +1,86 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: IQCwM0qP+8D6LZDDis3S3E5BxRw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: MnCB/SdhODqI2BHB0TOIHDcIk04=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientRetri
+ eveFileTransfer.java
+SHA1-Digest: BtLcY7RZw195WWKBXReeB6AtBMM=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientBrows
+ eFileTransferFactory.java
+SHA1-Digest: pYu1Rhyg7RLJDRug18cxOD0oiY4=
+
+Name: asl-v20.txt
+SHA1-Digest: f16Q6xxWp4CWPk9xW6xYHqbOlpk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/HttpCl
+ ientProxyCredentialProvider.java
+SHA1-Digest: Kcwk87DIOsBeR0j+Lkrw/bBTfJM=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/ECFHtt
+ pClientSecureProtocolSocketFactory.java
+SHA1-Digest: AquSN4HU89gsv9chQmfeDlmyp9c=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/Messag
+ es.java
+SHA1-Digest: CNBGchSOwrUYLEvCCZ8sjfj5T6Q=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/DebugO
+ ptions.java
+SHA1-Digest: Vtxyzmki9dS3sXBOZxJrG2GfdXE=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/ISocke
+ tConnectionCallback.java
+SHA1-Digest: GFFyceu/VXOgR9o/oGBNr9meJuo=
+
+Name: about.html
+SHA1-Digest: EAbKSvoVewZ2SiPnUoFHWcR9w/8=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/ECFHtt
+ pClientProtocolSocketFactory.java
+SHA1-Digest: GsZmVaESEhokEXaXP7MN4rPSozQ=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientRetri
+ eveFileTransferFactory.java
+SHA1-Digest: mWAbO6TRVrd/qTYOkwsvVdtKwsQ=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/Activa
+ tor.java
+SHA1-Digest: qDrZ4CT12xo5TszR0/Lu/6nLGEE=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientDefau
+ ltSSLSocketFactoryModifier.java
+SHA1-Digest: w8gNzwC3x6oZLYaR00E1xlG+9cI=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientSslTr
+ ustManager.java
+SHA1-Digest: SvgCTXyNugCxtcLH5fGziTfpO2M=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/NTLMProxyDetect
+ or.java
+SHA1-Digest: Jv7sv41oCQobVlpPNR1w3Mj8vLc=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/Connec
+ tingSocketMonitor.java
+SHA1-Digest: o3aYZ9wYPjDZtwpeJYYqOTuwugI=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/messag
+ es.properties
+SHA1-Digest: gxWRTMmh1eNOqZgFOB1vGZUg3vI=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientOptio
+ ns.java
+SHA1-Digest: 4j6xPTqUGEl3SbB+Cwg/dqhOtUE=
+
+Name: org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientFileS
+ ystemBrowser.java
+SHA1-Digest: xIzbYYjTc2KRrp8+KxTN48yo6/w=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/ISSLSo
+ cketFactoryModifier.java
+SHA1-Digest: xb7CIXz1bcKQAPk6TyA5XYcKycQ=
+

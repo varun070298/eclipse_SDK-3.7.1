@@ -1,0 +1,93 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: uV+eF6x8I+r8iCieoYnL2tvf5DU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: BkPMUq/BrbGkP6t+8YFHK9DunT8=
+
+Name: org/eclipse/compare/rangedifferencer/AbstractRangeDifferenceFact
+ ory.java
+SHA1-Digest: cUZYGWpZeyCIzwNkHS7oWDwg8jE=
+
+Name: org/eclipse/compare/internal/core/patch/HunkResult.java
+SHA1-Digest: oc/byKFNIKxOdpYyk33hoOPFtDA=
+
+Name: org/eclipse/compare/patch/IHunkFilter.java
+SHA1-Digest: toGIekTuP2DyOJMJzV4ioS/37V8=
+
+Name: org/eclipse/compare/patch/ReaderCreator.java
+SHA1-Digest: odb0s95tVNOWvXo2Beyms6+c1IM=
+
+Name: org/eclipse/compare/patch/IFilePatchResult.java
+SHA1-Digest: 5sW6cGTbyBSWAJ8C/D2xjeaQAw8=
+
+Name: org/eclipse/compare/rangedifferencer/IRangeComparator.java
+SHA1-Digest: SLLfcCo3sPZDrQONgsUvA/Kxl9o=
+
+Name: org/eclipse/compare/rangedifferencer/RangeComparatorLCS.java
+SHA1-Digest: 852u4VgP67Ky0WKDb6j6He2spP4=
+
+Name: plugin.properties
+SHA1-Digest: n1mFCmeYXOJ2AIzty2MbRfYu9Rg=
+
+Name: org/eclipse/compare/internal/core/TextLineLCS.java
+SHA1-Digest: PKWPxPJdnXZaH2ocEelqWcl9n8I=
+
+Name: org/eclipse/compare/internal/core/patch/FileDiffResult.java
+SHA1-Digest: caBfadDemwR5BTOUh8u0ka4zqS8=
+
+Name: org/eclipse/compare/internal/core/ComparePlugin.java
+SHA1-Digest: 6HXN0KaOWQIGC1fMjZjg/B6IN/s=
+
+Name: org/eclipse/compare/internal/core/patch/DiffProject.java
+SHA1-Digest: BH62IIaqAmqM4CI+WO7ePwwLZPw=
+
+Name: org/eclipse/compare/patch/IHunk.java
+SHA1-Digest: pU5edfk7BwwyNhX7wG74ll5ED74=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/compare/internal/core/patch/Hunk.java
+SHA1-Digest: 8VaKjYieYlM/CcpP3L8ujLuS1l8=
+
+Name: org/eclipse/compare/patch/IFilePatch2.java
+SHA1-Digest: LeFLA+jyLVUDNrwgU/yobyWl6rM=
+
+Name: org/eclipse/compare/rangedifferencer/DifferencesIterator.java
+SHA1-Digest: Fzsv/ZyFqnh3rHo/nxVe3cqQnnk=
+
+Name: org/eclipse/compare/internal/core/patch/PatchReader.java
+SHA1-Digest: J8xH8+UTDbWbwxBxnOF9V4gRwuA=
+
+Name: org/eclipse/compare/internal/core/patch/FilePatch2.java
+SHA1-Digest: Wav1nNVWDhSFaiWp/aDID5axfT0=
+
+Name: org/eclipse/compare/internal/core/patch/Utilities.java
+SHA1-Digest: 7xUVrbXLkxqQ0XhIk03n13wmCR4=
+
+Name: org/eclipse/compare/internal/core/Messages.java
+SHA1-Digest: USEt1eLcNMuHEoTdzAnL2qaA4Ho=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/compare/patch/PatchParser.java
+SHA1-Digest: sBds3BedqByprcHaA29zgCLxoPc=
+
+Name: org/eclipse/compare/internal/core/LCS.java
+SHA1-Digest: e34VWlgOe0Vhxt+N/TENeJSPBhU=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifference.java
+SHA1-Digest: /C6xNBFy9rmiTvIKADcWoJ5nOL8=
+
+Name: org/eclipse/compare/internal/core/patch/LineReader.java
+SHA1-Digest: RMzZbQSpImIb8d7EYtVjaIy5q4E=
+
+Name: org/eclipse/compare/patch/PatchBuilder.java
+SHA1-Digest: t9UR0FBWBrZlmyJjJYDeQiIax+g=
+
+Name: org/eclipse/compare/patch/PatchConfiguration.java
+SHA1-Digest: kRVGhYBRyNERDgBV7AA8zUL41Qg=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifferencer.java
+SHA1-Digest: 4pyeG1OeY3UUnaziLCJcrQ0yBJI=
+

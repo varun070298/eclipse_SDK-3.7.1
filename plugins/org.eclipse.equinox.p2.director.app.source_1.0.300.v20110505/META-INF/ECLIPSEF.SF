@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zDa5ZrzTV5UOCjhGvF/ogg1D3Dk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ma+frwoABx2AZD6dvzWWzzXOeAI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/director/app/Activator.java
+SHA1-Digest: 9B1gsGwCFvkgGlzXdI8RHDokYlo=
+
+Name: org/eclipse/equinox/internal/p2/director/app/DirectorApplication
+ .java
+SHA1-Digest: E1kQKteqosvDaJWC167P8ttEKX0=
+
+Name: org/eclipse/equinox/internal/p2/director/app/Messages.java
+SHA1-Digest: xyetyFwc9NQfyk7iSy+QahIyhqM=
+
+Name: org/eclipse/equinox/internal/p2/director/app/PrettyQuery.java
+SHA1-Digest: NPlafUwVlBXArLIf1OPzV/nbrAo=
+
+Name: org/eclipse/equinox/internal/p2/director/app/ILog.java
+SHA1-Digest: 5+eldP0ImjPckgjnn3Fsg3n2K2k=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: JDeNv5RUt5gxRAokPN9km+HSPi4=
+
+Name: ant_tasks/director-antsrc/org/eclipse/equinox/p2/director/app/an
+ t/DirectorTask.java
+SHA1-Digest: BIGXbRh/zEH1e/KbAejcRbTmefE=
+

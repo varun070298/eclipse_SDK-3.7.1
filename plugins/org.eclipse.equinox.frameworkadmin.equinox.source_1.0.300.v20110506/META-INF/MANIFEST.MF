@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.frameworkadmin.equinox;versi
+ on="1.0.300.v20110506";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.frameworkadmin.equinox.source
+Bundle-Version: 1.0.300.v20110506
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/utils/FileUt
+ ils.java
+SHA1-Digest: LTWAIugKNKy0kxDG0tPXN+m6sN8=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxBundl
+ esState.java
+SHA1-Digest: O9p9vhw8b9odP4xKp6R+ZF9xMPc=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxConst
+ ants.java
+SHA1-Digest: JCHsc/CwxvAskF89g8C5d10uR9U=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxManip
+ ulatorImpl.java
+SHA1-Digest: BZOjJdX47ZMdd0F/p8DXkNRPY/4=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/ParserUtils.
+ java
+SHA1-Digest: s8zZSYMaFMEUar+s16RxvCAtEHI=
+
+Name: plugin.properties
+SHA1-Digest: 5DBm5DeRACr5xTG5LKYjeDkn9XY=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/Messages.jav
+ a
+SHA1-Digest: 6cK8wHdSi8y0utWYcKEmrBNOKI4=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EclipseLaunc
+ herImpl.java
+SHA1-Digest: YASnBAehbCPNaBwbv68QsUkkCXY=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EclipseLaunc
+ herParser.java
+SHA1-Digest: 6zh8+SCsGKcFUiaiWaxrhYgOnZI=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFwAdm
+ inImpl.java
+SHA1-Digest: fmvhECw8igRlVTxBee+iKtvH1zc=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFwCon
+ figFileParser.java
+SHA1-Digest: yMOoDB12tRvyjss0SSKB/z8JcJM=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/Log.java
+SHA1-Digest: XrLXz0M7HVmooK5uNnpAYNxWLjU=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxLaunc
+ herData.java
+SHA1-Digest: ozr8+9u4Yz4Sfq3yPgEWbIhje6Y=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFrame
+ workAdminFactoryImpl.java
+SHA1-Digest: lWCQXaSrbzhayrHLP+pgiMMdSNc=
+

@@ -1,0 +1,202 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: /Zsty4MKRwVrjeQLRG/MeWhONoM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: r85xyudchYTZfQT1wBbzA+7QZgI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Colle
+ ctAction.java
+SHA1-Digest: mYindHhK+egv1bWbam87Yf8wPEI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/DirectorUtil.
+ java
+SHA1-Digest: JK/nEPMEW8PQaTxKHUPHwNghoPM=
+
+Name: org/eclipse/equinox/internal/p2/update/Messages.java
+SHA1-Digest: onnLlIFxFLNtIHPr085SGrm4DWE=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Remov
+ eSourceBundleAction.java
+SHA1-Digest: QDVpg2izyc9hf9HqbstxmrdSNfI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/SetJv
+ mAction.java
+SHA1-Digest: zE5+KrnVzpy9khgjY6H2z6icM8E=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/AddJV
+ MArgumentAction.java
+SHA1-Digest: 8DgVrlGnzhgfGADI84J4yQ9fQh0=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Insta
+ llFeatureAction.java
+SHA1-Digest: zUtYzSbRWtk3VuWW9NmHGRaXQfI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/LinkA
+ ction.java
+SHA1-Digest: UXl43Hnt5HcI2UL9/rsKX2DyFDc=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Remov
+ eProgramArgumentAction.java
+SHA1-Digest: SZpM5A9c/V0GbEIHJLBesW6bFgo=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Messa
+ ges.java
+SHA1-Digest: W5kbXK84P+pUfzvetckNvz5BeKA=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Unins
+ tallFeatureAction.java
+SHA1-Digest: MGelDgB3lmBW2a9JEfpNqfy2DfI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Check
+ TrustAction.java
+SHA1-Digest: mf2azJremryPDR3rxOIaEW2YCJM=
+
+Name: org/eclipse/equinox/internal/p2/update/Feature.java
+SHA1-Digest: lM9ncUDqDECnar6EQvCdzAflyI8=
+
+Name: org/eclipse/equinox/internal/p2/update/Configuration.java
+SHA1-Digest: tgRErbb9Q87MpOfbLHbYZcuURrc=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Remov
+ eRepositoryAction.java
+SHA1-Digest: 1nBCp7WkWBGcOPEX/bDifAtkkNM=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/PlatformConfi
+ gurationWrapper.java
+SHA1-Digest: Txmkm1adKJWv0LkD3otKk9AJsuc=
+
+Name: org/eclipse/equinox/internal/p2/update/ConfigurationCache.java
+SHA1-Digest: Rij1K1uOckM+HEVAdNxxNoHxZhg=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/Messages.java
+SHA1-Digest: oC7u5q6HQwEx5Ztw/rP8em8xfhY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/p2/update/XMLWriter.java
+SHA1-Digest: dlLfIZ2GfNi4TYq+6KnAyHd3F10=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/SetSt
+ artLevelAction.java
+SHA1-Digest: Vc9/pgNEZ7mEHbuGC3VrTk/kG2I=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/Util.java
+SHA1-Digest: pyJ/0Nm35JzZxO7eqq8FfTf+qj8=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/AddPr
+ ogramPropertyAction.java
+SHA1-Digest: YDxsGS5ayBRgu/cOdQ+yVHAY6fI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/EclipseMarkSe
+ tProvider.java
+SHA1-Digest: 7w8xs/ywdtfhjbu1Jc/1vuVjHgo=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/SetPr
+ ogramPropertyAction.java
+SHA1-Digest: 2jjx91rebfdrmS7XaNtxUO3qCEs=
+
+Name: org/eclipse/equinox/internal/p2/update/ConfigurationIO.java
+SHA1-Digest: nbaTdHccmzhs8Et1GDIPvuVn6b4=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/Activator.jav
+ a
+SHA1-Digest: eY0WE4bDpS27RKrLd8n+hCpHhfo=
+
+Name: org/eclipse/equinox/internal/p2/update/ConfigurationParser.java
+SHA1-Digest: flhG9IR1/auPFkwrKasQ6z2rOAk=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Repos
+ itoryAction.java
+SHA1-Digest: DfHBCVzZkHQwOu6h6SkOZ/aW1ek=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/AddRe
+ positoryAction.java
+SHA1-Digest: teK8yAPgtAo/GWunaY9ewhQRYBM=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/AddPr
+ ogramArgumentAction.java
+SHA1-Digest: I4pNZSCGf9jbSLKFjAp5E17H0Xo=
+
+Name: plugin.properties
+SHA1-Digest: zpqfgRIE2j82unzlhPN0G6uEBEE=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Insta
+ llBundleAction.java
+SHA1-Digest: eMYx8JsrADkCWZJMFF747/XJ2os=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Chmod
+ Action.java
+SHA1-Digest: NEro5DF4rE3pswt0Y84mPPc95h4=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/PublisherUtil
+ .java
+SHA1-Digest: 3/NtAtWfEJdpojkaPgT/a3zxcGA=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Remov
+ eJVMArgumentAction.java
+SHA1-Digest: lV5DpkQqm7jCZzUeoF+SSMQjJgc=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/LazyManipulat
+ or.java
+SHA1-Digest: 5Xclm0ZoQb9Gd55/WJkJS+94I9k=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/EclipseTouchp
+ oint.java
+SHA1-Digest: wKxZWDwx1mT924WNFXREUqqxmQE=
+
+Name: org/eclipse/equinox/internal/p2/update/ConfigurationWriter.java
+SHA1-Digest: SybGN4/WwkamRwUM2NajJVasPdM=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Unins
+ tallBundleAction.java
+SHA1-Digest: ECX49/kckfP6PZ9TX1Qedmg0r5g=
+
+Name: org/eclipse/equinox/internal/p2/update/Site.java
+SHA1-Digest: RoG7cDWRrXfSsVPCBwf+bte6Ko4=
+
+Name: org/eclipse/equinox/internal/p2/update/PathUtil.java
+SHA1-Digest: THF1Ii+zuEtHtVDVm+tKBRylv7s=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Actio
+ nConstants.java
+SHA1-Digest: btctVCvVHDKpPgMFkj8yfA4xiMQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/AddSo
+ urceBundleAction.java
+SHA1-Digest: pdEFZUwjP0C5n/7j5fepOO9HzMs=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/Remov
+ eProgramPropertyAction.java
+SHA1-Digest: 23vaVnY8CCOYgJuxYvDXGQY3trw=
+
+Name: org/eclipse/equinox/internal/p2/update/ConfigurationConstants.ja
+ va
+SHA1-Digest: Gp6MOADTagOrL9svb2o7XIUXrvs=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/MarkS
+ tartedAction.java
+SHA1-Digest: YkpmE5KSMadWUgsuyRQPLZznY+w=
+
+Name: org/eclipse/equinox/p2/touchpoint/eclipse/query/OSGiBundleQuery.
+ java
+SHA1-Digest: ELKrw9NQ3WH8doYRt20hLlIcYrI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/SourceManipul
+ ator.java
+SHA1-Digest: nQGWgdu8EYoRfR3fEwRGK8NV5mI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/actions/SetLa
+ uncherNameAction.java
+SHA1-Digest: JAsojqavQa8baci6fNNIbpKVYYI=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/AggregatedBun
+ dleRepository.java
+SHA1-Digest: +vLebd9fxpR+EAZ83SE33yskLJA=
+
+Name: org/eclipse/equinox/internal/p2/touchpoint/eclipse/WhatIsRunning
+ .java
+SHA1-Digest: CPTuFvUOY8XRhuHVN6n9qwfRBGc=
+

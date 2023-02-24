@@ -1,0 +1,152 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.equinox.ds;version="1.3.1.R37x_v2011
+ 0701";roots:="."
+Bundle-Vendor: %bundleVendor
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.equinox.ds.source
+Bundle-Version: 1.3.1.R37x_v20110701
+Bundle-ManifestVersion: 2
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: org/eclipse/equinox/internal/ds/ScrServiceImpl.java
+SHA1-Digest: 0KndVZGAZxbXB3Va7ak1IQDU+vg=
+
+Name: org/eclipse/equinox/internal/ds/model/ServiceComponentProp.java
+SHA1-Digest: 2FH51vp91aLWHTBl6SwLHJdGTHg=
+
+Name: org/eclipse/equinox/internal/util/xml/impl/TagImpl.java
+SHA1-Digest: DCAV4IQyYMv92OovAi1AOsTfYCs=
+
+Name: org/eclipse/equinox/internal/ds/impl/ComponentContextImpl.java
+SHA1-Digest: dUKYKYqD6IYNwzaZq6SiUWLJcgM=
+
+Name: org/apache/felix/scr/Component.java
+SHA1-Digest: qyDWj8l8UxNZWVGUr0pSFeOq/JM=
+
+Name: org/eclipse/equinox/internal/util/xml/impl/XMLParserImpl.java
+SHA1-Digest: 08Pj6KNYTd2/MkmGGa7OALlPiRc=
+
+Name: org/eclipse/equinox/internal/ds/Messages.java
+SHA1-Digest: jaOsQMJL/D+zRZJ6w95awNbh80w=
+
+Name: org/eclipse/equinox/internal/ds/SCRManager.java
+SHA1-Digest: rQtyhDuUH3DQomG2k0gvM/nuaCA=
+
+Name: org/eclipse/equinox/internal/ds/WorkPerformer.java
+SHA1-Digest: xmsW1q8+QexNdM/xmvP4lzRjNTw=
+
+Name: org/eclipse/equinox/internal/ds/storage/file/DBObject.java
+SHA1-Digest: o4SciOwhGpEA0NKdNewVWEZ+09w=
+
+Name: org/eclipse/equinox/internal/ds/impl/ComponentFactoryImpl.java
+SHA1-Digest: dwYG7kJk324DgWlueKG+3XAZki4=
+
+Name: plugin.properties
+SHA1-Digest: amNjUKR5rJFdhprhrK+xh6gGP84=
+
+Name: org/eclipse/equinox/internal/ds/InstanceProcess.java
+SHA1-Digest: 1/z50oVCg6gAUE7mSLGIvucoZBE=
+
+Name: org/eclipse/equinox/internal/ds/Resolver.java
+SHA1-Digest: +Mm5AnrLe0kCTlKSOepZhlcg9FA=
+
+Name: org/eclipse/equinox/internal/util/xml/XMLReader.java
+SHA1-Digest: rsNTVPu4G4Kh5TlRd8O6Ep4aMqo=
+
+Name: org/eclipse/equinox/internal/util/xml/TagClass.java
+SHA1-Digest: lnHTRpyORaY1K8X/aObgLF+9mGQ=
+
+Name: org/eclipse/equinox/internal/util/io/Externalizable.java
+SHA1-Digest: cOWBvLbYkovz9vZQrXjmtxh/aDI=
+
+Name: org/eclipse/equinox/internal/ds/ServiceReg.java
+SHA1-Digest: Lj3zMZhSuFO0bgWLPGF0qydQ1/g=
+
+Name: org/eclipse/equinox/internal/ds/ComponentStorage.java
+SHA1-Digest: OtxKKWjTDeslOkv2OMtOnKsaMFk=
+
+Name: org/eclipse/equinox/internal/util/xml/TagListener.java
+SHA1-Digest: K7FvqIEtVsykK64+x3PMcwSsaMQ=
+
+Name: org/eclipse/equinox/internal/util/io/ExternalizableDictionary.ja
+ va
+SHA1-Digest: Upw4psyCd7W/XiP+ShI+QBW+5vE=
+
+Name: org/eclipse/equinox/internal/util/string/CharBuffer.java
+SHA1-Digest: 2HBQ8orwEYGOB5jNAwXwQENE7Fo=
+
+Name: org/eclipse/equinox/internal/ds/impl/ReadOnlyDictionary.java
+SHA1-Digest: bzsORA4JPMRl73onUetLc1pTNqU=
+
+Name: org/eclipse/equinox/internal/ds/model/ComponentReference.java
+SHA1-Digest: SBLj9ad1TPcPODtLPuhKgnOKMZI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: l8kmUOH5ziCwuegrbv+5ZT8NVUE=
+
+Name: org/eclipse/equinox/internal/util/xml/XmlSerializer.java
+SHA1-Digest: CHw6fKFKcEyicYMCXXFYP/wZd4A=
+
+Name: org/eclipse/equinox/internal/ds/SCRUtil.java
+SHA1-Digest: vYUUjo0TLe5ktsc9Bx5bTL80k0Q=
+
+Name: org/apache/felix/scr/ScrService.java
+SHA1-Digest: hR7WWO7GNuCh7KnOEthpI3J4BYM=
+
+Name: org/eclipse/equinox/internal/ds/model/ServiceComponent.java
+SHA1-Digest: H4m26lm3yDHww/WnftxLdRuKtyg=
+
+Name: about.html
+SHA1-Digest: jYsIDLLe2O2xymFO6ml4vBE4fJ8=
+
+Name: org/eclipse/equinox/internal/ds/FactoryReg.java
+SHA1-Digest: BaMsp7f0uwYBWsNzx5V0wtlk/TY=
+
+Name: org/eclipse/equinox/internal/util/xml/ExTagListener.java
+SHA1-Digest: FvhIGuitX/Qld6wHL1e8jkJNSs4=
+
+Name: org/eclipse/equinox/internal/util/xml/Tag.java
+SHA1-Digest: keWrDJHi2FEPHmdrMTh2spla9W8=
+
+Name: org/eclipse/equinox/internal/ds/impl/ComponentInstanceImpl.java
+SHA1-Digest: oO7J4VWdryVIeE3ubFIr0rioHC4=
+
+Name: org/eclipse/equinox/internal/ds/Activator.java
+SHA1-Digest: YUBHPaU/2SlPE6a1j83a/F9FnQY=
+
+Name: org/eclipse/equinox/internal/util/xml/XMLUtil.java
+SHA1-Digest: nSK5s4nvIffbojL8suxOkG9ouOA=
+
+Name: org/eclipse/equinox/internal/ds/model/DeclarationParser.java
+SHA1-Digest: HlQkt2wdR9Nvy16Dep/sx096+sI=
+
+Name: org/eclipse/equinox/internal/ds/storage/file/FileStorage.java
+SHA1-Digest: 8quzEiZHfFvWImAgVc5QmvXOVkI=
+
+Name: org/eclipse/equinox/internal/ds/CircularityException.java
+SHA1-Digest: 4Ur/kKaMHRYVBK7s5GNmX5XCHbg=
+
+Name: org/eclipse/equinox/internal/util/xml/XMLParser.java
+SHA1-Digest: ujmmDSxVn6QkIizo6FYKkbqykzQ=
+
+Name: org/eclipse/equinox/internal/util/io/PDataStream.java
+SHA1-Digest: kDpkGzCf0gG/6REGQih0UrejaL4=
+
+Name: org/apache/felix/scr/Reference.java
+SHA1-Digest: sMOvH1DUwQO+hkJB5gMhme/e+d4=
+
+Name: org/eclipse/equinox/internal/ds/WorkThread.java
+SHA1-Digest: QRw0zIfOUu6yKp6YCB7izCi/1c0=
+
+Name: org/eclipse/equinox/internal/ds/SCRCommandProvider.java
+SHA1-Digest: JpemQI2Hgc3XlkcXfH6PUlsCgC8=
+
+Name: org/eclipse/equinox/internal/ds/Reference.java
+SHA1-Digest: m5qnvCNXFQ2eliqWEa8KE/7YZuo=
+

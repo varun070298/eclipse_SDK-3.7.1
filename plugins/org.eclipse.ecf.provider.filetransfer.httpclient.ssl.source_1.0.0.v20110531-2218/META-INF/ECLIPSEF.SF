@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: PLskt7UOWO2KvIcCoQEjB2GuT9A=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 3MSGPuFXErcz6hFTUZUp0vY7xbQ=
+
+Name: org/eclipse/ecf/internal/provider/filetransfer/httpclient/ssl/SS
+ LSocketFactoryModifier.java
+SHA1-Digest: 4D5FQGhh3zQu2SBZzTcVTzMwBUA=
+
+Name: asl-v20.txt
+SHA1-Digest: f16Q6xxWp4CWPk9xW6xYHqbOlpk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: about.html
+SHA1-Digest: Aq5Nzb9ePwi/ODP9ossKKUON0fs=
+

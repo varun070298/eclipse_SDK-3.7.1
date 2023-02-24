@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Ps20698LmSgju+4Hj4Zj3qC2pc4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: spDZdNyZRhyXskI6WliuqDCQIuE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/utils/FileUt
+ ils.java
+SHA1-Digest: jXaYCBdYyoSwHmDTkq6PWg3IIvo=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxBundl
+ esState.java
+SHA1-Digest: AelxQEIF35GM43cdWIm6mlDm9QE=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxConst
+ ants.java
+SHA1-Digest: I+RVticKBNXBe0iPxeJEHuo4Gd8=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxManip
+ ulatorImpl.java
+SHA1-Digest: z8a1taG6tL6zp5jioTXUTVwj+7s=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/ParserUtils.
+ java
+SHA1-Digest: NhK4sqI/xyUkRWCSxBf0CcR0Dj4=
+
+Name: plugin.properties
+SHA1-Digest: HiVuRzySTMtgTjz65sFUP5ITZoc=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/Messages.jav
+ a
+SHA1-Digest: /ZbF7Qy/wNiFaXPpmLhHW2Wipj4=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EclipseLaunc
+ herImpl.java
+SHA1-Digest: WjR5RVDEdwoKUxVrBatM7RpwnO8=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EclipseLaunc
+ herParser.java
+SHA1-Digest: w92JBUEn8s7GxqhvhBAj/cEzWtU=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFwCon
+ figFileParser.java
+SHA1-Digest: mtkIXUKW/jaZuvX08kcSZrMOCbo=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFwAdm
+ inImpl.java
+SHA1-Digest: cMkv+ZGfSSHPIDWNLSLmuQm58M8=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/Log.java
+SHA1-Digest: ixZOQ7wB0Ym20p+R85K57/6rI5U=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxLaunc
+ herData.java
+SHA1-Digest: iznofBTMXl/XCiU1RlkwsInli0c=
+
+Name: org/eclipse/equinox/internal/frameworkadmin/equinox/EquinoxFrame
+ workAdminFactoryImpl.java
+SHA1-Digest: qAJHlXfEtNQIoJlxbxb4fpgfMm4=
+

@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: AHM38UskXuTmZqXM2DE0rvQgASQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 7R3dRqqJhQxOjbssM7ejg1hplcw=
+
+Name: org/eclipse/core/internal/runtime/auth/AuthorizationHandler.java
+SHA1-Digest: BdEB/2E7VUZDOPjOo+x6VPVZESE=
+
+Name: org/eclipse/core/internal/runtime/auth/URLTool.java
+SHA1-Digest: S260Q7LGLivNIGk9JcdKHyhUI/k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/core/internal/runtime/auth/Activator.java
+SHA1-Digest: pyMO0KLezKkfny2+4hiHVrTkoKM=
+
+Name: org/eclipse/core/internal/runtime/auth/AuthorizationDatabase.jav
+ a
+SHA1-Digest: 3PGmrP5YwBpmH7zGkV58KJc8EM4=
+
+Name: org/eclipse/core/internal/runtime/auth/CipherOutputStream.java
+SHA1-Digest: A9EU9qsiEw8+RxVojz4tSxr+1K4=
+
+Name: org/eclipse/core/internal/runtime/auth/Messages.java
+SHA1-Digest: q4WOzkWo7WmmJDn6BQCf1BBRtNM=
+
+Name: org/eclipse/core/internal/runtime/auth/Cipher.java
+SHA1-Digest: b1bSdnUE6PYUkukooPEmJIgM/ns=
+
+Name: about.html
+SHA1-Digest: U9FRKrK4KtRIRcKS2OfkhfpLZEc=
+
+Name: org/eclipse/core/internal/runtime/auth/CipherInputStream.java
+SHA1-Digest: GAVnglNXd5yVzh1BN4q4mkNVRyY=
+
+Name: plugin.properties
+SHA1-Digest: 1nANtJJXVQjbq+XwsOzAv9X4D5I=
+
